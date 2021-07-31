@@ -1,0 +1,25 @@
+---
+#########################################
+# options for knitting a single chapter #
+#########################################
+output:
+  bookdown::pdf_document2:
+    template: templates/brief_template.tex
+    citation_package: biblatex
+  bookdown::html_document2: default
+  bookdown::word_document2: default
+documentclass: book
+#bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
+---
+
+# Introdución á historia da música
+
+\minitoc <!-- this will include a mini table of contents-->
+
+
+## O concepto de música
+
+```{r abstract, child=here::here('unidades-didacticas/unidade-0/fontes-musicais.Rmd')}
+```
+
+## As fontes musicais

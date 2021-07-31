@@ -1,14 +1,12 @@
-# Welcome {-}
+# Benvida {-}
 
 ::: {.row}
 :::::: {.col-sm-6}
-Welcome to the `bs4` output from the [`oxforddown`](https://github.com/ulyngs/oxforddown) thesis template for [R Markdown](https://rmarkdown.rstudio.com). 
-To view/download the PDF output, [click here](_main.pdf) (or click the cover image).
-Enjoy!
+A colección "Apuntes e materiais didácticos complementarios de Historia da Música", pretende servir de axuda ao estudo desta materia impartida en centros de Ensinanzas Profesionais de Música de Galicia.  
 
 ::::::::: {.byline}
-Ulrik Lyngs \
-4 January 2021
+Roberto Prado Martínez \
+1 Setembro 2021
 :::::::::
 ::::::
 
@@ -17,11 +15,11 @@ Ulrik Lyngs \
 ::::::
 :::
 
-## Abstract {-}
+## Resumo {-}
 ```{r abstract, child=here::here('front-and-back-matter/_abstract.Rmd')}
 ```
 
 
-## Acknowledgments {-}
+## Agradecementos {-}
 ```{r acknowledgments, child=here::here('front-and-back-matter/_acknowledgements.Rmd')}
 ```
