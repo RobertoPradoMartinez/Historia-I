@@ -3,11 +3,9 @@ fig:chunk-parts
 fig:oxford-logo
 fig:oxford-logo-rotated
 fig:cars-plot
-tab:cars-table
 fig:oxford-logo-controlled
 fig:citr
 fig:captain
-tab:cars-table2
 fig:latex-font-sizing
 how-to-use
 how-oxforddown-is-structured

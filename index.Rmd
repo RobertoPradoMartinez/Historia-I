@@ -7,7 +7,7 @@
 # The format options are: 'pdf', 'bs4', 'gitbook', 'word'
 # E.g. you can build both pdf and html with 'thesis_formats <- c("pdf", "bs4")'
 knit: (function(input, ...) {
-    thesis_formats <- "pdf";
+    thesis_formats <- c("pdf", "bs4");
     
     source("scripts_and_filters/knit-functions.R");
     knit_thesis(input, thesis_formats, ...)
@@ -17,22 +17,21 @@ knit: (function(input, ...) {
 ## thesis metadata ##
 #####################
 title: |
-  `oxforddown`: \
-  An Oxford University Thesis \
-  Template for R Markdown
-author: Author Name
-college: Your College
-university: University of Oxford
+  Historia I \
+  Apuntes e materiais didácticos
+author: "Roberto Prado Martínez"
+college: https://aulademusica.netlify.app
+university: Conservatorios Profesionais de Música
 university-logo: templates/beltcrest.pdf
 university-logo-width: 5cm
-submitted-text: A thesis submitted for the degree of
-degree: Doctor of Philosophy
-degreedate: Michaelmas 2018
+submitted-text: Apuntes e materiais didácticos
+degree: Grao Profesional de Música
+degreedate: 2021 - 2022
 abstract: |
   `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
   `r paste(readLines("front-and-back-matter/_acknowledgements.Rmd"), collapse = '\n  ')`
-dedication: For Yihui Xie
+dedication: A todas aquelas persoas que colaboraron neste traballo
 abbreviations: |
   `r paste(readLines("front-and-back-matter/_abbreviations.Rmd"), collapse = '\n  ')`
 
@@ -156,7 +155,7 @@ output:
     config:
       sharing:
         facebook: false
-        twitter: yes
+        twitter: false
         all: false
   bookdown::word_document2:
     toc: true   
