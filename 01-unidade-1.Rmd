@@ -12,14 +12,41 @@ documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-# Introdución á historia da música
+# Orixes da Historia da Música Occidental
 
 \minitoc <!-- this will include a mini table of contents-->
 
+## Introdución {-}
 
-## O concepto de música
-
-```{r abstract, child=here::here('unidades-didacticas/unidade-00/fontes-musicais.Rmd')}
+```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```
 
-## As fontes musicais
+## A orixe da música
+
+```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
+```
+
+## A música durante a Prehistoria
+
+```{r child=here::here('unidades-didacticas/unidade-01/prehistoria.md')}
+```
+
+## A música nas primeiras civilizacións
+
+### Exipto
+
+### Mesopotamia
+
+### O antigo Oriente
+
+### O pobo Hebreo
+
+## A música no mundo clásico
+
+### Grecia
+
+### Roma
+
+## Actividades
+
+## Resumo

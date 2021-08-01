@@ -1,0 +1,4 @@
+
+## Conceptos previos {.unnumbered}
+
+Chegados a este punto faremos unha introdución dos coñecementos que debemos ter en conta
