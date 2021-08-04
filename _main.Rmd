@@ -223,7 +223,11 @@ documentclass: book
 
 <!-- FONTES DE INFORMACIÓN HISTÓRICA: -->
 
+<<<<<<< HEAD
 ```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md)}
+=======
+```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
+>>>>>>> 2c778e65591074c8282fbc6cbea7b90064fce1b7
 ```
 
 

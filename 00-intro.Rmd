@@ -34,7 +34,7 @@ documentclass: book
 
 <!-- FONTES DE INFORMACIÓN HISTÓRICA: -->
 
-```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md)}
+```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```
 
 
