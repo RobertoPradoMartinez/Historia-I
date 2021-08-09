@@ -25,7 +25,7 @@ university: Conservatorios Profesionais de Música
 university-logo: templates/beltcrest.pdf
 university-logo-width: 5cm
 submitted-text: Apuntes e materiais didácticos
-degree: Grao Profesional de Música
+degree: Ensinanzas Profesionais de Música
 degreedate: 2021 - 2022
 abstract: |
   `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
@@ -56,11 +56,11 @@ word-count: "10,052"
 
 ### abbreviations ###
 abbreviations-width: 3.2cm
-abbreviations-heading: List of Abbreviations
+abbreviations-heading: Glosario e abreviaturas
 
 
 ### citation and bibliography style ###
-bibliography-heading-in-pdf: Works Cited
+bibliography-heading-in-pdf: Bibliografía
 
 # biblatex options #
 # unless you run into 'biber' error messages, use natbib as it lets you customise your bibliography directly
@@ -125,7 +125,8 @@ space-before-code-block: 10pt
 space-after-code-block: 8pt
 
 ### linespacing ###
-linespacing: 22pt plus2pt # 22pt is official for submission & library copies
+# linespacing: 22pt plus2pt # 22pt is official for submission & library copies
+linespacing: 16pt plus2pt # 22pt is official for submission & library copies
 frontmatter-linespacing: 17pt plus1pt minus1pt #spacing in roman-numbered pages (acknowledgments, table of contents, etc.)
 
 ### other stuff ###
