@@ -384,13 +384,13 @@
 
 % JEM: for crazy multi character set quotes and Unicode and all
 \usepackage{lmodern}
-\usepackage[TS1,T1]{fontenc}
+\usepackage[LGR,TS1,T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage[spanish]{babel} %idiomas
+\usepackage[greek,latin,english]{babel}
 \usepackage{csquotes}
 \hyphenpenalty=500
 \def\longs{{\fontencoding{TS1}\selectfont s}}
-%
+
 % JEM: for highlighting corrections
 \newlength{\mccurrentbaselineskip}
 \newlength{\mccurrentparskip}

@@ -29,20 +29,16 @@
 
 % As you can see from the uncommented line below, oxforddown template uses the a4paper size, 
 % and passes in the binding option from the YAML header in index.Rmd:
-\documentclass[spanish, activeacute, a4paper, $if(page-layout)$$page-layout$$endif$]{templates/ociamthesis}
+\documentclass[a4paper, $if(page-layout)$$page-layout$$endif$]{templates/ociamthesis}
 
 
 %%%%% ADDING LATEX PACKAGES
 % add hyperref package with options from YAML %
-%%
-%\usepackage[spanish,activeacute, es-tabla]{babel} % textos en ES
-\usepackage[utf8]{inputenc} % Codificación de entrada
-%\usepackage[latin1]{inputenc}
-\usepackage[T1]{fontenc} % Codificación de fuente
+
+%%%%%%%%%%%%%
+% TIPOGRAFÍA 
+%%%%%%%%%%%%%
 \usepackage{libertinus} % Fuente LIBERTINE Linux
-%\usepackage{garamond} % fuente de texto
-%\usepackage{lmodern} % Fuente compatible
-%
 %%
 \usepackage[pdfpagelabels]{hyperref}
 % change the default coloring of links to something sensible
@@ -149,29 +145,6 @@ $endfor$
 \renewcommand{\sectionmark}[1]{\markright{\thesection. #1}} 
 \renewcommand{\headrulewidth}{0pt}
 
-%%%%%%% RENOMBRAR TÍTULOS DE CAPÍTULOS %%%%%%%%%
-\renewcommand\contentsname{Índice general} 
-\renewcommand\listfigurename{Lista de Figuras} 
-\renewcommand\listtablename{Lista de Tablas} 
-\renewcommand\bibname{Bibliografía} 
-\renewcommand\indexname{Indice alfabético} 
-\renewcommand\figurename{Figura} 
-\renewcommand\tablename{Táboa} 
-\renewcommand\partname{Parte} 
-\renewcommand\chaptername{} 
-\renewcommand\appendixname{Apéndice} 
-\renewcommand\abstractname{Resumo}
-%
-%\renewcommand{\listfigurename}{Índice de Figuras}
-%\renewcommand{\listtablename}{Índice de Táboas}
-%\renewcommand{\partname}{Parte}
-%\renewcommand{\refname}{Referencias}
-%\renewcommand{\abstractname}{Presentación}
-%\renewcommand{\appendixname}{Apéndice}
-%\renewcommand{\bibname}{Biblografía}
-
-
-
 $if(running-header)$
 \fancy$running-header-foot-or-head$[$running-header-position-leftmark$]{\emph{\leftmark}} 
 \fancy$running-header-foot-or-head$[$running-header-position-rightmark$]{\emph{\rightmark}} 
@@ -277,9 +250,32 @@ $endif$
 	\renewcommand{\st}{\textsuperscript{st}}
 	\newcommand{\rd}{\textsuperscript{rd}}
 
-%%%%% THE ACTUAL DOCUMENT STARTS HERE
+%%%%%%%%%%%%%%%%%%%%%%
+% COMEZA O DOCUMENTO
+%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{document}
 
+%\selectlanguage{spanish}
+%
+%%%%%%%%%%%%%%%%%%%%%%%
+% DOCUMENTO EN GALEGO
+%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Tradución ao galego:
+\renewcommand{\contentsname}{Índice} 
+\renewcommand{\mtctitle}{Índice} % se empregamos minitoc; comentar se non.
+\renewcommand{\listfigurename}{Índice de Figuras} 
+\renewcommand{\listtablename}{Índice de Táboas} 
+\renewcommand{\bibname}{Bibliografía} 
+\renewcommand{\indexname}{Indice alfabético} 
+\renewcommand{\figurename}{Figura} 
+\renewcommand{\tablename}{Táboa} 
+\renewcommand{\partname}{Parte} 
+\renewcommand{\chaptername}{} 
+\renewcommand{\appendixname}{Apéndice} 
+\renewcommand{\abstractname}{Resumo}
+%    
 %%%%% CHOOSE YOUR LINE SPACING HERE
 % This is the official option.  Use it for your submission copy and library copy:
 \setlength{\textbaselineskip}{$linespacing$}

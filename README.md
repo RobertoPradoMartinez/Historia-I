@@ -74,3 +74,7 @@ Para compilar o proxecto:
 Non modificar a estrutura do proxecto para evitar erros de compilación.  
 
 Como principal novidade, as unidades están estruturadas en cartafoles independientes segundo a unidade de que se trate para facilitar a distribución dos diferentes temas.
+
+## Tradución ao galego
+
+Pendiente de traducir da versión en Castelán ao Galego.

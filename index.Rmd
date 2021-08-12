@@ -56,7 +56,7 @@ word-count: "10,052"
 
 ### abbreviations ###
 abbreviations-width: 3.2cm
-abbreviations-heading: Glosario e abreviaturas
+abbreviations-heading: Glosario
 
 
 ### citation and bibliography style ###
@@ -89,11 +89,14 @@ citecolor-rgb: "0,33,71"
 
 
 ### binding / margins ###
-page-layout: nobind #'nobind' for equal margins (PDF output), 'twoside' for two-sided binding (mirror margins and blank pages), leave blank for one-sided binding (left margin > right margin)
+# page-layout: nobind #'nobind' for equal margins (PDF output), 'twoside' for two-sided binding (mirror margins and blank pages), leave blank for one-sided binding (left margin > right margin)
+
+page-layout: twoside #'nobind' for equal margins (PDF output), 'twoside' for two-sided binding (mirror margins and blank pages), leave blank for one-sided binding (left margin > right margin)
+
 
 ### position of page numbers ###
 ordinary-page-number-foot-or-head: foot #'foot' puts page number in footer, 'head' in header
-ordinary-page-number-position: C  #C = center, R = right, L = left. If page layout is 'twoside', O = odd pages and E = even pages. E.g. RO,LE puts the page number to the right on odd pages and left on even pages
+ordinary-page-number-position: RO, LE  #C = center, R = right, L = left. If page layout is 'twoside', O = odd pages and E = even pages. E.g. RO,LE puts the page number to the right on odd pages and left on even pages
 chapter-page-number-foot-or-head: foot #you may want it to be different on the chapter pages
 chapter-page-number-position: C
 
@@ -105,7 +108,8 @@ running-header-position-rightmark: RE  #marks the section.
 
 
 ### draft mark ###
-draft-mark: false # add a DRAFT mark?
+#draft-mark: false # add a DRAFT mark?
+draft-mark: true # add a DRAFT mark?
 draft-mark-foot-or-head: foot ##'foot' = in footer, 'head' = in header
 draft-mark-position: C
 
@@ -143,7 +147,7 @@ output:
     template: templates/template.tex
     keep_tex: true
     pandoc_args: "--lua-filter=scripts_and_filters/colour_and_highlight.lua"
-  bookdown::bs4_book: 
+  bookdown::bs4_book:
     css: 
       - templates/bs4_style.css
       - templates/corrections.css # remove to stop highlighting corrections
