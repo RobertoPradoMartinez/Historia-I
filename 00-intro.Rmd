@@ -20,7 +20,8 @@ documentclass: book
 \adjustmtc
 \markboth{Introdución}{}
 ```
-<!-- For PDF output, include these two LaTeX commands after unnumbered chapter headings, otherwise the mini table of contents and the running header will show the previous chapter -->
+<!-- For PDF output, include these two LaTeX commands after unnumbered chapter
+ headings, otherwise the mini table of contents and the running header will show the previous chapter -->
 
 <!-- CONCEPTOS PREVIOS: -->
 

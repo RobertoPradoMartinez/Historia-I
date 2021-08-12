@@ -23,3 +23,6 @@ CONTIDOS:
 
 Importancia das fontes de información histórica e a súa importancia, problemática, etc. 
 
+### As fontes como ferramenta para narrar a Historia da Música {-}
+
+### Tipos de fontes {-}
