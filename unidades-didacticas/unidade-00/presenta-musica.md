@@ -1,6 +1,4 @@
 
-# Introducción
-
 O estudo histórico dos antecedentes da música que estudamos, interpretamos, transmitimos e escoitamos, supón un aspecto moi importante dentro da nosa formación como músicos e intérpretes, pois axúdanos a comprender mellor as obras do programa, o contexto da época no que se orixinaron, o seu compositor, etc.  
 
 Comezamos o curso de Historia da Música facendo unha viaxe no tempo a épocas anteriores á actual coa finalidade de coñecer e comprender os fundamentos da música que escoitamos, vivimos e desfrutamos.  
@@ -9,9 +7,9 @@ Faremos un percorrido pola música de diferentes civilizacións e diferentes ép
 
 Trataremos os conceptos básicos da orixe da música e da música na prehistoria; faremos énfase nas primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria), así como nas teorías sobre a música da Antigüidade e finalmente, trataremos en profundidade a evolución da música escrita desde a Idade Media (idade de notación) ata o Renacemento.  
 
-## Definicións e conceptos
+## Definicións e conceptos {-}
 
-### Concepto de música
+### Concepto de música {-}
 
 Resulta en certo modo familiar este concepto, dado que vivimos rodeados de música.  
 
@@ -19,15 +17,14 @@ Podemos entender por música calquera combinación ordenada de ritmo, melodía e
 
 A música en sí, é unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. 
 
-Comezamos o estudo da Historia da Música tentando comprender o significado de «historia da música», e a que nos estamos a referir, cando planteamos o seu estudo dende un punto de vista académico.  
+Comezamos o estudo da Historia da Música tentando comprender o significado de «historia da música», e a que nos estamos a referir cando planteamos o seu estudo dende un punto de vista académico.  
 
+Algunhas definicións --das moitas que atoparemos-- sobre o significado de «historia da música» que nos aproximan á temática que vai tratar esta materia, son as seguintes:   
 > _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_. 
-
+>
 > \[...\] _aquella disciplina que trata el estudio de la evolución de las diferentes tradiciones musicales a lo largo del tiempo_.
 
-Estas, son algunhas definicións das moitas que podemos atopar se facemos unha primeira consulta do significado de «historia da música», que nos aproximan á temática que vai tratar esta materia.   
-
-A [Real Academia Española da lingua][RAE] (RAE) define [«historia»][rae:historia] como:
+Se consultamos a [Real Academia Española da lingua][RAE] (RAE) veremos que define [«historia»][rae:historia] como:
 
 > 1.- *Narración y exposición de los acontecimientos pasados y dignos de memoria, sean públicos o privados*.
 >
@@ -40,20 +37,22 @@ A [Real Academia Española da lingua][RAE] (RAE) define [«historia»][rae:histo
 Se facemos esta consulta no diccionario da [Real Adacemia Galega da lingua][RAG] (RAG), atopamos a seguinte definición de [«historia»][rag:historia]:
 
 > 1. Conxunto de feitos ocorridos no pasado, que afectan a toda a humanidade, a un grupo, unha persoa, unha institución, a unha faceta concreta dese pasado etc.  
+>
 > 2. Ciencia que estuda eses feitos. [^ref:RAG(2020)]
 
 Se consultamos a definición de [«música»][rag:música]:
-> 1.  Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
+> Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
 
 Segundo a definición tradicional, «música»: [^cita:Musas]
-
 > es, [...], el [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible y lógicamente una combinación coherente de [sonidos](https://es.wikipedia.org/wiki/Sonido) y [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando los principios fundamentales de la [melodía](https://es.wikipedia.org/wiki/Melodía), la [armonía](https://es.wikipedia.org/wiki/Armonía) y el [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
 
-Polo tanto:
-- A **Historia da música** _**occidental**_, céntrase principalmente no estudo da evolución das diferentes manifestacións musicais \(tradición musical\) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
+```{block type='correction'}
 
+Polo tanto, tendo en conta o indicado nos parágrafos anteriores, a **Historia da música** _**occidental**_, céntrase principalmente no estudo da evolución das diferentes manifestacións musicais \(tradición musical\) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
 
-## Obxectivos e problemática da materia
+```
+
+## Obxectivos e problemática da materia {-}
 O principal obxectivo da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**. Agora ben, que imos estudar e como o faremos?
 
 - centrámonos nas obras musicais ou en como se usaron?

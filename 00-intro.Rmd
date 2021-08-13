@@ -23,6 +23,25 @@ documentclass: book
 <!-- For PDF output, include these two LaTeX commands after unnumbered chapter
  headings, otherwise the mini table of contents and the running header will show the previous chapter -->
 
+<!-- PRESENTACIÓN E CITAS DE AUTORES -->
+
+```{block type='savequote', quote_author='(ref:cita-dante)', include=knitr::is_latex_output()}
+O obxetivo de toda obra artística é axudar a cantos viven neste mundo a abandonar as súas miserias e conducilos á verdadeira felicidade...
+```
+(ref:cita-dante) --- Dante Alighieri. *Carta al Gran Can de la Scala de Verona*, no preámbulo ao Paraíso.
+
+<!-- 
+Notes for adding an opening quote in PDF output:
+i) add the reference for the quote with the chunk option quote_author="my author name",
+ii) include=knitr::opts_knit$get('rmarkdown.pandoc.to') == 'latex' means that these quotes are only included when output is latex (in HTML output, it would appear by the end of the previous page)
+iii) You can't use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the quote reference use a 'text reference': Create a named piece of text with '(ref:label-name) My text', then link to this in the chunk option with quote_author='(ref:label-name)'
+-->
+
+<!--PRESENTACIÓN-->
+
+```{r child=here::here('unidades-didacticas/unidade-00/presenta-musica.md')}
+```
+
 <!-- CONCEPTOS PREVIOS: -->
 
 ```{r child=here::here('unidades-didacticas/unidade-00/conceptos-previos.md')}
@@ -37,7 +56,3 @@ documentclass: book
 
 ```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```
-
-
-
-

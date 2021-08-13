@@ -109,7 +109,7 @@ running-header-position-rightmark: RE  #marks the section.
 
 ### draft mark ###
 #draft-mark: false # add a DRAFT mark?
-draft-mark: true # add a DRAFT mark?
+draft-mark: false # add a DRAFT mark?
 draft-mark-foot-or-head: foot ##'foot' = in footer, 'head' = in header
 draft-mark-position: C
 
@@ -130,7 +130,7 @@ space-after-code-block: 8pt
 
 ### linespacing ###
 # linespacing: 22pt plus2pt # 22pt is official for submission & library copies
-linespacing: 16pt plus2pt # 22pt is official for submission & library copies
+linespacing: 12pt plus1pt # 22pt is official for submission & library copies
 frontmatter-linespacing: 17pt plus1pt minus1pt #spacing in roman-numbered pages (acknowledgments, table of contents, etc.)
 
 ### other stuff ###

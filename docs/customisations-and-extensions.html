@@ -114,7 +114,7 @@ Apuntes e materiais didácticos</p></a>
 <span class="header-section-number">5.4</span> Beginning chapters with quotes (PDF)<a class="anchor" aria-label="anchor" href="#beginning-chapters-with-quotes-pdf"><i class="fas fa-link"></i></a>
 </h2>
 <p>The OxThesis LaTeX template lets you inject some wittiness into your thesis by including a block of type <code>savequote</code> at the beginning of chapters.
-To do this, use the syntax <code>```{block type='savequote'}</code>.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;For more on custom block types, see the relevant section in &lt;a href="https://bookdown.org/yihui/bookdown/custom-blocks.html"&gt;&lt;em&gt;Authoring Books with R Markdown&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;'><sup>4</sup></a></p>
+To do this, use the syntax <code>```{block type='savequote'}</code>.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;For more on custom block types, see the relevant section in &lt;a href="https://bookdown.org/yihui/bookdown/custom-blocks.html"&gt;&lt;em&gt;Authoring Books with R Markdown&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;'><sup>11</sup></a></p>
 <p>Add the reference for the quote with the chunk option <code>quote_author="my author name"</code>.
 You will also want to add the chunk option <code>include=knitr::is_latex_output()</code> so that quotes are only included in PDF output.</p>
 <p>It’s not possible to use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the reference use a <a href="https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references">‘text reference’</a>: Create a named piece of text with ‘(ref:label-name) My text,’ then point to this in the chunk option with <code>quote_author='(ref:label-name)'</code>.</p>
@@ -146,7 +146,7 @@ The correction highlighting uses the <a href="https://ctan.org/pkg/soul">soul</a
 <h3>
 <span class="header-section-number">5.5.2</span> Blocks of added or changed material<a class="anchor" aria-label="anchor" href="#blocks-of-added-or-changed-material"><i class="fas fa-link"></i></a>
 </h3>
-<p>Highlight entire <strong>blocks of added or changed material</strong> by putting them in a block of type <code>correction</code>, using the syntax <code>```{block type='correction'}</code>.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;In the &lt;strong&gt;.tex&lt;/strong&gt; file for PDF output, this will put the content between &lt;code&gt;\begin{correction}&lt;/code&gt; and &lt;code&gt;\end{correction}&lt;/code&gt;; in gitbook output it will be put between &lt;code&gt;&amp;lt;div class="correction"&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;/div&amp;gt;&lt;/code&gt;.&lt;/p&gt;'><sup>5</sup></a>
+<p>Highlight entire <strong>blocks of added or changed material</strong> by putting them in a block of type <code>correction</code>, using the syntax <code>```{block type='correction'}</code>.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;In the &lt;strong&gt;.tex&lt;/strong&gt; file for PDF output, this will put the content between &lt;code&gt;\begin{correction}&lt;/code&gt; and &lt;code&gt;\end{correction}&lt;/code&gt;; in gitbook output it will be put between &lt;code&gt;&amp;lt;div class="correction"&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;/div&amp;gt;&lt;/code&gt;.&lt;/p&gt;'><sup>12</sup></a>
 Like so:</p>
 <div class="correction">
 <p>

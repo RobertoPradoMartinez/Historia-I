@@ -7,9 +7,16 @@ fig:oxford-logo-controlled
 fig:citr
 fig:captain
 fig:latex-font-sizing
+obxectivos-e-problemática-da-materia
+a-música-como-actividade-vs-a-música-como-produto
+transmisión-oral-e-transmisión-escrita
+música-culta-e-música-popular
+música-europea-e-non-europea
+a-actividade-musical-e-os-seus-produtos
 orixes-da-historia-da-música-occidental
 a-orixe-da-música
 a-música-durante-a-prehistoria
+a-música-na-prehistoria
 a-música-nas-primeiras-civilizacións
 exipto
 mesopotamia
