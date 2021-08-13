@@ -4,5 +4,18 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.wordWrap": "on",
+		"cSpell.words": [
+			"Definici",
+			"Definicións",
+			"adquire",
+			"estudo",
+			"funci",
+			"funcións",
+			"ns",
+			"sentimentos",
+			"unha"
+		]
+	}
 }

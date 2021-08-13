@@ -1,30 +1,21 @@
-
-O estudo histórico dos antecedentes da música que estudamos, interpretamos, transmitimos e escoitamos, supón un aspecto moi importante dentro da nosa formación como músicos e intérpretes, pois axúdanos a comprender mellor as obras do programa, o contexto da época no que se orixinaron, o seu compositor, etc.  
-
-Comezamos o curso de Historia da Música facendo unha viaxe no tempo a épocas anteriores á actual coa finalidade de coñecer e comprender os fundamentos da música que escoitamos, vivimos e desfrutamos.  
-
-Faremos un percorrido pola música de diferentes civilizacións e diferentes épocas, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na península ibérica e igualmente en Galicia.  
-
-Trataremos os conceptos básicos da orixe da música e da música na prehistoria; faremos énfase nas primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria), así como nas teorías sobre a música da Antigüidade e finalmente, trataremos en profundidade a evolución da música escrita desde a Idade Media (idade de notación) ata o Renacemento.  
-
 ## Definicións e conceptos {-}
 
 ### Concepto de música {-}
 
-Resulta en certo modo familiar este concepto, dado que vivimos rodeados de música.  
+A todos resulta en certo modo familiar este concepto dado que vivimos rodeados de música; en certo modo é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto.
 
-Podemos entender por música calquera combinación ordenada de ritmo, melodía e harmonía que, dun xeito ou doutro, é agradable no oído humano. É un medio de expresión dos sentimentos humanos. 
+Técnicamente podemos entender por música calquera combinación ordenada de ritmo, melodía e harmonía, agradable no oído humano.
 
-A música en sí, é unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. 
+### Concepto de Historia da Música
 
-Comezamos o estudo da Historia da Música tentando comprender o significado de «historia da música», e a que nos estamos a referir cando planteamos o seu estudo dende un punto de vista académico.  
+Comecemos o estudo da Historia da Música, tentando comprender o significado de «historia da música», e a que nos estamos a referir.  
+Vexamos algunhas definicións das moitas que atoparemos sobre o significado de «historia da música» que nos aproximan á temática que vai tratar esta materia.
 
-Algunhas definicións --das moitas que atoparemos-- sobre o significado de «historia da música» que nos aproximan á temática que vai tratar esta materia, son as seguintes:   
-> _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_. 
+> _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_.
 >
 > \[...\] _aquella disciplina que trata el estudio de la evolución de las diferentes tradiciones musicales a lo largo del tiempo_.
 
-Se consultamos a [Real Academia Española da lingua][RAE] (RAE) veremos que define [«historia»][rae:historia] como:
+A [Real Academia Española da lingua][RAE] (RAE) define [«historia»][rae:historia] como:
 
 > 1.- *Narración y exposición de los acontecimientos pasados y dignos de memoria, sean públicos o privados*.
 >
@@ -34,25 +25,26 @@ Se consultamos a [Real Academia Española da lingua][RAE] (RAE) veremos que defi
 >
 > 5.- *Conjunto de los acontecimientos ocurridos a alguien a lo largo de su vida o en un período de ella* [^ref:RAE(2020)]
 
-Se facemos esta consulta no diccionario da [Real Adacemia Galega da lingua][RAG] (RAG), atopamos a seguinte definición de [«historia»][rag:historia]:
+A [Real Adacemia Galega da lingua][RAG] (RAG), define [«historia»][rag:historia]:
 
 > 1. Conxunto de feitos ocorridos no pasado, que afectan a toda a humanidade, a un grupo, unha persoa, unha institución, a unha faceta concreta dese pasado etc.  
 >
 > 2. Ciencia que estuda eses feitos. [^ref:RAG(2020)]
 
-Se consultamos a definición de [«música»][rag:música]:
+Vexamos agora, a definición da RAG sobre [«música»][rag:música]:
 > Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
 
-Segundo a definición tradicional, «música»: [^cita:Musas]
+Unha definición tradicional de «música» [^cita:Musas] máis ou menos aceptada podería ser:
 > es, [...], el [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible y lógicamente una combinación coherente de [sonidos](https://es.wikipedia.org/wiki/Sonido) y [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando los principios fundamentales de la [melodía](https://es.wikipedia.org/wiki/Melodía), la [armonía](https://es.wikipedia.org/wiki/Armonía) y el [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
 
 ```{block type='correction'}
 
-Polo tanto, tendo en conta o indicado nos parágrafos anteriores, a **Historia da música** _**occidental**_, céntrase principalmente no estudo da evolución das diferentes manifestacións musicais \(tradición musical\) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
+Polo tanto, tendo en conta o indicado nos parágrafos anteriores, a Historia da música occidental, céntrase principalmente no estudo da evolución das diferentes manifestacións musicais (tradición musical) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
 
 ```
 
 ## Obxectivos e problemática da materia {-}
+
 O principal obxectivo da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**. Agora ben, que imos estudar e como o faremos?
 
 - centrámonos nas obras musicais ou en como se usaron?
@@ -67,8 +59,8 @@ Son frecuentes as discusións entre musicólogos, historiadores e grades entendi
 
 Como vemos no exemplo anterior, o que se considera música para unha cultura, pode non selo para outra e viceversa. Pensemos nestas dúas preguntas, relacionadas co exemplo de Callejo:
 
--  considerdamos como música todo aquelo que alguén considera como tal? (caso do *almuédano* [^cita:almuédano] e as campás)
--  consideramos como música, pola contra, só o que todos consideramos música?
+- considerdamos como música todo aquelo que alguén considera como tal? (caso do *almuédano* [^cita:almuédano] e as campás)
+- consideramos como música, pola contra, só o que todos consideramos música?
 
 Por outra parte, a «historia da música occidental» exclúe moitas manifestacións musicais como a música popular actual, a música tradicional europea e non europea. Exclúe tamén do seu ámbito de estudo, a música clásica oriental chinesa, xaponesa ou india. Así o seu campo de estudo redúcese, exclusivamente á música culta europea, a pesares de si estudar algunha música non europea pero que segue certos cánones europeos.
 
@@ -114,8 +106,6 @@ O feito de que se exclúa a música non europea ou popular, fainos pensar na dis
 
 A modo de conclusión, o concepto de *historia da música* redúcese ao estudo dunha serie de compositores e obras musicais da música culta (académica) occidental, que foron seleccionados seguindo certos criterios impostos en certas ocasións polas "modas musicais" da época.
 
-
-
 [^cita:definiónhistoria]: Consulta da [RAE](https://dle.rae.es/historia#otras), ofrece varias posibles definicións de Historia.
 
 [^cita:exclusion_muller]: As mulleres foron silenciadas e discriminadas musicalmente ao longo da historia; nunca foi aceptada dentro do canon do s. XIX.
@@ -128,11 +118,11 @@ A modo de conclusión, o concepto de *historia da música* redúcese ao estudo d
 
 [^ref:Callejo(2017)]: Callejo, F.: *Historia de la Música*, Conservatorio Profesional de Música Francisco Guerreo (2017).
 
-[^ref:RAE(2020)]: *Definición de historia*, RAE consultado en https://www.rae.es , (Setembro, 2020).
+[^ref:RAE(2020)]: *Definición de historia*, RAE consultado en <https://www.rae.es> , (Setembro, 2020).
 
 [^ref:Wikipedia(Música)]: Definición de [música](https://es.wikipedia.org/wiki/M%C3%BAsica#Definici%C3%B3n) consultada na wikipedia.
 
-[^ref:RAG(2020)]: *Definición de historia*, RAG consultado en https://academia.gal/diccionario , (Setembro 2020)
+[^ref:RAG(2020)]: *Definición de historia*, RAG consultado en <https://academia.gal/diccionario> , (Setembro 2020)
 
 [RAE]:https://dle.rae.es/ "Enlace á páxina da Real Academia Española da Língua"
 
@@ -141,7 +131,7 @@ A modo de conclusión, o concepto de *historia da música* redúcese ao estudo d
 [rae:historia]:
 https://dle.rae.es/historia#otras "definición de «historia» da Real Academia Española da Língua"
 
-[rag:historia]: 
+[rag:historia]:
 https://academia.gal/dicionario/-/termo/busca/Historia "definición de Historia da Real Academia Galega da língua"
 
 [rag:música]:
