@@ -1,3 +1,13 @@
+O estudo da historia da música que interpretamos e transmitimos, así como da que escoitamos supón un aspecto de gran consideración dentro da formación de todo músico. 
+
+Escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas dunha determinada época, son entre outros os principais obxectivos deste curso. Comprender e coñecer os feitos históricos e movementos socioculturais máis destacados dunha época así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.
+
+Comezamos este curso facendo un percorrido histórico, artístico e musical polas épocas anteriores á actual, coa finalidade de coñecer e comprender mellor a música e os elementos que forman parte dunha obra de arte musical.
+
+Faremos un percorrido pola música de diferentes épocas e civilizacións, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na Península Ibérica e Galicia.  
+
+Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as teorías sobre a música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.  
+
 ## Definicións e conceptos {-}
 
 ### Concepto de música {-}
