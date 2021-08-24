@@ -1,6 +1,3 @@
-
-## As fontes de información histórica {-}
-
 <!-- 
 OBXECTIVO XERAL: 
 
@@ -21,8 +18,31 @@ CONTIDOS:
 
 -->
 
-Importancia das fontes de información histórica e a súa importancia, problemática, etc. 
+## As fontes de información histórica {-}
 
-### As fontes como ferramenta para narrar a Historia da Música {-}
+A actividade musical é tan antiga como a especie humana. Salvo a etapa prehistórica, da que só se teñen vagas nocións por restos de posibles instrumentos atopados en xacementos e por pinturas rupestres, o coñecemento da música das culturas antigas ven dado polo que denominamos «fontes de información». 
 
-### Tipos de fontes {-}
+En **historiografía**, denomínanse «fontes» a todo o que aporta información para o estudo dunha determinada cultura.  
+ No caso da Historia da Música das Civilizacións da Prehistoria e a Antigüidade, as fontes son moi variadas. Así, falaremos de fontes de tipo iconográfico, como pinturas e esculturas; documentos escritos, como xeroglíficos e inscripcións en tumbas ou templos; literarios como a Biblia, (entre outros); restos arqueolóxicos, como é o caso de fragmentos de instrumentos desa época atopados en sarcófagos.
+
+As catro fontes principais que debemos coñecer, son as seguintes:
+
+1. **Arqueoloxía**. Os restos arqueolóxicos proporcionan ás veces importante información sobre a música de épocas antigas. Os máis importantes son os instrumentos musicais —ou partes de eles— que non se destruíron co paso do tempo; pero tamén se atopan restos de edificios e lugares onde se interpretaba música ou se danzaba. Entre os restos arqueolóxicos atópanse tamén as mostras máis antigas de notación musical.
+2. **Iconografía**. A pintura, a escultura, os relevos e outras obras das artes visuais proporcionan información sobre instrumentos musicais, contextos e prácticas de interpretación, danzas, etc.
+3. **Literatura**. A literatura, entendida como o conxunto de todo o escrito, ofrece abundante información musical: por exemplo, descríbense escenas musicais ou se plasma o pensamento sobre música; e os textos da música vocal mostran a estrutura rítmica, aínda que non se conserven as melodías. Dentro da literatura hai que incluír tamén as obras técnicas sobre música (tratados, métodos, etc.).
+4. **Etnomusicoloxía**. A  etnomusicología, o estudo das músicas de tradición oral actuais, pode ás veces axudar á comprensión da actividade musical antiga. Aínda que non é correcto supoñer que en condicións de vida iguais desenvólvense culturas musicais iguais, ás veces o coñecemento das músicas tradicionais actuais pode proporcionar detalles sobre técnicas de interpretación de instrumentos antigos ou sobre movementos de danza, por exemplo.
+
+### As fontes como ferramenta para o estudo da Música na Prehistoria e Antigüidade {-}
+
+Case todos os libros sobre Historia da Música, comezan narrando as circunstancias da Música na Idade Media.   
+Este feito, transmite sen querer a idea de que a orixe da música na cultura occidental está relacionado co canto gregoriano.
+
+Ata hai ben pouco, eran contados os manuais que trataban a importancia da cultura musical da Antigüidade Grega.  
+
+-  Que pasa coa música anterior?
+-  Que sabemos sobre as danzas e os "concertos cortesáns" da época dos faraóns?
+-  Que instrumentos empregaban nas celebracións funerarias en honor aos deuses?
+
+A maioría das fontes con información musical das que dispoñemos, son **fontes indirectas**. Denomínanse así, aos restos que nos informan sobre os costumes e a vida musical que tiña determinada cultura.  
+
+Por exemplo, dunha pintura *mural atopada no interior das *pirámides no que aparece representada unha *agrupación *instrumental podemos extraer información como que tipo de instrumentos utilizábanse para interpretar música de conxuntos, para quen e en que ocasión interpretábana, o número de #cordo que tiñan as arpas, a forma na que estaban construídas, a postura da intérprete así como a causa de por que tocaba sobre unha *tarima.

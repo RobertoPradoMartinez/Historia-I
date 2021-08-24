@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Solarized Light"
+		"workbench.colorTheme": "Solarized Light",
+		"markdown-todo.sortByCount": false,
+		"editor.cursorBlinking": "smooth",
+		"editor.cursorStyle": "block-outline"
 	}
 }
