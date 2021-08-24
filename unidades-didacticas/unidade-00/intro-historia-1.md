@@ -4,19 +4,19 @@ Cando nos propoñemos estudar a historia da música, debemos en primeiro lugar e
 
 Por outra banda, o estudo --histórico ou non-- da música pode enfocarse desde distintos puntos de vista: centrámonos nas obras musicais ou na súa utilización?; nas persoas que as desenvolveron ou no ambiente social que as propiciou?; que criterios utilizamos para seleccionar a música que será obxecto de estudo? Todas estas cuestións fan aínda máis difícil o estudo histórico da música.
 
-## Música como actividade ou como produto
+### Música como actividade ou como produto
 
 En primeiro lugar, debemos diferenciar se entendemos a música como unha actividade na que unha ou máis persoas participan creando, interpretando ou escoitando; ou ben como o produto desa actividade, que é en principio un produto sonoro, aínda que exista a posibilidade de plasmalo por escrito con diversos sistemas de notación musical. O enfoque máis habitual adoita ser o segundo, estudando exclusivamente as obras musicais e non a actividade xerada ao redor delas. 
 
-## Transmisión oral ou escrita
+### Transmisión oral ou escrita
 
 A posibilidade de estudar historicamente a música baséase na existencia dunha transmisión desta ao longo do tempo. En case todas as culturas e épocas, a música transmitiuse por escoita e repetición: obsérvase aos mestres e imítaselles, aínda que achegando sempre algo novo a cada nova interpretación. Nisto consiste o que se chama transmisión oral; xunto a ela, existe tamén a posibilidade de transmitir —e almacenar— a música con diversos métodos de escritura musical, dando lugar á transmisión escrita; esta última, aínda que existe en numerosas culturas e é case tan antiga como a propia música, é unha característica fundamental de certas músicas europeas, e o enfoque habitual do estudo céntrase nela.
 
-## Música académica e música popular
+### Música académica e música popular
 
-A actividade musical dáse en todos os grupos sociais e nun gran número de situacións diferentes. Pero algunhas manifestacións musicais han adquirido maior prestixio social, ben pola súa relación con estratos elevados da sociedade, ben polas súas características de formación e profesionalización; son as músicas académicas, coñecidas tamén como «clásicas» ou «cultas». Fronte a elas existe unha variedade enorme de músicas populares, habitualmente con menos prestixio. A fronteira entre ambos os grupos é moi difusa, e en moitos casos pódese traspasar con facilidade. O estudo da música debería abarcar todos os estilos; pero habitualmente céntrase só nos estilos académicos.
+A actividade musical dáse en todos os grupos sociais e nun gran número de situacións diferentes. Pero algunhas manifestacións musicais lograron maior prestixio social, ben pola súa relación con estratos elevados da sociedade, ben polas súas características de formación e profesionalización; son as músicas académicas, coñecidas tamén como «clásicas» ou «cultas». Fronte a elas existe unha variedade enorme de músicas populares, habitualmente con menos prestixio. A fronteira entre ambos os grupos é moi difusa, e en moitos casos pódese traspasar con facilidade. O estudo da música debería abarcar todos os estilos; pero habitualmente céntrase só nos estilos académicos.
 
-## Música europea e música non europea
+### Música europea e música non europea
 
 Dado que os estudos de historia da música desenvolvéronse principalmente en Europa —e posteriormente na América máis  europeizada— o obxecto principal de estudo foi sempre a música europea, especialmente a dos últimos séculos. Este enfoque  eurocéntrico deixa fóra do estudo numerosas manifestacións musicais, tanto académicas como populares, desenvolvidas fose de Europa, que nalgúns casos influíron poderosamente no desenvolvemento da propia música europea. Actualmente segue sendo habitual centrarse só na música europea e na súa influencia sobre músicos doutros continentes.
 
@@ -31,5 +31,3 @@ Este enfoque apoiámolo sobre dous conceptos que se desenvolveron ao longo do s�
 Xa o feito de descartar as músicas non europeas ou as populares indícanos os prexuízos  etnicistas e  clasistas dos creadores do repertorio (os  musicólogos, intérpretes, críticos… do século XIX principalmente). A estes prexuízos podemos engadir outros: por exemplo, é case nula a presenza de mulleres compositoras no canon; non porque non as houbese —que as houbo, a pesar das dificultades para acceder a un traballo intelectual—, senón simplemente porque nisto, como noutros campos, foron relegadas ao máis profundo. Do mesmo xeito silenciouse a todos aqueles compositores e compositoras que non se axustaban á idea xeral de «evolución» da música occidental, ben por ser demasiado conservadores ou demasiado avanzados, ou por deseñar camiños musicais que logo ninguén seguiu. O criterio nacional, ou nacionalista, tamén influíu na creación do canon: o feito de que as máis importantes universidades de finais do  XIX e principios do  XX fosen alemás, e que a escola  historiográfica alemá dominase un período decisivo na  historiografía musical, explica en parte a abundancia de compositores do ámbito  germánico no canon.
 
 En resumo: o noso concepto de historia da música é excesivamente reducido: a historia dun puñado de compositores e obras da música culta occidental escrita, seleccionados por criterios moi diversos.
-
-
