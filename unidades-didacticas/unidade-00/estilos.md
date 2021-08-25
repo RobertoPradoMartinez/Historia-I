@@ -1,4 +1,4 @@
-## Estilos
+## Estilos {-}
 
 Un estilo es un conjunto de rasgos musicales comunes a un conjunto de obras y que definen una tendencia musical, asociada habitualmente a un período o a un género. Por ejemplo, hay un estilo renacentista o un estilo romántico; o bien un estilo operístico o religioso. Pero lo habitual es unir ambos conceptos: tenemos así, por ejemplo, el estilo sinfónico romántico o el estilo de la ópera barroca. Uno de los propósitos de la Historia de la música es definir los estilos que se han sucedido en el tiempo, desarrollando así una historia de los estilos musicales.
 

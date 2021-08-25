@@ -2,7 +2,7 @@
 «comiñas angulares de cerre»
 -->
 
-## A periodización na Historia da música
+## A periodización na Historia da música {-}
 
 Aínda que na historia, e especialmente na dos feitos culturais, como a música, os cambios prodúcense moi paulatinamente, sen que haxa acontecementos tan decisivos que xustifiquen un cambio de etapa, sempre resulta máis cómodo expor unha división en etapas ou períodos que faciliten o estudo. Esta división do tempo en períodos denominámola «periodización». 
 
@@ -10,7 +10,7 @@ A Historia, como ciencia dos acontecementos humanos, existe desde a antigüidade
 
 Esta aparición tardía fai que a Historia da música adopte habitualmente as periodizacións doutras disciplinas, principalmente a Historia da arte. Non sempre a música cambia ao mesmo ritmo que outras actividades humanas, polo que os termos da historia xeral ou a da arte non serven en moitos casos para a da música.
 
-### Períodos da historia
+### Períodos da historia {-}
 
 Adóitase situar o comezo da historia no momento da aparición da escritura, fai uns 6000 anos aproximadamente; o período anterior denomínase Prehistoria. Aínda que está constatada a existencia de actividade musical durante a prehistoria, descoñécese que música facíase entón, polo que adoita quedar á marxe da historia da música.
 
@@ -32,11 +32,11 @@ A música desta época é ben coñecida, en xeral, e é entón cando se produce 
 (desde o século  XIX). O seu comezo sitúase na Revolución Francesa (que seguiu á norteamericana e precedeu a outras revolucións europeas). O paso do Antigo ao Novo Réxime, consecuencia destas revolucións, produciu unha configuración social nova na que o músico deixa de ser criado da aristocracia para converterse en artista independente.  
 A música desta etapa (e, en parte, da anterior) é a máis coñecida e a que se mantén actualmente en repertorio.
 
-### Períodos da historia cultural
+### Períodos da historia cultural {-}
 
 A historia dos feitos culturais (entre eles a música) segue unha periodización creada principalmente para a Historia da arte (arquitectura, escultura e pintura sobre todo). Esta periodización, non é do todo válida para a música. Se nos situamos no comezo da música europea escrita (cara ao século X) as etapas serían as seguintes:
 
-| Período ou etapa       |                                 |
+| Período ou etapa       |  Cronoloxía                     |
 | :--------------------- | :------------------------------ |
 | Románico               | X- XII  aprox.                  |
 | Gótico                 | XII- XV                         |
@@ -49,13 +49,13 @@ A historia dos feitos culturais (entre eles a música) segue unha periodización
 Destas etapas, as dúas primeiras sitúanse na Idade Media, as tres seguintes na Idade Moderna e as últimas na Contemporánea; o século  XX (e o que levamos do  XXI) non presentan unha periodización estable debido á súa proximidade no tempo, que impide consideralos con suficiente obxectividade.
 
 <!-- REVISANDO AQUÍ -->
-Poucos destes termos son válidos na Historia da música: na Idade Media, a música segue unha evolución diferente ás artes plásticas, polo que non se pode falar dunha «música románica» e unha «música gótica»; no seu momento verase a evolución da música e a súa posible relación con outras artes.
+Esta división, non é do todo válida na Historia da música: na Idade Media, a música segue unha evolución diferente ás artes plásticas, polo que non se pode falar dunha «música románica» e unha «música gótica»; no seu momento verase a evolución da música e a súa posible relación con outras artes.
 
-Os termos «Renacemento» e «Barroco» si están arraigados na Historia da música, aínda que o segundo cada vez está máis cuestionado; en canto ao primeiro, está bastante claro onde termina, pero non tanto onde comeza.
+Os termos «Renacemento» e «Barroco» si están arraigados na Historia da música, aínda que o segundo cada vez está máis cuestionado; en canto ao primeiro, está bastante claro onde finaliza, pero non tanto onde comeza.
 
-O Neoclasicismo en música denomínase simplemente «Clasicismo», e o positivismo e realismo non existen, salvo derivacións posteriores como o «verismo» italiano. É preferible considerar todo o século XIX como romántico.
+O Neoclasicismo en música denomínase simplemente «Clasicismo», e o Positivismo e Realismo non existen, salvo derivacións posteriores como o «verismo» italiano. É preferible considerar todo o século XIX como romántico.
 
-### Períodos da historia da música
+### Períodos da historia da música {-}
 
 Con todo isto, as etapas da música europea occidental serían as seguintes:
 

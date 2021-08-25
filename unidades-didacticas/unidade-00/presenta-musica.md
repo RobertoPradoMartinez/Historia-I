@@ -16,7 +16,7 @@ A todos resulta en certo modo familiar este concepto dado que vivimos rodeados d
 
 Técnicamente podemos entender por música calquera combinación ordenada de ritmo, melodía e harmonía, agradable no oído humano.
 
-### Concepto de Historia da Música
+### Concepto de Historia da Música {-}
 
 Comecemos o estudo da Historia da Música, tentando comprender o significado de «historia da música», e a que nos estamos a referir.  
 Vexamos algunhas definicións das moitas que atoparemos sobre o significado de «historia da música» que nos aproximan á temática que vai tratar esta materia.
