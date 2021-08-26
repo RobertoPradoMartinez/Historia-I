@@ -48,16 +48,15 @@ A historia dos feitos culturais (entre eles a música) segue unha periodización
 
 Destas etapas, as dúas primeiras sitúanse na Idade Media, as tres seguintes na Idade Moderna e as últimas na Contemporánea; o século  XX (e o que levamos do  XXI) non presentan unha periodización estable debido á súa proximidade no tempo, que impide consideralos con suficiente obxectividade.
 
-<!-- REVISANDO AQUÍ -->
-Esta división, non é do todo válida na Historia da música: na Idade Media, a música segue unha evolución diferente ás artes plásticas, polo que non se pode falar dunha «música románica» e unha «música gótica»; no seu momento verase a evolución da música e a súa posible relación con outras artes.
+Esta división, non é do todo válida na Historia da música: na Idade Media, a música segue unha evolución diferente ás artes plásticas, polo que non se pode falar dunha «música románica» e unha «música gótica».
 
 Os termos «Renacemento» e «Barroco» si están arraigados na Historia da música, aínda que o segundo cada vez está máis cuestionado; en canto ao primeiro, está bastante claro onde finaliza, pero non tanto onde comeza.
 
-O Neoclasicismo en música denomínase simplemente «Clasicismo», e o Positivismo e Realismo non existen, salvo derivacións posteriores como o «verismo» italiano. É preferible considerar todo o século XIX como romántico.
+O Neoclasicismo en música denomínase simplemente «Clasicismo», e o Positivismo e Realismo non existen, salvo derivacións posteriores como o «verismo» italiano.
 
 ### Períodos da historia da música {-}
 
-Con todo isto, as etapas da música europea occidental serían as seguintes:
+As etapas da música europea occidental, que consideraremos ao longo deste curso, son as seguintes:
 
 1. **Idade Media**: desde as primeiras mostras de música escrita ata os inicios do século  XV.
 2. **Renacemento**: desde 1420, aproximadamente, ata 1600, cun punto importante de cambio de estilo e técnica ao redor de 1500.
@@ -66,4 +65,4 @@ Con todo isto, as etapas da música europea occidental serían as seguintes:
 5. **Romanticismo**: desde 1820 (aproximadamente) ata o final do  XIX, con varias etapas diferenciadas.
 6. **Música contemporánea**: iníciase cara a 1890, coas obras de madurez de  Mahler,  Debussy e outros, aínda que o momento de cambio máis importante é cara a 1907 (aparición da  atonalidad). Ás veces a expresión «música contemporánea» utilízase só para a creada con posterioridade a 1945.
 
-Alternativamente, e sobre todo nalgúns libros recentes de historia da música, divídese o período posterior ao Renacemento por séculos (XVII,  XVIII, XIX e XX), sen utilizar etiquetas de ningún tipo. Así o faremos na nosa materia.
+En moitos libros recentes de historia da música, establécese a división do período posterior ao Renacemento por séculos (XVII,  XVIII, XIX e XX), sen utilizar etiquetas de ningún tipo, tal como faremos neste curso.
