@@ -2,11 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../AulaCMUSViveiro"
 		}
 	],
 	"settings": {
 		"workbench.colorTheme": "Solarized Light",
-		"markdown-todo.sortByCount": false,
+		"markdown-todo.sortByCount": true,
 		"editor.cursorBlinking": "smooth",
 		"editor.cursorStyle": "block-outline"
 	}

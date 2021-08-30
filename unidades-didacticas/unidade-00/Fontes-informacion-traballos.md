@@ -45,3 +45,13 @@ graph TB;
     H -.- G;
 
 ```
+### Tipos de fontes de información {-}
+
+A maioría das fontes con información musical das que dispoñemos, son **fontes indirectas**. Denomínanse así, aos restos que nos informan sobre os costumes e a vida musical que tiña determinada cultura. Así, por exemplo, unha pintura mural atopada no interior das pirámides, na que aparece representada unha agrupación instrumental é unha valiosa fonte de información, dado que podemos extraer diversa información como, que tipo de instrumentos se empregaban para interpretar música de conxunto, para quen e en que ocasión a interpretaban, o número de cordas que tiñan as arpas, a forma na que estaban construídas, a postura da intérprete, así como a causa de por que tocaba sobre unha tarima, etc. Esta é unha fonte de información indirecta.
+
+Outro exemplo de fonte indirecta atopámola nos documentos escritos da época como é o caso da Biblia. En determinados salmos como o 33, fai mención a instrumentos empregados no culto como as cítaras (instrumento de corda pulsada), as arpas e as liras.
+
+Existen moi poucas fontes, que nos falen sobre a música en si mesma é dicir, que nos indiquen as notas que se cantaban en determinado ritual ou danza. Só podemos falar de **fontes directas** cando os documentos nos achegan información musical, e para iso ten que haber algún tipo de notación, e o noso sistema de notación musical, xurdiu tras un longo proceso de evolución nos mosteiros durante a Idade Media. Esta, é a razón de que os manuais de historia da música comezan a relatar a orixe da música occidental na época medieval.  
+
+Hoxe en día, sabemos que culturas das Civilizacións Avanzadas da Antigüidade como a grega ou a exipcia crearon a súa propia maneira de anotar os sons mediante letras do alfabeto ou mediante signos quironímicos, como veremos neste curso.
+
