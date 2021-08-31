@@ -1,18 +1,15 @@
 ---
-#########################################
-# options for knitting a single chapter #
-#########################################
 output:
+  bookdown::word_document2: default
   bookdown::pdf_document2:
     template: templates/brief_template.tex
     citation_package: biblatex
   bookdown::html_document2: default
-  bookdown::word_document2: default
 documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-<!-- NOTA IMPORTANTE: Incluir os temas en subapartados -->
+<!-- NOTA IMPORTANTE: Incluir os temas en subapartados da erro se tentamos meter imaxes-->
 
 # Introdución {.unnumbered}
 
@@ -40,12 +37,17 @@ iii) You can't use markdown syntax inside chunk options, so if you want to e.g. 
 
 <!--PRESENTACIÓN-->
 
-```{r child=here::here('unidades-didacticas/unidade-00/presenta-musica.md')}
+```{r child=here::here('unidades-didacticas/unidade-00/presenta-musica.Rmd')}
+```
+
+
+```{r rmarkdown, fig.align='center', fig.cap="Logo de rmarkdown (desde archivo PNG).", out.width="30%"}
+knitr::include_graphics('figures/ud-00/rmarkdown.png')
 ```
 
 <!-- CONCEPTOS PREVIOS: -->
 
-```{r child=here::here('unidades-didacticas/unidade-00/conceptos-previos.md')}
+```{r child=here::here('unidades-didacticas/unidade-00/conceptos-previos.Rmd')}
 ```
 
 <!-- A MÚSICA COMO FEITO SOCIAL E CULTURAL: -->

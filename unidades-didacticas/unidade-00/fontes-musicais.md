@@ -33,9 +33,10 @@ Dentro do noso ámbito de estudo, consideramos como principais fontes de informa
 3. **Literatura**. A literatura, entendida como o conxunto de todo o escrito, ofrece abundante información musical: algunhas fontes literarias describen escenas ou pensamentos musicais e tamén ideas sobre música; os textos da música vocal indican a estrutura rítmica, malia que non se conserven as melodías. Dentro da literatura hai que incluír tamén as obras técnicas sobre música como tratados, métodos, etc.
 4. **Etnomusicoloxía**. A  etnomusicología, o estudo das músicas de tradición oral actuais, pode axudar á comprensión da actividade musical antiga. Aínda que non é correcto supoñer que en condicións de vida iguais desenvólvense culturas musicais iguais, ás veces o coñecemento das músicas tradicionais actuais pode proporcionar detalles sobre técnicas de interpretación de instrumentos antigos ou sobre movementos de danza, por exemplo.
 
-```mermaid
+```
+mermaid
 graph TB;
-    A(Fontes de Información);
+    Aa(Fontes de Información);
     B(Arqueoloxía);
     C(Iconografía);
     D(Literatura);
