@@ -11,7 +11,7 @@ documentclass: book
 
 <!-- NOTA IMPORTANTE: Incluir os temas en subapartados da erro se tentamos meter imaxes-->
 
-# Introdución {.unnumbered}
+# Presentación da materia {-}
 
 ```{=tex}
 \adjustmtc
@@ -21,7 +21,7 @@ documentclass: book
  Evita que o índice de capítulos e encabezamentos amose os textos do capítulo anterior.
   -->
 
-<!-- PRESENTACIÓN E CITAS DE AUTORES -->
+<!-- CITA DE INICIO DE CAPÍTULO (só pdf) -->
 
 ```{block type='savequote', quote_author='(ref:cita-dante)', include=knitr::is_latex_output()}
 O obxetivo de toda obra artística é axudar a cantos viven neste mundo a abandonar as súas miserias e conducilos á verdadeira felicidade...
@@ -35,27 +35,167 @@ ii) include=knitr::opts_knit$get('rmarkdown.pandoc.to') == 'latex' means that th
 iii) You can't use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the quote reference use a 'text reference': Create a named piece of text with '(ref:label-name) My text', then link to this in the chunk option with quote_author='(ref:label-name)'
 -->
 
-<!--PRESENTACIÓN-->
+<!-- PRESENTACIÓN -->
 
-```{r child=here::here('unidades-didacticas/unidade-00/presenta-musica.Rmd')}
+## Definicións e conceptos {-}
+
+O estudo da historia da música que interpretamos e transmitimos, así como da que escoitamos supón un aspecto de gran importancia dentro da formación de todo músico. 
+
+A finalidade da Historia da Música é escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas, comprender e coñecer os feitos históricos e movementos socioculturais máis destacados así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.
+
+Comezamos este curso facendo un percorrido histórico, artístico e musical polas épocas anteriores á actual, coa finalidade de coñecer e comprender mellor a música e os elementos que forman parte dunha obra de arte musical. Faremos un percorrido pola música de diferentes épocas e civilizacións, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na Península Ibérica e Galicia.  
+
+Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as teorías sobre a música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.
+
+### Concepto de música {-}
+
+Se tratamos de definir a música, poderiamos dicir que é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. En certo modo, resúltanos familiar este concepto dado que vivimos rodeados de música. 
+
+Se procuramos un significado tradicional de «música» [^cita:Musas], atopamos: 
+
+>La música [...] es el [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible y lógicamente una combinación coherente de [sonidos](https://es.wikipedia.org/wiki/Sonido) y [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando los principios fundamentales de la [melodía](https://es.wikipedia.org/wiki/Melodía), la [armonía](https://es.wikipedia.org/wiki/Armonía) y el [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
+
+A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] como:
+
+> Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
+
+```{block type='correction'}
+
+Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
+
 ```
+### Concepto de Historia da Música {-}
+
+Se ben unha o significado de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».
+
+> _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_.
+>
+> [...] _aquella disciplina que trata el estudio de la evolución de las diferentes tradiciones musicales a lo largo del tiempo_.
+
+Estas son algúns significados que nos aproximan ao concepto que estamos a buscar. De xeito formal, atopamos os significados seguintes:  
+
+- a [Real Academia Española da lingua][RAE] (RAE) define textualmente [«historia»][rae:historia] como:
+
+> 1.- *Narración y exposición de los acontecimientos pasados y dignos de memoria, sean públicos o privados*.
+>
+> 2.- *Disciplina que estudia y narra cronológicamente los acontecimientos pasados*
+>
+> 3.- *Conjunto de los sucesos o hechos políticos, sociales, económicos, culturales, etc., de un pueblo o de una nación*.
+>
+> 5.- *Conjunto de los acontecimientos ocurridos a alguien a lo largo de su vida o en un período de ella* [^ref:RAE(2020)]
+
+- a [Real Adacemia Galega da lingua][RAG] (RAG), define [«historia»][rag:historia]:
+
+> 1. Conxunto de feitos ocorridos no pasado, que afectan a toda a humanidade, a un grupo, unha persoa, unha institución, a unha faceta concreta dese pasado etc.  
+>
+> 2. Ciencia que estuda eses feitos. [^ref:RAG(2020)]
+
+Podemos afirmar entón que a finalidade da Historia da Música é, entre outras:
+
+```{block type='correction'}
+
+- o estudo da evolución das diferentes manifestacións musicais (a tradición musical) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
+
+```
+
+## Obxectivos e problemática da materia {-}
+
+O principal obxectivo da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**.
+
+O principal problema que debemos afrontar, é atopar unha definición máis ou menos aceptada e consensuada do que se entende por «música» dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.  
+
+Son frecuentes as discusións entre musicólogos, historiadores e grades entendidos sobre a música para lograr unha definición universal da música, pero é complicado universalizar este concepto dada a diversidade de culturas e pobos. O profesor Francisco Callejo, expón esta problemática:
+
+> [...] el primer problema que nos encontramos es acordar una definición universal de *música*: el concepto de música varía de una cultura a otra; por ejemplo, la mayor parte de los musulmanes no considerarían música la llamada a la oración del almuédano, que a los oídos occidentales suena similar a muchas salmodias medievales; los toques de campanas de las iglesias cristianas, por el  contrario, no son considerados como manifestaciones musicales en occidente, aunque a muchos africanos les recordarían melodías suyas. [^ref:Callejo(2017)]
+
+Como vemos no exemplo anterior, o que se considera música para unha cultura, pode non selo para outra e viceversa. Pensemos nestas dúas preguntas, relacionadas co exemplo de Callejo:
+
+- considerdamos como música todo aquelo que alguén considera como tal? (caso do *almuédano* [^cita:almuédano] e as campás)
+- consideramos como música, pola contra, só o que todos consideramos música?
+
+Por outra parte, a «historia da música occidental» exclúe moitas manifestacións musicais como a música popular actual, a música tradicional europea e non europea. Exclúe tamén do seu ámbito de estudo, a música clásica oriental chinesa, xaponesa ou india. Así o seu campo de estudo redúcese, exclusivamente á música culta europea, a pesares de si estudar algunha música non europea pero que segue certos cánones europeos.
+
+Outra cuestión que influirá no concepto é a «orixe da cultura occidental». Cando comeza a cultura occidental? ou mellor dito, desde cando consideramos que comeza a cultura occidental?
+
+### A actividade musical e o produto musical {-}
+
+En primeiro lugar, diferenciaremos a música como **actividade**: unha ou máis persoas participan creando, interpretando ou escoitando música, en comparación coa música como **produto**: o resultado desta actividade é algo sólido, coa posibilidade de ser escrito con sistemas de notación dando como resultado, por exemplo unha obra musical. Neste caso, obtemos un produto (obra musical) resultante dunha actividade (composición).
+O enfoque máis común adoita ser o segundo, estudando exclusivamente obras musicais e non a actividade xerada ao seu redor.
+
+### A música de tadición oral e a notación musical {-}
+
+A posibilidade de estudar música historicamente, baséase na existencia dunha transmisión dela ao longo do tempo.  
+En case todas as culturas e tempos, a música transmitiuse por medio da escoita e posterior repetición, isto é: escoitando e observando por exemplo aos profesores e profesoras. Isto é o que se chama **transmisión oral**(propio da idade da memoria)
+
+Tamén existe a posibilidade de transmitir - e almacenar - música con varios métodos de escritura musical, dando lugar a transmisión escrita (idade de notación).
+
+### Música popular e «música culta» {-}
+
+A actividade musical prodúcese en todos os grupos sociais e nun gran número de situacións diferentes. Algunhas manifestacións musicais adquiriron un maior prestixio social, ben pola súa relación con altos estratos da sociedade, ben polas súas características de formación e profesionalización. Estamos a diferencar música académica, tamén coñecida como "clásica" ou "culta", fronte a unha enorme variedade de música popular, normalmente con menos prestixio. O estudo da música debería abarcar todos os estilos pero, normalmente atende só ao estudo dos estilos académicos.
+
+### O enfoque eurocéntrico {-}
+
+O obxectivo principal da historia da música foi sempre o estudo da música europea, especialmente a dos últimos séculos; en parte, porque foi no continente europeo onde se crearon os principais tratados e estudos sobre música. Este enfoque "eurocéntrico" deixa fóra numerosas manifestacións musicais, tanto académicas como populares de fóra de Europa, que nalgúns casos tiveron unha forte influencia no propio desenvolvemento da música europea. Hoxe en día é común centrarse só na música europea e a súa influencia en músicos doutros continentes.
+
+Cando estudamos a historia da música, adoitamos centrarnos en produtos musicais escritos da tradición académica europea, polo que acurtamos drasticamente o obxecto de estudo. O resto - actividade musical, transmisión oral, música popular ou non europea - son obxecto de estudo da etnomusicoloxía, que normalmente non aplica o enfoque histórico.
+
+## A actividade musical e os seus produtos {-}
+
+A actividade musical pode considerarse como un proceso bastante complexo, que abarca varias fases. Así falaremos de: **produción**, **difusión** e **consumo**.
+
+| ACTIVIDADE | TERMINO MUSICAL |
+| ---------- | --------------- |
+| Produción  | Composición     |
+| Difusión   | Interpretación  |
+| Consumo    | Audición        |
+
+Para estudar a actividade musical historicamente (o "proceso musical"), imos centrarnos igualmente nas tres fases do proceso. Non obstante, en moitos casos, as diferentes historias musicais céntranse só na primeira (produción) sen referirse aos intérpretes, ás técnicas de interpretación, aos contextos de escoita (audición), etc.  
+
+Ao longo do século XIX desenvolvéronse dúas ideas ou conceptos importantes: *o canon* e o *repertorio*. O primeiro refírese ao conxunto de compositores e obras obxecto de estudo; o segundo é o conxunto de obras que, por unha ou outra razón, seguimos interpretando e escoitando. Ámbolos dous conceptos derivan de certos criterios de "calidade musical" malia que é certo que son, á súa vez, produtos culturais europeos creados en contextos políticos, sociais e ideolóxicos específicos.
+
+O feito de que se exclúa a música non europea ou popular, fainos pensar na discriminación étnica e de clase, que mantiveron certos musicólogos, intérpretes, críticos, etc. do século XIX. A exclusión do canon da muller como compositora, é outro exemplo destes prexuízos e discriminación [^cita:exclusión_muller], así como o silencio ao que foron sometidos aqueles compositores [^cita:exclusión_compo] que non se axustaban ao modelo ou idea de evolución da música occidental da época. Sen dúbida, outra das ideas que marcaron este concepto de canon foi a valoración dos nacionalismos, [^cita:nacionalismos] que explica así que predominase certa música sobre outra.
+
+A modo de conclusión, o concepto de *historia da música* redúcese ao estudo dunha serie de compositores e obras musicais da música culta (académica) occidental, que foron seleccionados seguindo certos criterios impostos en certas ocasións polas "modas musicais" da época.
+
+[^cita:definiónhistoria]: Consulta da [RAE](https://dle.rae.es/historia#otras), ofrece varias posibles definicións de Historia.
+
+[^cita:exclusion_muller]: As mulleres foron silenciadas e discriminadas musicalmente ao longo da historia; nunca foi aceptada dentro do canon do s. XIX.
+
+[^cita:exclusion_compo]:  Ao longo dos diferentes períodos da historia da música, moitos compositores e obras foron discriminados e censurados. Nalgúns casos por seren demasiado conservadores ou demasiado avanzados para o seu tempo; noutros, por tomar camiños musicais que ninguén seguiu (polo menos nese momento) moi lonxe da marca do canon.
+
+[^cita:nacionalismos]: A idea do nacional ou nacionalista tamén influíu na creación do canon. O feito de que as universidades máis importantes de finais do século XIX e principios do XX fosen as de Alemaña e que a escola historiográfica alemá dominase un período decisivo na historiografía musical, explica a abundancia de compositores xermanos no canon.
+
+[^cita:Musas]:Os gregos definen a música como «a arte das musas»
+
+[^ref:Callejo(2017)]: Callejo, F.: *Historia de la Música*, Conservatorio Profesional de Música Francisco Guerreo (2017).
+
+[^ref:RAE(2020)]: *Definición de historia*, RAE consultado en <https://www.rae.es> , (Setembro, 2020).
+
+[^ref:Wikipedia(Música)]: Definición de [música](https://es.wikipedia.org/wiki/M%C3%BAsica#Definici%C3%B3n) consultada na wikipedia.
+
+[^ref:RAG(2020)]: *Definición de historia*, RAG consultado en <https://academia.gal/diccionario> , (Setembro 2020)
+
+[RAE]:https://dle.rae.es/ "Enlace á páxina da Real Academia Española da Língua"
+
+[RAG]:https://academia.gal/dicionario "diccionario da Real Academia Galega da Lingua"
+
+[rae:historia]:
+https://dle.rae.es/historia#otras "definición de «historia» da Real Academia Española da Língua"
+
+[rag:historia]:
+https://academia.gal/dicionario/-/termo/busca/Historia "definición de Historia da Real Academia Galega da língua"
+
+[rag:música]:
+https://digalego.xunta.gal/es/termo/44501/m%C3%BAsica "definición de música da Real Academia Galega da língua"
+
+[^cita:almuédano]: [...] o muecín ou almuédano ("gritador") era o musulmán que realizaba tradicionalmente a chamada á oración (_salat_) mediante a voz. Na actualidade, o almuédano foi substituído con frecuencia por un megáfono.  
+(Fonte:
+[wikiland](https://www.wikiwand.com/gl/Minarete?wprov=srpw1_0))
+
+<!--- Fin de notas a pié de página --->
 
 
 ```{r rmarkdown, fig.align='center', fig.cap="Logo de rmarkdown (desde archivo PNG).", out.width="30%"}
 knitr::include_graphics('figures/ud-00/rmarkdown.png')
 ```
 
-<!-- CONCEPTOS PREVIOS: -->
-
-```{r child=here::here('unidades-didacticas/unidade-00/conceptos-previos.Rmd')}
-```
-
-<!-- A MÚSICA COMO FEITO SOCIAL E CULTURAL: -->
-
-```{r child=here::here('unidades-didacticas/unidade-00/funcion-social-cultural.md')}
-```
-
-<!-- FONTES DE INFORMACIÓN HISTÓRICA: -->
-
-```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
-```

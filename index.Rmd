@@ -158,6 +158,7 @@ output:
   bookdown::gitbook:
     css: templates/style.css
     config:
+      download: ["pdf"]
       sharing:
         facebook: false
         twitter: false
