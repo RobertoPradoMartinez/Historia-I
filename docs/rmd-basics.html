@@ -1,387 +1,151 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html lang="en">
 <head>
-
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>2 R Markdown basics | Historia I Apuntes e materiais didácticos</title>
-  <meta name="description" content="Historia I<br />
-Apuntes e materiais didácticos</p>" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
-
-  <meta property="og:title" content="2 R Markdown basics | Historia I Apuntes e materiais didácticos" />
-  <meta property="og:type" content="book" />
-  
-  
-  
-  
-
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="2 R Markdown basics | Historia I Apuntes e materiais didácticos" />
-  
-  
-  
-
-<meta name="author" content="Roberto Prado Martínez" />
-
-
-
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-  
-  
-<link rel="prev" href="orixes-da-historia-da-música-occidental.html"/>
-<link rel="next" href="cites-and-refs.html"/>
-<style type="text/css">
-p.abstract{
-  text-align: center;
-  font-weight: bold;
-}
-div.abstract{
-  margin: auto;
-  width: 90%;
-}
-</style>
-<script src="libs/header-attrs-2.6.4/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
-<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
-
-
-
-
-
-
-
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
-
-
-<style type="text/css">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
-</style>
-
-
-<link rel="stylesheet" href="templates/style.css" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>2 R Markdown basics | Historia I Apuntes e materiais didácticos</title>
+<meta name="author" content="Roberto Prado Martínez">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.6.4/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.5.1/tabs.js"></script><script src="libs/bs3compat-0.2.5.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/kePrint-0.0.1/kePrint.js"></script><link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="templates/bs4_style.css">
+<link rel="stylesheet" href="templates/corrections.css">
 </head>
+<body data-spy="scroll" data-target="#toc">
 
-<body>
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 
-
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Benvida</a>
-<ul>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#resumo"><i class="fa fa-check"></i>Resumo</a></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html#agradecementos"><i class="fa fa-check"></i>Agradecementos</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html"><i class="fa fa-check"></i>Presentación da materia</a>
-<ul>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#definicións-e-conceptos"><i class="fa fa-check"></i>Definicións e conceptos</a>
-<ul>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#concepto-de-música"><i class="fa fa-check"></i>Concepto de música</a></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#concepto-de-historia-da-música"><i class="fa fa-check"></i>Concepto de Historia da Música</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
-<ul>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#a-actividade-musical-e-o-produto-musical"><i class="fa fa-check"></i>A actividade musical e o produto musical</a></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#a-música-de-tadición-oral-e-a-notación-musical"><i class="fa fa-check"></i>A música de tadición oral e a notación musical</a></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#música-popular-e-música-culta"><i class="fa fa-check"></i>Música popular e «música culta»</a></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#o-enfoque-eurocéntrico"><i class="fa fa-check"></i>O enfoque eurocéntrico</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="presentación-da-materia.html"><a href="presentación-da-materia.html#a-actividade-musical-e-os-seus-produtos"><i class="fa fa-check"></i>A actividade musical e os seus produtos</a></li>
-</ul></li>
-<li class="chapter" data-level="1" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html"><i class="fa fa-check"></i><b>1</b> Orixes da Historia da Música Occidental</a>
-<ul>
-<li class="chapter" data-level="" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#introdución"><i class="fa fa-check"></i>Introdución</a></li>
-<li class="chapter" data-level="" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#as-fontes-de-información-histórica"><i class="fa fa-check"></i>As fontes de información histórica</a>
-<ul>
-<li class="chapter" data-level="" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#fontes-para-o-estudo-da-música-na-prehistoria-e-antigüidade"><i class="fa fa-check"></i>Fontes para o estudo da Música na Prehistoria e Antigüidade</a></li>
-</ul></li>
-<li class="chapter" data-level="1.1" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#a-orixe-da-música"><i class="fa fa-check"></i><b>1.1</b> A orixe da música</a></li>
-<li class="chapter" data-level="" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#as-fontes-de-información-histórica-1"><i class="fa fa-check"></i>As fontes de información histórica</a>
-<ul>
-<li class="chapter" data-level="" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#fontes-para-o-estudo-da-música-na-prehistoria-e-antigüidade-1"><i class="fa fa-check"></i>Fontes para o estudo da Música na Prehistoria e Antigüidade</a></li>
-</ul></li>
-<li class="chapter" data-level="1.2" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#a-música-durante-a-prehistoria"><i class="fa fa-check"></i><b>1.2</b> A música durante a Prehistoria</a></li>
-<li class="chapter" data-level="1.3" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#a-música-na-prehistoria"><i class="fa fa-check"></i><b>1.3</b> A música na prehistoria</a></li>
-<li class="chapter" data-level="1.4" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#a-música-nas-primeiras-civilizacións"><i class="fa fa-check"></i><b>1.4</b> A música nas primeiras civilizacións</a>
-<ul>
-<li class="chapter" data-level="1.4.1" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#exipto"><i class="fa fa-check"></i><b>1.4.1</b> Exipto</a></li>
-<li class="chapter" data-level="1.4.2" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#mesopotamia"><i class="fa fa-check"></i><b>1.4.2</b> Mesopotamia</a></li>
-<li class="chapter" data-level="1.4.3" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#o-antigo-oriente"><i class="fa fa-check"></i><b>1.4.3</b> O antigo Oriente</a></li>
-<li class="chapter" data-level="1.4.4" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#o-pobo-hebreo"><i class="fa fa-check"></i><b>1.4.4</b> O pobo Hebreo</a></li>
-</ul></li>
-<li class="chapter" data-level="1.5" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#a-música-no-mundo-clásico"><i class="fa fa-check"></i><b>1.5</b> A música no mundo clásico</a>
-<ul>
-<li class="chapter" data-level="1.5.1" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#grecia"><i class="fa fa-check"></i><b>1.5.1</b> Grecia</a></li>
-<li class="chapter" data-level="1.5.2" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#roma"><i class="fa fa-check"></i><b>1.5.2</b> Roma</a></li>
-</ul></li>
-<li class="chapter" data-level="1.6" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#actividades"><i class="fa fa-check"></i><b>1.6</b> Actividades</a></li>
-<li class="chapter" data-level="1.7" data-path="orixes-da-historia-da-música-occidental.html"><a href="orixes-da-historia-da-música-occidental.html#resumo-1"><i class="fa fa-check"></i><b>1.7</b> Resumo</a></li>
-</ul></li>
-<li class="chapter" data-level="2" data-path="rmd-basics.html"><a href="rmd-basics.html"><i class="fa fa-check"></i><b>2</b> R Markdown basics</a>
-<ul>
-<li class="chapter" data-level="2.1" data-path="rmd-basics.html"><a href="rmd-basics.html#basic-markdown-syntax"><i class="fa fa-check"></i><b>2.1</b> Basic markdown syntax</a>
-<ul>
-<li class="chapter" data-level="2.1.1" data-path="rmd-basics.html"><a href="rmd-basics.html#whitespace"><i class="fa fa-check"></i><b>2.1.1</b> Whitespace</a></li>
-<li class="chapter" data-level="2.1.2" data-path="rmd-basics.html"><a href="rmd-basics.html#italics-and-bold"><i class="fa fa-check"></i><b>2.1.2</b> Italics and bold</a></li>
-<li class="chapter" data-level="2.1.3" data-path="rmd-basics.html"><a href="rmd-basics.html#inline-code"><i class="fa fa-check"></i><b>2.1.3</b> Inline code</a></li>
-<li class="chapter" data-level="2.1.4" data-path="rmd-basics.html"><a href="rmd-basics.html#sub-and-superscript"><i class="fa fa-check"></i><b>2.1.4</b> Sub and superscript</a></li>
-<li class="chapter" data-level="2.1.5" data-path="rmd-basics.html"><a href="rmd-basics.html#strikethrough"><i class="fa fa-check"></i><b>2.1.5</b> Strikethrough</a></li>
-<li class="chapter" data-level="2.1.6" data-path="rmd-basics.html"><a href="rmd-basics.html#escaping-aka-what-if-i-need-an-actual-asterisk"><i class="fa fa-check"></i><b>2.1.6</b> ‘Escaping’ (aka “What if I need an actual asterisk?”)</a></li>
-<li class="chapter" data-level="2.1.7" data-path="rmd-basics.html"><a href="rmd-basics.html#endash-emdash"><i class="fa fa-check"></i><b>2.1.7</b> Endash (–), emdash (—)</a></li>
-<li class="chapter" data-level="2.1.8" data-path="rmd-basics.html"><a href="rmd-basics.html#blockquotes"><i class="fa fa-check"></i><b>2.1.8</b> Blockquotes</a></li>
-<li class="chapter" data-level="2.1.9" data-path="rmd-basics.html"><a href="rmd-basics.html#headings"><i class="fa fa-check"></i><b>2.1.9</b> Headings</a></li>
-<li class="chapter" data-level="2.1.10" data-path="rmd-basics.html"><a href="rmd-basics.html#lists"><i class="fa fa-check"></i><b>2.1.10</b> Lists</a></li>
-<li class="chapter" data-level="2.1.11" data-path="rmd-basics.html"><a href="rmd-basics.html#line-breaks"><i class="fa fa-check"></i><b>2.1.11</b> Line breaks</a></li>
-<li class="chapter" data-level="2.1.12" data-path="rmd-basics.html"><a href="rmd-basics.html#hyperlinks"><i class="fa fa-check"></i><b>2.1.12</b> Hyperlinks</a></li>
-<li class="chapter" data-level="2.1.13" data-path="rmd-basics.html"><a href="rmd-basics.html#footnotes"><i class="fa fa-check"></i><b>2.1.13</b> Footnotes</a></li>
-<li class="chapter" data-level="2.1.14" data-path="rmd-basics.html"><a href="rmd-basics.html#comments"><i class="fa fa-check"></i><b>2.1.14</b> Comments</a></li>
-<li class="chapter" data-level="2.1.15" data-path="rmd-basics.html"><a href="rmd-basics.html#math"><i class="fa fa-check"></i><b>2.1.15</b> Math</a></li>
-</ul></li>
-<li class="chapter" data-level="2.2" data-path="rmd-basics.html"><a href="rmd-basics.html#code"><i class="fa fa-check"></i><b>2.2</b> Executable code chunks</a>
-<ul>
-<li class="chapter" data-level="2.2.1" data-path="rmd-basics.html"><a href="rmd-basics.html#setup-chunks---setup-images-plots"><i class="fa fa-check"></i><b>2.2.1</b> Setup chunks - setup, images, plots</a></li>
-<li class="chapter" data-level="2.2.2" data-path="rmd-basics.html"><a href="rmd-basics.html#including-images"><i class="fa fa-check"></i><b>2.2.2</b> Including images</a></li>
-<li class="chapter" data-level="2.2.3" data-path="rmd-basics.html"><a href="rmd-basics.html#including-plots"><i class="fa fa-check"></i><b>2.2.3</b> Including plots</a></li>
-<li class="chapter" data-level="2.2.4" data-path="rmd-basics.html"><a href="rmd-basics.html#including-tables"><i class="fa fa-check"></i><b>2.2.4</b> Including tables</a></li>
-<li class="chapter" data-level="2.2.5" data-path="rmd-basics.html"><a href="rmd-basics.html#control-positioning"><i class="fa fa-check"></i><b>2.2.5</b> Control positioning</a></li>
-</ul></li>
-<li class="chapter" data-level="2.3" data-path="rmd-basics.html"><a href="rmd-basics.html#executable-inline-code"><i class="fa fa-check"></i><b>2.3</b> Executable inline code</a></li>
-<li class="chapter" data-level="2.4" data-path="rmd-basics.html"><a href="rmd-basics.html#executable-code-in-other-languages-than-r"><i class="fa fa-check"></i><b>2.4</b> Executable code in other languages than R</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="cites-and-refs.html"><a href="cites-and-refs.html"><i class="fa fa-check"></i><b>3</b> Citations, cross-references, and collaboration</a>
-<ul>
-<li class="chapter" data-level="3.1" data-path="cites-and-refs.html"><a href="cites-and-refs.html#citations"><i class="fa fa-check"></i><b>3.1</b> Citations</a>
-<ul>
-<li class="chapter" data-level="3.1.1" data-path="cites-and-refs.html"><a href="cites-and-refs.html#pdf-output"><i class="fa fa-check"></i><b>3.1.1</b> PDF output</a></li>
-<li class="chapter" data-level="3.1.2" data-path="cites-and-refs.html"><a href="cites-and-refs.html#gitbook-output"><i class="fa fa-check"></i><b>3.1.2</b> Gitbook output</a></li>
-<li class="chapter" data-level="3.1.3" data-path="cites-and-refs.html"><a href="cites-and-refs.html#insert-references-easily-with-the-citr-add-in"><i class="fa fa-check"></i><b>3.1.3</b> Insert references easily with the <code>citr</code> add-in</a></li>
-</ul></li>
-<li class="chapter" data-level="3.2" data-path="cites-and-refs.html"><a href="cites-and-refs.html#cross-referencing"><i class="fa fa-check"></i><b>3.2</b> Cross-referencing</a>
-<ul>
-<li class="chapter" data-level="3.2.1" data-path="cites-and-refs.html"><a href="cites-and-refs.html#section-references"><i class="fa fa-check"></i><b>3.2.1</b> Section references</a></li>
-<li class="chapter" data-level="3.2.2" data-path="cites-and-refs.html"><a href="cites-and-refs.html#figure-image-and-plot-references"><i class="fa fa-check"></i><b>3.2.2</b> Figure (image and plot) references</a></li>
-<li class="chapter" data-level="3.2.3" data-path="cites-and-refs.html"><a href="cites-and-refs.html#table-references"><i class="fa fa-check"></i><b>3.2.3</b> Table references</a></li>
-<li class="chapter" data-level="3.2.4" data-path="cites-and-refs.html"><a href="cites-and-refs.html#including-page-numbers"><i class="fa fa-check"></i><b>3.2.4</b> Including page numbers</a></li>
-</ul></li>
-<li class="chapter" data-level="3.3" data-path="cites-and-refs.html"><a href="cites-and-refs.html#collaborative-writing"><i class="fa fa-check"></i><b>3.3</b> Collaborative writing</a></li>
-<li class="chapter" data-level="3.4" data-path="cites-and-refs.html"><a href="cites-and-refs.html#additional-resources"><i class="fa fa-check"></i><b>3.4</b> Additional resources</a></li>
-</ul></li>
-<li class="chapter" data-level="4" data-path="tables.html"><a href="tables.html"><i class="fa fa-check"></i><b>4</b> Tables</a>
-<ul>
-<li class="chapter" data-level="4.1" data-path="tables.html"><a href="tables.html#making-latex-tables-play-nice"><i class="fa fa-check"></i><b>4.1</b> Making LaTeX tables play nice</a>
-<ul>
-<li class="chapter" data-level="4.1.1" data-path="tables.html"><a href="tables.html#making-your-table-pretty"><i class="fa fa-check"></i><b>4.1.1</b> Making your table pretty</a></li>
-<li class="chapter" data-level="4.1.2" data-path="tables.html"><a href="tables.html#if-your-table-is-too-wide"><i class="fa fa-check"></i><b>4.1.2</b> If your table is too wide</a></li>
-<li class="chapter" data-level="4.1.3" data-path="tables.html"><a href="tables.html#if-your-table-is-too-long"><i class="fa fa-check"></i><b>4.1.3</b> If your table is too long</a></li>
-<li class="chapter" data-level="4.1.4" data-path="tables.html"><a href="tables.html#max-power"><i class="fa fa-check"></i><b>4.1.4</b> Max power: manually adjust the raw LaTeX output</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="5" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html"><i class="fa fa-check"></i><b>5</b> Customisations and extensions</a>
-<ul>
-<li class="chapter" data-level="5.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#front-matter"><i class="fa fa-check"></i><b>5.1</b> Front matter</a>
-<ul>
-<li class="chapter" data-level="5.1.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-figures-pdf"><i class="fa fa-check"></i><b>5.1.1</b> Shorten captions shown in the list of figures (PDF)</a></li>
-<li class="chapter" data-level="5.1.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-tables-pdf"><i class="fa fa-check"></i><b>5.1.2</b> Shorten captions shown in the list of tables (PDF)</a></li>
-</ul></li>
-<li class="chapter" data-level="5.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#shorten-running-header-pdf"><i class="fa fa-check"></i><b>5.2</b> Shorten running header (PDF)</a></li>
-<li class="chapter" data-level="5.3" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#unnumbered-chapters"><i class="fa fa-check"></i><b>5.3</b> Unnumbered chapters</a></li>
-<li class="chapter" data-level="5.4" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#beginning-chapters-with-quotes-pdf"><i class="fa fa-check"></i><b>5.4</b> Beginning chapters with quotes (PDF)</a></li>
-<li class="chapter" data-level="5.5" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#highlighting-corrections-html-pdf"><i class="fa fa-check"></i><b>5.5</b> Highlighting corrections (HTML &amp; PDF)</a>
-<ul>
-<li class="chapter" data-level="5.5.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#short-inline-corrections"><i class="fa fa-check"></i><b>5.5.1</b> Short, inline corrections</a></li>
-<li class="chapter" data-level="5.5.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#blocks-of-added-or-changed-material"><i class="fa fa-check"></i><b>5.5.2</b> Blocks of added or changed material</a></li>
-<li class="chapter" data-level="5.5.3" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#stopping-corrections-from-being-highlighted"><i class="fa fa-check"></i><b>5.5.3</b> Stopping corrections from being highlighted</a></li>
-</ul></li>
-<li class="chapter" data-level="5.6" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#apply-custom-font-color-and-highlighting-to-text-html-pdf"><i class="fa fa-check"></i><b>5.6</b> Apply custom font color and highlighting to text (HTML &amp; PDF)</a></li>
-<li class="chapter" data-level="5.7" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#embed-pdf"><i class="fa fa-check"></i><b>5.7</b> Including another paper in your thesis - embed a PDF document</a></li>
-<li class="chapter" data-level="5.8" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#embed-rmd"><i class="fa fa-check"></i><b>5.8</b> Including another paper in your thesis - R Markdown child document</a>
-<ul>
-<li class="chapter" data-level="5.8.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#an-example-paper-in-another-folder"><i class="fa fa-check"></i><b>5.8.1</b> An example paper in another folder</a></li>
-<li class="chapter" data-level="5.8.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#step-1-include-paper-as-a-child-document"><i class="fa fa-check"></i><b>5.8.2</b> Step 1: Include paper as a child document</a></li>
-<li class="chapter" data-level="5.8.3" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#step-2-make-file-paths-compatible"><i class="fa fa-check"></i><b>5.8.3</b> Step 2: Make file paths compatible</a></li>
-<li class="chapter" data-level="5.8.4" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#step-3-make-sure-header-levels-are-correct"><i class="fa fa-check"></i><b>5.8.4</b> Step 3: Make sure header levels are correct</a></li>
-<li class="chapter" data-level="5.8.5" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#step-4.-make-sure-figure-widths-are-correct"><i class="fa fa-check"></i><b>5.8.5</b> Step 4. Make sure figure widths are correct</a></li>
-</ul></li>
-<li class="chapter" data-level="5.9" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#customizing-referencing"><i class="fa fa-check"></i><b>5.9</b> Customizing referencing</a>
-<ul>
-<li class="chapter" data-level="5.9.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#using-a-.csl-file-with-pandoc-instead-of-biblatex"><i class="fa fa-check"></i><b>5.9.1</b> Using a .csl file with pandoc instead of biblatex</a></li>
-<li class="chapter" data-level="5.9.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#biblatex-custom"><i class="fa fa-check"></i><b>5.9.2</b> Customizing biblatex and adding chapter bibliographies</a></li>
-</ul></li>
-<li class="chapter" data-level="5.10" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#customizing-the-page-headers-and-footers-pdf"><i class="fa fa-check"></i><b>5.10</b> Customizing the page headers and footers (PDF)</a></li>
-<li class="chapter" data-level="5.11" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#diving-in-to-the-oxthesis-latex-template-pdf"><i class="fa fa-check"></i><b>5.11</b> Diving in to the OxThesis LaTeX template (PDF)</a></li>
-<li class="chapter" data-level="5.12" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#customising-to-a-different-university"><i class="fa fa-check"></i><b>5.12</b> Customising to a different university</a>
-<ul>
-<li class="chapter" data-level="5.12.1" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#the-minimal-route"><i class="fa fa-check"></i><b>5.12.1</b> The minimal route</a></li>
-<li class="chapter" data-level="5.12.2" data-path="customisations-and-extensions.html"><a href="customisations-and-extensions.html#replacing-the-entire-title-page-with-your-required-content"><i class="fa fa-check"></i><b>5.12.2</b> Replacing the entire title page with your required content</a></li>
-</ul></li>
-</ul></li>
-<li class="chapter" data-level="6" data-path="troubleshooting.html"><a href="troubleshooting.html"><i class="fa fa-check"></i><b>6</b> Troubleshooting</a>
-<ul>
-<li class="chapter" data-level="6.1" data-path="troubleshooting.html"><a href="troubleshooting.html#error-failed-to-build-the-bibliography-via-biber"><i class="fa fa-check"></i><b>6.1</b> Error: Failed to build the bibliography via biber</a></li>
-</ul></li>
-<li class="chapter" data-level="7" data-path="unidade-7.html"><a href="unidade-7.html"><i class="fa fa-check"></i><b>7</b> Unidade 7</a></li>
-<li class="chapter" data-level="8" data-path="unidade-8.html"><a href="unidade-8.html"><i class="fa fa-check"></i><b>8</b> Unidade 8</a></li>
-<li class="chapter" data-level="9" data-path="unidade-9.html"><a href="unidade-9.html"><i class="fa fa-check"></i><b>9</b> Unidade 9</a></li>
-<li class="chapter" data-level="10" data-path="unidade-10.html"><a href="unidade-10.html"><i class="fa fa-check"></i><b>10</b> Unidade 10</a></li>
-<li class="appendix"><span><b>Appendix</b></span></li>
-<li class="chapter" data-level="A" data-path="the-first-appendix.html"><a href="the-first-appendix.html"><i class="fa fa-check"></i><b>A</b> The First Appendix</a></li>
-<li class="chapter" data-level="B" data-path="the-second-appendix-for-fun.html"><a href="the-second-appendix-for-fun.html"><i class="fa fa-check"></i><b>B</b> The Second Appendix, for Fun</a></li>
-<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
-</ul>
-
-      </nav>
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title=""><p>Historia I<br>
+Apuntes e materiais didácticos</p></a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
     </div>
 
-    <div class="book-body">
-      <div class="body-inner">
-        <div class="book-header" role="navigation">
-          <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"><p>Historia I<br />
-Apuntes e materiais didácticos</p></a>
-          </h1>
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Benvida</a></li>
+<li><a class="" href="conceptos-previos.html">Conceptos previos</a></li>
+<li><a class="" href="orixes-da-historia-da-m%C3%BAsica-occidental.html"><span class="header-section-number">1</span> Orixes da Historia da Música Occidental</a></li>
+<li><a class="active" href="rmd-basics.html"><span class="header-section-number">2</span> R Markdown basics</a></li>
+<li><a class="" href="cites-and-refs.html"><span class="header-section-number">3</span> Citations, cross-references, and collaboration</a></li>
+<li><a class="" href="tables.html"><span class="header-section-number">4</span> Tables</a></li>
+<li><a class="" href="customisations-and-extensions.html"><span class="header-section-number">5</span> Customisations and extensions</a></li>
+<li><a class="" href="troubleshooting.html"><span class="header-section-number">6</span> Troubleshooting</a></li>
+<li><a class="" href="unidade-7.html"><span class="header-section-number">7</span> Unidade 7</a></li>
+<li><a class="" href="unidade-8.html"><span class="header-section-number">8</span> Unidade 8</a></li>
+<li><a class="" href="unidade-9.html"><span class="header-section-number">9</span> Unidade 9</a></li>
+<li><a class="" href="unidade-10.html"><span class="header-section-number">10</span> Unidade 10</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="the-first-appendix.html"><span class="header-section-number">A</span> The First Appendix</a></li>
+<li><a class="" href="the-second-appendix-for-fun.html"><span class="header-section-number">B</span> The Second Appendix, for Fun</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/ulyngs/oxforddown">View book source <i class="fab fa-github"></i></a></p>
         </div>
-
-        <div class="page-wrapper" tabindex="-1" role="main">
-          <div class="page-inner">
-
-            <section class="normal" id="section-">
-<div id="rmd-basics" class="section level1" number="2">
-<h1><span class="header-section-number">2</span> R Markdown basics</h1>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="rmd-basics" class="section level1" number="2">
+<h1>
+<span class="header-section-number">2</span> R Markdown basics<a class="anchor" aria-label="anchor" href="#rmd-basics"><i class="fas fa-link"></i></a>
+</h1>
 <p><!-- this will include a mini table of contents--></p>
 <!-- LaTeX normally does not indent the first line after a heading - however, it does so after the mini table of contents. You can manually tell it not to with \noindent -->
 <p>Here is a brief introduction to using <em>R Markdown</em>.
 <em>Markdown</em> is a simple formatting syntax for authoring HTML, PDF, and MS Word documents and much, much more.
 <em>R Markdown</em> provides the flexibility of <em>Markdown</em> with the implementation of <strong>R</strong> input and output. For more details on using <em>R Markdown</em> see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
 <div id="basic-markdown-syntax" class="section level2" number="2.1">
-<h2><span class="header-section-number">2.1</span> Basic markdown syntax</h2>
+<h2>
+<span class="header-section-number">2.1</span> Basic markdown syntax<a class="anchor" aria-label="anchor" href="#basic-markdown-syntax"><i class="fas fa-link"></i></a>
+</h2>
 <div id="whitespace" class="section level3" number="2.1.1">
-<h3><span class="header-section-number">2.1.1</span> Whitespace</h3>
+<h3>
+<span class="header-section-number">2.1.1</span> Whitespace<a class="anchor" aria-label="anchor" href="#whitespace"><i class="fas fa-link"></i></a>
+</h3>
 <p>Be careful with your spacing.
 While whitespace largely is ignored, it does at times give markdown signals as to how to proceed.
 As a habit, try to keep everything left aligned whenever possible, especially as you type a new paragraph.
 In other words, there is no need to indent basic text in the Rmd document (in fact, it might cause your text to do funny things if you do).</p>
 </div>
 <div id="italics-and-bold" class="section level3" number="2.1.2">
-<h3><span class="header-section-number">2.1.2</span> Italics and bold</h3>
+<h3>
+<span class="header-section-number">2.1.2</span> Italics and bold<a class="anchor" aria-label="anchor" href="#italics-and-bold"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
-<li><em>Italics</em> are done like *this* or _this_</li>
-<li><strong>Bold</strong> is done like **this** or __this__</li>
-<li><strong><em>Bold and italics</em></strong> is done like ***this***, ___this___, or (the most transparent solution, in my opinion) **_this_**</li>
+<li>
+<em>Italics</em> are done like *this* or _this_</li>
+<li>
+<strong>Bold</strong> is done like **this** or __this__</li>
+<li>
+<strong><em>Bold and italics</em></strong> is done like ***this***, ___this___, or (the most transparent solution, in my opinion) **_this_**</li>
 </ul>
 </div>
 <div id="inline-code" class="section level3" number="2.1.3">
-<h3><span class="header-section-number">2.1.3</span> Inline code</h3>
+<h3>
+<span class="header-section-number">2.1.3</span> Inline code<a class="anchor" aria-label="anchor" href="#inline-code"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
-<li><code>Inline code</code> is created with backticks like <code>`this`</code></li>
+<li>
+<code>Inline code</code> is created with backticks like <code>`this`</code>
+</li>
 </ul>
 </div>
 <div id="sub-and-superscript" class="section level3" number="2.1.4">
-<h3><span class="header-section-number">2.1.4</span> Sub and superscript</h3>
+<h3>
+<span class="header-section-number">2.1.4</span> Sub and superscript<a class="anchor" aria-label="anchor" href="#sub-and-superscript"><i class="fas fa-link"></i></a>
+</h3>
 <p>Sub<sub>2</sub> and super<sup>2</sup> script is created like this~2~ and this^2^</p>
 </div>
 <div id="strikethrough" class="section level3" number="2.1.5">
-<h3><span class="header-section-number">2.1.5</span> Strikethrough</h3>
+<h3>
+<span class="header-section-number">2.1.5</span> Strikethrough<a class="anchor" aria-label="anchor" href="#strikethrough"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
-<li><del>Strikethrough</del> is done ~~like this~~</li>
+<li>
+<del>Strikethrough</del> is done ~~like this~~</li>
 </ul>
 </div>
 <div id="escaping-aka-what-if-i-need-an-actual-asterisk" class="section level3" number="2.1.6">
-<h3><span class="header-section-number">2.1.6</span> ‘Escaping’ (aka “What if I need an actual asterisk?”)</h3>
+<h3>
+<span class="header-section-number">2.1.6</span> ‘Escaping’ (aka “What if I need an actual asterisk?”)<a class="anchor" aria-label="anchor" href="#escaping-aka-what-if-i-need-an-actual-asterisk"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
 <li>To include an actual *, _ or \, add another \ in front of them: \*, \_, \\</li>
 </ul>
 </div>
 <div id="endash-emdash" class="section level3" number="2.1.7">
-<h3><span class="header-section-number">2.1.7</span> Endash (–), emdash (—)</h3>
+<h3>
+<span class="header-section-number">2.1.7</span> Endash (–), emdash (—)<a class="anchor" aria-label="anchor" href="#endash-emdash"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
 <li>– and — with -- and ---</li>
 </ul>
 </div>
 <div id="blockquotes" class="section level3" number="2.1.8">
-<h3><span class="header-section-number">2.1.8</span> Blockquotes</h3>
+<h3>
+<span class="header-section-number">2.1.8</span> Blockquotes<a class="anchor" aria-label="anchor" href="#blockquotes"><i class="fas fa-link"></i></a>
+</h3>
 <p>Do like this:</p>
 <blockquote>
 <p>Put a &gt; in front of the line.</p>
 </blockquote>
 </div>
 <div id="headings" class="section level3" number="2.1.9">
-<h3><span class="header-section-number">2.1.9</span> Headings</h3>
+<h3>
+<span class="header-section-number">2.1.9</span> Headings<a class="anchor" aria-label="anchor" href="#headings"><i class="fas fa-link"></i></a>
+</h3>
 <p>Section headers are created with #’s of increasing number, i.e. </p>
 <ul>
 <li># First-level heading</li>
@@ -391,7 +155,9 @@ In other words, there is no need to indent basic text in the Rmd document (in fa
 <p>In PDF output, a level-five heading will turn into a paragraph heading, i.e. <code>\paragraph{My level-five heading}</code>, which appears as bold text on the same line as the subsequent paragraph.</p>
 </div>
 <div id="lists" class="section level3" number="2.1.10">
-<h3><span class="header-section-number">2.1.10</span> Lists</h3>
+<h3>
+<span class="header-section-number">2.1.10</span> Lists<a class="anchor" aria-label="anchor" href="#lists"><i class="fas fa-link"></i></a>
+</h3>
 <p>Unordered list by starting a line with an * or a -:</p>
 <ul>
 <li>Item 1</li>
@@ -411,55 +177,69 @@ Notice that you can mislabel the numbers and <em>Markdown</em> will still make t
 <ul>
 <li>Item 3a</li>
 <li>Item 3b</li>
-</ul></li>
+</ul>
+</li>
 </ol>
 </div>
 <div id="line-breaks" class="section level3" number="2.1.11">
-<h3><span class="header-section-number">2.1.11</span> Line breaks</h3>
+<h3>
+<span class="header-section-number">2.1.11</span> Line breaks<a class="anchor" aria-label="anchor" href="#line-breaks"><i class="fas fa-link"></i></a>
+</h3>
 <p>The official <em>Markdown</em> way to create line breaks is by ending a line with more than two spaces.</p>
 <p>Roses are red.
 Violets are blue.</p>
 <p>This appears on the same line in the output, because we didn’t add spaces after red.</p>
-<p>Roses are red.<br />
+<p>Roses are red.<br>
 Violets are blue.</p>
 <p>This appears with a line break because I added spaces after red.</p>
 <p>I find this is confusing, so I recommend the alternative way: Ending a line with a backslash will also create a linebreak:</p>
-<p>Roses are red.<br />
+<p>Roses are red.<br>
 Violets are blue.</p>
 <p>To create a new paragraph, you put a blank line.</p>
 <p>Therefore, this line starts its own paragraph.</p>
 </div>
 <div id="hyperlinks" class="section level3" number="2.1.12">
-<h3><span class="header-section-number">2.1.12</span> Hyperlinks</h3>
+<h3>
+<span class="header-section-number">2.1.12</span> Hyperlinks<a class="anchor" aria-label="anchor" href="#hyperlinks"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
-<li><a href="https://www.google.com">This is a hyperlink</a> created by writing the text you want turned into a clickable link in <code>[square brackets followed by a](https://hyperlink-in-parentheses)</code></li>
+<li>
+<a href="https://www.google.com">This is a hyperlink</a> created by writing the text you want turned into a clickable link in <code>[square brackets followed by a](https://hyperlink-in-parentheses)</code>
+</li>
 </ul>
 </div>
 <div id="footnotes" class="section level3" number="2.1.13">
-<h3><span class="header-section-number">2.1.13</span> Footnotes</h3>
+<h3>
+<span class="header-section-number">2.1.13</span> Footnotes<a class="anchor" aria-label="anchor" href="#footnotes"><i class="fas fa-link"></i></a>
+</h3>
 <ul>
-<li>Are created<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a></li>
+<li>Are created<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;my footnote text&lt;/p&gt;"><sup>6</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;This is a random test.&lt;/p&gt;"><sup>7</sup></a>
+</li>
 </ul>
 <p><code>[^a-random-footnote-label]: This is a random test.</code></p>
 </div>
 <div id="comments" class="section level3" number="2.1.14">
-<h3><span class="header-section-number">2.1.14</span> Comments</h3>
+<h3>
+<span class="header-section-number">2.1.14</span> Comments<a class="anchor" aria-label="anchor" href="#comments"><i class="fas fa-link"></i></a>
+</h3>
 <p>To write comments within your text that won’t actually be included in the output, use the same syntax as for writing comments in HTML. That is, &lt;!-- this will not be included in the output --&gt;.</p>
 <!-- It is super useful to use comments! -->
 </div>
 <div id="math" class="section level3" number="2.1.15">
-<h3><span class="header-section-number">2.1.15</span> Math</h3>
+<h3>
+<span class="header-section-number">2.1.15</span> Math<a class="anchor" aria-label="anchor" href="#math"><i class="fas fa-link"></i></a>
+</h3>
 <p>The syntax for writing math is stolen from LaTeX. To write a math expression that will be shown <strong>inline</strong>, enclose it in dollar signs.
 - This: $A = \pi*r^{2}$ Becomes: <span class="math inline">\(A = \pi*r^{2}\)</span></p>
-<p>To write a math expression that will be shown in a block, enclose it in two dollar signs.<br />
+<p>To write a math expression that will be shown in a block, enclose it in two dollar signs.<br>
 This: <span>$</span>$A = \pi*r^{2}$$</p>
 <p>Becomes:
 <span class="math display">\[A = \pi*r^{2}\]</span></p>
 <p>To create numbered equations, put them in an ‘equation’ environment and give them a label with the syntax <code>(\#eq:label)</code>, like this:</p>
-<div class="sourceCode" id="cb4"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb4-1"><a href="rmd-basics.html#cb4-1" aria-hidden="true"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
-<span id="cb4-2"><a href="rmd-basics.html#cb4-2" aria-hidden="true"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
-<span id="cb4-3"><a href="rmd-basics.html#cb4-3" aria-hidden="true"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
-<span id="cb4-4"><a href="rmd-basics.html#cb4-4" aria-hidden="true"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb3-1"><a href="rmd-basics.html#cb3-1" aria-hidden="true"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
+<span id="cb3-2"><a href="rmd-basics.html#cb3-2" aria-hidden="true"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
+<span id="cb3-3"><a href="rmd-basics.html#cb3-3" aria-hidden="true"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
+<span id="cb3-4"><a href="rmd-basics.html#cb3-4" aria-hidden="true"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
 <p>Becomes:
 <span class="math display" id="eq:binom">\[\begin{equation}
 f\left(k\right)=\binom{n}{k}p^k\left(1-p\right)^{n-k}
@@ -469,106 +249,194 @@ f\left(k\right)=\binom{n}{k}p^k\left(1-p\right)^{n-k}
 </div>
 </div>
 <div id="code" class="section level2" number="2.2">
-<h2><span class="header-section-number">2.2</span> Executable code chunks</h2>
+<h2>
+<span class="header-section-number">2.2</span> Executable code chunks<a class="anchor" aria-label="anchor" href="#code"><i class="fas fa-link"></i></a>
+</h2>
 <p>The magic of R Markdown is that we can add executable code within our document to make it dynamic.</p>
 <p>We do this either as <em>code chunks</em> (generally used for loading libraries and data, performing calculations, and adding images, plots, and tables), or <em>inline code</em> (generally used for dynamically reporting results within our text).</p>
 <p>The syntax of a code chunk is shown in Figure <a href="rmd-basics.html#fig:chunk-parts">2.1</a>.</p>
-<div class="figure"><span id="fig:chunk-parts"></span>
-<img src="figures/sample-content/chunk-parts.png" alt="Code chunk syntax" width="100%" />
-<p class="caption">
+<div class="figure">
+<span id="fig:chunk-parts"></span>
+<img src="figures/sample-content/chunk-parts.png" alt="Code chunk syntax" width="100%"><p class="caption">
 Figura 2.1: Code chunk syntax
 </p>
 </div>
 <p>Common chunk options include (see e.g. <a href="https://bookdown.org/yihui/rmarkdown/r-code.html">bookdown.org</a>):</p>
 <ul>
-<li><code>echo</code>: whether or not to display code in knitted output</li>
-<li><code>eval</code>: whether or to to run the code in the chunk when knitting</li>
-<li><code>include</code>: whether to include anything from the from a code chunk in the output document</li>
-<li><code>fig.cap</code>: figure caption</li>
-<li><code>fig.scap</code>: short figure caption, which will be used in the ‘List of Figures’ in the PDF front matter</li>
+<li>
+<code>echo</code>: whether or not to display code in knitted output</li>
+<li>
+<code>eval</code>: whether or to to run the code in the chunk when knitting</li>
+<li>
+<code>include</code>: whether to include anything from the from a code chunk in the output document</li>
+<li>
+<code>fig.cap</code>: figure caption</li>
+<li>
+<code>fig.scap</code>: short figure caption, which will be used in the ‘List of Figures’ in the PDF front matter</li>
 </ul>
 <p><strong>IMPORTANT</strong>: Do <em>not</em> use underscoores in your chunk labels - if you do, you are likely to get an error in PDF output saying something like “! Package caption Error: \caption outside float”.</p>
 <div id="setup-chunks---setup-images-plots" class="section level3" number="2.2.1">
-<h3><span class="header-section-number">2.2.1</span> Setup chunks - setup, images, plots</h3>
+<h3>
+<span class="header-section-number">2.2.1</span> Setup chunks - setup, images, plots<a class="anchor" aria-label="anchor" href="#setup-chunks---setup-images-plots"><i class="fas fa-link"></i></a>
+</h3>
 <p>An R Markdown document usually begins with a chunk that is used to <strong>load libraries</strong>, and to <strong>set default chunk options</strong> with <code>knitr::opts_chunk$set</code>.</p>
 <p>In your thesis, this will probably happen in <strong>index.Rmd</strong> and/or as opening chunks in each of your chapters.</p>
 <pre><code>```{r setup, include=FALSE}
-# don&#39;t show code unless we explicitly set echo = TRUE
+# don't show code unless we explicitly set echo = TRUE
 knitr::opts_chunk$set(echo = FALSE)
 
 library(tidyverse)
 ```</code></pre>
 </div>
 <div id="including-images" class="section level3" number="2.2.2">
-<h3><span class="header-section-number">2.2.2</span> Including images</h3>
+<h3>
+<span class="header-section-number">2.2.2</span> Including images<a class="anchor" aria-label="anchor" href="#including-images"><i class="fas fa-link"></i></a>
+</h3>
 <p>Code chunks are also used for including images, with <code>include_graphics</code> from the <code>knitr</code> package, as in Figure <a href="rmd-basics.html#fig:oxford-logo">2.2</a></p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb6-1"><a href="rmd-basics.html#cb6-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo"></span>
-<img src="figures/sample-content/beltcrest.png" alt="Oxford logo" width="50%" />
-<p class="caption">
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/include_graphics.html">include_graphics</a></span><span class="op">(</span><span class="st">"figures/sample-content/beltcrest.png"</span><span class="op">)</span></code></pre></div>
+<div class="figure" style="text-align: center">
+<span id="fig:oxford-logo"></span>
+<img src="figures/sample-content/beltcrest.png" alt="Oxford logo" width="50%"><p class="caption">
 Figura 2.2: Oxford logo
 </p>
 </div>
 <p>Useful chunk options for figures include:</p>
 <ul>
-<li><code>out.width</code> (use with a percentage) for setting the image size</li>
-<li>if you’ve got an image that gets waaay to big in your output, it will be constrained to the page width by setting <code>out.width = "100%"</code></li>
+<li>
+<code>out.width</code> (use with a percentage) for setting the image size</li>
+<li>if you’ve got an image that gets waaay to big in your output, it will be constrained to the page width by setting <code>out.width = "100%"</code>
+</li>
 </ul>
 <div id="figure-rotation" class="section level4 unnumbered">
-<h4>Figure rotation</h4>
+<h4>Figure rotation<a class="anchor" aria-label="anchor" href="#figure-rotation"><i class="fas fa-link"></i></a>
+</h4>
 <p>You can use the chunk option <code>out.extra</code> to rotate images.</p>
 <p>The syntax is different for LaTeX and HTML, so for ease we might start by assigning the right string to a variable that depends on the format you’re outputting to:</p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="rmd-basics.html#cb7-1" aria-hidden="true"></a><span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_latex_output</span>()){</span>
-<span id="cb7-2"><a href="rmd-basics.html#cb7-2" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;angle=180&quot;</span></span>
-<span id="cb7-3"><a href="rmd-basics.html#cb7-3" aria-hidden="true"></a>} <span class="cf">else</span> {</span>
-<span id="cb7-4"><a href="rmd-basics.html#cb7-4" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;style=&#39;transform:rotate(180deg);&#39;&quot;</span></span>
-<span id="cb7-5"><a href="rmd-basics.html#cb7-5" aria-hidden="true"></a>}</span></code></pre></div>
+<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="kw">if</span> <span class="op">(</span><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/output_type.html">is_latex_output</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span><span class="op">{</span>
+  <span class="va">rotate180</span> <span class="op">&lt;-</span> <span class="st">"angle=180"</span>
+<span class="op">}</span> <span class="kw">else</span> <span class="op">{</span>
+  <span class="va">rotate180</span> <span class="op">&lt;-</span> <span class="st">"style='transform:rotate(180deg);'"</span>
+<span class="op">}</span></code></pre></div>
 <p>Then you can reference that variable as the value of <code>out.extra</code> to rotate images, as in Figure <a href="rmd-basics.html#fig:oxford-logo-rotated">2.3</a>.</p>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo-rotated"></span>
-<img src="figures/sample-content/beltcrest.png" alt="Oxford logo, rotated" width="50%" style='transform:rotate(180deg);' />
-<p class="caption">
+<div class="figure" style="text-align: center">
+<span id="fig:oxford-logo-rotated"></span>
+<img src="figures/sample-content/beltcrest.png" alt="Oxford logo, rotated" width="50%" style="transform:rotate(180deg);"><p class="caption">
 Figura 2.3: Oxford logo, rotated
 </p>
 </div>
 </div>
 </div>
 <div id="including-plots" class="section level3" number="2.2.3">
-<h3><span class="header-section-number">2.2.3</span> Including plots</h3>
+<h3>
+<span class="header-section-number">2.2.3</span> Including plots<a class="anchor" aria-label="anchor" href="#including-plots"><i class="fas fa-link"></i></a>
+</h3>
 <p>Similarly, code chunks are used for including dynamically generated plots.
 You use ordinary code in R or other languages - Figure <a href="rmd-basics.html#fig:cars-plot">2.4</a> shows a plot of the <code>cars</code> dataset of stopping distances for cars at various speeds (this dataset is built in to <strong>R</strong>).</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="rmd-basics.html#cb8-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb8-2"><a href="rmd-basics.html#cb8-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">ggplot</span>() <span class="op">+</span></span>
-<span id="cb8-3"><a href="rmd-basics.html#cb8-3" aria-hidden="true"></a><span class="st">    </span><span class="kw">aes</span>(<span class="dt">x =</span> speed, <span class="dt">y =</span> dist) <span class="op">+</span></span>
-<span id="cb8-4"><a href="rmd-basics.html#cb8-4" aria-hidden="true"></a><span class="st">    </span><span class="kw">geom_point</span>()</span></code></pre></div>
-<div class="figure"><span id="fig:cars-plot"></span>
-<img src="_main_files/figure-html/cars-plot-1.png" alt="A ggplot of car stuff" width="672" />
-<p class="caption">
+<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="va">cars</span> <span class="op">%&gt;%</span> 
+  <span class="fu">ggplot</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span>
+    <span class="fu">aes</span><span class="op">(</span>x <span class="op">=</span> <span class="va">speed</span>, y <span class="op">=</span> <span class="va">dist</span><span class="op">)</span> <span class="op">+</span>
+    <span class="fu">geom_point</span><span class="op">(</span><span class="op">)</span></code></pre></div>
+<div class="figure">
+<span id="fig:cars-plot"></span>
+<img src="_main_files/figure-html/cars-plot-1.png" alt="A ggplot of car stuff" width="672"><p class="caption">
 Figura 2.4: A ggplot of car stuff
 </p>
 </div>
 <p>Under the hood, plots are included in your document in the same way as images - when you build the book or knit a chapter, the plot is automatically generated from your code, saved as an image, then included into the output document.</p>
 </div>
 <div id="including-tables" class="section level3" number="2.2.4">
-<h3><span class="header-section-number">2.2.4</span> Including tables</h3>
+<h3>
+<span class="header-section-number">2.2.4</span> Including tables<a class="anchor" aria-label="anchor" href="#including-tables"><i class="fas fa-link"></i></a>
+</h3>
 <p>Tables are usually included with the <code>kable</code> function from the <code>knitr</code> package.</p>
-<p>Table <a href="#tab:cars-table"><strong>??</strong></a> shows the first rows of that cars data - read in your own data, then use this approach to automatically generate tables.</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="rmd-basics.html#cb9-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb9-2"><a href="rmd-basics.html#cb9-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">head</span>() <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb9-3"><a href="rmd-basics.html#cb9-3" aria-hidden="true"></a><span class="st">  </span>knitr<span class="op">::</span><span class="kw">kable</span>(<span class="dt">caption =</span> <span class="st">&quot;A knitr kable table&quot;</span>)</span></code></pre></div>
+<p>Table <a href="rmd-basics.html#tab:cars-table">2.1</a> shows the first rows of that cars data - read in your own data, then use this approach to automatically generate tables.</p>
+<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="va">cars</span> <span class="op">%&gt;%</span> 
+  <span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span><span class="op">(</span><span class="op">)</span> <span class="op">%&gt;%</span> 
+  <span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html">kable</a></span><span class="op">(</span>caption <span class="op">=</span> <span class="st">"A knitr kable table"</span><span class="op">)</span></code></pre></div>
+<div class="inline-table"><table class="table table-sm">
+<caption>
+<span id="tab:cars-table">Táboa 2.1: </span>A knitr kable table
+</caption>
+<thead><tr>
+<th style="text-align:right;">
+speed
+</th>
+<th style="text-align:right;">
+dist
+</th>
+</tr></thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+2
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:right;">
+10
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:right;">
+22
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:right;">
+16
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:right;">
+10
+</td>
+</tr>
+</tbody>
+</table></div>
 <ul>
 <li>Gotcha: when using <a href="https://www.rdocumentation.org/packages/knitr/versions/1.21/topics/kable"><code>kable</code></a>, captions are set inside the <code>kable</code> function</li>
 <li>The <code>kable</code> package is often used with the <a href="https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html"><code>kableExtra</code></a> package</li>
 </ul>
 </div>
 <div id="control-positioning" class="section level3" number="2.2.5">
-<h3><span class="header-section-number">2.2.5</span> Control positioning</h3>
+<h3>
+<span class="header-section-number">2.2.5</span> Control positioning<a class="anchor" aria-label="anchor" href="#control-positioning"><i class="fas fa-link"></i></a>
+</h3>
 <p>One thing that may be annoying is the way <em>R Markdown</em> handles “floats” like tables and figures.
 In your PDF output, LaTeX will try to find the best place to put your object based on the text around it and until you’re really, truly done writing you should just leave it where it lies.</p>
 <p>In general, you should allow LaTeX to do this, but if you really <em>really</em> need a figure to be positioned where you put in the document, then you can make LaTeX attempt to do this with the chunk option <code>fig.pos="H"</code>, as in Figure <a href="rmd-basics.html#fig:oxford-logo-controlled">2.5</a>:</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="rmd-basics.html#cb10-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo-controlled"></span>
-<img src="figures/sample-content/beltcrest.png" alt="An Oxford logo that LaTeX will try to place at this position in the text" width="50%" />
-<p class="caption">
+<div class="sourceCode" id="cb9"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/include_graphics.html">include_graphics</a></span><span class="op">(</span><span class="st">"figures/sample-content/beltcrest.png"</span><span class="op">)</span></code></pre></div>
+<div class="figure" style="text-align: center">
+<span id="fig:oxford-logo-controlled"></span>
+<img src="figures/sample-content/beltcrest.png" alt="An Oxford logo that LaTeX will try to place at this position in the text" width="50%"><p class="caption">
 Figura 2.5: An Oxford logo that LaTeX will try to place at this position in the text
 </p>
 </div>
@@ -578,90 +446,94 @@ For more details, read the relevant section of the <a href="https://bookdown.org
 </div>
 </div>
 <div id="executable-inline-code" class="section level2" number="2.3">
-<h2><span class="header-section-number">2.3</span> Executable inline code</h2>
+<h2>
+<span class="header-section-number">2.3</span> Executable inline code<a class="anchor" aria-label="anchor" href="#executable-inline-code"><i class="fas fa-link"></i></a>
+</h2>
 <p>‘Inline code’ simply means inclusion of code inside text.
 The syntax for doing this is <code>`r R_CODE`</code>
 For example, <code>`r 4 + 4`</code> will output 8 in your text.</p>
 <p>You will usually use this in parts of your thesis where you report results - read in data or results in a code chunk, store things you want to report in a variable, then insert the value of that variable in your text.
 For example, we might assign the number of rows in the <code>cars</code> dataset to a variable:</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="rmd-basics.html#cb11-1" aria-hidden="true"></a>num_car_observations &lt;-<span class="st"> </span><span class="kw">nrow</span>(cars)</span></code></pre></div>
-<p>We might then write:<br />
+<div class="sourceCode" id="cb10"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span class="va">num_car_observations</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/nrow.html">nrow</a></span><span class="op">(</span><span class="va">cars</span><span class="op">)</span></code></pre></div>
+<p>We might then write:<br>
 “In the <code>cars</code> dataset, we have <code>`r num_car_observations`</code> observations.”</p>
-<p>Which would output:<br />
+<p>Which would output:<br>
 “In the <code>cars</code> dataset, we have 50 observations.”</p>
 </div>
 <div id="executable-code-in-other-languages-than-r" class="section level2" number="2.4">
-<h2><span class="header-section-number">2.4</span> Executable code in other languages than R</h2>
+<h2>
+<span class="header-section-number">2.4</span> Executable code in other languages than R<a class="anchor" aria-label="anchor" href="#executable-code-in-other-languages-than-r"><i class="fas fa-link"></i></a>
+</h2>
 <p>If you want to use other languages than R, such as Python, Julia C++, or SQL, see <a href="https://bookdown.org/yihui/rmarkdown-cookbook/other-languages.html">the relevant section of the <em>R Markdown Cookbook</em></a></p>
 
 </div>
 </div>
-<div class="footnotes">
-<hr />
-<ol start="8">
-<li id="fn8"><p>my footnote text<a href="rmd-basics.html#fnref8" class="footnote-back">↩︎</a></p></li>
-<li id="fn9"><p>This is a random test.<a href="rmd-basics.html#fnref9" class="footnote-back">↩︎</a></p></li>
-</ol>
+
+  <div class="chapter-nav">
+<div class="prev"><a href="orixes-da-historia-da-m%C3%BAsica-occidental.html"><span class="header-section-number">1</span> Orixes da Historia da Música Occidental</a></div>
+<div class="next"><a href="cites-and-refs.html"><span class="header-section-number">3</span> Citations, cross-references, and collaboration</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#rmd-basics"><span class="header-section-number">2</span> R Markdown basics</a></li>
+<li>
+<a class="nav-link" href="#basic-markdown-syntax"><span class="header-section-number">2.1</span> Basic markdown syntax</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#whitespace"><span class="header-section-number">2.1.1</span> Whitespace</a></li>
+<li><a class="nav-link" href="#italics-and-bold"><span class="header-section-number">2.1.2</span> Italics and bold</a></li>
+<li><a class="nav-link" href="#inline-code"><span class="header-section-number">2.1.3</span> Inline code</a></li>
+<li><a class="nav-link" href="#sub-and-superscript"><span class="header-section-number">2.1.4</span> Sub and superscript</a></li>
+<li><a class="nav-link" href="#strikethrough"><span class="header-section-number">2.1.5</span> Strikethrough</a></li>
+<li><a class="nav-link" href="#escaping-aka-what-if-i-need-an-actual-asterisk"><span class="header-section-number">2.1.6</span> ‘Escaping’ (aka “What if I need an actual asterisk?”)</a></li>
+<li><a class="nav-link" href="#endash-emdash"><span class="header-section-number">2.1.7</span> Endash (–), emdash (—)</a></li>
+<li><a class="nav-link" href="#blockquotes"><span class="header-section-number">2.1.8</span> Blockquotes</a></li>
+<li><a class="nav-link" href="#headings"><span class="header-section-number">2.1.9</span> Headings</a></li>
+<li><a class="nav-link" href="#lists"><span class="header-section-number">2.1.10</span> Lists</a></li>
+<li><a class="nav-link" href="#line-breaks"><span class="header-section-number">2.1.11</span> Line breaks</a></li>
+<li><a class="nav-link" href="#hyperlinks"><span class="header-section-number">2.1.12</span> Hyperlinks</a></li>
+<li><a class="nav-link" href="#footnotes"><span class="header-section-number">2.1.13</span> Footnotes</a></li>
+<li><a class="nav-link" href="#comments"><span class="header-section-number">2.1.14</span> Comments</a></li>
+<li><a class="nav-link" href="#math"><span class="header-section-number">2.1.15</span> Math</a></li>
+</ul>
+</li>
+<li>
+<a class="nav-link" href="#code"><span class="header-section-number">2.2</span> Executable code chunks</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#setup-chunks---setup-images-plots"><span class="header-section-number">2.2.1</span> Setup chunks - setup, images, plots</a></li>
+<li><a class="nav-link" href="#including-images"><span class="header-section-number">2.2.2</span> Including images</a></li>
+<li><a class="nav-link" href="#including-plots"><span class="header-section-number">2.2.3</span> Including plots</a></li>
+<li><a class="nav-link" href="#including-tables"><span class="header-section-number">2.2.4</span> Including tables</a></li>
+<li><a class="nav-link" href="#control-positioning"><span class="header-section-number">2.2.5</span> Control positioning</a></li>
+</ul>
+</li>
+<li><a class="nav-link" href="#executable-inline-code"><span class="header-section-number">2.3</span> Executable inline code</a></li>
+<li><a class="nav-link" href="#executable-code-in-other-languages-than-r"><span class="header-section-number">2.4</span> Executable code in other languages than R</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/ulyngs/oxforddown/blob/master/02-unidade-02.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/ulyngs/oxforddown/edit/master/02-unidade-02.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
 </div>
-            </section>
+    </nav>
+</div>
 
-          </div>
-        </div>
-      </div>
-<a href="orixes-da-historia-da-música-occidental.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="cites-and-refs.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
-    </div>
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong><p>Historia I<br>
+Apuntes e materiais didácticos</p></strong>" was written by Roberto Prado Martínez. </p>
   </div>
-<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
-<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
-<script>
-gitbook.require(["gitbook"], function(gitbook) {
-gitbook.start({
-"sharing": {
-"github": false,
-"facebook": false,
-"twitter": false,
-"linkedin": false,
-"weibo": false,
-"instapaper": false,
-"vk": false,
-"whatsapp": false,
-"all": false
-},
-"fontsettings": {
-"theme": "white",
-"family": "sans",
-"size": 2
-},
-"edit": {
-"link": "https://github.com/robertopradomartinez/Historia-I/tree/master/02-unidade-02.Rmd",
-"text": "Edit"
-},
-"history": {
-"link": null,
-"text": null
-},
-"view": {
-"link": null,
-"text": null
-},
-"download": ["_main.pdf"],
-"toc": {
-"collapse": "subsection"
-}
-});
-});
-</script>
 
-<!-- dynamically load mathjax for compatibility with self-contained -->
-<script>
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
@@ -675,5 +547,4 @@ gitbook.start({
   })();
 </script>
 </body>
-
 </html>

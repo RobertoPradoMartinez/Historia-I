@@ -12,11 +12,11 @@ documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-# Orixes da Historia da Música Occidental
+# Orixes da Música Occidental
 
 \minitoc <!-- this will include a mini table of contents-->
 
-## Introdución {-}
+
 
 ```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```

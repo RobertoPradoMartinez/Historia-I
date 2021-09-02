@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Conceptos previos | Historia I Apuntes e materiais didácticos</title>
+<meta name="author" content="Roberto Prado Martínez">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.6.4/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.5.1/tabs.js"></script><script src="libs/bs3compat-0.2.5.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="libs/kePrint-0.0.1/kePrint.js"></script><link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="templates/bs4_style.css">
+<link rel="stylesheet" href="templates/corrections.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title=""><p>Historia I<br>
+Apuntes e materiais didácticos</p></a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Benvida</a></li>
+<li><a class="active" href="conceptos-previos.html">Conceptos previos</a></li>
+<li><a class="" href="orixes-da-historia-da-m%C3%BAsica-occidental.html"><span class="header-section-number">1</span> Orixes da Historia da Música Occidental</a></li>
+<li><a class="" href="rmd-basics.html"><span class="header-section-number">2</span> R Markdown basics</a></li>
+<li><a class="" href="cites-and-refs.html"><span class="header-section-number">3</span> Citations, cross-references, and collaboration</a></li>
+<li><a class="" href="tables.html"><span class="header-section-number">4</span> Tables</a></li>
+<li><a class="" href="customisations-and-extensions.html"><span class="header-section-number">5</span> Customisations and extensions</a></li>
+<li><a class="" href="troubleshooting.html"><span class="header-section-number">6</span> Troubleshooting</a></li>
+<li><a class="" href="unidade-7.html"><span class="header-section-number">7</span> Unidade 7</a></li>
+<li><a class="" href="unidade-8.html"><span class="header-section-number">8</span> Unidade 8</a></li>
+<li><a class="" href="unidade-9.html"><span class="header-section-number">9</span> Unidade 9</a></li>
+<li><a class="" href="unidade-10.html"><span class="header-section-number">10</span> Unidade 10</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="the-first-appendix.html"><span class="header-section-number">A</span> The First Appendix</a></li>
+<li><a class="" href="the-second-appendix-for-fun.html"><span class="header-section-number">B</span> The Second Appendix, for Fun</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/ulyngs/oxforddown">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="conceptos-previos" class="section level1 unnumbered">
+<h1>Conceptos previos<a class="anchor" aria-label="anchor" href="#conceptos-previos"><i class="fas fa-link"></i></a>
+</h1>
+<!-- IMPORTANTE, incluir despois de capítulos non numerados.
+ Evita que o índice de capítulos e encabezamentos amose os textos do capítulo anterior.
+  -->
+<!-- CITA DE INICIO DE CAPÍTULO (só pdf) -->
+
+<!-- 
+Notes for adding an opening quote in PDF output:
+i) add the reference for the quote with the chunk option quote_author="my author name",
+ii) include=knitr::opts_knit$get('rmarkdown.pandoc.to') == 'latex' means that these quotes are only included when output is latex (in HTML output, it would appear by the end of the previous page)
+iii) You can't use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the quote reference use a 'text reference': Create a named piece of text with '(ref:label-name) My text', then link to this in the chunk option with quote_author='(ref:label-name)'
+-->
+<p>O estudo da historia da música que interpretamos e transmitimos, así como da que escoitamos supón un aspecto de gran importancia dentro da formación de todo músico.</p>
+<p>A finalidade da Historia da Música é escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas, comprender e coñecer os feitos históricos e movementos socioculturais máis destacados así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.</p>
+<p>Comezamos este curso facendo un percorrido histórico, artístico e musical polas épocas anteriores á actual, coa finalidade de coñecer e comprender mellor a música e os elementos que forman parte dunha obra de arte musical. Faremos un percorrido pola música de diferentes épocas e civilizacións, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na Península Ibérica e Galicia.</p>
+<p>Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as teorías sobre a música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.</p>
+<div id="a-música-concepto-e-significado" class="section level2 unnumbered">
+<h2>A música: concepto e significado<a class="anchor" aria-label="anchor" href="#a-m%C3%BAsica-concepto-e-significado"><i class="fas fa-link"></i></a>
+</h2>
+<p>Se tratamos de definir a música, poderiamos dicir que é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. En certo modo, resúltanos familiar este concepto dado que vivimos rodeados de música.</p>
+<p>Se procuramos na rede un significado tradicional de «música»<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;Os gregos definen a música como «a arte das musas»&lt;/p&gt;"><sup>1</sup></a>, atopamos:</p>
+<blockquote>
+<p>La música […] es el <a href="https://es.wikipedia.org/wiki/Arte">arte</a> de organizar sensible y lógicamente una combinación coherente de <a href="https://es.wikipedia.org/wiki/Sonido">sonidos</a> y <a href="https://es.wikipedia.org/wiki/Silencio_(sonido)">silencios</a> respetando los principios fundamentales de la <a href="https://es.wikipedia.org/wiki/Melod%C3%ADa">melodía</a>, la <a href="https://es.wikipedia.org/wiki/Armon%C3%ADa">armonía</a> y el <a href="https://es.wikipedia.org/wiki/Ritmo">ritmo</a>, […].<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;Definición de &lt;a href="https://es.wikipedia.org/wiki/M%C3%BAsica#Definici%C3%B3n"&gt;música&lt;/a&gt; consultada na wikipedia.&lt;/p&gt;'><sup>2</sup></a></p>
+</blockquote>
+<p>A <a href="https://academia.gal/dicionario" title="diccionario da Real Academia Galega da Lingua">Real Adacemia Galega da lingua</a>, define a <a href="https://digalego.xunta.gal/es/termo/44501/m%C3%BAsica" title="definición de música da Real Academia Galega da língua">«música»</a> como:</p>
+<blockquote>
+<p>Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.</p>
+</blockquote>
+<div class="correction">
+<p>
+Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
+</p>
+</div>
+</div>
+<div id="a-historia-da-música-concepto-e-significado" class="section level2 unnumbered">
+<h2>A Historia da Música: concepto e significado<a class="anchor" aria-label="anchor" href="#a-historia-da-m%C3%BAsica-concepto-e-significado"><i class="fas fa-link"></i></a>
+</h2>
+<p>Se ben o concepto de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».</p>
+<blockquote>
+<p><em>La <strong>Historia de la música</strong> es el estudio de las diferentes tradiciones en la música y su orden en el planeta</em>.</p>
+<p>[…] <em>aquella disciplina que trata el estudio de la evolución de las diferentes tradiciones musicales a lo largo del tiempo</em>.</p>
+</blockquote>
+<p>Estas son algunhas ideas sobre o concepto de «historia da música», que nos aproximan ao concepto que estamos a buscar. De xeito formal, atopamos as seguintes definicións:</p>
+<ul>
+<li>a <a href="https://dle.rae.es/" title="Enlace á páxina da Real Academia Española da Língua">Real Academia Española da lingua</a> (RAE) define textualmente <a href="https://dle.rae.es/historia#otras" title="definición de «historia» da Real Academia Española da Língua">«historia»</a> como:</li>
+</ul>
+<blockquote>
+<p>1.- <em>Narración y exposición de los acontecimientos pasados y dignos de memoria, sean públicos o privados</em>.</p>
+<p>2.- <em>Disciplina que estudia y narra cronológicamente los acontecimientos pasados</em></p>
+<p>3.- <em>Conjunto de los sucesos o hechos políticos, sociales, económicos, culturales, etc., de un pueblo o de una nación</em>.</p>
+<p>5.- <em>Conjunto de los acontecimientos ocurridos a alguien a lo largo de su vida o en un período de ella</em><a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;&lt;em&gt;Definición de historia&lt;/em&gt;, RAE consultado en &lt;a href="https://www.rae.es" class="uri"&gt;https://www.rae.es&lt;/a&gt; , (Setembro, 2020).&lt;/p&gt;'><sup>3</sup></a></p>
+</blockquote>
+<ul>
+<li>a <a href="https://academia.gal/dicionario" title="diccionario da Real Academia Galega da Lingua">Real Adacemia Galega da lingua</a> (RAG), define <a href="https://academia.gal/dicionario/-/termo/busca/Historia" title="definición de Historia da Real Academia Galega da língua">«historia»</a>:</li>
+</ul>
+<blockquote>
+<ol style="list-style-type: decimal">
+<li><p>Conxunto de feitos ocorridos no pasado, que afectan a toda a humanidade, a un grupo, unha persoa, unha institución, a unha faceta concreta dese pasado etc.</p></li>
+<li><p>Ciencia que estuda eses feitos.<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;&lt;em&gt;Definición de historia&lt;/em&gt;, RAG consultado en &lt;a href="https://academia.gal/diccionario" class="uri"&gt;https://academia.gal/diccionario&lt;/a&gt; , (Setembro 2020)&lt;/p&gt;'><sup>4</sup></a></p></li>
+</ol>
+</blockquote>
+<p>Concluiremos entón, que a finalidade da Historia da Música occidental é, entre outras:</p>
+<div class="correction">
+<ul>
+<li>
+o estudo da evolución das diferentes manifestacións musicais (a tradición musical) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
+</li>
+</ul>
+</div>
+</div>
+<div id="obxectivos-e-problemática-da-materia" class="section level2 unnumbered">
+<h2>Obxectivos e problemática da materia<a class="anchor" aria-label="anchor" href="#obxectivos-e-problem%C3%A1tica-da-materia"><i class="fas fa-link"></i></a>
+</h2>
+<p>O principal obxectivo da Historia da Música é o <strong>estudo da evolución da música ao longo da historia da humanidade</strong>.</p>
+<p>Un dos problemas, que debemos afrontar na historia da música, é atopar unha definición máis ou menos aceptada e consensuada do que se entende por «música», dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.</p>
+<!-- %%% Oculto comentario de Francisco Callejo (2021/2022) %%%
+
+Son frecuentes as discusións entre musicólogos, historiadores e grades entendidos sobre a música para lograr unha definición universal da música, pero é complicado universalizar este concepto dada a diversidade de culturas e pobos. O profesor Francisco Callejo, expón esta problemática:
+
+> [...] el primer problema que nos encontramos es acordar una definición universal de *música*: el concepto de música varía de una cultura a otra; por ejemplo, la mayor parte de los musulmanes no considerarían música la llamada a la oración del almuédano, que a los oídos occidentales suena similar a muchas salmodias medievales; los toques de campanas de las iglesias cristianas, por el  contrario, no son considerados como manifestaciones musicales en occidente, aunque a muchos africanos les recordarían melodías suyas. [^ref:Callejo(2017)]
+
+Como vemos no exemplo anterior, o que se considera música para unha cultura, pode non selo para outra e viceversa. Pensemos nestas dúas preguntas, relacionadas co exemplo de Callejo:
+
+- considerdamos como música todo aquelo que alguén considera como tal? (caso do *almuédano* [^cita:almuédano] e as campás)
+- consideramos como música, pola contra, só o que todos consideramos música?
+
+-->
+<p>Por outra parte, a «historia da música occidental» exclúe moitas manifestacións musicais como a música popular actual, a música tradicional europea e non europea. Exclúe tamén do seu ámbito de estudo, a música clásica oriental chinesa, xaponesa ou india. Así o seu campo de estudo redúcese, exclusivamente á “música culta” europea, a pesares de si estudar algunha música non europea que segue certos cánones europeos.</p>
+<p>Outra cuestión que influirá no concepto é a «orixe da cultura occidental». Cando comeza a cultura occidental? ou mellor dito, desde cando consideramos que comeza a cultura occidental?</p>
+<div id="a-actividade-musical-e-o-produto-musical" class="section level3 unnumbered">
+<h3>A actividade musical e o produto musical<a class="anchor" aria-label="anchor" href="#a-actividade-musical-e-o-produto-musical"><i class="fas fa-link"></i></a>
+</h3>
+<p>Unha das cuestións que teremos en conta en primeiro lugar, será diferenciar entre música como actividade e música como resultado desa actividade.</p>
+<p>En primeiro lugar, diferenciaremos a música como <strong>actividade</strong>, onde unha ou máis persoas participan creando, interpretando ou escoitando música; en comparación coa música como <strong>produto</strong> isto é, o resultado desta actividade é algo sólido, coa posibilidade de ser escrito con sistemas de notación dando como resultado unha obra musical, por exemplo. Neste caso, obtemos un produto (obra musical) resultante dunha actividade (composición).</p>
+<p>A actividade musical pode considerarse como un proceso bastante complexo, que abarca varias fases: <strong>produción</strong>, <strong>difusión</strong> e <strong>consumo</strong>.</p>
+<p>Para comprender a actividade musical, como proceso creativo, vexamos o seguinte exemplo tendo en conta as fases indicadas no parágrafo anterior:<br>
+imaxinemos por un momento, que como resultado dun intre de inspiración, escribimos unha sinxela melodía que nos gusta moito e non queremos esquencer (<strong>composición</strong>) . Despois de interpretala repetidas veces, decidimos compartila en público o cal resulta todo un éxito (<strong>interpretación</strong>). Chegados a este punto, e despois do éxito da nosa creación, decidimos realizar unha xira de concertos (<strong>audición</strong>).</p>
+<p>O exemplo anterior, lévanos a relacionar as diferentes fases do proceso (produción, difusión e consumo) coas súas equivalentes actividades (composición, interpretación e audición) tal que, producimos o noso grande éxito cando compoñemos unha sinxela melodía, que difundiremos ao público por medio da interpretación e, finalmente, por medio dos concertos (audición) fomentamos o seu consumo.</p>
+<div class="inline-table"><table class="table table-sm">
+<thead><tr class="header">
+<th>FASE</th>
+<th>ACTIVIDADE</th>
+</tr></thead>
+<tbody>
+<tr class="odd">
+<td>Produción</td>
+<td>Composición</td>
+</tr>
+<tr class="even">
+<td>Difusión</td>
+<td>Interpretación</td>
+</tr>
+<tr class="odd">
+<td>Consumo</td>
+<td>Audición</td>
+</tr>
+</tbody>
+</table></div>
+<p>Para estudar a actividade musical historicamente (o “proceso musical”), imos centrarnos por un igual nas tres fases do proceso, polo que trataremos a produción, facendo referencia aos intérpretes, ás técnicas e sobre todo aos contextos de escoita (audición), entre outros.</p>
+</div>
+<div id="música-de-tadición-oral-e-notación-musical" class="section level3 unnumbered">
+<h3>Música de tadición oral e notación musical<a class="anchor" aria-label="anchor" href="#m%C3%BAsica-de-tadici%C3%B3n-oral-e-notaci%C3%B3n-musical"><i class="fas fa-link"></i></a>
+</h3>
+<p>A posibilidade de estudar música historicamente, baséase na existencia dunha transmisión dela ao longo do tempo (tradición oral).<br>
+En case todas as culturas e tempos, a música transmitiuse por medio da escoita e posterior repetición. Isto é o que se chama <strong>transmisión oral</strong>(propio da idade da memoria)</p>
+<p>Tamén existe a posibilidade de transmitir - e almacenar - música con varios métodos de escritura musical, dando lugar a transmisión escrita (idade de notación).</p>
+</div>
+<div id="música-popular-e-música-culta" class="section level3 unnumbered">
+<h3>Música popular e «música culta»<a class="anchor" aria-label="anchor" href="#m%C3%BAsica-popular-e-m%C3%BAsica-culta"><i class="fas fa-link"></i></a>
+</h3>
+<p>A actividade musical, prodúcese en todos os grupos sociais e nun gran número de situacións diferentes. Algunhas manifestacións musicais adquiriron un maior prestixio social, ben pola súa relación e vinculación coa alta sociedade, ben polas súas características de formación e profesionalización. Estamos a diferencar música académica, tamén coñecida como “clásica” ou “culta”, fronte a unha enorme variedade de música popular, normalmente considerada de menor prestixio.</p>
+<p>O estudo da música debería abarcar todos os estilos, pero neste caso trataremos só o estudo dos estilos académicos.</p>
+</div>
+<div id="o-enfoque-eurocéntrico" class="section level3 unnumbered">
+<h3>O enfoque eurocéntrico<a class="anchor" aria-label="anchor" href="#o-enfoque-euroc%C3%A9ntrico"><i class="fas fa-link"></i></a>
+</h3>
+<p>Cando estudamos a historia da música, adoitamos centrarnos en produtos musicais escritos da tradición académica europea, polo que acurtamos drasticamente o obxecto de estudo. O resto - actividade musical, transmisión oral, música popular ou non europea - son obxecto de estudo da etnomusicoloxía, que normalmente non aplica o enfoque histórico.</p>
+<p>Este enfoque “eurocéntrico” da Historia da Música, deixa fóra numerosas manifestacións musicais, tanto académicas como populares de fóra de Europa, que nalgúns casos tiveron unha forte influencia no propio desenvolvemento da música europea; se ben teremos en consideración, que foi no continente europeo onde se crearon os principais tratados e estudos sobre música.</p>
+</div>
+<div id="cánon-e-repertorio" class="section level3" number="0.0.1">
+<h3>
+<span class="header-section-number">0.0.1</span> Cánon e repertorio<a class="anchor" aria-label="anchor" href="#c%C3%A1non-e-repertorio"><i class="fas fa-link"></i></a>
+</h3>
+<p>Ao longo do século XIX desenvolvéronse dúas ideas ou conceptos importantes: <em>o canon</em> e o <em>repertorio</em>. O primeiro refírese ao conxunto de compositores e obras obxecto de estudo; o segundo é o conxunto de obras que, por unha ou outra razón, seguimos interpretando e escoitando. Ámbolos dous conceptos derivan de certos criterios de “calidade musical” malia que é certo que son, á súa vez, produtos culturais europeos creados en contextos políticos, sociais e ideolóxicos específicos.</p>
+<p>O feito de que se exclúa a música non europea ou popular, fainos pensar na discriminación étnica e de clase, que mantiveron certos musicólogos, intérpretes, críticos, (…) do século XIX. A exclusión do canon da muller como compositora, é outro exemplo destes prexuízos e discriminación [^cita:exclusión_muller], así como o silencio ao que foron sometidos aqueles compositores [^cita:exclusión_compo] que non se axustaban ao modelo ou idea de evolución da música occidental da época. Sen dúbida, outra das ideas que marcaron este concepto de canon foi a valoración dos nacionalismos,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;A idea do nacional ou nacionalista tamén influíu na creación do canon. O feito de que as universidades máis importantes de finais do século XIX e principios do XX fosen as de Alemaña e que a escola historiográfica alemá dominase un período decisivo na historiografía musical, explica a abundancia de compositores xermanos no canon.&lt;/p&gt;"><sup>5</sup></a> que explica así que predominase certa música sobre outra.</p>
+<!-- Oculto curso 21/22:
+A modo de conclusión, o concepto de *historia da música* redúcese ao estudo dunha serie de compositores e obras musicais da música culta (académica) occidental, que foron seleccionados seguindo certos criterios impostos en certas ocasións polas "modas musicais" da época.
+-->
+<!-- CITAS E NOTAS DESTE TEMA -->
+<!--- Fin de notas a pié de página --->
+
+</div>
+</div>
+</div>
+
+  <div class="chapter-nav">
+<div class="prev"><a href="index.html">Benvida</a></div>
+<div class="next"><a href="orixes-da-historia-da-m%C3%BAsica-occidental.html"><span class="header-section-number">1</span> Orixes da Historia da Música Occidental</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#conceptos-previos">Conceptos previos</a></li>
+<li><a class="nav-link" href="#a-m%C3%BAsica-concepto-e-significado">A música: concepto e significado</a></li>
+<li><a class="nav-link" href="#a-historia-da-m%C3%BAsica-concepto-e-significado">A Historia da Música: concepto e significado</a></li>
+<li>
+<a class="nav-link" href="#obxectivos-e-problem%C3%A1tica-da-materia">Obxectivos e problemática da materia</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#a-actividade-musical-e-o-produto-musical">A actividade musical e o produto musical</a></li>
+<li><a class="nav-link" href="#m%C3%BAsica-de-tadici%C3%B3n-oral-e-notaci%C3%B3n-musical">Música de tadición oral e notación musical</a></li>
+<li><a class="nav-link" href="#m%C3%BAsica-popular-e-m%C3%BAsica-culta">Música popular e «música culta»</a></li>
+<li><a class="nav-link" href="#o-enfoque-euroc%C3%A9ntrico">O enfoque eurocéntrico</a></li>
+<li><a class="nav-link" href="#c%C3%A1non-e-repertorio"><span class="header-section-number">0.0.1</span> Cánon e repertorio</a></li>
+</ul>
+</li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/ulyngs/oxforddown/blob/master/00-intro.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/ulyngs/oxforddown/edit/master/00-intro.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong><p>Historia I<br>
+Apuntes e materiais didácticos</p></strong>" was written by Roberto Prado Martínez. </p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+</html>
