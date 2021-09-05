@@ -44,7 +44,7 @@ Comezamos este curso facendo un percorrido histórico, artístico e musical pola
 
 Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as teorías sobre a música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.
 
-## A música: concepto e significado {-}
+## A música. Concepto e significado {-}
 
 Se tratamos de definir a música, poderiamos dicir que é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. En certo modo, resúltanos familiar este concepto dado que vivimos rodeados de música. 
 
@@ -61,7 +61,7 @@ A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] com
 Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
 
 ```
-## A Historia da Música: concepto e significado {-}
+## Relación entre historia e a música {-}
 
 Se ben o concepto de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».
 

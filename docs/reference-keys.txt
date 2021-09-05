@@ -3,14 +3,12 @@ fig:chunk-parts
 fig:oxford-logo
 fig:oxford-logo-rotated
 fig:cars-plot
-tab:cars-table
 fig:oxford-logo-controlled
 fig:citr
 fig:captain
-tab:cars-table2
 fig:latex-font-sizing
 cánon-e-repertorio
-orixes-da-historia-da-música-occidental
+orixes-da-música-occidental
 a-orixe-da-música
 a-música-durante-a-prehistoria
 a-música-na-prehistoria
