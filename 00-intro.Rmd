@@ -36,7 +36,7 @@ iii) You can't use markdown syntax inside chunk options, so if you want to e.g. 
 -->
 
 
-<!--
+<!-- OBXECTIVOS DA HISTORIA DA MÚSICA: insertar dende externo!
 A finalidade da Historia da Música é escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas, comprender e coñecer os feitos históricos e movementos socioculturais máis destacados así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.
 -->
 
@@ -46,7 +46,11 @@ Nos primeiros capítulos, trataremos a orixe da música e a música na prehistor
 
 ## A música. Concepto e significado {-}
 
-Se tratamos de definir a música, poderiamos dicir que é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto. En certo modo, resúltanos familiar este concepto dado que vivimos rodeados de música. 
+En pleno século XXI, o concepto de «música» resúltanos familiar: vivimos rodeados de música e cada vez máis as novas tecnoloxías contribúen a que esto sexa así.  
+
+````{block type='correction'}
+Podemos afirmar, que a música é un medio de expresión dos sentimentos humanos; unha manifestación artística e cultural dos pobos que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto.
+```
 
 Se procuramos na rede un significado tradicional de «música»[^cita:Musas], atopamos: 
 
@@ -61,7 +65,7 @@ A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] com
 Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
 
 ```
-## Relación entre historia e a música {-}
+## Relación entre historia e música {-}
 
 Se ben o concepto de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».
 
