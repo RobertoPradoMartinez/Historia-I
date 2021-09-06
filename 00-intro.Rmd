@@ -36,33 +36,42 @@ iii) You can't use markdown syntax inside chunk options, so if you want to e.g. 
 -->
 
 
-<!-- OBXECTIVOS DA HISTORIA DA MÚSICA: insertar dende externo!
+<!-- PENDIENTE: Mover ao apartado PRESENTACIÓN!
 A finalidade da Historia da Música é escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas, comprender e coñecer os feitos históricos e movementos socioculturais máis destacados así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.
--->
 
 Comezamos este curso facendo un percorrido histórico, artístico e musical polas épocas anteriores á actual, coa finalidade de coñecer e comprender mellor a música e os elementos que forman parte dunha obra de arte musical. Faremos un percorrido pola música de diferentes épocas e civilizacións, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na Península Ibérica e igualmente en Galicia.  
 
 Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as principais teorías sobre música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.
+-->
 
-## Música: concepto e significado {-}
+## A música como mensaxe dentro do contexto socio-cultural da historia {-}
 
-En pleno século XXI, o concepto de «música» resúltanos familiar: vivimos rodeados de música. Cada vez máis, as novas tecnoloxías contribúen á difusión do producto e tamén da actividade musical entre a sociedade.
-
-Podemos decir que a música, é un medio de expresión dos sentimentos humanos, unha manifestación artística e cultural dos pobos, que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto.
-
-```{example, label="foo", name="Entornos de bookdown"}
-Esto es un ejemplo.
+```{r child=here::here('unidades-didacticas/unidade-00/musica-como-mensaxe.md')}
 ```
 
-```{exercise, label="exercicio1", name="Exercicio sobre o tema 1"}
-Esto es un ejemplo.
-```
+## A obra de arte musical {-}
 
-Se procuramos na rede un significado tradicional de «música»[^cita:Musas], atopamos: 
+<!-- FONTE: Mayra Fa Echevarría--->
 
+## Concepto de música {-}
+En pleno século XXI, o concepto de «música» debe resultarnos bastante familiar. As novas tecnoloxías da información e da comuniación son grandes impulsoras pois vivimos rodeados dela. As novas tecnoloxías contribúen á difusión do producto e tamén da actividade musical entre a sociedade.
+
+Unha primeira aproximación ao concepto, lévanos a pensar que a música é un medio de expresión dos sentimentos humanos, unha manifestación artística e cultural dos pobos, que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto.
+
+<!-- Definición de música (Wikipedia)-->
+
+### Algunhas definicións aceptadas {-}
+
+Música
+:    
 >La música [...] es el [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible y lógicamente una combinación coherente de [sonidos](https://es.wikipedia.org/wiki/Sonido) y [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando los principios fundamentales de la [melodía](https://es.wikipedia.org/wiki/Melodía), la [armonía](https://es.wikipedia.org/wiki/Armonía) y el [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
 
-A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] como:
+
+```{r figura-exemplo1, echo=FALSE, fig.align='center', fig.cap="Insertar imaxes en RStudio.", out.width="65%"}
+knitr::include_graphics('figures/ud-00/photo.png')
+```
+
+- A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] como:
 
 > Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
 

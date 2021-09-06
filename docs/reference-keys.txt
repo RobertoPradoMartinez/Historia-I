@@ -1,5 +1,4 @@
-exm:foo
-exr:exercicio1
+fig:figura-exemplo1
 eq:binom
 fig:chunk-parts
 fig:oxford-logo

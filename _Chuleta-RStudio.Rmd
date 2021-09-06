@@ -34,12 +34,25 @@ ii) include=knitr::opts_knit$get('rmarkdown.pandoc.to') == 'latex' means that th
 iii) You can't use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the quote reference use a 'text reference': Create a named piece of text with '(ref:label-name) My text', then link to this in the chunk option with quote_author='(ref:label-name)'
 -->
 
+## Entornos persoais
+
+### Exemplo
+
+```{example, label="foo", name="Entornos de bookdown"}
+Esto es un ejemplo.
+```
+### Exercicios
+
+```{exercise, label="exercicio1", name="Exercicio sobre o tema 1"}
+Esto es un ejemplo.
+```
 
 ## Táboas: creación e visualización {-}
 
 Texto de referencia e consultas en [Pedro Luis Luque Calvo]: http://www.destio.us.es/calvo/ficheros/ComoCrearTablasRMarkdown_PedroLuque_2019Sep_librodigital.pdf
 
 ### Crear táboas introducindo datos manualmente {-}
+
 
 - Exemplo de creación dunha táboa sinxela en R:
 
@@ -51,6 +64,13 @@ Columna2 = c(1,1,2.5,3,4),
 Columna3 = c(4,2,2,5,4),
 Columna4 = c(12,24,13,7,17)
 )
+```
+
+
+```{r, figures-side, fig.show="hold", out.width="50%"}
+par(mar = c(4, 4, .1, .1))
+plot(cars)
+plot(mpg ~ hp, data = mtcars, pch = 19)
 ```
 
 
@@ -92,6 +112,10 @@ Edad & Nacimientos & Mujeres & TFR por 1000 \\ \hline
 
 ```{r rmarkdown, fig.align='center', fig.cap="Logo de rmarkdown (desde archivo PNG).", out.width="30%"}
 knitr::include_graphics('figures/ud-00/rmarkdown.png')
+```
+
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("temp.png")
 ```
 
 ## Diagramas de Gantt con R {-}
@@ -138,4 +162,10 @@ More of the extras            :               extras_3,   after extras_1, 48h
     opt Extra response
     Bob->>Alice: Thanks for asking
     end
+```
+
+## Insertar arquivos en RStudio
+
+Para incluir arquivos de texto externos:
+```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```

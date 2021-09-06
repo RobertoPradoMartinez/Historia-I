@@ -150,7 +150,18 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html"><i class="fa fa-check"></i>Conceptos previos</a>
 <ul>
-<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#música-concepto-e-significado"><i class="fa fa-check"></i>Música: concepto e significado</a></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#a-música-como-mensaxe-dentro-do-contexto-socio-cultural-da-historia"><i class="fa fa-check"></i>A música como mensaxe dentro do contexto socio-cultural da historia</a>
+<ul>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#a-mensaxe-musical"><i class="fa fa-check"></i>A mensaxe musical</a></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#creación-artística-musical"><i class="fa fa-check"></i>Creación artística-musical</a></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#transmisión-da-mensaxe-musical"><i class="fa fa-check"></i>Transmisión da mensaxe musical</a></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#audición-e-oínte.-como-escoitar"><i class="fa fa-check"></i>Audición e oínte. Como escoitar?</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#a-obra-de-arte-musical"><i class="fa fa-check"></i>A obra de arte musical</a></li>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#concepto-de-música"><i class="fa fa-check"></i>Concepto de música</a>
+<ul>
+<li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#algunhas-definicións-aceptadas"><i class="fa fa-check"></i>Algunhas definicións aceptadas</a></li>
+</ul></li>
 <li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#relación-entre-historia-e-música"><i class="fa fa-check"></i>Relación entre historia e música</a></li>
 <li class="chapter" data-level="" data-path="conceptos-previos.html"><a href="conceptos-previos.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
 <ul>
@@ -360,7 +371,7 @@ Apuntes e materiais didácticos</p></a>
 <div id="beginning-chapters-with-quotes-pdf" class="section level2" number="5.4">
 <h2><span class="header-section-number">5.4</span> Beginning chapters with quotes (PDF)</h2>
 <p>The OxThesis LaTeX template lets you inject some wittiness into your thesis by including a block of type <code>savequote</code> at the beginning of chapters.
-To do this, use the syntax <code>```{block type='savequote'}</code>.<a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a></p>
+To do this, use the syntax <code>```{block type='savequote'}</code>.<a href="#fn8" class="footnote-ref" id="fnref8"><sup>8</sup></a></p>
 <p>Add the reference for the quote with the chunk option <code>quote_author="my author name"</code>.
 You will also want to add the chunk option <code>include=knitr::is_latex_output()</code> so that quotes are only included in PDF output.</p>
 <p>It’s not possible to use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the reference use a <a href="https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references">‘text reference’</a>: Create a named piece of text with ‘(ref:label-name) My text’, then point to this in the chunk option with <code>quote_author='(ref:label-name)'</code>.</p>
@@ -384,7 +395,7 @@ The correction highlighting uses the <a href="https://ctan.org/pkg/soul">soul</a
 </div>
 <div id="blocks-of-added-or-changed-material" class="section level3" number="5.5.2">
 <h3><span class="header-section-number">5.5.2</span> Blocks of added or changed material</h3>
-<p>Highlight entire <strong>blocks of added or changed material</strong> by putting them in a block of type <code>correction</code>, using the syntax <code>```{block type='correction'}</code>.<a href="#fn10" class="footnote-ref" id="fnref10"><sup>10</sup></a>
+<p>Highlight entire <strong>blocks of added or changed material</strong> by putting them in a block of type <code>correction</code>, using the syntax <code>```{block type='correction'}</code>.<a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a>
 Like so:</p>
 <div class="correction">
 <p>
@@ -693,9 +704,9 @@ At the time of writing, you must set this directly in <strong>template.tex</stro
 </div>
 <div class="footnotes">
 <hr />
-<ol start="9">
-<li id="fn9"><p>For more on custom block types, see the relevant section in <a href="https://bookdown.org/yihui/bookdown/custom-blocks.html"><em>Authoring Books with R Markdown</em></a>.<a href="customisations-and-extensions.html#fnref9" class="footnote-back">↩︎</a></p></li>
-<li id="fn10"><p>In the <strong>.tex</strong> file for PDF output, this will put the content between <code>\begin{correction}</code> and <code>\end{correction}</code>; in gitbook output it will be put between <code>&lt;div class="correction"&gt;</code> and <code>&lt;/div&gt;</code>.<a href="customisations-and-extensions.html#fnref10" class="footnote-back">↩︎</a></p></li>
+<ol start="8">
+<li id="fn8"><p>For more on custom block types, see the relevant section in <a href="https://bookdown.org/yihui/bookdown/custom-blocks.html"><em>Authoring Books with R Markdown</em></a>.<a href="customisations-and-extensions.html#fnref8" class="footnote-back">↩︎</a></p></li>
+<li id="fn9"><p>In the <strong>.tex</strong> file for PDF output, this will put the content between <code>\begin{correction}</code> and <code>\end{correction}</code>; in gitbook output it will be put between <code>&lt;div class="correction"&gt;</code> and <code>&lt;/div&gt;</code>.<a href="customisations-and-extensions.html#fnref9" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
