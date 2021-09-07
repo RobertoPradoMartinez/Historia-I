@@ -189,7 +189,8 @@ O feito de que se exclúa a música non europea ou popular, fainos pensar na dis
 A modo de conclusión, o concepto de *historia da música* redúcese ao estudo dunha serie de compositores e obras musicais da música culta (académica) occidental, que foron seleccionados seguindo certos criterios impostos en certas ocasións polas "modas musicais" da época.
 -->
 
-<!-- CITAS E NOTAS DESTE TEMA -->
+<!---%%%%%%%%%%%%%%%%%%%%%%%% CITAS E NOTAS DO TEMA %%%%%%%%%%%%%%%%%%%%%%-->
+
 [^cita:definiónhistoria]: Consulta da [RAE](https://dle.rae.es/historia#otras), ofrece varias posibles definicións de Historia.
 
 [^cita:exclusion_muller]: As mulleres foron silenciadas e discriminadas musicalmente ao longo da historia; nunca foi aceptada dentro do canon do s. XIX.
