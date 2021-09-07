@@ -16,10 +16,10 @@ Os grandes pensadores da historia, ofrecen diversas interpretacións sobre o sig
 
 ### Audición e oínte. Como escoitar? {-}
 
-#### Aprende a oír a música {-}
+#### Aprendo a escoitar música {-}
 
-#### Sensibilidade musical {-}
+#### A sensibilidade musical {-}
 
 #### Apreciar e comprender a música {-}
 
-##### Coñecer axuda a comprender {-}
+#### Coñecer axuda a comprender {-}

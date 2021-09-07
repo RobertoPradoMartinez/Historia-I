@@ -1,7 +1,7 @@
 Para poder observar ordenadamente os cambios que se produciron na actividade musical ao longo dos períodos indicados, é necesario basearse nalgúns criterios que permitan clasificar as obras musicais e a actividade musical mesma. Ademais da periodización, dous conceptos son útiles para esta clasificación: o xénero e o estilo.
 
 ## Xéneros {-}
-O concepto de xénero é bastante flexible: en xeral fai referencia á utilización da música, é dicir, o seu contexto, a súa función, a súa caracterización social…; tamén se basea nos medios utilizados (instrumentos, cantantes, número de intérpretes…); finalmente, o termo xénero fai referencia ás veces a formas musicais que alcanzaron un grao importante de desenvolvemento e de diversidade (como, por exemplo, a ópera ou a sinfonía).
+O concepto de xénero é bastante flexible: en xeral fai referencia ó uso que se fai da música, é dicir, o seu contexto, a súa función, a súa caracterización social…; tamén se basea nos medios utilizados (instrumentos, cantantes, número de intérpretes…); finalmente, o termo xénero fai referencia ás veces a formas musicais que alcanzaron un grao importante de desenvolvemento e de diversidade (como, por exemplo, a ópera ou a sinfonía).
 
 Hai unha gran diversidade de xéneros musicais, pero algúns dos criterios principais son os seguintes:
 
