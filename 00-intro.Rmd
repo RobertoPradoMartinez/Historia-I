@@ -11,7 +11,7 @@ documentclass: book
 
 <!-- NOTA IMPORTANTE: Incluir os temas en subapartados da erro se tentamos meter imaxes-->
 
-# Conceptos previos {-}
+# Introdución e conceptos previos {-}
 
 ```{=tex}
 \adjustmtc
@@ -45,9 +45,75 @@ Nos primeiros capítulos, trataremos a orixe da música e a música na prehistor
 -->
 
 ## A música como mensaxe dentro do contexto socio-cultural da historia {-}
+<!--%%%%%%%%% DEFINICIÓN E ORIXES DA MÚSICA: %%%%%%%%%%-->
 
-```{r child=here::here('unidades-didacticas/unidade-00/musica-como-mensaxe.md')}
+### Orixe e definición de música {-}
+
+A pregunta máis difícil que se pode facer a un músico, compositor, intérprete,(...) é o significado de «música».  
+As ideas e definicións sobre o concepto, son e seguirán sendo moitas e variadas e ben seguro que ningunha acabará por ser a definitiva, dado que o mundo das emocións e os sentimentos que caracterizan esta arte, son difíciles de encadrar.
+
+Unha primeira aproximación ao concepto de «música», lévanos a procurar o seu significado etimolóxico. Sabemos que provén de *mousiké* palabra grega asociada a *mousa* (musa) e fai referencia, na mitoloxía grega, ás nove fillas de Zeus, encargadas de "deleitar" aos Deuses do Olimpo. Eran igualmente, as encargadas da inspiración artística e científica humana, das cales Euterpe, era a relacionada coa música.
+
+
+```{r fig:musas-1, fig.align='center', fig.cap="As nove musas fillas de Zeus, co deus Apolo. (Fonte: wikimedia - mitoloxía grega).", out.width="50%"}
+knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
 ```
+
+
+A Real Academia da Lingua Española, anota nove acepcións. De entre elas, destacamos: “melodía, ritmo e harmonía, combinados”, “sucesión de sons modulados para recrear o oído”, “concerto de instrumentos ou voces, ou de ambas as cousas á vez”, “arte de combinar os sons da voz humana ou dos instrumentos, ou duns e outros á vez, de xeito que produzan deleite, conmovendo á sensibilidade, xa sexa alegre, xa tristemente”, (...)
+
+<!-- LINGUAXE UNIVERSAL DA MÚSICA
+-->
+### A música como linguaxe universal {-}
+
+O ser humano sinte a necesidade de expresarse e comunicarse. A música, é unha linguaxe universal a través da que expresarnos e comunicarnos. É un medio de comunicación e, ao igual que un idioma emprega a palabra para crear estruturas gramaticais, a música emprega o son e as súas múltiples combinacións para expresar ideas, sentimentos, conceptos, etc.[^cita:Lorca-musica] A mensaxe musical, abrangue aspectos e disciplinas variadas:
+
+> 
+[...] en realidade, a definición de Música esténdese moito máis alá destes límites desde o mesmo momento en que por primeira vez o home emitiu un son valéndose dun instrumento. Esas harmonías e melodías non só eran un son belo, unha expresión de Beleza, senón que estableceron unha forma de linguaxe, unha nova maneira de expresarse e de sentir, así como de transmitir sensacións, imaxes e conceptos que abarcan desde a simple intención de comunicarse, ata a Filosofía, a Política, a Ética ou os complicados principios  cosmolóxicos, sen esquecer o papel tan importante que desempeñou dentro da Relixión ao longo da historia. Por todo iso, a Música é merecedora de ser considerada unha forma de linguaxe, así como unha disciplina científica e o seu estudo é necesario para coñecer o desenvolvemento dunha parcela da cultura do ser humano e comprender mellor a evolución do mesmo dentro da historia e a súa necesidade de comunicación.[^ref:gutierrez-macho]
+
+Considerada como arte, ciencia e linguaxe universal, sabemos que é un medio de expresión sen límites capaz de chegar ao máis íntimo de cada persoa, de transmitir diferentes estados de ánimo e emocións. Escoitar e "facer" música, desenvolve a sensibilidade, a creatividade e a capacidade de abstracción ou análise:
+
+>  
+Propícianos a descubrir o noso propio mundo interior, a comunicación con “o outro” ou “os outros” e a captación e apreciación do mundo que nos rodea. A música, xa sexa mediante o comportamento de interpretación, de escoita ou de composición, se esta é adecuada, condúcenos a unha "reharmonización" do estado de ánimo e dos sentimentos.[^ref:josefa-moreno]
+
+
+> La música se ubica sola frente a las demás artes... No expresa ninguna definitiva o particular alegría, tristeza, angustia, horror, deleite o sensación de paz, sino alegría, tristeza, angustia, horror, deleite o
+sensación de paz en sí mismas, en lo abstracto, en su natural esencia, sin accesorios y por ello sin sus
+motivos usuales. Y sin embargo nos permite aprehenderlas y compartirlas plenamente en su quintaesencia.[^cita:schopenhauer]
+
+
+Os grandes pensadores da historia, ofrecen diversas interpretacións sobre o significado da música. Platón (s. V-VI a.C) afirmaba sobre a música:  
+
+> "[...] é a arte educativa por excelencia; afonda na alma e na virtude."
+
+
+### Creación artística-musical {-}
+
+#### O proceso creador e a inspiración {-}
+
+### Transmisión da mensaxe musical {-}
+
+### Audición e oínte. Como escoitar? {-}
+
+#### Aprendo a escoitar música {-}
+
+#### A sensibilidade musical {-}
+
+#### Apreciar e comprender a música {-}
+
+#### Coñecer axuda a comprender {-}
+
+<!--%%%%%%%%%%%%%%%% CITAS TEXTUAIS:%%%%%%%%%%%%%%--->
+
+
+[^cita:schopenhauer]: Arthur Schopenhauer, afirmaba:
+
+[^ref:josefa-moreno]: (Moreno, 2003)
+
+[^ref:gutierrez-macho]: (Gutiérrez Machó, 2013, p. 16)
+
+[^cita:Lorca-musica]: Federico García Lorca, afirmaba no 1977 o seguinte: "Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin o pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos."
+
 
 ## A obra de arte musical {-}
 

@@ -13,3 +13,4 @@ RnwWeave: Sweave
 LaTeX: XeLaTeX
 
 BuildType: Makefile
+MakefilePath: ~/Desktop/Historia-I

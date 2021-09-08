@@ -10,7 +10,7 @@ documentclass: book
 ---
 
 
-# Chuleta de comandos en RStudio {-}
+# Chuleta de comandos: RStudio, LaTeX e Markdown {-}
 
 ```{=tex}
 \adjustmtc
@@ -84,6 +84,57 @@ knitr::kable(
   caption = "Exemplo dunha táboa en RStudio"
 )
 ```
+
+### Figuras en LaTeX {-}
+
+#### Insertando figuras
+
+- Paquetes necesarios: graphicx
+- comando: \includegraphics[opcions]{ruta}
+  os parámetros obrigatorios van entre chaves e os opcionais entre corchetes
+
+- Unha soa figura:
+
+\includegraphics{ruta_a_la_figura}
+
+  - Opcions:
+    - height: a altura que debe ter a figura, escalará o gráfico ata que teña esta altura
+    - width:  anchura que debe ter a figura, escalará o gráfico ata que teña esa anchura
+    - scale: escalar a figura, sobre 1
+    - angle: xirar a figura, en graos
+
+  - Exemplos:
+  
+\includegraphics[angle=90, scale=0.5]{ruta_a_la_figura}
+
+\includegraphics[width=\textwidth]{ruta_a_la_figura}
+
+\includegraphics[width=0.7\textwidth]{ruta_a_la_figura}
+
+- Figuras flotantes:
+
+\begin{figure}[posición]
+  \includegraphics[opciones]{ruta}
+\end{figure}
+
+  La opción posición puede tomar estos valores:
+
+  - h (here), le decimos que ponga la imagen más o menos aquí 
+  - t (top), preferiblemente en la parte superior de la página
+  - b (bottom), preferiblemente en la parte inferior de la página
+  - p (page), que junte los objetos flotantes en una página
+  - ! que ignore sus reglas internas de posicionamiento
+  - H que ponga la imagen justo aquí, similar a h! y con muchas papeletas de hacer cosas rarunas
+
+  - Exemplo: 
+
+\begin{figure}[posición]
+  \includegraphics[opciones]{ruta}
+  \caption{Pie de figura}
+  \label{etiqueta}
+\end{figure}
+
+
 
 ### Táboas en LaTeX {-}
 
