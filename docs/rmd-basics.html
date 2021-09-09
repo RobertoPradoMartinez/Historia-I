@@ -150,9 +150,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </ul></li>
 <li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html"><i class="fa fa-check"></i>Introdución e conceptos previos</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-música-como-mensaxe-dentro-do-contexto-socio-cultural-da-historia"><i class="fa fa-check"></i>A música como mensaxe dentro do contexto socio-cultural da historia</a>
+<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#orixe-e-definición-de-música"><i class="fa fa-check"></i>Orixe e definición de música</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#orixe-e-definición-de-música"><i class="fa fa-check"></i>Orixe e definición de música</a></li>
 <li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-música-como-linguaxe-universal"><i class="fa fa-check"></i>A música como linguaxe universal</a></li>
 <li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#creación-artística-musical"><i class="fa fa-check"></i>Creación artística-musical</a></li>
 <li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#transmisión-da-mensaxe-musical"><i class="fa fa-check"></i>Transmisión da mensaxe musical</a></li>
@@ -446,7 +445,7 @@ Violets are blue.</p>
 <div id="footnotes" class="section level3" number="2.1.13">
 <h3><span class="header-section-number">2.1.13</span> Footnotes</h3>
 <ul>
-<li>Are created<a href="#fn9" class="footnote-ref" id="fnref9"><sup>9</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a href="#fn10" class="footnote-ref" id="fnref10"><sup>10</sup></a></li>
+<li>Are created<a href="#fn10" class="footnote-ref" id="fnref10"><sup>10</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a href="#fn11" class="footnote-ref" id="fnref11"><sup>11</sup></a></li>
 </ul>
 <p><code>[^a-random-footnote-label]: This is a random test.</code></p>
 </div>
@@ -464,10 +463,10 @@ This: <span>$</span>$A = \pi*r^{2}$$</p>
 <p>Becomes:
 <span class="math display">\[A = \pi*r^{2}\]</span></p>
 <p>To create numbered equations, put them in an ‘equation’ environment and give them a label with the syntax <code>(\#eq:label)</code>, like this:</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb6-1"><a href="rmd-basics.html#cb6-1" aria-hidden="true"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
-<span id="cb6-2"><a href="rmd-basics.html#cb6-2" aria-hidden="true"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
-<span id="cb6-3"><a href="rmd-basics.html#cb6-3" aria-hidden="true"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
-<span id="cb6-4"><a href="rmd-basics.html#cb6-4" aria-hidden="true"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb5-1"><a href="rmd-basics.html#cb5-1" aria-hidden="true"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
+<span id="cb5-2"><a href="rmd-basics.html#cb5-2" aria-hidden="true"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
+<span id="cb5-3"><a href="rmd-basics.html#cb5-3" aria-hidden="true"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
+<span id="cb5-4"><a href="rmd-basics.html#cb5-4" aria-hidden="true"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
 <p>Becomes:
 <span class="math display" id="eq:binom">\[\begin{equation}
 f\left(k\right)=\binom{n}{k}p^k\left(1-p\right)^{n-k}
@@ -510,7 +509,7 @@ library(tidyverse)
 <div id="including-images" class="section level3" number="2.2.2">
 <h3><span class="header-section-number">2.2.2</span> Including images</h3>
 <p>Code chunks are also used for including images, with <code>include_graphics</code> from the <code>knitr</code> package, as in Figure <a href="rmd-basics.html#fig:oxford-logo">2.2</a></p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="rmd-basics.html#cb8-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="rmd-basics.html#cb7-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
 <div class="figure" style="text-align: center"><span id="fig:oxford-logo"></span>
 <img src="figures/sample-content/beltcrest.png" alt="Oxford logo" width="50%" />
 <p class="caption">
@@ -526,11 +525,11 @@ Figura 2.2: Oxford logo
 <h4>Figure rotation</h4>
 <p>You can use the chunk option <code>out.extra</code> to rotate images.</p>
 <p>The syntax is different for LaTeX and HTML, so for ease we might start by assigning the right string to a variable that depends on the format you’re outputting to:</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="rmd-basics.html#cb9-1" aria-hidden="true"></a><span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_latex_output</span>()){</span>
-<span id="cb9-2"><a href="rmd-basics.html#cb9-2" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;angle=180&quot;</span></span>
-<span id="cb9-3"><a href="rmd-basics.html#cb9-3" aria-hidden="true"></a>} <span class="cf">else</span> {</span>
-<span id="cb9-4"><a href="rmd-basics.html#cb9-4" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;style=&#39;transform:rotate(180deg);&#39;&quot;</span></span>
-<span id="cb9-5"><a href="rmd-basics.html#cb9-5" aria-hidden="true"></a>}</span></code></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="rmd-basics.html#cb8-1" aria-hidden="true"></a><span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_latex_output</span>()){</span>
+<span id="cb8-2"><a href="rmd-basics.html#cb8-2" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;angle=180&quot;</span></span>
+<span id="cb8-3"><a href="rmd-basics.html#cb8-3" aria-hidden="true"></a>} <span class="cf">else</span> {</span>
+<span id="cb8-4"><a href="rmd-basics.html#cb8-4" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;style=&#39;transform:rotate(180deg);&#39;&quot;</span></span>
+<span id="cb8-5"><a href="rmd-basics.html#cb8-5" aria-hidden="true"></a>}</span></code></pre></div>
 <p>Then you can reference that variable as the value of <code>out.extra</code> to rotate images, as in Figure <a href="rmd-basics.html#fig:oxford-logo-rotated">2.3</a>.</p>
 <div class="figure" style="text-align: center"><span id="fig:oxford-logo-rotated"></span>
 <img src="figures/sample-content/beltcrest.png" alt="Oxford logo, rotated" width="50%" style='transform:rotate(180deg);' />
@@ -544,10 +543,10 @@ Figura 2.3: Oxford logo, rotated
 <h3><span class="header-section-number">2.2.3</span> Including plots</h3>
 <p>Similarly, code chunks are used for including dynamically generated plots.
 You use ordinary code in R or other languages - Figure <a href="rmd-basics.html#fig:cars-plot">2.4</a> shows a plot of the <code>cars</code> dataset of stopping distances for cars at various speeds (this dataset is built in to <strong>R</strong>).</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="rmd-basics.html#cb10-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb10-2"><a href="rmd-basics.html#cb10-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">ggplot</span>() <span class="op">+</span></span>
-<span id="cb10-3"><a href="rmd-basics.html#cb10-3" aria-hidden="true"></a><span class="st">    </span><span class="kw">aes</span>(<span class="dt">x =</span> speed, <span class="dt">y =</span> dist) <span class="op">+</span></span>
-<span id="cb10-4"><a href="rmd-basics.html#cb10-4" aria-hidden="true"></a><span class="st">    </span><span class="kw">geom_point</span>()</span></code></pre></div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="rmd-basics.html#cb9-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb9-2"><a href="rmd-basics.html#cb9-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">ggplot</span>() <span class="op">+</span></span>
+<span id="cb9-3"><a href="rmd-basics.html#cb9-3" aria-hidden="true"></a><span class="st">    </span><span class="kw">aes</span>(<span class="dt">x =</span> speed, <span class="dt">y =</span> dist) <span class="op">+</span></span>
+<span id="cb9-4"><a href="rmd-basics.html#cb9-4" aria-hidden="true"></a><span class="st">    </span><span class="kw">geom_point</span>()</span></code></pre></div>
 <div class="figure"><span id="fig:cars-plot"></span>
 <img src="_main_files/figure-html/cars-plot-1.png" alt="A ggplot of car stuff" width="672" />
 <p class="caption">
@@ -560,9 +559,9 @@ Figura 2.4: A ggplot of car stuff
 <h3><span class="header-section-number">2.2.4</span> Including tables</h3>
 <p>Tables are usually included with the <code>kable</code> function from the <code>knitr</code> package.</p>
 <p>Table <a href="#tab:cars-table"><strong>??</strong></a> shows the first rows of that cars data - read in your own data, then use this approach to automatically generate tables.</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="rmd-basics.html#cb11-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb11-2"><a href="rmd-basics.html#cb11-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">head</span>() <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb11-3"><a href="rmd-basics.html#cb11-3" aria-hidden="true"></a><span class="st">  </span>knitr<span class="op">::</span><span class="kw">kable</span>(<span class="dt">caption =</span> <span class="st">&quot;A knitr kable table&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="rmd-basics.html#cb10-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb10-2"><a href="rmd-basics.html#cb10-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">head</span>() <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb10-3"><a href="rmd-basics.html#cb10-3" aria-hidden="true"></a><span class="st">  </span>knitr<span class="op">::</span><span class="kw">kable</span>(<span class="dt">caption =</span> <span class="st">&quot;A knitr kable table&quot;</span>)</span></code></pre></div>
 <ul>
 <li>Gotcha: when using <a href="https://www.rdocumentation.org/packages/knitr/versions/1.21/topics/kable"><code>kable</code></a>, captions are set inside the <code>kable</code> function</li>
 <li>The <code>kable</code> package is often used with the <a href="https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html"><code>kableExtra</code></a> package</li>
@@ -573,7 +572,7 @@ Figura 2.4: A ggplot of car stuff
 <p>One thing that may be annoying is the way <em>R Markdown</em> handles “floats” like tables and figures.
 In your PDF output, LaTeX will try to find the best place to put your object based on the text around it and until you’re really, truly done writing you should just leave it where it lies.</p>
 <p>In general, you should allow LaTeX to do this, but if you really <em>really</em> need a figure to be positioned where you put in the document, then you can make LaTeX attempt to do this with the chunk option <code>fig.pos="H"</code>, as in Figure <a href="rmd-basics.html#fig:oxford-logo-controlled">2.5</a>:</p>
-<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="rmd-basics.html#cb12-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="rmd-basics.html#cb11-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
 <div class="figure" style="text-align: center"><span id="fig:oxford-logo-controlled"></span>
 <img src="figures/sample-content/beltcrest.png" alt="An Oxford logo that LaTeX will try to place at this position in the text" width="50%" />
 <p class="caption">
@@ -592,7 +591,7 @@ The syntax for doing this is <code>`r R_CODE`</code>
 For example, <code>`r 4 + 4`</code> will output 8 in your text.</p>
 <p>You will usually use this in parts of your thesis where you report results - read in data or results in a code chunk, store things you want to report in a variable, then insert the value of that variable in your text.
 For example, we might assign the number of rows in the <code>cars</code> dataset to a variable:</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb13-1"><a href="rmd-basics.html#cb13-1" aria-hidden="true"></a>num_car_observations &lt;-<span class="st"> </span><span class="kw">nrow</span>(cars)</span></code></pre></div>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="rmd-basics.html#cb12-1" aria-hidden="true"></a>num_car_observations &lt;-<span class="st"> </span><span class="kw">nrow</span>(cars)</span></code></pre></div>
 <p>We might then write:<br />
 “In the <code>cars</code> dataset, we have <code>`r num_car_observations`</code> observations.”</p>
 <p>Which would output:<br />
@@ -606,9 +605,9 @@ For example, we might assign the number of rows in the <code>cars</code> dataset
 </div>
 <div class="footnotes">
 <hr />
-<ol start="9">
-<li id="fn9"><p>my footnote text<a href="rmd-basics.html#fnref9" class="footnote-back">↩︎</a></p></li>
-<li id="fn10"><p>This is a random test.<a href="rmd-basics.html#fnref10" class="footnote-back">↩︎</a></p></li>
+<ol start="10">
+<li id="fn10"><p>my footnote text<a href="rmd-basics.html#fnref10" class="footnote-back">↩︎</a></p></li>
+<li id="fn11"><p>This is a random test.<a href="rmd-basics.html#fnref11" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
