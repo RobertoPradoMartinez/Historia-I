@@ -1,10 +1,10 @@
 ---
 output:
-  bookdown::word_document2: default
   bookdown::pdf_document2:
     template: templates/brief_template.tex
     citation_package: biblatex
   bookdown::html_document2: default
+  bookdown::word_document2: default
 documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
@@ -37,6 +37,7 @@ iii) You can't use markdown syntax inside chunk options, so if you want to e.g. 
 
 
 <!-- PENDIENTE: Mover ao apartado PRESENTACIÓN!
+
 A finalidade da Historia da Música é escoitar música, captar as características das distintas correntes estéticas de cada época, comprender a música e relacionala coas correntes estéticas, comprender e coñecer os feitos históricos e movementos socioculturais máis destacados así como o contexto no que se orixinaron, permite valorar a importancia que a música ten na sociedade e igualmente a relación entre a música e o resto de artes.
 
 Comezamos este curso facendo un percorrido histórico, artístico e musical polas épocas anteriores á actual, coa finalidade de coñecer e comprender mellor a música e os elementos que forman parte dunha obra de arte musical. Faremos un percorrido pola música de diferentes épocas e civilizacións, centrándonos na música occidental e a súa evolución ata os nosos días, tendo en conta a importanacia da cultura musical na Península Ibérica e igualmente en Galicia.  
@@ -47,33 +48,40 @@ Nos primeiros capítulos, trataremos a orixe da música e a música na prehistor
 ## Orixe e definición de música {-} 
 
 <!--%%%%%%%%% DEFINICIÓN E ORIXES DA MÚSICA: %%%%%%%%%%-->
-As definicións sobre este concepto son moitas e variadas. Probablemente, malia que nos resulte familiar e vivamos rodeados dela, resultaría complicado atopar unha única definición. Ao longo da historia, a música recibe diferentes tratamentos e acepcións. Constitúe unha das manifestacións do espíritu creador do ser humano e está moi relacionada con aspectos sociais e culturais. 
- 
+As definicións sobre este concepto son moitas e variadas. Probablemente, malia que nos resulte familiar e vivamos rodeados dela, resultaría complicado atopar unha única definición. Non será ata os anos noventa do século pasado, cando se realicen as primeiras definicións concretas (e complexas) sobre música. Ao longo da historia, a música recibe diferentes tratamentos e acepcións. Constitúe unha das manifestacións do espíritu creador do ser humano e está relacionada con aspectos sociais e culturais ao longo da historia:
+
+> [...] as definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...] Non obstante, existen outras moitas perspectivas para intentar explicar o que é a música[^ref:lopez-cobas-musica].
+
+Na mitoloxía grega, fai referencia a calquera arte presidida polas musas[^def:mousike]. Como veremos, nos períodos heleno e helenístico, a música terá un papel central na sociedade civil e relixiosa, promovendo o entretemento e formando parte de razoamentos científico-filosóficos: Platón (s.V-VI a.C) concibía a música como "*o arte educativo por excelencia que se insire na alma e forma a ésta, na virtude*". 
+
 <!--- TODO: Meter como pensamentos musicais no final
-- Platón (s.V-VI a.C) afirmaba que a música é o "arte educativo por excelencia que se insire na alma e formaa na virtude". 
 - Boecio (s.VI) consideraba a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". 
 - Santo Tomás (s.XIII) consideraba a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". 
 - Rouseaus (s.XVIII) definía a música como "o arte de combinar sons de xeito agradable ó oído". 
 - Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación". 
---->
+-->
+
+Entre as diversas perspectivas que tentan explicar que é a música, vexamos as seguintes definicións:  
+
+Música como ciencia.
+:    Pitágoras,  filósofo grego, afirmaba alá polo s.V a.C, que: 
+"os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas".
+
+Música como arte.
+:    Richard Wagner, compositor alemán do s. XIX, consideraba que 
+"o son vén do corazón e a súa linguaxe artística natural é a música. A melodía é a lingua absoluta, a través da que o músico fala a todos os corazóns".
+
+Música como feito musical.
+:    O filósofo francés Descartes, (s. XVII) afirmaba sobre a música o seguinte:
+"A mesma cousa que a uns invita a bailar a outros pode facer chorar. Pois isto non provén senón da asociación de ideas na nosa mente; como aqueles que algunha vez se divertiron bailando con certa peza, tan pronto como a volvan a escoltar volverán ás ganas de bailar; pola contra, se algún só oíu gallardas cando lle aconteceu algo malo, volverá a entristecerse cando as escoite de novo".
+
 
 >
 Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos.[^cita:Lorca-musica]
 
-
-```{r figura-musas-2, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Representación de Atenea e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Representación das nove musas inspiradoras e Atenea", out.width="100%"}
-knitr::include_graphics('figures/ud-00/musas-2.jpg')
-```
-
-Etimolóxicamente a palabra «música», provén de *mousiké* palabra grega asociada a *mousa* (musa) e fai referencia, na mitoloxía grega, ás nove fillas de Zeus, encargadas de "deleitar" aos Deuses do Olimpo. Eran igualmente, as encargadas da inspiración artística e científica humana, das cales Euterpe, era a relacionada coa música.
-
-<!--Exemplo iconográfico: figura das 9 musas:--->
-
 ```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Representación das nove musas co deus Apolo", out.width="100%"}
 knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
 ```
-
-A Real Academia da Lingua Española, anota nove acepcións. De entre elas, destacamos: “melodía, ritmo e harmonía, combinados”, “sucesión de sons modulados para recrear o oído”, “concerto de instrumentos ou voces, ou de ambas as cousas á vez”, “arte de combinar os sons da voz humana ou dos instrumentos, ou duns e outros á vez, de xeito que produzan deleite, conmovendo á sensibilidade, xa sexa alegre, xa tristemente”, (...)
 
 <!-- LINGUAXE UNIVERSAL DA MÚSICA
 -->
@@ -277,11 +285,12 @@ A modo de conclusión, o concepto de *historia da música* redúcese ao estudo d
 CITAS E NOTAS DO TEMA
 %%%%%%%%%%%%%%%%%%%%%
 -->
+[^def:mousike]:
+O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musas), feminino de *mousikos* «pertencente ás musas», de *Mousa* «Musa».
 
 [^cita:Lorca-musica]: Para García Lorca (1977) a música tiña un carácter difícilmente explicable.
 
 [^cita:arte-estatica]:  As artes estáticas como a pintura, precisan dun lugar determinado, un espazo, que permite ao espectador contemplalas o tempo que queira e captalas dun golpe coa mirada. Segundo a clasificación tradicional das belas artes, son artes estáticas ou do espazo: a pintura, a escultura e arquitectura por exemplo. Como artes dinámicas, consideramos: a poesía, danza, música e o cine por exemplo.  
-
 [^cita:liberdade:creadora]: Dunha mesma obra podemos escoitar diferentes versións, de igual calidade ou non, cada unha delas con un "toque" persoal de cada intérprete ou agrupación.
 
 [^cita:definiónhistoria]: Consulta da [RAE](https://dle.rae.es/historia#otras), ofrece varias posibles definicións de Historia.
@@ -293,6 +302,8 @@ CITAS E NOTAS DO TEMA
 [^cita:nacionalismos]: A idea do nacional ou nacionalista tamén influíu na creación do canon. O feito de que as universidades máis importantes de finais do século XIX e principios do XX fosen as de Alemaña e que a escola historiográfica alemá dominase un período decisivo na historiografía musical, explica a abundancia de compositores xermanos no canon.
 
 [^cita:Musas]:Os gregos definen a música como «a arte das musas»
+
+[^ref:lopez-cobas-musica]: López Cobas, L.: *Historia da Música*, Conservatorio Profesional de Música de Ourense, (Setembro, 2021)
 
 [^ref:Callejo(2017)]: Callejo, F.: *Historia de la Música*, Conservatorio Profesional de Música Francisco Guerreo (2017).
 

@@ -16,6 +16,17 @@
 % 
 \titlespacing\subsubsection{0pt}{24pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 
+%%%%%%%%%%%%%
+% TIPOGRAFÍA 
+%%%%%%%%%%%%%
+\usepackage{libertinus} % Fuente LIBERTINE Linux
+%%
+% UL: You can set the general paragraph spacing here - I've set it to 2pt (was 0) so
+% it's less claustrophobic
+%
+%\setlength{\parskip}{2pt plus 1pt}
+
+%
 % UL 30 Nov 2018 pandoc puts lists in 'tightlist' command when no space between bullet points in Rmd file
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -163,10 +174,10 @@ $endfor$
 
 %%%%% CHOOSE YOUR LINE SPACING HERE
 % This is the official option.  Use it for your submission copy and library copy:
-\setlength{\textbaselineskip}{22pt plus2pt}
+%\setlength{\textbaselineskip}{22pt plus2pt}
 % This is closer spacing (about 1.5-spaced) that you might prefer for your personal copies:
-%\setlength{\textbaselineskip}{18pt plus2pt minus1pt}
-
+%\setlength{\textbaselineskip}{18pt plus2pt minus1pt} % interliñado 1.5
+\setlength{\textbaselineskip}{16pt plus2pt minus1pt} % interliñado 1.25
 % UL: You can set the general paragraph spacing here - I've set it to 2pt (was 0) so
 % it's less claustrophobic
 \setlength{\parskip}{2pt plus 1pt}
