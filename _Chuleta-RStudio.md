@@ -47,6 +47,17 @@ Esto es un ejemplo.
 Esto es un ejemplo.
 ```
 
+### Definicións
+
+Un entorno un pouco máis complicado:
+
+:::{.definition #perspectiva-ciencia name="Música como ciencia"}  
+Pitágoras, filósofo grego, afirmaba aló polo s.V a.C. 
+
+$$a^2 + b^2 = c^2$$
+:::
+
+
 ## Táboas: creación e visualización {-}
 
 Texto de referencia e consultas en [Pedro Luis Luque Calvo]: http://www.destio.us.es/calvo/ficheros/ComoCrearTablasRMarkdown_PedroLuque_2019Sep_librodigital.pdf
@@ -135,7 +146,6 @@ knitr::kable(
 \end{figure}
 
 
-
 ### Táboas en LaTeX {-}
 
 - Cabe tamén a posibilidade de usar \LaTeX para as táboas:
@@ -155,6 +165,21 @@ Edad & Nacimientos & Mujeres & TFR por 1000 \\ \hline
 \multicolumn{1}{c|}{1500} \\ \hline
 20-24 & 150 & 500 & 300 \\ \hline
 \end{tabular}
+\end{center}
+
+## Citas textuais en LaTeX
+
+\begin{center}
+    \begin{minipage}{0.9\linewidth}
+        \vspace{5pt}%margen superior de minipage
+        {\small
+            La desventaja principal de esta práctica, es que la víctima no sólo tiene que ejecutar el \textit{backdoor} sino que también cambiar los permisos de dicho archivo para ser ejecutable, y por si fuera poco, el \textit{backdoor} debe de estar en ejecución durante el ataque, si el proceso se termina la conexión se desactiva.
+        }
+        \begin{flushright}
+            (Fonte: descoñecida)
+        \end{flushright}
+        \vspace{5pt}%margen inferior de la minipage
+    \end{minipage}
 \end{center}
 
 ## Figuras en RStudio {-}

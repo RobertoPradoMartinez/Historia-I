@@ -1,4 +1,4 @@
-fig:figura-musas-2
+def:perspectiva-cientifica
 fig:figura-musas-1
 fig:figura-exemplo1
 eq:binom
