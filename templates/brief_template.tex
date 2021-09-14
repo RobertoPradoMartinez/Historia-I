@@ -169,9 +169,18 @@ $endfor$
 	\renewcommand{\st}{\textsuperscript{st}}
 	\newcommand{\rd}{\textsuperscript{rd}}
 
+%%%%%%% PAGE HEADERS AND FOOTERS %%%%%%%%%
+\usepackage{fancyhdr}
+\setlength{\headheight}{15pt}
+%\fancyhf{} % limpamos encabezados e pés de páxima
+\pagestyle{fancy} % activa encabezados
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter. #1}{\thechapter. #1}} % marca capítulos
+\renewcommand{\sectionmark}[1]{\markright{\thesection. #1}{\thesection. #1}} % marca seccións
+\renewcommand{\headrulewidth}{0.5pt} % liña baixo encabezados
+%%%
+
 %%%%% THE ACTUAL DOCUMENT STARTS HERE
 \begin{document}
-
 %%%%% CHOOSE YOUR LINE SPACING HERE
 % This is the official option.  Use it for your submission copy and library copy:
 %\setlength{\textbaselineskip}{22pt plus2pt}
@@ -187,7 +196,6 @@ $endfor$
 
 % all your chapters and appendices will appear here
 $body$
-
 
 %%%%% REFERENCES
 

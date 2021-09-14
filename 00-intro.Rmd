@@ -3,17 +3,25 @@ output:
   bookdown::pdf_document2:
     template: templates/brief_template.tex
     citation_package: biblatex
+  bookdown::gitbook:
+    css: templates/style.css
+    config:
+      download: pdf
+      sharing:
+        facebook: no
+        twitter: no
+        all: no
   bookdown::html_document2: default
   bookdown::word_document2: default
 documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-# Introdución e conceptos previos {-}
+# Aproximación á Historia da Música {-}
 
 ```{=tex}
 \adjustmtc
-\markboth{Introdución}{}
+\markboth{Aproximación á Historia da Música}{}
 ```
 
 <!-- IMPORTANTE, incluir despois de capítulos non numerados.
@@ -45,48 +53,32 @@ Comezamos este curso facendo un percorrido histórico, artístico e musical pola
 Nos primeiros capítulos, trataremos a orixe da música e a música na prehistoria, prestando especial atención ás primeiras evidencias conservadas de música escrita que foron descifradas e comprendidas (desde a idade da memoria); veremos as principais teorías sobre música da Antigüidade e finalmente trataremos en profundidade a evolución da música escrita desde a Idade Media (idade da notación) ata o Renacemento.
 -->
 
-## Orixe e definición de música {-} 
+## Definicións e conceptos previos {-} 
 
 <!--%%%%%%%%% DEFINICIÓN E ORIXES DA MÚSICA: %%%%%%%%%%-->
-As definicións sobre o concepto de «música» son moitas e variadas. Ao longo da historia, recibe diferentes tratamentos e acepcións e constitúe unha das manifestacións do espíritu creador do ser humano, relacionándose directamente con aspectos sociais e culturais.
+O concepto de «música» recibe diferentes tratamentos e acepcións ao longo da historia; as definicións sobre o concepto e significado son moitas e variadas. A pesares de ser algo do que vivimos rodeados, non existe polo momento unha definición única, universal e consensuada que permita establecer o seu significado; as diferentes culturas e sociedades do mundo actual, teñen diferentes concepcións sobre a música ao igual que ocorre nas civilizacións de épocas anteriores á actual.  
 
-\begin{center}
-    \begin{minipage}{0.9\linewidth}
-        \vspace{5pt}%margen superior de minipage
-        {\small
-            La desventaja principal de esta práctica, es que la víctima no sólo tiene que ejecutar el \textit{backdoor} sino que también cambiar los permisos de dicho archivo para ser ejecutable, y por si fuera poco, el \textit{backdoor} debe de estar en ejecución durante el ataque, si el proceso se termina la conexión se desactiva.
-        }
-        \begin{flushright}
-            (Fonte: descoñecida)
-        \end{flushright}
-        \vspace{5pt}%margen inferior de la minipage
-    \end{minipage}
-\end{center}
-
-Na mitoloxía grega, a «música» fai referencia a calquera arte presidida polas musas[^def:mousike]: nos períodos heleno e helenístico, a música ten un papel central na sociedade civil e relixiosa, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón (s.\textsc{v-vi} a.c.) concibía a música como a arte educativa por excelencia que se insire na alma e forma a ésta, na virtude. Boecio (s.VI) consideraba a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". Santo Tomás (s.XIII) consideraba a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Rousseau, (s.XVIII) definía a música como "o arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación".
+Na mitoloxía grega, a «música» fai referencia a calquera arte presidida polas musas[^def:mousike]: nos períodos heleno e helenístico, a música ten un papel central na sociedade civil e relixiosa, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón (s.v-vi a.c.) concibía a música como a arte educativa por excelencia que se insire na alma e forma a ésta, na virtude. Boecio (s.VI) consideraba a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". Santo Tomás (s.XIII) consideraba a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Rousseau, (s.XVIII) definía a música como "o arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación".
 
 Non será ata os anos noventa do século pasado, cando fraguen as primeiras definicións concretas (e complexas) sobre este concepto.
 
 >
 [...] as definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...] Non obstante, existen outras moitas perspectivas para intentar explicar o que é a música[^ref:lopez-cobas-musica].  
 
+### Pensamentos sobre o significado da «música» {-}
 
-### Que é a música? {-}
-
-Existen diferentes perspectivas que tentan explicar o significado da «música». Entre as máis destacadas, atopamos as seguintes.
-
-```{definition, label="perspectiva-cientifica", name="Música como ciencia"}
-Aquí vai un exemplo sen numerar...
-```
-
-Este é un exemplo, como podes ver en \@ref(def:perspectiva-cientifica)
+Ao longo da historia, existen diversos puntos de vista ou perspectivas sobre a música. Para comprender o concepto e a importancia que esta terá sobre a sociedade de cada época, compre coñecer algunhas das reflexións que darán lugar ás diferentes concepcións sobre música que hoxe coñecemos. 
 
 Música como ciencia.
-:    Pitágoras, filósofo grego, afirmaba alá polo s.V a.C, que: 
-"os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas".
+:    Pitágoras, filósofo grego do século V a.c. afirmaba:  
+
+>
+[os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas]{hightlight="orange"}.
 
 Música como arte.
-:    Richard Wagner, compositor alemán do s. XIX, consideraba que 
+:    Richard Wagner, compositor alemán do s. XIX, consideraba:  
+
+>
 "o son vén do corazón e a súa linguaxe artística natural é a música. A melodía é a lingua absoluta, a través da que o músico fala a todos os corazóns".
 
 Música como feito musical.
@@ -109,7 +101,7 @@ Ata o de agora, as perspectivas anteriores sobre a música introducen algo funda
 >
 Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos.[^cita:Lorca-musica]
 
-```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
+```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
 knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
 ```
 

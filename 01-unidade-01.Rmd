@@ -1,15 +1,19 @@
 ---
-#########################################
-# options for knitting a single chapter #
-#########################################
 output:
   bookdown::pdf_document2:
     template: templates/brief_template.tex
     citation_package: biblatex
   bookdown::html_document2: default
   bookdown::word_document2: default
+  bookdown::gitbook:
+    css: templates/style.css
+    config:
+      download: pdf
+      sharing:
+        facebook: no
+        twitter: no
+        all: no
 documentclass: book
-#bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
 # Orixes da Música Occidental
