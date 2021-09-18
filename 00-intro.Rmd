@@ -56,83 +56,74 @@ Nos primeiros capítulos, trataremos a orixe da música e a música na prehistor
 ## Definicións e conceptos previos {-} 
 
 <!--%%%%%%%%% DEFINICIÓN E ORIXES DA MÚSICA: %%%%%%%%%%-->
-O concepto de «música» recibe diferentes tratamentos e acepcións ao longo da historia; as definicións sobre o concepto e significado son moitas e variadas. A pesares de ser algo do que vivimos rodeados, non existe polo momento unha definición única, universal e consensuada que permita establecer o seu significado; as diferentes culturas e sociedades do mundo actual, teñen diferentes concepcións sobre a música ao igual que ocorre nas civilizacións de épocas anteriores á actual.  
+O concepto de «música» recibe diferentes tratamentos e acepcións ao longo da historia; as definicións sobre o concepto e significado son moitas e variadas. A pesares de ser algo do que vivimos rodeados, non existe polo momento unha definición única, universal e consensuada que permita establecer unha definición única que transmita o seu significado; as diferentes culturas e sociedades do mundo actual, teñen diferentes concepcións sobre a música ao igual que ocorre nas civilizacións de épocas anteriores á actual.  
 
-Na mitoloxía grega, a «música» fai referencia a calquera arte presidida polas musas[^def:mousike]: nos períodos heleno e helenístico, a música ten un papel central na sociedade civil e relixiosa, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón (s.v-vi a.c.) concibía a música como a arte educativa por excelencia que se insire na alma e forma a ésta, na virtude. Boecio (s.VI) consideraba a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". Santo Tomás (s.XIII) consideraba a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Rousseau, (s.XVIII) definía a música como "o arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación".
+A música[^def:mousike], na mitoloxía grega era unha *tekné* (técnica, habilidade, destreza, arte…); esta palabra engloba tanto a artistas como teóricos. Nos períodos heleno e helenístico, a música ten un papel central na sociedade civil e relixiosa, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón (s.V-VI a.c.) concibe a música como a "arte educativa por excelencia que se insire na alma e forma a ésta, na virtude"; Boecio (s.VI) consideraba a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos; Santo Tomás (s.XIII) consideraba a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Rousseau, (s.XVIII) definía a música como "o arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación". 
 
-Non será ata os anos noventa do século pasado, cando fraguen as primeiras definicións concretas (e complexas) sobre este concepto.
+As percepcións sobre a música, varian dependendo da época que se trate, a pesares de manteren todas rasgos comúns. Non será ata os anos noventa do século pasado, cando se establezan as primeiras definicións concretas (e complexas) sobre este concepto. Musicólogos, etnomusicólogos e investigadores coinciden en algúns aspectos sobre a música:
 
 >
-[...] as definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...] Non obstante, existen outras moitas perspectivas para intentar explicar o que é a música[^ref:lopez-cobas-musica].  
+As definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...]  
+Non obstante, [...] as definicións de música poden ser moi variadas e complexas, xa que existe unha multiplicidade de enfoques que non fan máis que apoiar o feito de que o fenómeno musical é unha manifestación de grande riqueza[^ref:lopez-cobas-musica].  
 
-### Pensamentos sobre o significado da «música» {-}
+### Perspectivas e significado da «música» {-}
 
 Ao longo da historia, existen diversos puntos de vista ou perspectivas sobre a música. Para comprender o concepto e a importancia que esta terá sobre a sociedade de cada época, compre coñecer algunhas das reflexións que darán lugar ás diferentes concepcións sobre música que hoxe coñecemos. 
 
 Música como ciencia.
 :    Pitágoras, filósofo grego do século V a.c. afirmaba:  
-
->
-[os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas]{hightlight="orange"}.
+"os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas."
 
 Música como arte.
 :    Richard Wagner, compositor alemán do s. XIX, consideraba:  
-
->
 "o son vén do corazón e a súa linguaxe artística natural é a música. A melodía é a lingua absoluta, a través da que o músico fala a todos os corazóns".
 
 Música como feito musical.
-:    O filósofo francés Descartes, (s. XVII) afirmaba sobre a música o seguinte:
+:    O filósofo francés Descartes, alá polo século XVII, afirmaba sobre a música o seguinte:  
 "A mesma cousa que a uns invita a bailar a outros pode facer chorar. Pois isto non provén senón da asociación de ideas na nosa mente; como aqueles que algunha vez se divertiron bailando con certa peza, tan pronto como a volvan a escoltar volverán ás ganas de bailar; pola contra, se algún só oíu gallardas cando lle aconteceu algo malo, volverá a entristecerse cando as escoite de novo".
 
 Música en relación co tempo.
-:    A definición tradicional, establece que "A música é a arte que se expresa combinando os sons co tempo".
+:    A definición tradicional, establece que:  
+"A música é a arte que se expresa combinando os sons co tempo".
 
 Música como expresión de sentimentos.
-:    Kant, filósofo alemán (s.XVIII) comentaba ao respecto que "A música é a linguaxe do sentimento. A música é a arte de expresar unha agradable sensación de sentimentos por medio dos sons".  
+:    Kant, filósofo alemán do século XVIII, comentaba ao respecto:  
+"A música é a linguaxe do sentimento. A música é a arte de expresar unha agradable sensación de sentimentos por medio dos sons".  
 
-Segundo as definicións anteriores, observamos que a música pode ser abordada dende moi diversos puntos de vista. Hugo Riemann, musicógrafo alemán do século XIX, afirma sobre a música, o seguinte: 
+Como podemos ver, os puntos de vista sobre a música son variados e dependen da época que se trate. Hugo Riemann, musicógrafo alemán do século XIX, afonda na definición mesturando algunhas das perspectivas anteriores, afirmando o seguinte: 
 
 >
 A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, non é senón a manifestación do belo por medio dos sons; pero esta manifestación descansa nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos sons, ao mesmo tempo que as súas relacións de altura e duración.
 
-Ata o de agora, as perspectivas anteriores sobre a música introducen algo fundamental: a "temporalidade". Que quere dicir este concepto?
+### Temporalidade e memoria auditiva {-}
 
->
-Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos.[^cita:Lorca-musica]
+Ata o de agora, as perspectivas anteriores sobre a música introducen algo fundamental: a «temporalidade».  
+Para que a música exista, debe desenvolverse ao longo do tempo e permitirnos así, poder apreciala; a «memoria auditiva» xoga un papel fundamental. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a podemos apreciar ben.
+
 
 ```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
 knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
 ```
-
-<!-- LINGUAXE UNIVERSAL DA MÚSICA
--->
 ### A música como linguaxe universal {-}
 
-O ser humano sinte a necesidade de expresarse e comunicarse. A música, como o resto de artes, é unha linguaxe a través da que expresarnos e comunicarnos. É un medio de comunicación e, ao igual que un idioma emprega a palabra para crear estruturas gramaticais, a música emprega o son e as súas múltiples combinacións para expresar ideas, sentimentos, conceptos, etc.[^cita:Lorca-musica] A mensaxe musical, abrangue aspectos e disciplinas variadas:
+O ser humano sinte a necesidade de expresarse e comunicarse. A música, como o resto de artes, é unha linguaxe a través da que expresarnos e comunicarnos. É un medio de comunicación e, ao igual que un idioma emprega a palabra para crear estruturas gramaticais, a música emprega o son e as súas múltiples combinacións para expresar ideas, sentimentos, conceptos, etc. A mensaxe musical, abrangue aspectos e disciplinas variadas:
 
 > 
 [...] en realidade, a definición de Música esténdese moito máis alá destes límites desde o mesmo momento en que por primeira vez o home emitiu un son valéndose dun instrumento. Esas harmonías e melodías non só eran un son belo, unha expresión de Beleza, senón que estableceron unha forma de linguaxe, unha nova maneira de expresarse e de sentir, así como de transmitir sensacións, imaxes e conceptos que abarcan desde a simple intención de comunicarse, ata a Filosofía, a Política, a Ética ou os complicados principios  cosmolóxicos, sen esquecer o papel tan importante que desempeñou dentro da Relixión ao longo da historia. Por todo iso, a Música é merecedora de ser considerada unha forma de linguaxe, así como unha disciplina científica e o seu estudo é necesario para coñecer o desenvolvemento dunha parcela da cultura do ser humano e comprender mellor a evolución do mesmo dentro da historia e a súa necesidade de comunicación.[^ref:gutierrez-macho]
 
-Considerada como arte, ciencia e linguaxe universal, sabemos que é un medio de expresión sen límites capaz de chegar ao máis íntimo de cada persoa, de transmitir diferentes estados de ánimo e emocións. Escoitar e "facer" música, desenvolve a sensibilidade, a creatividade e a capacidade de abstracción ou análise:
+Considerada como arte, ciencia e linguaxe universal, sabemos que é un medio de expresión sen límites capaz de chegar ao máis íntimo de cada persoa, de transmitir diferentes estados de ánimo e emocións. Escoitar e facer música, desenvolve a sensibilidade, a creatividade e a capacidade de abstracción ou análise:
 
 >  
 Propícianos a descubrir o noso propio mundo interior, a comunicación con “o outro” ou “os outros” e a captación e apreciación do mundo que nos rodea. A música, xa sexa mediante o comportamento de interpretación, de escoita ou de composición, se esta é adecuada, condúcenos a unha "reharmonización" do estado de ánimo e dos sentimentos.[^ref:josefa-moreno]
 
-Coa súa propia linguaxe, pode falarnos entre outras moitas cousas:  
+### A creación artístico-musical {-}
 
-- dunha civilización: música occidental, oriental, africana, etc.
-- dos sentimentos dunha persoa: por exemplo a sonata *Claro de Luna* de L.v. Beethoven, *Lamento de Adriana* de C. Monteverdi
-- o sentir dun pobo: caso dun himno nacional
+A música é unha **arte abstracta** que posúe un grao de abstracción superior a calquera outra, e polo tanto, é unha **arte espiritual**, **humana** e **universal**. Precisa, certos coñecementos específicos para chegar a comprender plenamente a realidade científica que lle da forma; é unha **arte dinámica**[^cita:arte-estatica], que transcorre no tempo (temporalidade); o oínte, necesita ir interiorizando[^cita:memoria-auditiva] a obra a medida que a escoita, para así poder captala íntegramente; por iso, é unha **arte viva**[^cita:arte-viva] capaz de facer presente calquera tempo histórico.
 
-
-### Creación artística-musical {-}
-
-A música é unha **arte abstracta** que posúe un grao de abstracción superior a calquera outra, e polo tanto, é unha **arte espiritual**, **humana** e **universal**. Precisa, certos coñecementos específicos para chegar a comprender plenamente a realidade científica que lle da forma; é unha **arte dinámica**, que transcorre no tempo (temporalidade); o oínte, necesita ir interiorizando a obra[^cita:memoria-auditiva] a medida que a escoita, para así poder captala[^cita:arte-estatica] íntegramente; por iso, é unha **arte viva** capaz de facer presente calquera tempo histórico[^cita:arte-viva].
+>
+Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos.[^cita:Lorca-musica]
 
 Cando afirmamos que a música é ciencia e arte ao mesmo tempo, significa que dunha mesma obra podemos facer unha análise rigurosa, ténica, formal, estilística, etc. e igualmente, disfrutar do pracer estético de escoitar sen máis. Polo tanto, estes dous aspectos ---científico e artístico--- chegan nun todo: a obra de arte musical. 
-
-#### O proceso creador e a inspiración {-}
 
 ### Transmisión da mensaxe musical {-}
 
@@ -141,10 +132,11 @@ Se observamos o exemplo (referencia ao exemplo), vemos que o modo en que se tran
 >
 Non quero que se interprete a miña música, só é preciso tocar o que está escrito.
 
+<!--PENDIENTE DE ELABORACIÓN-->
 
-### Audición e oínte. Como escoitar? {-}
+### Como escoitar músisca {-}
 
-#### Aprendo a escoitar música {-}
+#### Audición e oínte {-}
 
 #### A sensibilidade musical {-}
 
@@ -153,23 +145,6 @@ Non quero que se interprete a miña música, só é preciso tocar o que está es
 #### Coñecer axuda a comprender {-}
 
 <!--%%%%%%%%%%%%%%%% CITAS TEXTUAIS:%%%%%%%%%%%%%%--->
-
-
-[^cita:schopenhauer]: Arthur Schopenhauer, afirmaba:
-
-[^ref:josefa-moreno]: (Moreno, 2003)
-
-[^ref:gutierrez-macho]: (Gutiérrez Machó, 2013, p. 16)
-
-
-## A obra de arte musical {-}
-
-<!-- FONTE: Mayra Fa Echevarría--->
-
-## Concepto de música {-}
-En pleno século XXI, o concepto de «música» debe resultarnos bastante familiar. As novas tecnoloxías da información e da comuniación son grandes impulsoras pois vivimos rodeados dela. As novas tecnoloxías contribúen á difusión do producto e tamén da actividade musical entre a sociedade.
-
-Unha primeira aproximación ao concepto, lévanos a pensar que a música é un medio de expresión dos sentimentos humanos, unha manifestación artística e cultural dos pobos, que adquire diferentes formas, valores estéticos e funcións segundo o seu contexto.
 
 <!-- Definición de música (Wikipedia)-->
 
@@ -231,7 +206,7 @@ Concluiremos entón, que a finalidade da Historia da Música occidental é, entr
 
 O principal obxectivo da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**.
 
-Un dos problemas, que debemos afrontar na historia da música, é atopar unha definición máis ou menos aceptada e consensuada do que se entende por «música», dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.  
+Un dos principais problemas, como vemos no punto \@ref(definicions-e-conceptos-previos), que debemos afrontar na historia da música, é atopar unha definición máis ou menos aceptada e consensuada do que se entende por «música», dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.  
 
 <!-- %%% Oculto comentario de Francisco Callejo (2021/2022) %%%
 
@@ -310,7 +285,7 @@ CITAS E NOTAS DO TEMA
 [^def:mousike]:
 O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musas), feminino de *mousikos* «pertencente ás musas», de *Mousa* «Musa».
 
-[^cita:Lorca-musica]: Para García Lorca (1977) a música tiña un carácter difícilmente explicable.
+[^cita:Lorca-musica]: Para García Lorca (1977) a música tiña un carácter difícilmente explicable, máis se non coñecemos os seus elementos internos.
 
 [^cita:arte-estatica]:  As artes estáticas como a pintura, precisan dun lugar determinado, un espazo, que permite ao espectador contemplalas o tempo que queira e captalas dun golpe coa mirada. Segundo a clasificación tradicional das belas artes, son artes estáticas ou do espazo: a pintura, a escultura e arquitectura por exemplo. Como artes dinámicas, consideramos: a poesía, danza, música e o cine por exemplo.
 
@@ -331,7 +306,7 @@ O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musa
 
 [^cita:Musas]:Os gregos definen a música como «a arte das musas»
 
-[^ref:lopez-cobas-musica]: López Cobas, L.: *Historia da Música*, Conservatorio Profesional de Música de Ourense, (Setembro, 2021)
+[^ref:lopez-cobas-musica]: López Cobas, L.: *Historia da Música*, Ed. Conservatorio Profesional de Música de Ourense, (Setembro, 2019)
 
 [^ref:Callejo(2017)]: Callejo, F.: *Historia de la Música*, Conservatorio Profesional de Música Francisco Guerreo (2017).
 
@@ -340,6 +315,10 @@ O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musa
 [^ref:Wikipedia(Música)]: Definición de [música](https://es.wikipedia.org/wiki/M%C3%BAsica#Definici%C3%B3n) consultada na wikipedia.
 
 [^ref:RAG(2020)]: *Definición de historia*, RAG consultado en <https://academia.gal/diccionario> , (Setembro 2020)
+
+[^ref:gutierrez-macho]: Gutiérrez Machó, L. M. (2013). La música como lenguaje y medio de comunicación. Ecos del lejano oriente en la vanguardia musical orientalismo y japonismo musical. Entreculturas. Revista de tradución e comunicación intercultural, 5, 15–36.
+
+[^ref:josefa-moreno]: Moreno, J. L. (2003). Psicología de la música y emoción musical. Educatio s. XXI, 20–21, 213.
 
 [RAE]:https://dle.rae.es/ "Enlace á páxina da Real Academia Española da Língua"
 
@@ -359,5 +338,4 @@ https://digalego.xunta.gal/es/termo/44501/m%C3%BAsica "definición de música da
 [wikiland](https://www.wikiwand.com/gl/Minarete?wprov=srpw1_0))
 
 <!--- Fin de notas a pié de página --->
-
 
