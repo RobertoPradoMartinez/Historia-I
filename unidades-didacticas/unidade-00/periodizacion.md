@@ -4,20 +4,18 @@
 
 ## A periodización na Historia da música {-}
 
-Aínda que na historia, e especialmente na dos feitos culturais, como a música, os cambios prodúcense moi paulatinamente, sen que haxa acontecementos tan decisivos que xustifiquen un cambio de etapa, sempre resulta máis cómodo expor unha división en etapas ou períodos que faciliten o estudo. Esta división do tempo en períodos denominámola «periodización». 
+Aínda que na historia, e especialmente na dos feitos culturais, como a música, os cambios prodúcense paulatinamente, sen que haxa acontecementos tan decisivos que xustifiquen un cambio de etapa, resulta cómodo facer unha división en etapas ou períodos que faciliten o estudo. Esta división do tempo en períodos denominámola periodización. 
 
-A Historia, como ciencia dos acontecementos humanos, existe desde a antigüidade; tradicionalmente considerouse a  Heródoto, historiador grego do século V  aC como o «pai da historia». Con todo, a división habitual das etapas da historia ten a súa orixe nos humanistas europeos do Renacemento, época na que tamén aparecen as primeiras historias da arte. A historia da música é moi posterior: os primeiros libros apareceron a finais do século  XVIII, e o desenvolvemento da  historiografía musical é principalmente do século  XIX.
+A división habitual das etapas da historia ten a súa orixe nos humanistas europeos do Renacemento, época na que tamén aparecen as primeiras historias da arte. A historia da música é moi posterior: os primeiros libros apareceron a finais do século  XVIII, e o desenvolvemento da  historiografía musical é principalmente do século  XIX[^ref:herodoto]. Esta aparición tardía, fai que a Historia da música adopte habitualmente as periodizacións doutras disciplinas, principalmente a Historia da arte, pero a música non sempre cambia ao ritmo das outras actividades humanas e, polo tanto os termos da historia xeral ou da historia da arte, non son válidos ---en moitos casos--- para a da música.
 
-Esta aparición tardía fai que a Historia da música adopte habitualmente as periodizacións doutras disciplinas, principalmente a Historia da arte. Non sempre a música cambia ao mesmo ritmo que outras actividades humanas, polo que os termos da historia xeral ou a da arte non serven en moitos casos para a da música.
-
-### Períodos da historia {-}
+### Os períodos da historia {-}
 
 Adóitase situar o comezo da historia no momento da aparición da escritura, fai uns 6000 anos aproximadamente; o período anterior denomínase Prehistoria. Aínda que está constatada a existencia de actividade musical durante a prehistoria, descoñécese que música facíase entón, polo que adoita quedar á marxe da historia da música.
 
 Os períodos en que se divide a historia son catro:
 
 1. **Idade Antiga**:
-(ata o século V d. C.). Aínda que a notación musical naceu á vez que a escritura, a maior parte das culturas antigas non escribiron a súa música, e as escasas notacións que existen son practicamente descoñecidas, coa excepción importante da da Grecia  helenística (a partir do século IV  aC).  
+(ata o século V d. C.). Aínda que a notación musical naceu á vez que a escritura, a maior parte das culturas antigas non escribiron a súa música, e as escasas notacións que existen son practicamente descoñecidas, coa excepción importante da Grecia helenística (a partir do século IV  aC).  
 Para a historia da música occidental, o máis interesante desta época son as teorías gregas sobre a música, que influíron de forma importante na música europea medieval, renacentista e barroca, e mesmo despois.
 
 2. **Idade Media**:
@@ -66,3 +64,8 @@ As etapas da música europea occidental, que consideraremos ao longo deste curso
 6. **Música contemporánea**: iníciase cara a 1890, coas obras de madurez de  Mahler,  Debussy e outros, aínda que o momento de cambio máis importante é cara a 1907 (aparición da  atonalidad). Ás veces a expresión «música contemporánea» utilízase só para a creada con posterioridade a 1945.
 
 En moitos libros recentes de historia da música, establécese a división do período posterior ao Renacemento por séculos (XVII,  XVIII, XIX e XX), sen utilizar etiquetas de ningún tipo, tal como faremos neste curso.
+
+<!--Referencias e citas do tema--->
+[^ref:herodoto]: tradicionalmente considerouse a Heródoto, historiador grego do século *v *ac como o «pai da historia»; como ciencia, a Historia dos acontecementos humanos, existe xa desde a antigüidade.
+
+

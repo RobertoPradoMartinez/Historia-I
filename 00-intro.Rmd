@@ -117,63 +117,41 @@ Música como expresión de sentimentos.
 Como podemos ver, os puntos de vista sobre a música son variados e dependen da época que se trate. Hugo Riemann, musicógrafo alemán do século XIX, afonda na definición mesturando algunhas das perspectivas anteriores, afirmando o seguinte: 
 
 >
-A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, non é senón a manifestación do belo por medio dos sons; pero esta manifestación descansa nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos sons, ao mesmo tempo que as súas relacións de altura e duración.
+A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifestación da *beleza* por medio dos sons; pero esta manifestación descansa nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos sons, ao mesmo tempo que as súas relacións de altura e duración.
 
 ### Temporalidade e memoria auditiva {-}
 <!--TODO: IMAXE SOBRE TEMPORALIDADE E MEMORIA AUDITIVA-->
 
 As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade».  
-Para que a música exista, debe desenvolverse ao longo do tempo. A «memoria auditiva» xoga un papel fundamental, pois como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben.
-
+Para que a música exista, debe desenvolverse ao longo do tempo. A «memoria auditiva» xoga un papel fundamental pois, como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben.
 
 ```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
 knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
 ```
 
-### Transmisión da mensaxe musical {-}
-<!--TODO: IMAXE SOBRE MENSAXE MUSICAL (CADRO COMPARATIVO, ETC.)-->
-
-Se observamos o exemplo (referencia ao exemplo), vemos que o modo en que se transmite a mensaxe, varía segundo se trate de obras de arte estáticas ou dinámicas. No exemplo, entre o cadro de Goya e o espectador non hai intermediarios; a obra de arte permanece inalterable co paso do tempo para calquera espectador que queira contemplala. No mesmo exemplo, no caso da obra de Beethoven a mensaxe, non chega de maneira tan directa: o compositor, escribe a partitura que ha ser executada por un ou varios intérpretes, que dan vida á obra; o oínte recibe a música interpretada e polo tanto a obra musical ideada polo autor. O intérprete, neste caso debe ser capaz de conxugar por unha parte, a liberdade creadora[^cita:liberdade-creadora] e por outra a fidelidade ao escrito polo compositor: influirá aquí, polo tanto, a calidade do instrumento e as cualidades do propio instrumentista. A boa recepción da mensaxe, non depende únicamente do escrito polo autor da obra no momento da creación, senón tamén da interpretación ---recreación--- que se faga en cada momento:
-
->
-Non quero que se interprete a miña música, só é preciso tocar o que está escrito.
-
-<!--PENDIENTE DE ELABORACIÓN-->
-
-### Como escoitar músisca {-}
-
-#### Audición e oínte {-}
-
-#### A sensibilidade musical {-}
-
-#### Apreciar e comprender a música {-}
-
-#### Coñecer axuda a comprender {-}
-
-<!--%%%%%%%%%%%%%%%% CITAS TEXTUAIS:%%%%%%%%%%%%%%--->
-
-<!-- Definición de música (Wikipedia)-->
-
-### Algunhas definicións aceptadas {-}
-
+<!---DESCARTADO POLO MOMENTO:
 Música
 :    
->La música [...] es el [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible y lógicamente una combinación coherente de [sonidos](https://es.wikipedia.org/wiki/Sonido) y [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando los principios fundamentales de la [melodía](https://es.wikipedia.org/wiki/Melodía), la [armonía](https://es.wikipedia.org/wiki/Armonía) y el [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
+A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] como:
 
+> Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
+
+Outras definicións establecen que:
+
+>A música [...] é a [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible e lóxicamente unha combinación coherente de [sons](https://es.wikipedia.org/wiki/Sonido) e [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando os principios fundamentais da [melodía](https://es.wikipedia.org/wiki/Melodía), a [harmonía](https://es.wikipedia.org/wiki/Armonía) e o [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
 
 ```{r figura-exemplo1, echo=FALSE, fig.align='center', fig.cap="Insertar imaxes en RStudio.", out.width="65%"}
 knitr::include_graphics('figures/ud-00/photo.png')
 ```
-
-- A [Real Adacemia Galega da lingua][RAG], define a [«música»][rag:música] como:
-
-> Arte de combinar harmoniosamente os sons, segundo unhas regras preestablecidas.
 
 ```{block type='correction'}
 
 Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
 
 ```
+
+--->
+
 ## Relación entre historia e música {-}
 
 Se ben o concepto de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».
@@ -210,9 +188,9 @@ Concluiremos entón, que a finalidade da Historia da Música occidental é, entr
 
 ## Obxectivos e problemática da materia {-}
 
-O principal obxectivo da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**.
+Un dos principais obxectivos da Historia da Música é o **estudo da evolución da música ao longo da historia da humanidade**.
 
-Un dos principais problemas, como vemos no punto \@ref(definicions-e-conceptos-previos), que debemos afrontar na historia da música, é atopar unha definición máis ou menos aceptada e consensuada do que se entende por «música», dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.  
+Un dos principais problemas, como vemos no punto \@ref(definicions-e-conceptos-previos), que debemos afrontar na historia da música, é atopar unha definición de «música», dado que non significa e non se refire ao mesmo en tódalas culturas. Algunhas, inclúen dentro do concepto de «música» aspectos da danza, poesía, etc. e outras culturas, pola contra, non empregan ningún término para referírense á música en sí.  
 
 <!-- %%% Oculto comentario de Francisco Callejo (2021/2022) %%%
 
@@ -227,7 +205,7 @@ Como vemos no exemplo anterior, o que se considera música para unha cultura, po
 
 -->
 
-Por outra parte, a «historia da música occidental» exclúe moitas manifestacións musicais como a música popular actual, a música tradicional europea e non europea. Exclúe tamén do seu ámbito de estudo, a música clásica oriental chinesa, xaponesa ou india. Así o seu campo de estudo redúcese, exclusivamente á "música culta" europea, a pesares de si estudar algunha música non europea que segue certos cánones europeos.
+Por outra parte, a «historia da música occidental» que estudamos, exclúe moitas manifestacións musicais como a música popular actual, a música tradicional europea e non europea. Exclúe tamén do seu ámbito de estudo, a música clásica oriental chinesa, xaponesa ou india. Así o seu campo de estudo redúcese, exclusivamente á "música culta" europea, a pesares de si estudar algunha música non europea que segue certos cánones europeos.
 
 Outra cuestión que influirá no concepto é a «orixe da cultura occidental». Cando comeza a cultura occidental? ou mellor dito, desde cando consideramos que comeza a cultura occidental?
 
