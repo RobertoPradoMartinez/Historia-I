@@ -28,12 +28,28 @@ submitted-text: Apuntes e materiais didácticos
 degree: Ensinanzas Profesionais de Música
 degreedate: 2021 - 2022
 abstract: |
-  `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
+  En construcción ...
 acknowledgements: |
-  `r paste(readLines("front-and-back-matter/_acknowledgements.Rmd"), collapse = '\n  ')`
+  Este proxecto sae adiante partindo do esforzo de anos de incansable traballo pola miña parte e dende logo, non sería posible sen a axuda de toda aquela xente que durante este tempo se mantén ao meu carón, apoiando a miña labor docente no Conservatorio Profesional de Música de Viveiro (Lugo). 
+  
+  Debo agradecer a John Gruber por ofrecer e compartir de xeito desinteresado o `Markdown`; a John MacFarlane por crear o `Pandoc` (<http://pandoc.org>) indispensable na conversión de Markdown a outros formatos; a Yihui Xie por crear `knitr` e `bookdown` sen os cales todo este traballo non sería posible de realizar.
+  
+  Un agradecemento especial a Ulrik Lyngs por crear e desenvolver o modelo `oxfordown` que sirve de base na elaboración, maquetación e deseño deste traballo, sen o cal sería impensable dada a súa magnitude, e como non a J.J Allaire, fundador e CEO de [RStudio](http://rstudio.com) software empregado para a elaboración deste proxecto.
+  
+  
+  \begin{flushright}
+  Roberto Prado \\
+  Fene, A Coruña \\
+  2021
+  \end{flushright}
 dedication: A todas aquelas persoas que colaboraron neste traballo
 abbreviations: |
-  `r paste(readLines("front-and-back-matter/_abbreviations.Rmd"), collapse = '\n  ')`
+  \item[1-D, 2-D] One- or two-dimensional, referring **in this thesis** to spatial dimensions in an image.
+  
+  \item[Otter] One of the finest of water mammals.
+  
+  \item[Hedgehog] Quite a nice prickly friend.
+  
 
 #######################
 ## bibliography path ##
@@ -171,14 +187,9 @@ always_allow_html: true #this allows html stuff in word (.docx) output
 ---
 
 
-```{r install_packages, include=FALSE}
-source('scripts_and_filters/install_packages_if_missing.R')
-```
 
-```{r create_chunk_options, include=FALSE, eval=knitr::is_latex_output()}
-source('scripts_and_filters/create_chunk_options.R')
-source('scripts_and_filters/wrap_lines.R')
-```
+
+
 
 <!--
 Include the create_chunk_options chunk above at the top of your index.Rmd file
@@ -188,8 +199,7 @@ If you need to create your own additional chunk options, edit the file scripts/c
 -->
 
 <!-- This chunk includes the front page content in HTML output -->
-```{r ebook-welcome, child = 'front-and-back-matter/_welcome-ebook.Rmd', eval=knitr::is_html_output()}
-```
+
 
 <!--chapter:end:index.Rmd-->
 
@@ -225,9 +235,10 @@ Evita que o índice de capítulos e encabezamentos amose os textos do capítulo 
 
 <!-- CITA DE INICIO DE CAPÍTULO (só pdf) -->
 
-```{block type='savequote', quote_author='(ref:cita-dante)', include=knitr::is_latex_output()}
-O obxetivo de toda obra artística é axudar a cantos viven neste mundo a abandonar as súas miserias e conducilos á verdadeira felicidade...
-```
+\begin{savequote}
+O obxetivo de toda obra artística é axudar a cantos viven neste mundo a
+abandonar as súas miserias e conducilos á verdadeira felicidade\ldots{}
+\qauthor{(ref:cita-dante)}\end{savequote}
 
 (ref:cita-dante) --- Dante Alighieri. *Carta al Gran Can de la Scala de Verona*, no preámbulo ao Paraíso.
 
@@ -322,9 +333,14 @@ Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar
 
 A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar así a mensaxe que o compositor quere transmitir.
 
-```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
-knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=1\linewidth]{figures/ud-00/musas-origen-musica} 
+
+}
+
+\caption[Apolo e as nove musas inspiradoras das artes e as ciencias]{Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)}(\#fig:figura-musas-1)
+\end{figure}
 
 <!---DESCARTADO POLO MOMENTO:
 Música
@@ -337,15 +353,19 @@ Outras definicións establecen que:
 
 >A música [...] é a [arte](https://es.wikipedia.org/wiki/Arte) de organizar sensible e lóxicamente unha combinación coherente de [sons](https://es.wikipedia.org/wiki/Sonido) e [silencios](https://es.wikipedia.org/wiki/Silencio_(sonido)) respetando os principios fundamentais da [melodía](https://es.wikipedia.org/wiki/Melodía), a [harmonía](https://es.wikipedia.org/wiki/Armonía) e o [ritmo](https://es.wikipedia.org/wiki/Ritmo), [...]. [^ref:Wikipedia(Música)]
 
-```{r figura-exemplo1, echo=FALSE, fig.align='center', fig.cap="Insertar imaxes en RStudio.", out.width="65%"}
-knitr::include_graphics('figures/ud-00/photo.png')
-```
+\begin{figure}
 
-```{block type='correction'}
+{\centering \includegraphics[width=0.65\linewidth]{figures/ud-00/photo} 
 
-Podemos concluír que, a música é unha combinación ordenada de ritmo, melodía e harmonía, agradable ao oído humano.
+}
 
-```
+\caption{Insertar imaxes en RStudio.}(\#fig:figura-exemplo1)
+\end{figure}
+
+\begin{correction}
+Podemos concluír que, a música é unha combinación ordenada de ritmo,
+melodía e harmonía, agradable ao oído humano.
+\end{correction}
 
 --->
 
@@ -377,11 +397,15 @@ Estas son algunhas ideas sobre o concepto de «historia da música», que nos ap
 
 Concluiremos entón, que a finalidade da Historia da Música occidental é, entre outras:
 
-```{block type='correction'}
-
-- o estudo da evolución das diferentes manifestacións musicais (a tradición musical) das culturas de occidente (neste caso as culturas e sociedades musicais europeas) ao longo do tempo.
-
-```
+\begin{correction}
+\begin{itemize}
+\tightlist
+\item
+  o estudo da evolución das diferentes manifestacións musicais (a
+  tradición musical) das culturas de occidente (neste caso as culturas e
+  sociedades musicais europeas) ao longo do tempo.
+\end{itemize}
+\end{correction}
 
 ## Obxectivos e problemática da materia {-}
 
@@ -547,18 +571,146 @@ documentclass: book
 
 
 
-```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
+
+<!-- 
+OBXECTIVO XERAL: 
+
+- Coñecer o papel fundamental das fontes musicais á hora de elaborar a Historia da Música dende a Antigüedade ata a actualidade. 
+
+OBXECTIVOS DIDÁCTICOS:
+
+- Comprender o concepto de fonte musical 
+- Dintinguir os diferentes tipos de fontes musicais: escritas, iconográficas e sonoras.
+
+CONTIDOS:
+
+- As fontes como ferramentas para narrar a Historia da Música 
+- Tipos de fontes: escritas, sonoras e iconográficas
+- Análise de diferentes tipos de fontes musicais 
+- Comentario sobre a problemática que entrañan algunhas fontes desde diferentes puntos de vista: estado de conservación, criterios estéticos, etc.… 
+- Valoración dos diferentes tipos de fontes musicais como ferramenta indispensable para unha correcta construcción da Historia da Música. 
+-->
+
+## As fontes de información histórica {-}
+
+A actividade musical é tan antiga como a especie humana. Salvo a época prehistórica, da que só se teñen vagas nocións por restos de posibles instrumentos atopados en xacementos e por pinturas rupestres, o coñecemento da música das culturas antigas ven dado polo que denominamos «fontes de información».  
+
+### Fontes para o estudo da Música na Prehistoria e Antigüidade {-}
+
+En **historiografía**, denomínanse «fontes» a todo o que aporta información para o estudo dunha determinada cultura.  
+No caso da Historia da Música das Civilizacións da Prehistoria e a Antigüidade, as fontes son moi variadas. Así, falaremos de fontes de tipo iconográfico, como pinturas e esculturas; documentos escritos, como xeroglíficos e inscripcións en tumbas ou templos; literarios como a Biblia, (entre outros); restos arqueolóxicos, como é o caso de fragmentos de instrumentos desa época atopados en sarcófagos.
+
+Dentro do noso ámbito de estudo, consideramos como principais fontes de información as seguintes:
+
+1. **Arqueoloxía**. Os restos arqueolóxicos proporcionan importante información sobre a música de épocas antigas. Os máis importantes son os instrumentos musicais —ou partes deles— que non se destruíron co paso do tempo; pero tamén se atopan restos de edificios e lugares onde se interpretaba música e danza. Entre os restos arqueolóxicos atópanse tamén as mostras máis antigas de notación musical.
+2. **Iconografía**. A pintura, a escultura e outras obras das artes visuais proporcionan información sobre instrumentos musicais, contextos e prácticas de interpretación, danzas, etc.
+3. **Literatura**. A literatura, entendida como o conxunto de todo o escrito, ofrece abundante información musical: algunhas fontes literarias describen escenas ou pensamentos musicais e tamén ideas sobre música; os textos da música vocal indican a estrutura rítmica, malia que non se conserven as melodías. Dentro da literatura hai que incluír tamén as obras técnicas sobre música como tratados, métodos, etc.
+4. **Etnomusicoloxía**. A  etnomusicología, o estudo das músicas de tradición oral actuais, pode axudar á comprensión da actividade musical antiga. Aínda que non é correcto supoñer que en condicións de vida iguais desenvólvense culturas musicais iguais, ás veces o coñecemento das músicas tradicionais actuais pode proporcionar detalles sobre técnicas de interpretación de instrumentos antigos ou sobre movementos de danza, por exemplo.
+
 ```
+mermaid
+graph TB;
+    Aa(Fontes de Información);
+    B(Arqueoloxía);
+    C(Iconografía);
+    D(Literatura);
+    E(Etnomusicoloxía);
+    
+    A-->B
+    A-->C
+    A-->D
+    A-->E
+
+```
+
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
+
+Case todos os libros sobre Historia da Música, comezan narrando as circunstancias da Música na Idade Media. Este feito, transmite a idea de que a orixe da música na cultura occidental está relacionado co canto gregoriano. Ata hai ben pouco, eran contados os manuais que trataban a importancia da cultura musical da Antigüidade Grega. Que pasa entón coa música anterior? Que sabemos sobre as danzas e os "concertos cortesáns" da época dos faraóns? Que instrumentos empregaban nas celebracións funerarias e nas ofrendas aos deuses?
+
 
 ## A orixe da música
 
-```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
+
+<!-- 
+OBXECTIVO XERAL: 
+
+- Coñecer o papel fundamental das fontes musicais á hora de elaborar a Historia da Música dende a Antigüedade ata a actualidade. 
+
+OBXECTIVOS DIDÁCTICOS:
+
+- Comprender o concepto de fonte musical 
+- Dintinguir os diferentes tipos de fontes musicais: escritas, iconográficas e sonoras.
+
+CONTIDOS:
+
+- As fontes como ferramentas para narrar a Historia da Música 
+- Tipos de fontes: escritas, sonoras e iconográficas
+- Análise de diferentes tipos de fontes musicais 
+- Comentario sobre a problemática que entrañan algunhas fontes desde diferentes puntos de vista: estado de conservación, criterios estéticos, etc.… 
+- Valoración dos diferentes tipos de fontes musicais como ferramenta indispensable para unha correcta construcción da Historia da Música. 
+-->
+
+## As fontes de información histórica {-}
+
+A actividade musical é tan antiga como a especie humana. Salvo a época prehistórica, da que só se teñen vagas nocións por restos de posibles instrumentos atopados en xacementos e por pinturas rupestres, o coñecemento da música das culturas antigas ven dado polo que denominamos «fontes de información».  
+
+### Fontes para o estudo da Música na Prehistoria e Antigüidade {-}
+
+En **historiografía**, denomínanse «fontes» a todo o que aporta información para o estudo dunha determinada cultura.  
+No caso da Historia da Música das Civilizacións da Prehistoria e a Antigüidade, as fontes son moi variadas. Así, falaremos de fontes de tipo iconográfico, como pinturas e esculturas; documentos escritos, como xeroglíficos e inscripcións en tumbas ou templos; literarios como a Biblia, (entre outros); restos arqueolóxicos, como é o caso de fragmentos de instrumentos desa época atopados en sarcófagos.
+
+Dentro do noso ámbito de estudo, consideramos como principais fontes de información as seguintes:
+
+1. **Arqueoloxía**. Os restos arqueolóxicos proporcionan importante información sobre a música de épocas antigas. Os máis importantes son os instrumentos musicais —ou partes deles— que non se destruíron co paso do tempo; pero tamén se atopan restos de edificios e lugares onde se interpretaba música e danza. Entre os restos arqueolóxicos atópanse tamén as mostras máis antigas de notación musical.
+2. **Iconografía**. A pintura, a escultura e outras obras das artes visuais proporcionan información sobre instrumentos musicais, contextos e prácticas de interpretación, danzas, etc.
+3. **Literatura**. A literatura, entendida como o conxunto de todo o escrito, ofrece abundante información musical: algunhas fontes literarias describen escenas ou pensamentos musicais e tamén ideas sobre música; os textos da música vocal indican a estrutura rítmica, malia que non se conserven as melodías. Dentro da literatura hai que incluír tamén as obras técnicas sobre música como tratados, métodos, etc.
+4. **Etnomusicoloxía**. A  etnomusicología, o estudo das músicas de tradición oral actuais, pode axudar á comprensión da actividade musical antiga. Aínda que non é correcto supoñer que en condicións de vida iguais desenvólvense culturas musicais iguais, ás veces o coñecemento das músicas tradicionais actuais pode proporcionar detalles sobre técnicas de interpretación de instrumentos antigos ou sobre movementos de danza, por exemplo.
+
 ```
+mermaid
+graph TB;
+    Aa(Fontes de Información);
+    B(Arqueoloxía);
+    C(Iconografía);
+    D(Literatura);
+    E(Etnomusicoloxía);
+    
+    A-->B
+    A-->C
+    A-->D
+    A-->E
+
+```
+
+```mermaid
+stateDiagram
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
+
+Case todos os libros sobre Historia da Música, comezan narrando as circunstancias da Música na Idade Media. Este feito, transmite a idea de que a orixe da música na cultura occidental está relacionado co canto gregoriano. Ata hai ben pouco, eran contados os manuais que trataban a importancia da cultura musical da Antigüidade Grega. Que pasa entón coa música anterior? Que sabemos sobre as danzas e os "concertos cortesáns" da época dos faraóns? Que instrumentos empregaban nas celebracións funerarias e nas ofrendas aos deuses?
+
 
 ## A música durante a Prehistoria
 
-```{r child=here::here('unidades-didacticas/unidade-01/prehistoria.md')}
-```
+
+## A música na prehistoria  
+
+Este tema está redactado en modo texto sinxelo `txt` pero empregando sintase `markdown` para integralo no RStudio.
 
 ## A música nas primeiras civilizacións
 
@@ -718,7 +870,7 @@ The syntax for writing math is stolen from LaTeX. To write a math expression tha
   - This: \$A = \\pi*r^{2}\$  Becomes: $A = \pi*r^{2}$
   
 To write a math expression that will be shown in a block, enclose it in two dollar signs.\
-This: `r ifelse(knitr::opts_knit$get('rmarkdown.pandoc.to') == 'latex', "\\$\\$A = \\\\pi*r^{2}\\$\\$", "<span>&#36;</span>\\$A = \\\\pi*r^{2}\\$\\$")`
+This: \$\$A = \\pi*r^{2}\$\$
 
 Becomes: 
 $$A = \pi*r^{2}$$
@@ -749,10 +901,9 @@ We do this either as *code chunks* (generally used for loading libraries and dat
 
 The syntax of a code chunk is shown in Figure \@ref(fig:chunk-parts).
 
-```{r chunk-parts, echo=FALSE, fig.cap="Code chunk syntax", out.width="100%", message=FALSE, fig.pos='H'}
-library(tidyverse)
-knitr::include_graphics("figures/sample-content/chunk-parts.png")
-```
+\begin{figure}[H]
+\includegraphics[width=1\linewidth]{figures/sample-content/chunk-parts} \caption{Code chunk syntax}(\#fig:chunk-parts)
+\end{figure}
 
 Common chunk options include (see e.g. [bookdown.org](https://bookdown.org/yihui/rmarkdown/r-code.html)):
 
@@ -770,7 +921,7 @@ An R Markdown document usually begins with a chunk that is used to **load librar
 In your thesis, this will probably happen in **index.Rmd** and/or as opening chunks in each of your chapters.
 
 ````
-`r ''````{r setup, include=FALSE}
+```{r setup, include=FALSE}
 # don't show code unless we explicitly set echo = TRUE
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -781,9 +932,19 @@ library(tidyverse)
 ### Including images
 Code chunks are also used for including images, with `include_graphics` from the `knitr` package, as in Figure \@ref(fig:oxford-logo)
 
-```{r oxford-logo, fig.cap="Oxford logo", out.width='50%', fig.align='center'}
+
+```r
 knitr::include_graphics("figures/sample-content/beltcrest.png")
 ```
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.5\linewidth]{figures/sample-content/beltcrest} 
+
+}
+
+\caption{Oxford logo}(\#fig:oxford-logo)
+\end{figure}
 
 Useful chunk options for figures include:
 
@@ -796,7 +957,8 @@ You can use the chunk option `out.extra` to rotate images.
 
 The syntax is different for LaTeX and HTML, so for ease we might start by assigning the right string to a variable that depends on the format you're outputting to:
 
-```{r}
+
+```r
 if (knitr::is_latex_output()){
   rotate180 <- "angle=180"
 } else {
@@ -806,21 +968,29 @@ if (knitr::is_latex_output()){
 
 Then you can reference that variable as the value of `out.extra` to rotate images, as in Figure \@ref(fig:oxford-logo-rotated).
 
-```{r oxford-logo-rotated, out.extra=rotate180, fig.cap="Oxford logo, rotated", out.width='50%', fig.align='center', echo=FALSE}
-knitr::include_graphics("figures/sample-content/beltcrest.png")
-```
+\begin{figure}
+
+{\centering \includegraphics[width=0.5\linewidth,angle=180]{figures/sample-content/beltcrest} 
+
+}
+
+\caption{Oxford logo, rotated}(\#fig:oxford-logo-rotated)
+\end{figure}
 
 
 ### Including plots
 Similarly, code chunks are used for including dynamically generated plots.
 You use ordinary code in R or other languages - Figure \@ref(fig:cars-plot) shows a plot of the `cars` dataset of stopping distances for cars at various speeds (this dataset is built in to **R**).
 
-```{r cars-plot, fig.cap = "A ggplot of car stuff"}
+
+```r
 cars %>% 
   ggplot() +
     aes(x = speed, y = dist) +
     geom_point()
 ```
+
+![(\#fig:cars-plot)A ggplot of car stuff](_main_files/figure-latex/cars-plot-1.pdf) 
 
 Under the hood, plots are included in your document in the same way as images - when you build the book or knit a chapter, the plot is automatically generated from your code, saved as an image, then included into the output document.
 
@@ -829,11 +999,35 @@ Tables are usually included with the `kable` function from the `knitr` package.
 
 Table \@ref(tab:cars-table) shows the first rows of that cars data - read in your own data, then use this approach to automatically generate tables.
 
-```{r cars-table}
+
+```r
 cars %>% 
   head() %>% 
   knitr::kable(caption = "A knitr kable table")
 ```
+
+\begin{table}
+
+\caption{(\#tab:cars-table)A knitr kable table}
+\centering
+\begin{tabular}[t]{r|r}
+\hline
+speed & dist\\
+\hline
+4 & 2\\
+\hline
+4 & 10\\
+\hline
+7 & 4\\
+\hline
+7 & 22\\
+\hline
+8 & 16\\
+\hline
+9 & 10\\
+\hline
+\end{tabular}
+\end{table}
 
 - Gotcha: when using [`kable`](https://www.rdocumentation.org/packages/knitr/versions/1.21/topics/kable), captions  are set inside the `kable` function
 - The `kable` package is often used with the [`kableExtra`](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) package
@@ -844,9 +1038,19 @@ In your PDF output, LaTeX will try to find the best place to put your object bas
 
 In general, you should allow LaTeX to do this, but if you really *really* need a figure to be positioned where you put in the document, then you can make LaTeX attempt to do this with the chunk option `fig.pos="H"`, as in Figure \@ref(fig:oxford-logo-controlled):
 
-```{r oxford-logo-controlled, fig.cap="An Oxford logo that LaTeX will try to place at this position in the text", out.width='50%', fig.align='center', fig.pos="H"}
+
+```r
 knitr::include_graphics("figures/sample-content/beltcrest.png")
 ```
+
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.5\linewidth]{figures/sample-content/beltcrest} 
+
+}
+
+\caption{An Oxford logo that LaTeX will try to place at this position in the text}(\#fig:oxford-logo-controlled)
+\end{figure}
 
 As anyone who has tried to manually play around with the placement of figures in a Word document knows, this can have lots of side effects with extra spacing on other pages, etc.
 Therefore, it is not generally a good idea to do this - only do it when you really need to ensure that an image follows directly under text where you refer to it (in this document, I needed to do this for Figure \@ref(fig:latex-font-sizing) in section \@ref(max-power)).
@@ -855,21 +1059,22 @@ For more details, read the relevant section of the [R Markdown Cookbook](https:/
 
 ## Executable inline code
 'Inline code' simply means inclusion of code inside text. 
-The syntax for doing this is `` ``r ''`r R_CODE` ``
-For example, `` ``r ''`r 4 + 4` `` will output `r 4 + 4` in your text.
+The syntax for doing this is `` `r R_CODE` ``
+For example, `` `r 4 + 4` `` will output 8 in your text.
 
 You will usually use this in parts of your thesis where you report results - read in data or results in a code chunk, store things you want to report in a variable, then insert the value of that variable in your text.
 For example, we might assign the number of rows in the `cars` dataset to a variable:
 
-```{r}
+
+```r
 num_car_observations <- nrow(cars)
 ```
 
 We might then write:\
-"In the `cars` dataset, we have `` ``r ''`r num_car_observations` `` observations."
+"In the `cars` dataset, we have `` `r num_car_observations` `` observations."
 
 Which would output:\
-"In the `cars` dataset, we have `r num_car_observations` observations."
+"In the `cars` dataset, we have 50 observations."
 
 
 ## Executable code in other languages than R
@@ -952,14 +1157,14 @@ You can browse through and download styles at [zotero.org/styles](https://www.zo
 For an easy way to insert citations, try the [`citr`](https://github.com/crsh/citr) RStudio add-in (Figure \@ref(fig:citr)).
 You can install this add-in by typing `install.packages("citr")` in the R Console.
 
-```{r citr, echo=FALSE, fig.cap="The `citr` add-in", out.width="80%", fig.align='center'}
-# include dynamic gif if output is HTML; otherwise screenshot
-if (knitr::opts_knit$get('rmarkdown.pandoc.to') == 'html'){
-  knitr::include_graphics("https://raw.githubusercontent.com/crsh/citr/master/tools/images/addin_demo.gif")
-} else {
-  knitr::include_graphics("figures/sample-content/citr.png")
+\begin{figure}
+
+{\centering \includegraphics[width=0.8\linewidth]{figures/sample-content/citr} 
+
 }
-```
+
+\caption{The `citr` add-in}(\#fig:citr)
+\end{figure}
 
 ## Cross-referencing
 We can make cross-references to **sections** within our document, as well as to **figures** (images and plots) and **tables**.
@@ -987,9 +1192,19 @@ See [our chapter title](#cites-and-refs) for an example. That was section \@ref(
 - **GOTCHA**: Figures and tables must have captions if you wish to cross-reference them.
 
 Let's add an image:
-```{r captain, fig.align='center', fig.cap="A marvel-lous meme", out.width="65%"}
+
+```r
 knitr::include_graphics("figures/sample-content/captain.jpeg")
 ```
+
+\begin{figure}
+
+{\centering \includegraphics[width=0.65\linewidth]{figures/sample-content/captain} 
+
+}
+
+\caption{A marvel-lous meme}(\#fig:captain)
+\end{figure}
 
 We refer to this image with `\@ref(fig:captain)`.
 So Figure \@ref(fig:captain) is [this image](#fig:captain).
@@ -1001,10 +1216,32 @@ And in Figure \@ref(fig:cars-plot) we saw a [cars plot](#fig:cars-plot).
 - To refer to tables use the syntax `\@ref(tab:label)`
 
 Let's include a table:
-```{r cars-table2}
+
+```r
 knitr::kable(cars[1:5,],
             caption="Stopping cars")
 ```
+
+\begin{table}
+
+\caption{(\#tab:cars-table2)Stopping cars}
+\centering
+\begin{tabular}[t]{r|r}
+\hline
+speed & dist\\
+\hline
+4 & 2\\
+\hline
+4 & 10\\
+\hline
+7 & 4\\
+\hline
+7 & 22\\
+\hline
+8 & 16\\
+\hline
+\end{tabular}
+\end{table}
 
 We refer to this table with `\@ref(tab:cars-table2)`. 
 So Table \@ref(tab:cars-table2) is [this table](#tab:cars-table2).
@@ -1025,8 +1262,8 @@ A problem here is that LaTeX commands don't display in HTML output, so in the gi
 
 One way to get around this is to use inline R code to insert the text, and use an `ifelse` statement to check the output format and then insert the appropriate text.
 
-- So this: `` ``r ''`r ifelse(knitr::is_latex_output(), "Figure \\@ref(fig:cars-plot) on page \\pageref{fig:cars-plot}", "")` ``
-- Inserts this (check this on both PDF and gitbook): `r ifelse(knitr::is_latex_output(), "Figure \\@ref(fig:cars-plot) on page \\pageref{fig:cars-plot}", "")`
+- So this: `` `r ifelse(knitr::is_latex_output(), "Figure \\@ref(fig:cars-plot) on page \\pageref{fig:cars-plot}", "")` ``
+- Inserts this (check this on both PDF and gitbook): Figure \@ref(fig:cars-plot) on page \pageref{fig:cars-plot}
 
 Note that we need to escape the backslash with another backslash here to get the correct output.
 
@@ -1075,7 +1312,8 @@ This section explains the main tricks you need to make the pain go away.
 When you use `kable` to create tables, you will almost certainly want to set the option `booktabs = TRUE`.
 This makes your table look a million times better:
 
-```{r, message=FALSE}
+
+```r
 library(knitr)
 library(tidyverse)
 
@@ -1083,22 +1321,58 @@ head(mtcars) %>%
   kable(booktabs = TRUE)
 ```
 
+
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+Mazda RX4 & 21.0 & 6 & 160 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+\bottomrule
+\end{tabular}
+
 \vspace{4mm}
 
 Compare this to the default style, which looks terrible:
 
 
-```{r}
+
+```r
 head(mtcars) %>% 
   kable()
 ```
+
+
+\begin{tabular}{l|r|r|r|r|r|r|r|r|r|r|r}
+\hline
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\hline
+Mazda RX4 & 21.0 & 6 & 160 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+\hline
+Mazda RX4 Wag & 21.0 & 6 & 160 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+\hline
+Datsun 710 & 22.8 & 4 & 108 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+\hline
+Hornet 4 Drive & 21.4 & 6 & 258 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+\hline
+Hornet Sportabout & 18.7 & 8 & 360 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\hline
+Valiant & 18.1 & 6 & 225 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+\hline
+\end{tabular}
 
 
 ### If your table is too wide
 You might find that your table expands into the margins of the page, like the tables above.
 Fix this with the `kable_styling` function from the [`kableExtra`](https://haozhu233.github.io/kableExtra/) package:
 
-```{r, message=FALSE}
+
+```r
 library(kableExtra)
 
 head(mtcars) %>% 
@@ -1106,13 +1380,32 @@ head(mtcars) %>%
   kable_styling(latex_options = "scale_down")
 ```
 
+\begin{table}
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+Mazda RX4 & 21.0 & 6 & 160 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+\bottomrule
+\end{tabular}}
+\end{table}
+
 This scales down the table to fit the page width.
 
 
 ### If your table is too long
 If your table is too long to fit on a single page, set `longtable = TRUE` in the `kable` function to split the table across multiple pages.
 
-```{r}
+
+```r
 a_long_table <- rbind(mtcars, mtcars)
 
 a_long_table %>% 
@@ -1120,49 +1413,425 @@ a_long_table %>%
   kable(booktabs = TRUE, longtable = TRUE)
 ```
 
+
+\begin{longtable}{lrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs\\
+\midrule
+Mazda RX4 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0\\
+Mazda RX4 Wag & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0\\
+Datsun 710 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0\\
+\addlinespace
+Valiant & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1\\
+Duster 360 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0\\
+Merc 240D & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1\\
+Merc 230 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1\\
+Merc 280 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1\\
+\addlinespace
+Merc 280C & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1\\
+Merc 450SE & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0\\
+Merc 450SL & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0\\
+Merc 450SLC & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0\\
+Cadillac Fleetwood & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0\\
+\addlinespace
+Lincoln Continental & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0\\
+Chrysler Imperial & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0\\
+Fiat 128 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1\\
+Honda Civic & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1\\
+Toyota Corolla & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1\\
+\addlinespace
+Toyota Corona & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1\\
+Dodge Challenger & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0\\
+AMC Javelin & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0\\
+Camaro Z28 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0\\
+Pontiac Firebird & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0\\
+\addlinespace
+Fiat X1-9 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1\\
+Porsche 914-2 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0\\
+Lotus Europa & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1\\
+Ford Pantera L & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0\\
+Ferrari Dino & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0\\
+\addlinespace
+Maserati Bora & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0\\
+Volvo 142E & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1\\
+Mazda RX41 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0\\
+Mazda RX4 Wag1 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0\\
+Datsun 7101 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1\\
+\addlinespace
+Hornet 4 Drive1 & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1\\
+Hornet Sportabout1 & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0\\
+Valiant1 & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1\\
+Duster 3601 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0\\
+Merc 240D1 & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1\\
+\addlinespace
+Merc 2301 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1\\
+Merc 2801 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1\\
+Merc 280C1 & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1\\
+Merc 450SE1 & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0\\
+Merc 450SL1 & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0\\
+\addlinespace
+Merc 450SLC1 & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0\\
+Cadillac Fleetwood1 & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0\\
+Lincoln Continental1 & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0\\
+Chrysler Imperial1 & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0\\
+Fiat 1281 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1\\
+\addlinespace
+Honda Civic1 & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1\\
+Toyota Corolla1 & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1\\
+Toyota Corona1 & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1\\
+Dodge Challenger1 & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0\\
+AMC Javelin1 & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0\\
+\addlinespace
+Camaro Z281 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0\\
+Pontiac Firebird1 & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0\\
+Fiat X1-91 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1\\
+Porsche 914-21 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0\\
+Lotus Europa1 & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1\\
+\addlinespace
+Ford Pantera L1 & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0\\
+Ferrari Dino1 & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0\\
+Maserati Bora1 & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0\\
+Volvo 142E1 & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1\\
+\bottomrule
+\end{longtable}
+
 When you do this, you'll probably want to make the header repeat on new pages.
 Do this with the `kable_styling` function from `kableExtra`:
 
-```{r}
+
+```r
 a_long_table %>% 
   kable(booktabs = TRUE, longtable = TRUE) %>% 
   kable_styling(latex_options = "repeat_header")
 ```
 
+
+\begin{longtable}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endfirsthead
+\multicolumn{12}{@{}l}{\textit{(continued)}}\\
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endhead
+
+\endfoot
+\bottomrule
+\endlastfoot
+Mazda RX4 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 360 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+Merc 230 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 280 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+\addlinespace
+Merc 280C & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+Merc 450SLC & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+\addlinespace
+Lincoln Continental & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 128 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+Honda Civic & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+\addlinespace
+Toyota Corona & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+Camaro Z28 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+\addlinespace
+Fiat X1-9 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-2 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+Ford Pantera L & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+\addlinespace
+Maserati Bora & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\
+Mazda RX41 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag1 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 7101 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+\addlinespace
+Hornet 4 Drive1 & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout1 & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+Valiant1 & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 3601 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D1 & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+\addlinespace
+Merc 2301 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 2801 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+Merc 280C1 & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE1 & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL1 & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+\addlinespace
+Merc 450SLC1 & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood1 & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+Lincoln Continental1 & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial1 & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 1281 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+\addlinespace
+Honda Civic1 & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla1 & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+Toyota Corona1 & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger1 & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin1 & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+\addlinespace
+Camaro Z281 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird1 & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+Fiat X1-91 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-21 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa1 & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+\addlinespace
+Ford Pantera L1 & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino1 & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+Maserati Bora1 & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E1 & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\*
+\end{longtable}
+
 Unfortunately, we cannot use the `scale_down` option with a `longtable`. 
 So if a `longtable` is too wide, you can either manually adjust the font size, or show the table in landscape layout. 
 To adjust the font size, use kableExtra's `font_size` option:
 
-```{r}
+
+```r
 a_long_table %>% 
   kable(booktabs = TRUE, longtable = TRUE) %>% 
   kable_styling(font_size = 9, latex_options = "repeat_header")
 ```
 
+\begingroup\fontsize{9}{11}\selectfont
+
+\begin{longtable}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endfirsthead
+\multicolumn{12}{@{}l}{\textit{(continued)}}\\
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endhead
+
+\endfoot
+\bottomrule
+\endlastfoot
+Mazda RX4 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 360 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+Merc 230 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 280 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+\addlinespace
+Merc 280C & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+Merc 450SLC & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+\addlinespace
+Lincoln Continental & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 128 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+Honda Civic & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+\addlinespace
+Toyota Corona & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+Camaro Z28 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+\addlinespace
+Fiat X1-9 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-2 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+Ford Pantera L & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+\addlinespace
+Maserati Bora & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\
+Mazda RX41 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag1 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 7101 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+\addlinespace
+Hornet 4 Drive1 & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout1 & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+Valiant1 & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 3601 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D1 & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+\addlinespace
+Merc 2301 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 2801 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+Merc 280C1 & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE1 & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL1 & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+\addlinespace
+Merc 450SLC1 & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood1 & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+Lincoln Continental1 & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial1 & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 1281 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+\addlinespace
+Honda Civic1 & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla1 & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+Toyota Corona1 & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger1 & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin1 & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+\addlinespace
+Camaro Z281 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird1 & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+Fiat X1-91 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-21 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa1 & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+\addlinespace
+Ford Pantera L1 & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino1 & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+Maserati Bora1 & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E1 & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\*
+\end{longtable}
+\endgroup{}
+
 To put the table in landscape mode, use kableExtra's `landscape` function:
 
-```{r}
+
+```r
 a_long_table %>% 
   kable(booktabs = TRUE, longtable = TRUE) %>% 
   kable_styling(latex_options = "repeat_header") %>% 
   landscape()
 ```
 
+
+\begin{landscape}
+\begin{longtable}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endfirsthead
+\multicolumn{12}{@{}l}{\textit{(continued)}}\\
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endhead
+
+\endfoot
+\bottomrule
+\endlastfoot
+Mazda RX4 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 360 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+Merc 230 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 280 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+\addlinespace
+Merc 280C & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+Merc 450SLC & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+\addlinespace
+Lincoln Continental & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 128 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+Honda Civic & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+\addlinespace
+Toyota Corona & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+Camaro Z28 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+\addlinespace
+Fiat X1-9 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-2 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+Ford Pantera L & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+\addlinespace
+Maserati Bora & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\
+Mazda RX41 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag1 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 7101 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+\addlinespace
+Hornet 4 Drive1 & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout1 & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+Valiant1 & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 3601 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D1 & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+\addlinespace
+Merc 2301 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 2801 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+Merc 280C1 & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE1 & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL1 & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+\addlinespace
+Merc 450SLC1 & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood1 & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+Lincoln Continental1 & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial1 & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 1281 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+\addlinespace
+Honda Civic1 & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla1 & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+Toyota Corona1 & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger1 & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin1 & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+\addlinespace
+Camaro Z281 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird1 & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+Fiat X1-91 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-21 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa1 & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+\addlinespace
+Ford Pantera L1 & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino1 & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+Maserati Bora1 & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E1 & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\*
+\end{longtable}
+\end{landscape}
+
 ### Max power: manually adjust the raw LaTeX output {#max-power}
 For total flexibility, you can adjust the raw LaTeX output from `kable`/`kableExtra` that generates the table.
 Let us consider how we would do this for the example of adjusting the font size if our table is too wide:
 Latex has a bunch of standard commands that set an approximate font size, as shown below in Figure \@ref(fig:latex-font-sizing).
 
-```{r latex-font-sizing, echo=FALSE, out.width='50%', fig.cap="Font sizes in LaTeX", fig.pos="H", fig.align='center'}
-knitr::include_graphics("figures/sample-content/latex_font_sizes.png")
-```
+\begin{figure}[H]
+
+{\centering \includegraphics[width=0.5\linewidth]{figures/sample-content/latex_font_sizes} 
+
+}
+
+\caption{Font sizes in LaTeX}(\#fig:latex-font-sizing)
+\end{figure}
 
 You could use these to manually adjust the font size in your longtable in two steps:
 
 1. Wrap the longtable environment in, e.g., a `scriptsize` environment, by doing a string replacement in the output from `kable`/`kableExtra`
 2. Add the attributes that make R Markdown understand that the table is a table (it seems R drops these when we do the string replacement)
 
-```{r}
+
+```r
 our_adjusted_table <- a_long_table %>% 
   kable(booktabs = TRUE, longtable = TRUE) %>% 
   kable_styling(latex_options = "repeat_header") %>% 
@@ -1176,6 +1845,101 @@ our_adjusted_table <- a_long_table %>%
 our_adjusted_table %>% 
   structure(format = "latex", class = "knitr_kable")
 ```
+
+
+\begin{scriptsize}
+\begin{longtable}{lrrrrrrrrrrr}
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endfirsthead
+\multicolumn{12}{@{}l}{\textit{(continued)}}\\
+\toprule
+  & mpg & cyl & disp & hp & drat & wt & qsec & vs & am & gear & carb\\
+\midrule
+\endhead
+
+\endfoot
+\bottomrule
+\endlastfoot
+Mazda RX4 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 710 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+Hornet 4 Drive & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+\addlinespace
+Valiant & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 360 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+Merc 230 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 280 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+\addlinespace
+Merc 280C & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+Merc 450SLC & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+\addlinespace
+Lincoln Continental & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 128 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+Honda Civic & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+\addlinespace
+Toyota Corona & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+Camaro Z28 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+\addlinespace
+Fiat X1-9 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-2 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+Ford Pantera L & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+\addlinespace
+Maserati Bora & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\
+Mazda RX41 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.620 & 16.46 & 0 & 1 & 4 & 4\\
+Mazda RX4 Wag1 & 21.0 & 6 & 160.0 & 110 & 3.90 & 2.875 & 17.02 & 0 & 1 & 4 & 4\\
+Datsun 7101 & 22.8 & 4 & 108.0 & 93 & 3.85 & 2.320 & 18.61 & 1 & 1 & 4 & 1\\
+\addlinespace
+Hornet 4 Drive1 & 21.4 & 6 & 258.0 & 110 & 3.08 & 3.215 & 19.44 & 1 & 0 & 3 & 1\\
+Hornet Sportabout1 & 18.7 & 8 & 360.0 & 175 & 3.15 & 3.440 & 17.02 & 0 & 0 & 3 & 2\\
+Valiant1 & 18.1 & 6 & 225.0 & 105 & 2.76 & 3.460 & 20.22 & 1 & 0 & 3 & 1\\
+Duster 3601 & 14.3 & 8 & 360.0 & 245 & 3.21 & 3.570 & 15.84 & 0 & 0 & 3 & 4\\
+Merc 240D1 & 24.4 & 4 & 146.7 & 62 & 3.69 & 3.190 & 20.00 & 1 & 0 & 4 & 2\\
+\addlinespace
+Merc 2301 & 22.8 & 4 & 140.8 & 95 & 3.92 & 3.150 & 22.90 & 1 & 0 & 4 & 2\\
+Merc 2801 & 19.2 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.30 & 1 & 0 & 4 & 4\\
+Merc 280C1 & 17.8 & 6 & 167.6 & 123 & 3.92 & 3.440 & 18.90 & 1 & 0 & 4 & 4\\
+Merc 450SE1 & 16.4 & 8 & 275.8 & 180 & 3.07 & 4.070 & 17.40 & 0 & 0 & 3 & 3\\
+Merc 450SL1 & 17.3 & 8 & 275.8 & 180 & 3.07 & 3.730 & 17.60 & 0 & 0 & 3 & 3\\
+\addlinespace
+Merc 450SLC1 & 15.2 & 8 & 275.8 & 180 & 3.07 & 3.780 & 18.00 & 0 & 0 & 3 & 3\\
+Cadillac Fleetwood1 & 10.4 & 8 & 472.0 & 205 & 2.93 & 5.250 & 17.98 & 0 & 0 & 3 & 4\\
+Lincoln Continental1 & 10.4 & 8 & 460.0 & 215 & 3.00 & 5.424 & 17.82 & 0 & 0 & 3 & 4\\
+Chrysler Imperial1 & 14.7 & 8 & 440.0 & 230 & 3.23 & 5.345 & 17.42 & 0 & 0 & 3 & 4\\
+Fiat 1281 & 32.4 & 4 & 78.7 & 66 & 4.08 & 2.200 & 19.47 & 1 & 1 & 4 & 1\\
+\addlinespace
+Honda Civic1 & 30.4 & 4 & 75.7 & 52 & 4.93 & 1.615 & 18.52 & 1 & 1 & 4 & 2\\
+Toyota Corolla1 & 33.9 & 4 & 71.1 & 65 & 4.22 & 1.835 & 19.90 & 1 & 1 & 4 & 1\\
+Toyota Corona1 & 21.5 & 4 & 120.1 & 97 & 3.70 & 2.465 & 20.01 & 1 & 0 & 3 & 1\\
+Dodge Challenger1 & 15.5 & 8 & 318.0 & 150 & 2.76 & 3.520 & 16.87 & 0 & 0 & 3 & 2\\
+AMC Javelin1 & 15.2 & 8 & 304.0 & 150 & 3.15 & 3.435 & 17.30 & 0 & 0 & 3 & 2\\
+\addlinespace
+Camaro Z281 & 13.3 & 8 & 350.0 & 245 & 3.73 & 3.840 & 15.41 & 0 & 0 & 3 & 4\\
+Pontiac Firebird1 & 19.2 & 8 & 400.0 & 175 & 3.08 & 3.845 & 17.05 & 0 & 0 & 3 & 2\\
+Fiat X1-91 & 27.3 & 4 & 79.0 & 66 & 4.08 & 1.935 & 18.90 & 1 & 1 & 4 & 1\\
+Porsche 914-21 & 26.0 & 4 & 120.3 & 91 & 4.43 & 2.140 & 16.70 & 0 & 1 & 5 & 2\\
+Lotus Europa1 & 30.4 & 4 & 95.1 & 113 & 3.77 & 1.513 & 16.90 & 1 & 1 & 5 & 2\\
+\addlinespace
+Ford Pantera L1 & 15.8 & 8 & 351.0 & 264 & 4.22 & 3.170 & 14.50 & 0 & 1 & 5 & 4\\
+Ferrari Dino1 & 19.7 & 6 & 145.0 & 175 & 3.62 & 2.770 & 15.50 & 0 & 1 & 5 & 6\\
+Maserati Bora1 & 15.0 & 8 & 301.0 & 335 & 3.54 & 3.570 & 14.60 & 0 & 1 & 5 & 8\\
+Volvo 142E1 & 21.4 & 4 & 121.0 & 109 & 4.11 & 2.780 & 18.60 & 1 & 1 & 4 & 2\\*
+\end{longtable}
+\end{scriptsize}
 
 <!--chapter:end:04-unidade-04.Rmd-->
 
@@ -1275,9 +2039,12 @@ Using raw LaTeX has the drawback of corrections then not showing up in HTML outp
 Highlight entire **blocks of added or changed material** by putting them in a block of type `correction`, using the syntax ```` ```{block type='correction'} ````.^[In the **.tex** file for PDF output, this will put the content between `\begin{correction}` and `\end{correction}`; in gitbook output it will be put between `<div class="correction">` and `</div>`.]
 Like so:
 
-```{block type='correction', include=knitr::is_latex_output() | knitr::is_html_output()}
-For larger chunks, like this paragraph or indeed entire figures, you can use the `correction` block type. This environment **highlights paragraph-sized and larger blocks** with the same blue colour.
-```
+\begin{correction}
+For larger chunks, like this paragraph or indeed entire figures, you can
+use the \texttt{correction} block type. This environment
+\textbf{highlights paragraph-sized and larger blocks} with the same blue
+colour.
+\end{correction}
 
 *Note that correction blocks cannot be included in word output.*
 
@@ -1313,7 +2080,8 @@ You may want to embed existing PDF documents into the thesis, for example if you
 In gitbook output, you can simply use `knitr::include_graphics` and it should include a scrollable (and downloadable) PDF.
 You will probably want to set the chunk options `out.width='100%'` and `out.height='1000px'`:
 
-```{r, eval=knitr::is_html_output(), out.width='100%', out.height='1000px'}
+
+```r
 knitr::include_graphics("figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf")
 ```
 <br>
@@ -1323,25 +2091,32 @@ Therefore, when you build your thesis to PDF, split the PDF into an alphanumeric
 *Note that the chunk option `results='asis'` must be set.*
 You may also want to remove margins from the PDF files, which you can do with Adobe Acrobat (paid version) and likely other software.
 
-```{r, echo=TRUE, results='asis', eval=knitr::is_latex_output(), linewidth = 70}
+
+```r
 # install.packages(pdftools)
-# split PDF into pages stored in figures/sample-content/pdf_embed_example/split/
-# pdftools::pdf_split("figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf",
-#        output = "figures/sample-content/pdf_embed_example/split/")
+# split PDF into pages stored in
+    figures/sample-content/pdf_embed_example/split/
+#
+    pdftools::pdf_split("figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf",
+# output = "figures/sample-content/pdf_embed_example/split/")
 
 # grab the pages
-pages <- list.files("figures/sample-content/pdf_embed_example/split", full.names = TRUE)
+pages <- list.files("figures/sample-content/pdf_embed_example/split",
+    full.names = TRUE)
 
-# set how wide you want the inserted PDFs to be: 
+# set how wide you want the inserted PDFs to be:
 # 1.0 is 100 per cent of the oxforddown PDF page width;
 # you may want to make it a bit bigger
 pdf_width <- 1.2
 
 # for each PDF page, insert it nicely and
 # end with a page break
-cat(stringr::str_c("\\newpage \\begin{center} \\makebox[\\linewidth][c]{\\includegraphics[width=", pdf_width, "\\linewidth]{", pages, "}} \\end{center}"))
-
+cat(stringr::str_c("\\newpage \\begin{center}
+    \\makebox[\\linewidth][c]{\\includegraphics[width=", pdf_width,
+    "\\linewidth]{", pages, "}} \\end{center}"))
 ```
+
+\newpage \begin{center} \makebox[\linewidth][c]{\includegraphics[width=1.2\linewidth]{figures/sample-content/pdf_embed_example/split/_000000000000001.pdf}} \end{center} \newpage \begin{center} \makebox[\linewidth][c]{\includegraphics[width=1.2\linewidth]{figures/sample-content/pdf_embed_example/split/_000000000000011.pdf}} \end{center}
 
 
 ## Including another paper in your thesis - R Markdown child document {#embed-rmd}
@@ -1382,7 +2157,7 @@ Add one or more code chunks that include R Markdown files from that paper as chi
 ````markdown
 # Including an external chapter 
 
-`r ''````{r child = "../paper_to_include/my_paper.Rmd"}
+```{r child = "../paper_to_include/my_paper.Rmd"}
 ```
 ````
 
@@ -1477,7 +2252,7 @@ output:
 Then, make sure use that parameter to set the output width when you include figures in **paper_to_include/my_paper.Rmd**:
 
 ````markdown
-`r ''````{r, out.width=params$out_width, fig.cap="A very funny cat"}
+```{r, out.width=params$out_width, fig.cap="A very funny cat"}
 include_graphics(str_c(params$other_path, "figures/cat.jpg"))
 ```
 ````
@@ -1624,19 +2399,10 @@ If you have a **.tex** file with some required front matter from your university
 alternative-title-page: front-and-back-matter/alt-title-page-example.tex
 ````
 
-```{r, echo=FALSE, eval=knitr::is_html_output(), out.width='100%', out.height='1000px'}
-knitr::include_graphics("figures/sample-content/alt_frontmatter_example/alt-frontmatter-example.pdf")
-```
+
 
 \noindent
-```{r, echo=FALSE, out.width='100%', out.height='1000px', results='asis', eval=knitr::is_latex_output}
-# grab the pages
-pages <- list.files("figures/sample-content/alt_frontmatter_example/split", full.names = TRUE)
-
-pdf_width <- 0.32
-
-cat(stringr::str_c("\\fbox{\\includegraphics[width=", pdf_width, "\\linewidth]{", pages, "}}"))
-```
+\fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000001.pdf}} \fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000002.pdf}} \fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000003.pdf}} \fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000004.pdf}} \fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000005.pdf}} \fbox{\includegraphics[width=0.32\linewidth]{figures/sample-content/alt_frontmatter_example/split/_000006.pdf}}
 
 <!--chapter:end:05-unidade-05.Rmd-->
 
@@ -1747,9 +2513,9 @@ documentclass: book
 
 <!--chapter:end:10-unidade-10.Rmd-->
 
-`r if(knitr:::is_latex_output()) '\\startappendices'`
+\startappendices
 
-`r if(!knitr:::is_latex_output()) '# (APPENDIX) Appendix {-}'` 
+ 
 
 <!-- If you feel it necessary to include an appendix, it goes here. The first appendix should include the commands above. -->
 
@@ -1760,12 +2526,17 @@ This first appendix includes an R chunk that was hidden in the document (using `
 
 **In 02-rmd-basics-code.Rmd**
 
-```{r ref.label='chunk-parts', eval=FALSE, echo = TRUE}
+
+```r
+library(tidyverse)
+knitr::include_graphics("figures/sample-content/chunk-parts.png")
 ```
 
 **And here's another one from the same chapter, i.e. Chapter \@ref(code):**
 
-```{r ref.label='oxford-logo-rotated', eval=FALSE, echo = TRUE}
+
+```r
+knitr::include_graphics("figures/sample-content/beltcrest.png")
 ```
 
 
@@ -1774,7 +2545,7 @@ This first appendix includes an R chunk that was hidden in the document (using `
 
 <!--chapter:end:front-and-back-matter/98-appendices.Rmd-->
 
-`r if(!knitr:::is_latex_output()) '# References {-}'`
+
 
 <!-- If you're outputting to LaTeX, the heading and references will be generated by the OxThesis LaTeX template. This .Rmd file serves only to add the References headline to gitbook output before  the references are added by pandoc -->
 

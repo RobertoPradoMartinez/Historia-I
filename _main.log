@@ -1,0 +1,520 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.9.25)  26 SEP 2021 10:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**_main.tex
+(./_main.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (./templates/ociamthesis.cls
+Document Class: templates/ociamthesis 2015/04/30 Oxford thesis class
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+\singlebaselineskip=\skip49
+\frontmatterbaselineskip=\skip50
+\textbaselineskip=\skip51
+\abstractseparatelineskip=\skip52
+\abstractseparateparskip=\skip53
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box50
+\sift@deathcycles=\count191
+\@vwid@loff=\dimen139
+\@vwid@roff=\dimen140
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.s
+ty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks18
+\MT@count=\count195
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen151
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count196
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/microtype/microtype-p
+dftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.c
+fg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip55
+\L@UnitsRaiseTextstyle=\skip56
+\L@UnitsRaiseScriptstyle=\skip57
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
+y
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip58
+For additional information on amsmath, use the `?' option.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen152
+)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks20
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks21
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks22
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count275
+\LTcapwidth=\dimen161
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count276
+\LT@rows=\count277
+\c@LT@tables=\count278
+\c@LT@chunks=\count279
+\LT@p@ftn=\toks24
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen162
+\captionmargin@=\dimen163
+\captionwidth=\dimen164
+\caption@tempdima=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count280
+\c@continuedfloat=\count281
+Package caption Info: longtable package is loaded.
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count282
+\mult@box=\box58
+\multicol@leftmargin=\dimen169
+\c@unbalance=\count283
+\c@collectmore=\count284
+\doublecol@number=\count285
+\multicoltolerance=\count286
+\multicolpretolerance=\count287
+\full@width=\dimen170
+\page@free=\dimen171
+\premulticols=\dimen172
+\postmulticols=\dimen173
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box59
+\last@line=\box60
+\maxbalancingoverflow=\dimen174
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@gfirstbox=\box63
+\mult@firstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count288
+\c@columnbadness=\count289
+\c@finalcolumnbadness=\count290
+\last@try=\dimen175
+\multicolovershoot=\dimen176
+\multicolundershoot=\dimen177
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count291
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip67
+\multirow@cntb=\count292
+\multirow@dima=\skip68
+\bigstrutjot=\dimen178
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen179
+\ar@mcellbox=\box104
+\extrarowheight=\dimen180
+\NC@list=\toks25
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box105
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count293
+\rotFPtop=\skip71
+\rotFPbot=\skip72
+\rot@float@box=\box106
+\rot@mess@toks=\toks26
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen181
+\lightrulewidth=\dimen182
+\cmidrulewidth=\dimen183
+\belowrulesep=\dimen184
+\belowbottomsep=\dimen185
+\aboverulesep=\dimen186
+\abovetopsep=\dimen187
+\cmidrulesep=\dimen188
+\cmidrulekern=\dimen189
+\defaultaddspace=\dimen190
+\@cmidla=\count294
+\@cmidlb=\count295
+\@aboverulesep=\dimen191
+\@belowrulesep=\dimen192
+\@thisruleclass=\count296
+\@lastruleclass=\count297
+\@thisrulewidth=\dimen193
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count298
+\calc@Bcount=\count299
+\calc@Adimen=\dimen194
+\calc@Bdimen=\dimen195
+\calc@Askip=\skip73
+\calc@Bskip=\skip74
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count300
+\calc@Cskip=\skip75
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen196
+\ESO@tempdimb=\dimen197
+)
+\AM@pagewidth=\dimen198
+\AM@pageheight=\dimen199
+\AM@fboxrule=\dimen256
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count301
+\AM@pagebox=\box107
+\AM@global@opts=\toks27
+\AM@pagecnt=\count302
+\AM@toc@title=\toks28
+\c@AM@survey=\count303
+\AM@templatesizebox=\box108
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3packages/xfrac/xfra
+c.sty (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.
+sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+\l__pdf_internal_box=\box109
+))
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l
+3keys2e.sty
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xpa
+rse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/
+xtemplate.sty
+Package: xtemplate 2021-08-27 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen257
+\l__xtemplate_tmp_int=\count305
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip76
+)
+Package: xfrac 2021-08-27 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box110
+\l__xfrac_tmp_box=\box111
+\l__xfrac_denominator_bot_sep_dim=\dimen258
+\l__xfrac_numerator_bot_sep_dim=\dimen259
+\l__xfrac_numerator_top_sep_dim=\dimen260
+\l__xfrac_slash_left_sep_dim=\dimen261
+\l__xfrac_slash_right_sep_dim=\dimen262
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip77
+\enit@outerparindent=\dimen263
+\enit@toks=\toks29
+\enit@inbox=\box112
+\enit@count@id=\count306
+\enitdp@description=\count307
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count308
+\c@@ppsavesec=\count309
+\c@@ppsaveapp=\count310
+)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/notoccite/notoccite.s
+ty
+Package: notoccite 2000/07/20
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/minitoc/minitoc.sty
+Package: minitoc 2018/07/12 v62 Package minitoc
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/minitoc/mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 62 ***.
+\tf@mtc=\write3
+\mtcindent=\skip78
+\mtcskipamount=\skip79
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks30
+\mtc@strutbox=\box113
+\mtc@hstrutbox=\box114
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `_main.mtc0'.
+
+\openout3 = `_main.mtc'.
+
+(./_main.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `_main.mtc'.
+
+\openout3 = `_main.mtc0'.
+
+\c@mtc=\count311
+\c@minitocdepth=\count312
+\c@ptc=\count313
+\c@parttocdepth=\count314
+\ptcindent=\skip80
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/minitoc/english.mld
+File: english.mld 2006/01/13
+))
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/quotchap/quotchap.sty
+Package: quotchap 2020/11/13 v1.3 Decorative Chapter Headings with Quotes
+\@quotebox=\box115
+)
+
+! LaTeX Error: File `tocbibind.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> flag __fi
+                  
+l.355 ^^M
+          
+Here is how much of TeX's memory you used:
+ 9893 strings out of 480559
+ 160603 string characters out of 5903047
+ 519689 words of memory out of 5000000
+ 27230 multiletter control sequences out of 15000+600000
+ 403728 words of font info for 28 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 72i,1n,81p,222b,104s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

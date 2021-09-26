@@ -123,9 +123,7 @@ A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifest
 <!--TODO: IMAXE SOBRE TEMPORALIDADE E MEMORIA AUDITIVA-->
 
 As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade».  
-Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar, que renace cada vez que se interpreta e vive constantemente un proceso de reactivación como arte dinámica, onde o resultado depende non só dos intérpretes senón tamén do público.  
-
-A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar así a mensaxe que o compositor quere transmitir.
+Para que a música exista, debe desenvolverse ao longo do tempo. A «memoria auditiva» xoga un papel fundamental pois, como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben.
 
 ```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Zeus e as nove musas fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
 knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
@@ -156,7 +154,7 @@ Podemos concluír que, a música é unha combinación ordenada de ritmo, melodí
 
 ## Relación entre historia e música {-}
 
-O concepto de «música» varía segundo a percepción que se tiña da mesma en cada cada época. A «historia» é algo recente e próximo aos nons  agora o significado de «historia da música».
+Se ben o concepto de «música» pode estar máis ou menos claro, abordaremos agora o significado de «historia da música».
 
 > _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_.
 >
