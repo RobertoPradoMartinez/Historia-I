@@ -155,8 +155,14 @@ Podemos concluír que, a música é unha combinación ordenada de ritmo, melodí
 --->
 
 ## Relación entre historia e música {-}
+<!--TODO: METER IMAXES PARA COMPLETAR O TEMA -->
+<!--
+O concepto de «música» varía segundo a percepción que se tiña da mesma en cada cada época.
+-->
+Cando nos propomos estudar a historia da música, debemos en primeiro lugar plan *tearnos que queremos dicir con ese termo. En principio, o noso obxectivo debería ser o estudo da evolución da música ao longo da historia da humanidade: unha historia universal da música, ao estilo, por exemplo, da historia da arte. Pero o primeiro problema que nos atopamos é acordar unha definición universal de «música»; o concepto de música varía dunha cultura a outra: en algunhas, inclúe outros elementos como danza, poesía ou malabarismos; noutras nin sequera existe un termo para designar a «música» e si un conxunto deles para distintas utilizacións da mesma. Non é posible, pois, facer unha historia universal do música si nin sequera sabemos cal é exactamente o obxecto do estudo. 
+Por outra banda, o estudo —histórico ou non— da música pode enfocarse desde distintos puntos de vista: centrámonos nas obras musicais ou na súa utilización?; nas persoas que as desenvolveron ou no ambiente social que as propiciou?; que criterios utilizamos para seleccionar a música que será obxecto de estudo? Todas estas cuestións fan aínda máis difícil o estudo histórico da música. 
 
-O concepto de «música» varía segundo a percepción que se tiña da mesma en cada cada época. A «historia» é algo recente e próximo aos nons  agora o significado de «historia da música».
+A «historia» é algo recente e próximo aos nons  agora o significado de «historia da música».
 
 > _La **Historia de la música** es el estudio de las diferentes tradiciones en la música y su orden en el planeta_.
 >

@@ -1,18 +1,18 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:304> INFO - This is Biber 2.14 (beta)
 [1] Config.pm:307> INFO - Logfile is '_main.blg'
-[170] biber-darwin:322> INFO - === mar sep 14, 2021, 19:01:08
-[216] Biber.pm:415> INFO - Reading '_main.bcf'
-[399] Biber.pm:943> INFO - Found 3 citekeys in bib section 0
-[422] Biber.pm:4256> INFO - Processing section 0
-[423] Utils.pm:75> INFO - Globbing data source 'bibliography/references.bib'
-[423] Utils.pm:91> INFO - Globbed data source 'bibliography/references.bib' to bibliography/references.bib
-[423] Utils.pm:75> INFO - Globbing data source 'bibliography/additional-references.bib'
-[423] Utils.pm:91> INFO - Globbed data source 'bibliography/additional-references.bib' to bibliography/additional-references.bib
-[491] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography/references.bib' for section 0
-[497] bibtex.pm:1653> INFO - LaTeX decoding ...
-[513] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography/references.bib'
-[629] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[630] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[630] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
-[649] bbl.pm:652> INFO - Writing '_main.bbl' with encoding 'UTF-8'
-[653] bbl.pm:755> INFO - Output to _main.bbl
+[700] biber:322> INFO - === dom sep 26, 2021, 11:24:49
+[884] Biber.pm:415> INFO - Reading '_main.bcf'
+[1633] Biber.pm:943> INFO - Found 3 citekeys in bib section 0
+[1837] Biber.pm:4256> INFO - Processing section 0
+[1852] Utils.pm:75> INFO - Globbing data source 'bibliography/references.bib'
+[1853] Utils.pm:91> INFO - Globbed data source 'bibliography/references.bib' to bibliography/references.bib
+[1853] Utils.pm:75> INFO - Globbing data source 'bibliography/additional-references.bib'
+[1853] Utils.pm:91> INFO - Globbed data source 'bibliography/additional-references.bib' to bibliography/additional-references.bib
+[2010] Biber.pm:4455> INFO - Looking for bibtex format file 'bibliography/references.bib' for section 0
+[2069] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2147] bibtex.pm:1471> INFO - Found BibTeX data source 'bibliography/references.bib'
+[2810] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2810] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2810] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'es-ES'
+[2860] bbl.pm:652> INFO - Writing '_main.bbl' with encoding 'UTF-8'
+[2870] bbl.pm:755> INFO - Output to _main.bbl

@@ -7,7 +7,7 @@
   <title>2 R Markdown basics | Historia I Apuntes e materiais didácticos</title>
   <meta name="description" content="Historia I<br />
 Apuntes e materiais didácticos</p>" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="2 R Markdown basics | Historia I Apuntes e materiais didácticos" />
   <meta property="og:type" content="book" />
@@ -43,8 +43,9 @@ div.abstract{
   width: 90%;
 }
 </style>
-<script src="libs/header-attrs-2.6.4/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -52,7 +53,6 @@ div.abstract{
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -69,6 +69,7 @@ div.abstract{
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 pre.sourceCode { margin: 0; }
 @media screen {
@@ -129,6 +130,28 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="templates/style.css" type="text/css" />
 </head>
@@ -148,29 +171,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#resumo"><i class="fa fa-check"></i>Resumo</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#agradecementos"><i class="fa fa-check"></i>Agradecementos</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html"><i class="fa fa-check"></i>Introdución e conceptos previos</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html"><i class="fa fa-check"></i>Aproximación á Historia da Música</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#orixe-e-definición-de-música"><i class="fa fa-check"></i>Orixe e definición de música</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#definicións-e-conceptos-previos"><i class="fa fa-check"></i>Definicións e conceptos previos</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#que-é-a-música"><i class="fa fa-check"></i>Que é a música?</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-música-como-linguaxe-universal"><i class="fa fa-check"></i>A música como linguaxe universal</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#creación-artística-musical"><i class="fa fa-check"></i>Creación artística-musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#transmisión-da-mensaxe-musical"><i class="fa fa-check"></i>Transmisión da mensaxe musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#audición-e-oínte.-como-escoitar"><i class="fa fa-check"></i>Audición e oínte. Como escoitar?</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-música-como-linguaxe-universal"><i class="fa fa-check"></i>A música como linguaxe universal</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-creación-artístico-musical"><i class="fa fa-check"></i>A creación artístico-musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#perspectivas-e-significado-da-música"><i class="fa fa-check"></i>Perspectivas e significado da «música»</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#temporalidade-e-memoria-auditiva"><i class="fa fa-check"></i>Temporalidade e memoria auditiva</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-obra-de-arte-musical"><i class="fa fa-check"></i>A obra de arte musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#concepto-de-música"><i class="fa fa-check"></i>Concepto de música</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#relación-entre-historia-e-música"><i class="fa fa-check"></i>Relación entre historia e música</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#algunhas-definicións-aceptadas"><i class="fa fa-check"></i>Algunhas definicións aceptadas</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#relación-entre-historia-e-música"><i class="fa fa-check"></i>Relación entre historia e música</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
-<ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-actividade-musical-e-o-produto-musical"><i class="fa fa-check"></i>A actividade musical e o produto musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#música-de-tadición-oral-e-notación-musical"><i class="fa fa-check"></i>Música de tadición oral e notación musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#música-popular-e-música-culta"><i class="fa fa-check"></i>Música popular e «música culta»</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#o-enfoque-eurocéntrico"><i class="fa fa-check"></i>O enfoque eurocéntrico</a></li>
-<li class="chapter" data-level="0.0.1" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#cánon-e-repertorio"><i class="fa fa-check"></i><b>0.0.1</b> Cánon e repertorio</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-actividade-musical-e-o-produto-musical"><i class="fa fa-check"></i>A actividade musical e o produto musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#música-de-tadición-oral-e-notación-musical"><i class="fa fa-check"></i>Música de tadición oral e notación musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#música-popular-e-música-culta"><i class="fa fa-check"></i>Música popular e «música culta»</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#o-enfoque-eurocéntrico"><i class="fa fa-check"></i>O enfoque eurocéntrico</a></li>
+<li class="chapter" data-level="0.0.1" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#cánon-e-repertorio"><i class="fa fa-check"></i><b>0.0.1</b> Cánon e repertorio</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="orixes-da-música-occidental.html"><a href="orixes-da-música-occidental.html"><i class="fa fa-check"></i><b>1</b> Orixes da Música Occidental</a>
@@ -446,7 +463,7 @@ Violets are blue.</p>
 <div id="footnotes" class="section level3" number="2.1.13">
 <h3><span class="header-section-number">2.1.13</span> Footnotes</h3>
 <ul>
-<li>Are created<a href="#fn14" class="footnote-ref" id="fnref14"><sup>14</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a href="#fn15" class="footnote-ref" id="fnref15"><sup>15</sup></a></li>
+<li>Are created<a href="#fn12" class="footnote-ref" id="fnref12"><sup>12</sup></a> by writing either ^[my footnote text] for supplying the footnote content inline, or something like <code>[^a-random-footnote-label]</code> and supplying the text elsewhere in the format shown below:<a href="#fn13" class="footnote-ref" id="fnref13"><sup>13</sup></a></li>
 </ul>
 <p><code>[^a-random-footnote-label]: This is a random test.</code></p>
 </div>
@@ -464,10 +481,10 @@ This: <span>$</span>$A = \pi*r^{2}$$</p>
 <p>Becomes:
 <span class="math display">\[A = \pi*r^{2}\]</span></p>
 <p>To create numbered equations, put them in an ‘equation’ environment and give them a label with the syntax <code>(\#eq:label)</code>, like this:</p>
-<div class="sourceCode" id="cb5"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb5-1"><a href="rmd-basics.html#cb5-1" aria-hidden="true"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
-<span id="cb5-2"><a href="rmd-basics.html#cb5-2" aria-hidden="true"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
-<span id="cb5-3"><a href="rmd-basics.html#cb5-3" aria-hidden="true"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
-<span id="cb5-4"><a href="rmd-basics.html#cb5-4" aria-hidden="true"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb5-1"><a href="rmd-basics.html#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}<span class="ss"> </span></span>
+<span id="cb5-2"><a href="rmd-basics.html#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="ss">  f</span><span class="sc">\left</span><span class="ss">(k</span><span class="sc">\right</span><span class="ss">) = </span><span class="sc">\binom</span><span class="ss">{n}{k} p^k</span><span class="sc">\left</span><span class="ss">(1-p</span><span class="sc">\right</span><span class="ss">)^{n-k}</span></span>
+<span id="cb5-3"><a href="rmd-basics.html#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="ss">  (</span><span class="sc">\#</span><span class="ss">eq:binom)</span></span>
+<span id="cb5-4"><a href="rmd-basics.html#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="kw">\end</span>{<span class="ex">equation</span>} </span></code></pre></div>
 <p>Becomes:
 <span class="math display" id="eq:binom">\[\begin{equation}
 f\left(k\right)=\binom{n}{k}p^k\left(1-p\right)^{n-k}
@@ -481,7 +498,7 @@ f\left(k\right)=\binom{n}{k}p^k\left(1-p\right)^{n-k}
 <p>The magic of R Markdown is that we can add executable code within our document to make it dynamic.</p>
 <p>We do this either as <em>code chunks</em> (generally used for loading libraries and data, performing calculations, and adding images, plots, and tables), or <em>inline code</em> (generally used for dynamically reporting results within our text).</p>
 <p>The syntax of a code chunk is shown in Figure <a href="rmd-basics.html#fig:chunk-parts">2.1</a>.</p>
-<div class="figure"><span id="fig:chunk-parts"></span>
+<div class="figure"><span style="display:block;" id="fig:chunk-parts"></span>
 <img src="figures/sample-content/chunk-parts.png" alt="Code chunk syntax" width="100%" />
 <p class="caption">
 Figura 2.1: Code chunk syntax
@@ -495,7 +512,7 @@ Figura 2.1: Code chunk syntax
 <li><code>fig.cap</code>: figure caption</li>
 <li><code>fig.scap</code>: short figure caption, which will be used in the ‘List of Figures’ in the PDF front matter</li>
 </ul>
-<p><strong>IMPORTANT</strong>: Do <em>not</em> use underscoores in your chunk labels - if you do, you are likely to get an error in PDF output saying something like “! Package caption Error: \caption outside float”.</p>
+<p><strong>IMPORTANT</strong>: Do <em>not</em> use underscoores in your chunk labels - if you do, you are likely to get an error in PDF output saying something like “! Package caption Error: \caption outside float.”</p>
 <div id="setup-chunks---setup-images-plots" class="section level3" number="2.2.1">
 <h3><span class="header-section-number">2.2.1</span> Setup chunks - setup, images, plots</h3>
 <p>An R Markdown document usually begins with a chunk that is used to <strong>load libraries</strong>, and to <strong>set default chunk options</strong> with <code>knitr::opts_chunk$set</code>.</p>
@@ -510,8 +527,8 @@ library(tidyverse)
 <div id="including-images" class="section level3" number="2.2.2">
 <h3><span class="header-section-number">2.2.2</span> Including images</h3>
 <p>Code chunks are also used for including images, with <code>include_graphics</code> from the <code>knitr</code> package, as in Figure <a href="rmd-basics.html#fig:oxford-logo">2.2</a></p>
-<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="rmd-basics.html#cb7-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo"></span>
+<div class="sourceCode" id="cb7"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb7-1"><a href="rmd-basics.html#cb7-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:oxford-logo"></span>
 <img src="figures/sample-content/beltcrest.png" alt="Oxford logo" width="50%" />
 <p class="caption">
 Figura 2.2: Oxford logo
@@ -526,13 +543,13 @@ Figura 2.2: Oxford logo
 <h4>Figure rotation</h4>
 <p>You can use the chunk option <code>out.extra</code> to rotate images.</p>
 <p>The syntax is different for LaTeX and HTML, so for ease we might start by assigning the right string to a variable that depends on the format you’re outputting to:</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="rmd-basics.html#cb8-1" aria-hidden="true"></a><span class="cf">if</span> (knitr<span class="op">::</span><span class="kw">is_latex_output</span>()){</span>
-<span id="cb8-2"><a href="rmd-basics.html#cb8-2" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;angle=180&quot;</span></span>
-<span id="cb8-3"><a href="rmd-basics.html#cb8-3" aria-hidden="true"></a>} <span class="cf">else</span> {</span>
-<span id="cb8-4"><a href="rmd-basics.html#cb8-4" aria-hidden="true"></a>  rotate180 &lt;-<span class="st"> &quot;style=&#39;transform:rotate(180deg);&#39;&quot;</span></span>
-<span id="cb8-5"><a href="rmd-basics.html#cb8-5" aria-hidden="true"></a>}</span></code></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb8-1"><a href="rmd-basics.html#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (knitr<span class="sc">::</span><span class="fu">is_latex_output</span>()){</span>
+<span id="cb8-2"><a href="rmd-basics.html#cb8-2" aria-hidden="true" tabindex="-1"></a>  rotate180 <span class="ot">&lt;-</span> <span class="st">&quot;angle=180&quot;</span></span>
+<span id="cb8-3"><a href="rmd-basics.html#cb8-3" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb8-4"><a href="rmd-basics.html#cb8-4" aria-hidden="true" tabindex="-1"></a>  rotate180 <span class="ot">&lt;-</span> <span class="st">&quot;style=&#39;transform:rotate(180deg);&#39;&quot;</span></span>
+<span id="cb8-5"><a href="rmd-basics.html#cb8-5" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div>
 <p>Then you can reference that variable as the value of <code>out.extra</code> to rotate images, as in Figure <a href="rmd-basics.html#fig:oxford-logo-rotated">2.3</a>.</p>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo-rotated"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:oxford-logo-rotated"></span>
 <img src="figures/sample-content/beltcrest.png" alt="Oxford logo, rotated" width="50%" style='transform:rotate(180deg);' />
 <p class="caption">
 Figura 2.3: Oxford logo, rotated
@@ -544,11 +561,11 @@ Figura 2.3: Oxford logo, rotated
 <h3><span class="header-section-number">2.2.3</span> Including plots</h3>
 <p>Similarly, code chunks are used for including dynamically generated plots.
 You use ordinary code in R or other languages - Figure <a href="rmd-basics.html#fig:cars-plot">2.4</a> shows a plot of the <code>cars</code> dataset of stopping distances for cars at various speeds (this dataset is built in to <strong>R</strong>).</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="rmd-basics.html#cb9-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb9-2"><a href="rmd-basics.html#cb9-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">ggplot</span>() <span class="op">+</span></span>
-<span id="cb9-3"><a href="rmd-basics.html#cb9-3" aria-hidden="true"></a><span class="st">    </span><span class="kw">aes</span>(<span class="dt">x =</span> speed, <span class="dt">y =</span> dist) <span class="op">+</span></span>
-<span id="cb9-4"><a href="rmd-basics.html#cb9-4" aria-hidden="true"></a><span class="st">    </span><span class="kw">geom_point</span>()</span></code></pre></div>
-<div class="figure"><span id="fig:cars-plot"></span>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="rmd-basics.html#cb9-1" aria-hidden="true" tabindex="-1"></a>cars <span class="sc">%&gt;%</span> </span>
+<span id="cb9-2"><a href="rmd-basics.html#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>() <span class="sc">+</span></span>
+<span id="cb9-3"><a href="rmd-basics.html#cb9-3" aria-hidden="true" tabindex="-1"></a>    <span class="fu">aes</span>(<span class="at">x =</span> speed, <span class="at">y =</span> dist) <span class="sc">+</span></span>
+<span id="cb9-4"><a href="rmd-basics.html#cb9-4" aria-hidden="true" tabindex="-1"></a>    <span class="fu">geom_point</span>()</span></code></pre></div>
+<div class="figure"><span style="display:block;" id="fig:cars-plot"></span>
 <img src="_main_files/figure-html/cars-plot-1.png" alt="A ggplot of car stuff" width="672" />
 <p class="caption">
 Figura 2.4: A ggplot of car stuff
@@ -560,9 +577,9 @@ Figura 2.4: A ggplot of car stuff
 <h3><span class="header-section-number">2.2.4</span> Including tables</h3>
 <p>Tables are usually included with the <code>kable</code> function from the <code>knitr</code> package.</p>
 <p>Table <a href="#tab:cars-table"><strong>??</strong></a> shows the first rows of that cars data - read in your own data, then use this approach to automatically generate tables.</p>
-<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="rmd-basics.html#cb10-1" aria-hidden="true"></a>cars <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb10-2"><a href="rmd-basics.html#cb10-2" aria-hidden="true"></a><span class="st">  </span><span class="kw">head</span>() <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb10-3"><a href="rmd-basics.html#cb10-3" aria-hidden="true"></a><span class="st">  </span>knitr<span class="op">::</span><span class="kw">kable</span>(<span class="dt">caption =</span> <span class="st">&quot;A knitr kable table&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb10"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb10-1"><a href="rmd-basics.html#cb10-1" aria-hidden="true" tabindex="-1"></a>cars <span class="sc">%&gt;%</span> </span>
+<span id="cb10-2"><a href="rmd-basics.html#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb10-3"><a href="rmd-basics.html#cb10-3" aria-hidden="true" tabindex="-1"></a>  knitr<span class="sc">::</span><span class="fu">kable</span>(<span class="at">caption =</span> <span class="st">&quot;A knitr kable table&quot;</span>)</span></code></pre></div>
 <ul>
 <li>Gotcha: when using <a href="https://www.rdocumentation.org/packages/knitr/versions/1.21/topics/kable"><code>kable</code></a>, captions are set inside the <code>kable</code> function</li>
 <li>The <code>kable</code> package is often used with the <a href="https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html"><code>kableExtra</code></a> package</li>
@@ -573,8 +590,8 @@ Figura 2.4: A ggplot of car stuff
 <p>One thing that may be annoying is the way <em>R Markdown</em> handles “floats” like tables and figures.
 In your PDF output, LaTeX will try to find the best place to put your object based on the text around it and until you’re really, truly done writing you should just leave it where it lies.</p>
 <p>In general, you should allow LaTeX to do this, but if you really <em>really</em> need a figure to be positioned where you put in the document, then you can make LaTeX attempt to do this with the chunk option <code>fig.pos="H"</code>, as in Figure <a href="rmd-basics.html#fig:oxford-logo-controlled">2.5</a>:</p>
-<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="rmd-basics.html#cb11-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:oxford-logo-controlled"></span>
+<div class="sourceCode" id="cb11"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb11-1"><a href="rmd-basics.html#cb11-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;figures/sample-content/beltcrest.png&quot;</span>)</span></code></pre></div>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:oxford-logo-controlled"></span>
 <img src="figures/sample-content/beltcrest.png" alt="An Oxford logo that LaTeX will try to place at this position in the text" width="50%" />
 <p class="caption">
 Figura 2.5: An Oxford logo that LaTeX will try to place at this position in the text
@@ -592,7 +609,7 @@ The syntax for doing this is <code>`r R_CODE`</code>
 For example, <code>`r 4 + 4`</code> will output 8 in your text.</p>
 <p>You will usually use this in parts of your thesis where you report results - read in data or results in a code chunk, store things you want to report in a variable, then insert the value of that variable in your text.
 For example, we might assign the number of rows in the <code>cars</code> dataset to a variable:</p>
-<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="rmd-basics.html#cb12-1" aria-hidden="true"></a>num_car_observations &lt;-<span class="st"> </span><span class="kw">nrow</span>(cars)</span></code></pre></div>
+<div class="sourceCode" id="cb12"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb12-1"><a href="rmd-basics.html#cb12-1" aria-hidden="true" tabindex="-1"></a>num_car_observations <span class="ot">&lt;-</span> <span class="fu">nrow</span>(cars)</span></code></pre></div>
 <p>We might then write:<br />
 “In the <code>cars</code> dataset, we have <code>`r num_car_observations`</code> observations.”</p>
 <p>Which would output:<br />
@@ -606,9 +623,9 @@ For example, we might assign the number of rows in the <code>cars</code> dataset
 </div>
 <div class="footnotes">
 <hr />
-<ol start="14">
-<li id="fn14"><p>my footnote text<a href="rmd-basics.html#fnref14" class="footnote-back">↩︎</a></p></li>
-<li id="fn15"><p>This is a random test.<a href="rmd-basics.html#fnref15" class="footnote-back">↩︎</a></p></li>
+<ol start="12">
+<li id="fn12"><p>my footnote text<a href="rmd-basics.html#fnref12" class="footnote-back">↩︎</a></p></li>
+<li id="fn13"><p>This is a random test.<a href="rmd-basics.html#fnref13" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
@@ -621,7 +638,6 @@ For example, we might assign the number of rows in the <code>cars</code> dataset
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -661,6 +677,10 @@ gitbook.start({
 "text": null
 },
 "download": ["_main.pdf"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

@@ -7,7 +7,7 @@
   <title>3 Citations, cross-references, and collaboration | Historia I Apuntes e materiais didácticos</title>
   <meta name="description" content="Historia I<br />
 Apuntes e materiais didácticos</p>" />
-  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="3 Citations, cross-references, and collaboration | Historia I Apuntes e materiais didácticos" />
   <meta property="og:type" content="book" />
@@ -43,8 +43,9 @@ div.abstract{
   width: 90%;
 }
 </style>
-<script src="libs/header-attrs-2.6.4/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -52,7 +53,6 @@ div.abstract{
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
 
 
 
@@ -69,6 +69,7 @@ div.abstract{
 pre > code.sourceCode { white-space: pre; position: relative; }
 pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
 pre.sourceCode { margin: 0; }
 @media screen {
@@ -129,6 +130,28 @@ code span.vs { color: #4070a0; } /* VerbatimString */
 code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
 
 <link rel="stylesheet" href="templates/style.css" type="text/css" />
 </head>
@@ -148,29 +171,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#resumo"><i class="fa fa-check"></i>Resumo</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#agradecementos"><i class="fa fa-check"></i>Agradecementos</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html"><i class="fa fa-check"></i>Introdución e conceptos previos</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html"><i class="fa fa-check"></i>Aproximación á Historia da Música</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#orixe-e-definición-de-música"><i class="fa fa-check"></i>Orixe e definición de música</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#definicións-e-conceptos-previos"><i class="fa fa-check"></i>Definicións e conceptos previos</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#que-é-a-música"><i class="fa fa-check"></i>Que é a música?</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-música-como-linguaxe-universal"><i class="fa fa-check"></i>A música como linguaxe universal</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#creación-artística-musical"><i class="fa fa-check"></i>Creación artística-musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#transmisión-da-mensaxe-musical"><i class="fa fa-check"></i>Transmisión da mensaxe musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#audición-e-oínte.-como-escoitar"><i class="fa fa-check"></i>Audición e oínte. Como escoitar?</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-música-como-linguaxe-universal"><i class="fa fa-check"></i>A música como linguaxe universal</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-creación-artístico-musical"><i class="fa fa-check"></i>A creación artístico-musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#perspectivas-e-significado-da-música"><i class="fa fa-check"></i>Perspectivas e significado da «música»</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#temporalidade-e-memoria-auditiva"><i class="fa fa-check"></i>Temporalidade e memoria auditiva</a></li>
 </ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-obra-de-arte-musical"><i class="fa fa-check"></i>A obra de arte musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#concepto-de-música"><i class="fa fa-check"></i>Concepto de música</a>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#relación-entre-historia-e-música"><i class="fa fa-check"></i>Relación entre historia e música</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
 <ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#algunhas-definicións-aceptadas"><i class="fa fa-check"></i>Algunhas definicións aceptadas</a></li>
-</ul></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#relación-entre-historia-e-música"><i class="fa fa-check"></i>Relación entre historia e música</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#obxectivos-e-problemática-da-materia"><i class="fa fa-check"></i>Obxectivos e problemática da materia</a>
-<ul>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#a-actividade-musical-e-o-produto-musical"><i class="fa fa-check"></i>A actividade musical e o produto musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#música-de-tadición-oral-e-notación-musical"><i class="fa fa-check"></i>Música de tadición oral e notación musical</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#música-popular-e-música-culta"><i class="fa fa-check"></i>Música popular e «música culta»</a></li>
-<li class="chapter" data-level="" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#o-enfoque-eurocéntrico"><i class="fa fa-check"></i>O enfoque eurocéntrico</a></li>
-<li class="chapter" data-level="0.0.1" data-path="introdución-e-conceptos-previos.html"><a href="introdución-e-conceptos-previos.html#cánon-e-repertorio"><i class="fa fa-check"></i><b>0.0.1</b> Cánon e repertorio</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#a-actividade-musical-e-o-produto-musical"><i class="fa fa-check"></i>A actividade musical e o produto musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#música-de-tadición-oral-e-notación-musical"><i class="fa fa-check"></i>Música de tadición oral e notación musical</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#música-popular-e-música-culta"><i class="fa fa-check"></i>Música popular e «música culta»</a></li>
+<li class="chapter" data-level="" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#o-enfoque-eurocéntrico"><i class="fa fa-check"></i>O enfoque eurocéntrico</a></li>
+<li class="chapter" data-level="0.0.1" data-path="aproximación-á-historia-da-música.html"><a href="aproximación-á-historia-da-música.html#cánon-e-repertorio"><i class="fa fa-check"></i><b>0.0.1</b> Cánon e repertorio</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="orixes-da-música-occidental.html"><a href="orixes-da-música-occidental.html"><i class="fa fa-check"></i><b>1</b> Orixes da Música Occidental</a>
@@ -334,23 +351,23 @@ Apuntes e materiais didácticos</p></a>
 <p><!-- this will include a mini table of contents--></p>
 <div id="citations" class="section level2" number="3.1">
 <h2><span class="header-section-number">3.1</span> Citations</h2>
-<p>The usual way to include citations in an <em>R Markdown</em> document is to put references in a plain text file with the extension <strong>.bib</strong>, in <strong>BibTex</strong> format.<a href="#fn16" class="footnote-ref" id="fnref16"><sup>16</sup></a>
+<p>The usual way to include citations in an <em>R Markdown</em> document is to put references in a plain text file with the extension <strong>.bib</strong>, in <strong>BibTex</strong> format.<a href="#fn14" class="footnote-ref" id="fnref14"><sup>14</sup></a>
 Then reference the path to this file in <strong>index.Rmd</strong>’s YAML header with <code>bibliography: example.bib</code>.</p>
 <p>Most reference managers can create a .bib file with you references automatically.
 However, the <strong>by far</strong> best reference manager to use with <em>R Markdown</em> is <a href="https://www.zotero.org">Zotero</a> with the <a href="https://retorque.re/zotero-better-bibtex/">Better BibTex plug-in</a>, because the <code>citr</code> plugin for RStudio (see below) can read references directly from your Zotero library!</p>
 <p>Here is an example of an entry in a <strong>.bib</strong> file:</p>
-<div class="sourceCode" id="cb13"><pre class="sourceCode bibtex"><code class="sourceCode bibtex"><span id="cb13-1"><a href="cites-and-refs.html#cb13-1" aria-hidden="true"></a><span class="va">@article</span>{<span class="ot">Shea2014</span>,</span>
-<span id="cb13-2"><a href="cites-and-refs.html#cb13-2" aria-hidden="true"></a>  <span class="dt">author</span> =        {Shea, Nicholas and Boldt, Annika},</span>
-<span id="cb13-3"><a href="cites-and-refs.html#cb13-3" aria-hidden="true"></a>  <span class="dt">journal</span> =       {Trends in Cognitive Sciences},</span>
-<span id="cb13-4"><a href="cites-and-refs.html#cb13-4" aria-hidden="true"></a>  <span class="dt">pages</span> =         {186--193},</span>
-<span id="cb13-5"><a href="cites-and-refs.html#cb13-5" aria-hidden="true"></a>  <span class="dt">title</span> =         {{Supra-personal cognitive control}},</span>
-<span id="cb13-6"><a href="cites-and-refs.html#cb13-6" aria-hidden="true"></a>  <span class="dt">volume</span> =        {18},</span>
-<span id="cb13-7"><a href="cites-and-refs.html#cb13-7" aria-hidden="true"></a>  <span class="dt">year</span> =          {2014},</span>
-<span id="cb13-8"><a href="cites-and-refs.html#cb13-8" aria-hidden="true"></a>  <span class="dt">doi</span> =           {10.1016/j.tics.2014.01.006},</span>
-<span id="cb13-9"><a href="cites-and-refs.html#cb13-9" aria-hidden="true"></a>}</span></code></pre></div>
+<div class="sourceCode" id="cb13"><pre class="sourceCode bibtex"><code class="sourceCode bibtex"><span id="cb13-1"><a href="cites-and-refs.html#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">Shea2014</span>,</span>
+<span id="cb13-2"><a href="cites-and-refs.html#cb13-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span> =        {Shea, Nicholas and Boldt, Annika},</span>
+<span id="cb13-3"><a href="cites-and-refs.html#cb13-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> =       {Trends in Cognitive Sciences},</span>
+<span id="cb13-4"><a href="cites-and-refs.html#cb13-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span> =         {186--193},</span>
+<span id="cb13-5"><a href="cites-and-refs.html#cb13-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span> =         {{Supra-personal cognitive control}},</span>
+<span id="cb13-6"><a href="cites-and-refs.html#cb13-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">volume</span> =        {18},</span>
+<span id="cb13-7"><a href="cites-and-refs.html#cb13-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span> =          {2014},</span>
+<span id="cb13-8"><a href="cites-and-refs.html#cb13-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span> =           {10.1016/j.tics.2014.01.006},</span>
+<span id="cb13-9"><a href="cites-and-refs.html#cb13-9" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div>
 <p>In this entry highlighed section, ‘Shea2014’ is the <strong>citation identifier</strong>.
 To default way to cite an entry in your text is with this syntax: <code>[@citation-identifier]</code>.</p>
-<p>So I might cite some things <span class="citation">(Shea et al. <a href="#ref-Shea2014" role="doc-biblioref">2014</a>; Lottridge et al. <a href="#ref-Lottridge2012" role="doc-biblioref">2012</a>)</span>.</p>
+<p>So I might cite some things <span class="citation">(<a href="#ref-Shea2014" role="doc-biblioref">Shea et al. 2014</a>; <a href="#ref-Lottridge2012" role="doc-biblioref">Lottridge et al. 2012</a>)</span>.</p>
 <div id="pdf-output" class="section level3" number="3.1.1">
 <h3><span class="header-section-number">3.1.1</span> PDF output</h3>
 <p>In PDF output, the bibliography is handled by the OxThesis LaTeX template.
@@ -360,7 +377,7 @@ If you set <code>bib-humanities: true</code> in <strong>index.Rmd</strong>, then
 <li>Put author names outside the parenthesis
 <ul>
 <li>This: <code>@Shea2014 says blah.</code></li>
-<li>Becomes: <span class="citation">Shea et al. (<a href="#ref-Shea2014" role="doc-biblioref">2014</a>)</span> says blah.</li>
+<li>Becomes: <span class="citation"><a href="#ref-Shea2014" role="doc-biblioref">Shea et al.</a> (<a href="#ref-Shea2014" role="doc-biblioref">2014</a>)</span> says blah.</li>
 </ul></li>
 <li>Include only the citation-year (in parenthesis)
 <ul>
@@ -370,7 +387,7 @@ If you set <code>bib-humanities: true</code> in <strong>index.Rmd</strong>, then
 <li>Add text and page or chapter references to the citation
 <ul>
 <li>This: <code>[see @Shea2014, pp. 33-35; also @Wu2016, ch. 1]</code></li>
-<li>Becomes: Blah blah <span class="citation">(see Shea et al. <a href="#ref-Shea2014" role="doc-biblioref">2014</a>, 33–35; also Wu <a href="#ref-Wu2016" role="doc-biblioref">2016</a>, ch. 1)</span>.</li>
+<li>Becomes: Blah blah <span class="citation">(see <a href="#ref-Shea2014" role="doc-biblioref">Shea et al. 2014, 33–35</a>; also <a href="#ref-Wu2016" role="doc-biblioref">Wu 2016</a>, ch. 1)</span>.</li>
 </ul></li>
 </ul>
 </div>
@@ -386,7 +403,7 @@ You can browse through and download styles at <a href="https://www.zotero.org/st
 <h3><span class="header-section-number">3.1.3</span> Insert references easily with the <code>citr</code> add-in</h3>
 <p>For an easy way to insert citations, try the <a href="https://github.com/crsh/citr"><code>citr</code></a> RStudio add-in (Figure <a href="cites-and-refs.html#fig:citr">3.1</a>).
 You can install this add-in by typing <code>install.packages("citr")</code> in the R Console.</p>
-<div class="figure" style="text-align: center"><span id="fig:citr"></span>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:citr"></span>
 <img src="https://raw.githubusercontent.com/crsh/citr/master/tools/images/addin_demo.gif" alt="The `citr` add-in" width="80%" />
 <p class="caption">
 Figura 3.1: The <code>citr</code> add-in
@@ -421,8 +438,8 @@ See <a href="cites-and-refs.html#cites-and-refs">our chapter title</a> for an ex
 <li><strong>GOTCHA</strong>: Figures and tables must have captions if you wish to cross-reference them.</li>
 </ul>
 <p>Let’s add an image:</p>
-<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="cites-and-refs.html#cb14-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">include_graphics</span>(<span class="st">&quot;figures/sample-content/captain.jpeg&quot;</span>)</span></code></pre></div>
-<div class="figure" style="text-align: center"><span id="fig:captain"></span>
+<div class="sourceCode" id="cb14"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb14-1"><a href="cites-and-refs.html#cb14-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;figures/sample-content/captain.jpeg&quot;</span>)</span></code></pre></div>
+<div class="figure" style="text-align: center"><span style="display:block;" id="fig:captain"></span>
 <img src="figures/sample-content/captain.jpeg" alt="A marvel-lous meme" width="65%" />
 <p class="caption">
 Figura 3.2: A marvel-lous meme
@@ -438,8 +455,8 @@ So Figure <a href="cites-and-refs.html#fig:captain">3.2</a> is <a href="cites-an
 <li>To refer to tables use the syntax <code>\@ref(tab:label)</code></li>
 </ul>
 <p>Let’s include a table:</p>
-<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb15-1"><a href="cites-and-refs.html#cb15-1" aria-hidden="true"></a>knitr<span class="op">::</span><span class="kw">kable</span>(cars[<span class="dv">1</span><span class="op">:</span><span class="dv">5</span>,],</span>
-<span id="cb15-2"><a href="cites-and-refs.html#cb15-2" aria-hidden="true"></a>            <span class="dt">caption=</span><span class="st">&quot;Stopping cars&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb15"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb15-1"><a href="cites-and-refs.html#cb15-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(cars[<span class="dv">1</span><span class="sc">:</span><span class="dv">5</span>,],</span>
+<span id="cb15-2"><a href="cites-and-refs.html#cb15-2" aria-hidden="true" tabindex="-1"></a>            <span class="at">caption=</span><span class="st">&quot;Stopping cars&quot;</span>)</span></code></pre></div>
 <p>We refer to this table with <code>\@ref(tab:cars-table2)</code>.
 So Table <a href="#tab:cars-table2"><strong>??</strong></a> is <a href="#tab:cars-table2">this table</a>.</p>
 <p>And in Table <a href="#tab:cars-table"><strong>??</strong></a> we saw more or less <a href="#tab:cars-table">the same cars table</a>.</p>
@@ -455,7 +472,7 @@ LaTeX has a command for this, which looks like this: <code>\pageref{fig/tab:labe
 </ul>
 <div id="include-page-numbers-only-in-pdf-output" class="section level4" number="3.2.4.1">
 <h4><span class="header-section-number">3.2.4.1</span> Include page numbers only in PDF output</h4>
-<p>A problem here is that LaTeX commands don’t display in HTML output, so in the gitbook output we’d see simply “Figure <a href="rmd-basics.html#fig:cars-plot">2.4</a> on page”.</p>
+<p>A problem here is that LaTeX commands don’t display in HTML output, so in the gitbook output we’d see simply “Figure <a href="rmd-basics.html#fig:cars-plot">2.4</a> on page.”</p>
 <p>One way to get around this is to use inline R code to insert the text, and use an <code>ifelse</code> statement to check the output format and then insert the appropriate text.</p>
 <ul>
 <li>So this: <code>`r ifelse(knitr::is_latex_output(), "Figure \\@ref(fig:cars-plot) on page \\pageref{fig:cars-plot}", "")`</code></li>
@@ -485,21 +502,21 @@ I suspect some great solution will be developed in the not-to-distant future, pr
 </div>
 </div>
 <h3>References</h3>
-<div id="refs" class="references hanging-indent">
-<div id="ref-Lottridge2012">
-<p>Lottridge, Danielle, Eli Marschner, Ellen Wang, Maria Romanovsky, and Clifford Nass. 2012. “Browser design impacts multitasking.” In <em>Proceedings of the Human Factors and Ergonomics Society 56th Annual Meeting</em>. <a href="https://doi.org/10.1177/1071181312561289">https://doi.org/10.1177/1071181312561289</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-Lottridge2012" class="csl-entry">
+Lottridge, Danielle, Eli Marschner, Ellen Wang, Maria Romanovsky, and Clifford Nass. 2012. <span>“<span class="nocase">Browser design impacts multitasking</span>.”</span> In <em>Proceedings of the Human Factors and Ergonomics Society 56th Annual Meeting</em>. <a href="https://doi.org/10.1177/1071181312561289">https://doi.org/10.1177/1071181312561289</a>.
 </div>
-<div id="ref-Shea2014">
-<p>Shea, Nicholas, Annika Boldt, Dan Bang, Nick Yeung, Cecilia Heyes, and Chris D Frith. 2014. “Supra-personal cognitive control and metacognition.” <em>Trends in Cognitive Sciences</em> 18 (4): 186–93. <a href="https://doi.org/10.1016/j.tics.2014.01.006">https://doi.org/10.1016/j.tics.2014.01.006</a>.</p>
+<div id="ref-Shea2014" class="csl-entry">
+Shea, Nicholas, Annika Boldt, Dan Bang, Nick Yeung, Cecilia Heyes, and Chris D Frith. 2014. <span>“<span class="nocase">Supra-personal cognitive control and metacognition</span>.”</span> <em>Trends in Cognitive Sciences</em> 18 (4): 186–93. <a href="https://doi.org/10.1016/j.tics.2014.01.006">https://doi.org/10.1016/j.tics.2014.01.006</a>.
 </div>
-<div id="ref-Wu2016">
-<p>Wu, Tim. 2016. <em>The Attention Merchants: The Epic Scramble to Get Inside Our Heads</em>. Knopf Publishing Group.</p>
+<div id="ref-Wu2016" class="csl-entry">
+Wu, Tim. 2016. <em><span class="nocase">The Attention Merchants: The Epic Scramble to Get Inside Our Heads</span></em>. Knopf Publishing Group.
 </div>
 </div>
 <div class="footnotes">
 <hr />
-<ol start="16">
-<li id="fn16"><p>The bibliography can be in other formats as well, including EndNote (<strong>.enl</strong>) and RIS (<strong>.ris</strong>), see <a href="https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html">rmarkdown.rstudio.com/authoring_bibliographies_and_citations</a>.<a href="cites-and-refs.html#fnref16" class="footnote-back">↩︎</a></p></li>
+<ol start="14">
+<li id="fn14"><p>The bibliography can be in other formats as well, including EndNote (<strong>.enl</strong>) and RIS (<strong>.ris</strong>), see <a href="https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html">rmarkdown.rstudio.com/authoring_bibliographies_and_citations</a>.<a href="cites-and-refs.html#fnref14" class="footnote-back">↩︎</a></p></li>
 </ol>
 </div>
             </section>
@@ -512,7 +529,6 @@ I suspect some great solution will be developed in the not-to-distant future, pr
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -552,6 +568,10 @@ gitbook.start({
 "text": null
 },
 "download": ["_main.pdf"],
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }
