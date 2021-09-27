@@ -8,7 +8,6 @@ fig:oxford-logo-controlled
 fig:citr
 fig:captain
 fig:latex-font-sizing
-cánon-e-repertorio
 orixes-da-música-occidental
 a-orixe-da-música
 a-música-durante-a-prehistoria

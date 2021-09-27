@@ -56,7 +56,7 @@ O concepto de «música» recibe diferentes tratamentos e acepcións ao longo da
 
 A música[^def:mousike], na mitoloxía grega, era considerada unha *tekné* (técnica, habilidade, destreza, arte…) que engloba tanto a artistas como teóricos. Nos períodos heleno e helenístico, a música terá un papel central na sociedade civil e relixiosa da época, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón, (entre os séculos V-VI a.c) concibe a música como a "arte educativa por excelencia que se insire na alma e forma a virtude"; no século VI, Boecio percibe a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". Santo Tomás no século XIII, considera a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Xa no século XVIII, Rousseau plantea a música como "a arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación". 
 
-Como vemois, as percepcións sobre a música varian ao longo do tempo, a pesares de manter todas rasgos comúns. Non será ata os anos noventa do século XX, cando se establezan as primeiras definicións concretas e complexas sobre este concepto. Musicólogos, etnomusicólogos e investigadores coinciden en moitos aspectos sobre a música. Neste sentido, a profesora López Cobas afirma:
+Como vemos, as percepcións sobre a música varian ao longo do tempo, a pesares de manter todas rasgos comúns. Non será ata os anos noventa do século XX, cando se establezan as primeiras definicións concretas e complexas sobre este concepto. Musicólogos, etnomusicólogos e investigadores coinciden en moitos aspectos sobre a música. Neste sentido, a profesora López Cobas afirma:
 
 >
 As definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...]  
@@ -77,7 +77,7 @@ Propícianos a descubrir o noso propio mundo interior, a comunicación con “o 
 ### A creación artístico-musical {-}
 <!--TODO: IMAXE SOBRE ARTE ABSTRACTA, ETC.-->
 
-A música é unha **arte abstracta** que posúe un grao de abstracción superior a calquera outra, e polo tanto, é unha **arte espiritual**, **humana** e **universal**. Precisa, certos coñecementos específicos para chegar a comprender plenamente a realidade científica que lle da forma; é unha **arte dinámica**[^cita:arte-estatica], que transcorre no tempo; o oínte, necesita ir interiorizando[^cita:memoria-auditiva] a obra a medida que a escoita, para así poder captala íntegramente; por iso, é unha **arte viva**[^cita:arte-viva] capaz de facer presente calquera tempo histórico.
+A música é unha **arte abstracta** que posúe un grao de abstracción superior a calquera outra, e polo tanto, é unha **arte espiritual**, **humana** e **universal**. Precisa, certos coñecementos específicos para chegar a comprender plenamente a realidade científica que lle da forma; é unha **arte dinámica**[^cita:arte-estatica] que transcorre no tempo; o oínte, necesita ir interiorizando a obra a medida que a escoita, e así poder captala íntegramente; igualmente, é unha **arte viva** capaz de facer presente calquera tempo histórico.
 
 >
 Coas palabras dinse cousas humanas; coa música exprésase iso que ninguén coñece nin pode definir, pero que en todos existe en maior ou menor forza. A música é a arte por natureza. Podería dicirse que é o campo eterno das ideas... Para poder falar dela, necesítase unha gran preparación espiritual e, sobre todo, estar unido intimamente aos seus segredos.[^cita:Lorca-musica]
@@ -109,16 +109,15 @@ Música como ciencia.
 :    Pitágoras, filósofo grego do século V a.c. afirmaba:  
 "os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas."
 
-Como podemos ver, os puntos de vista sobre a música son variados e dependen da época que se trate. Hugo Riemann, musicógrafo alemán do século XIX, afonda na definición mesturando algunhas das perspectivas anteriores, afirmando así o seguinte: 
-
+Como podemos ver, os puntos de vista sobre a música son variados e dependen da época que se trate. Hugo Riemann, musicógrafo[^def:musicografo] alemán do século XIX, afonda na definición mesturando algunhas das perspectivas anteriores, afirmando así o seguinte: 
+ 
 >
 A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifestación da *beleza* por medio dos sons; pero esta manifestación descansa nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos sons, ao mesmo tempo que as súas relacións de altura e duración.
 
 ### Temporalidade e memoria auditiva {-}
 <!--TODO: IMAXE SOBRE TEMPORALIDADE E MEMORIA AUDITIVA-->
 
-As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade».  
-Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar, que renace cada vez que se interpreta e vive un proceso de reactivación constante, como arte dinámica que é.   
+As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade». Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar, que renace cada vez que se interpreta e vive un proceso de reactivación constante, como arte dinámica que é.   
 
 A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar o significado.
 
@@ -247,8 +246,15 @@ O feito de que se exclúa a música non europea ou popular ---enfoque eurocéntr
 CITAS E NOTAS DO TEMA
 %%%%%%%%%%%%%%%%%%%%%
 -->
+
+<!---DEFINICIÓNS:--->
+
 [^def:mousike]:
 O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musas), feminino de *mousikos* «pertencente ás musas», de *Mousa* «Musa».
+
+[^def:musicografo]:O dicciónario da lingua galega ([digalego](https://digalego.xunta.gal/gl/termo/44511/musicografo-fa)), define o termino como: "Persoa que escribe sobre música, xeralmente cun carácter científico ou crítico".
+
+<!---CITAS:--->
 
 [^cita:Lorca-musica]: Para García Lorca (1977) a música tiña un carácter difícilmente explicable, máis se non coñecemos os seus elementos internos.
 
