@@ -4,26 +4,26 @@
 
 ## A periodización na Historia da música {-}
 
-Aínda que na historia, e especialmente na dos feitos culturais, como a música, os cambios prodúcense paulatinamente, sen que haxa acontecementos tan decisivos que xustifiquen un cambio de etapa, resulta cómodo facer unha división en etapas ou períodos que faciliten o estudo. Esta división do tempo en períodos denominámola periodización. 
+Ao longo da historia, ---especialmente na dos feitos culturais como a música--- os cambios prodúcense lentamente, sen que haxa acontecementos tan decisivos que xustifiquen un cambio de etapa. A división da historia en períodos ou etapas, resulta de gran utilidade para facilitar o estudo da materia. Esta división do tempo en períodos, coñécese como «periodización». 
 
-A división habitual das etapas da historia ten a súa orixe nos humanistas europeos do Renacemento, época na que tamén aparecen as primeiras historias da arte. A historia da música é moi posterior: os primeiros libros apareceron a finais do século  XVIII, e o desenvolvemento da  historiografía musical é principalmente do século  XIX[^ref:herodoto]. Esta aparición tardía, fai que a Historia da música adopte habitualmente as periodizacións doutras disciplinas, principalmente a Historia da arte, pero a música non sempre cambia ao ritmo das outras actividades humanas e, polo tanto os termos da historia xeral ou da historia da arte, non son válidos ---en moitos casos--- para a da música.
+A división habitual das etapas da historia, ten a súa orixe nos humanistas europeos do Renacemento, época na que tamén aparecen as primeiras historias da arte. A historia da música é moi posterior: os primeiros libros apareceron a finais do século  XVIII, e o desenvolvemento da  historiografía musical é principalmente do século  XIX[^ref:herodoto]. Esta aparición tardía, fai que a Historia da música adopte habitualmente as periodizacións doutras disciplinas, principalmente da Historia da arte, malia que a música non sempre cambia ao ritmo das outras actividades humanas e, polo tanto, os termos da historia xeral ou da historia da arte, non son válidos ---en moitos casos--- para a da música.
 
-### Os períodos da historia {-}
+### Períodos da historia {-}
 
-Adóitase situar o comezo da historia no momento da aparición da escritura, fai uns 6000 anos aproximadamente; o período anterior denomínase Prehistoria. Aínda que está constatada a existencia de actividade musical durante a prehistoria, descoñécese que música facíase entón, polo que adoita quedar á marxe da historia da música.
+Adóitase situar o comezo da historia no momento da aparición da escritura, hai uns 6000 anos aproximadamente; o período anterior denomínase Prehistoria. Aínda que está constatada a existencia de actividade musical durante a prehistoria, descoñécese que música se facía entón, polo que adoita quedar á marxe da materia.
 
-Os períodos en que se divide a historia son catro:
+Os períodos en que se divide a historia, en xeral son catro:
 
 1. **Idade Antiga**:
-(ata o século V d. C.). Aínda que a notación musical naceu á vez que a escritura, a maior parte das culturas antigas non escribiron a súa música, e as escasas notacións que existen son practicamente descoñecidas, coa excepción importante da Grecia helenística (a partir do século IV  aC).  
+(ata o século V d.c). Aínda que a notación musical naceu á vez que a escritura, a maior parte das culturas antigas non escribiron a súa música, e as escasas notacións que existen son practicamente descoñecidas, coa excepción importante da Grecia helenística (a partir do século IV  aC).  
 Para a historia da música occidental, o máis interesante desta época son as teorías gregas sobre a música, que influíron de forma importante na música europea medieval, renacentista e barroca, e mesmo despois.
 
 2. **Idade Media**:
-s.  VI- XV). O seu comezo sitúase na disgregación dos territorios occidentais do Imperio Romano (naturalmente, esta é unha perspectiva  eurocéntrica). As comunicacións entre eses territorios redúcense, a inestabilidade é grande e os desenvolvementos culturais teñen que partir ás veces desde cero.  
+(séculos VI-XV). O seu comezo sitúase na disgregación dos territorios occidentais do Imperio Romano (naturalmente, esta é unha perspectiva  eurocéntrica). As comunicacións entre eses territorios redúcense, a inestabilidade é grande e os desenvolvementos culturais teñen que partir ás veces desde cero.  
 Aínda que hai moitos datos sobre a música europea occidental neste período, o máis importante sitúase tras a aparición da notación musical no século X e sobre todo a notación sobre liñas paralelas a partir do século  XI.
 
 3. **Idade Moderna**:
-s.   XVI- XVIII. Varios acontecementos marcan o comezo desta etapa, principalmente a desaparición do imperio  bizantino (continuador do romano) e a chegada de  Colón a América. Culturalmente, o final da Idade Media está marcado polo movemento humanista que dominou o Renacemento. Os termos «antiga», «media» e «moderna» para designar as tres etapas históricas foron creación destes humanistas, que estrañaban o esplendor cultural dos antigos gregos e romanos e desprezaban a época intermedia entre estes e eles mesmos.  
+(séculos XVI-XVIII. Varios acontecementos marcan o comezo desta etapa, principalmente a desaparición do imperio  bizantino (continuador do romano) e a chegada de  Colón a América. Culturalmente, o final da Idade Media está marcado polo movemento humanista que dominou o Renacemento. Os termos «antiga», «media» e «moderna» para designar as tres etapas históricas foron creación destes humanistas, que estrañaban o esplendor cultural dos antigos gregos e romanos e desprezaban a época intermedia entre estes e eles mesmos.  
 A música desta época é ben coñecida, en xeral, e é entón cando se produce o desenvolvemento do sistema  tonal que terá o seu esplendor no Barroco tardío e o Clasicismo.
 
 4. **Idade Contemporánea**:
@@ -63,9 +63,9 @@ As etapas da música europea occidental, que consideraremos ao longo deste curso
 5. **Romanticismo**: desde 1820 (aproximadamente) ata o final do  XIX, con varias etapas diferenciadas.
 6. **Música contemporánea**: iníciase cara a 1890, coas obras de madurez de  Mahler,  Debussy e outros, aínda que o momento de cambio máis importante é cara a 1907 (aparición da  atonalidad). Ás veces a expresión «música contemporánea» utilízase só para a creada con posterioridade a 1945.
 
-En moitos libros recentes de historia da música, establécese a división do período posterior ao Renacemento por séculos (XVII,  XVIII, XIX e XX), sen utilizar etiquetas de ningún tipo, tal como faremos neste curso.
+En moitos libros recentes de historia da música, establécese a división dos períodos posteriores ao Renacemento por séculos (XVII,  XVIII, XIX e XX) e así o faremos neste curso.
 
 <!--Referencias e citas do tema--->
-[^ref:herodoto]: tradicionalmente considerouse a Heródoto, historiador grego do século *v *ac como o «pai da historia»; como ciencia, a Historia dos acontecementos humanos, existe xa desde a antigüidade.
+[^ref:herodoto]:Heródoto, historiador grego do século V a.c está considerado o «pai da historia»; como ciencia, a Historia dos acontecementos humanos, existe xa desde a antigüidade.
 
 
