@@ -110,7 +110,7 @@ Música como ciencia.
 "os números son as cousas; agora ben, a música é número. O mundo é música; o cosmos é unha lira sublime de sete cordas."
 
 Como podemos ver, os puntos de vista sobre a música son variados e dependen da época que se trate. Hugo Riemann, musicógrafo[^def:musicografo] alemán do século XIX, afonda na definición mesturando algunhas das perspectivas anteriores, afirmando así o seguinte: 
- 
+
 >
 A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifestación da *beleza* por medio dos sons; pero esta manifestación descansa nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos sons, ao mesmo tempo que as súas relacións de altura e duración.
 
@@ -120,10 +120,11 @@ A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifest
 As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade». Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar, que renace cada vez que se interpreta e vive un proceso de reactivación constante, como arte dinámica que é.   
 
 A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar o significado.
-
-```{r figura-musas-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Representación de Apolo e as nove musas, fillas de Zeus. - (wikimedia)", fig.scap="Apolo e as nove musas inspiradoras das artes e as ciencias", out.width="100%"}
-knitr::include_graphics('figures/ud-00/musas-origen-musica.jpg')
+<!--
+```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="A música é un feito social e cultural. - (fonte:pellicer.fremm.org)", fig.scap="A música é un feito social e cultural", out.width="100%"}
+knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
 ```
+-->
 
 <!---DESCARTADO POLO MOMENTO:
 Música
@@ -232,14 +233,14 @@ Este enfoque «eurocéntrico» da Historia da Música, deixa de lado numerosas m
 
 No século XIX desenvolvéronse dúas ideas ou conceptos importantes a ter en conta: o *canon* e o *repertorio*. O primeiro fai referencia ao conxunto de compositores e obras que estudaremos; o segundo é o conxunto de obras que, por unha ou outra razón, seguimos estudando e interpretando. Ámbolos dous conceptos, derivan de certos criterios de "calidade musical" malia que son á vez, produtos culturais de orixe europeo, creados en certos contextos políticos, sociais ou ideolóxicos específicos de épocas concretas.
 
-O feito de que se exclúa a música non europea ou popular ---enfoque eurocéntrico--- lévanos a pensar na discriminación étnica clasista, que mantiveron certos musicólogos, intérpretes, críticos, (...) do século XIX. Outro problema co que nos atopamos é o que supón a exclusión do canon, das mulleres compositoras[^cita:exclusión_muller]; ao longo da historia da música, veremos como foron sometidas ao igual que outros compositores[^cita:exclusión_compo], a unha discriminación, en parte debida a que non se axustaban ao modelo ou idea de evolución da música occidental da época. Sen dúbida, outra das ideas que marcaron este concepto de canon, foi a valoración dos nacionalismos[^cita:nacionalismos], o que explica que ao longo da historia, predominase certa música sobre outra.
+O feito de que se exclúa a música non europea ou popular ---enfoque eurocéntrico--- lévanos a pensar na discriminación étnica clasista, que mantiveron certos musicólogos, intérpretes, críticos, (...) do século XIX. Outro problema co que nos atopamos é o que supón a exclusión do canon, das mulleres compositoras[^cita:exclusion_muller]; ao longo da historia da música, veremos como foron sometidas ao igual que outros compositores[^cita:exclusion_compo], a unha discriminación, en parte debida a que non se axustaban ao modelo ou idea de evolución da música occidental da época. Sen dúbida, outra das ideas que marcaron este concepto de canon, foi a valoración dos nacionalismos[^cita:nacionalismos], o que explica que ao longo da historia, predominase certa música sobre outra.
 
-## A periodización na historia da música {-}
+<!---## A periodización na historia da música {-}--->
 
 ```{r child = "unidades-didacticas/unidade-00/periodizacion.md"}
 ```
 
-
+<!--ENTREGADO 4ºA: 28-9-21--->
 
 <!---
 %%%%%%%%%%%%%%%%%%%%%
@@ -247,7 +248,7 @@ CITAS E NOTAS DO TEMA
 %%%%%%%%%%%%%%%%%%%%%
 -->
 
-<!---DEFINICIÓNS:--->
+
 
 [^def:mousike]:
 O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musas), feminino de *mousikos* «pertencente ás musas», de *Mousa* «Musa».
@@ -269,9 +270,9 @@ O término «música» [...] deriva do grego *mousike* (*techne*) (arte das musa
 
 [^cita:definiónhistoria]: Consulta da [RAE](https://dle.rae.es/historia#otras), ofrece varias posibles definicións de Historia.
 
-[^cita:exclusion_muller]: As mulleres foron silenciadas e discriminadas musicalmente ao longo da historia; nunca foi aceptada dentro do canon do s. XIX.
+[^cita:exclusion_muller]:As mulleres foron silenciadas e discriminadas musicalmente ao longo da historia; nunca foi aceptada dentro do canon do s. XIX.
 
-[^cita:exclusion_compo]:  Ao longo dos diferentes períodos da historia da música, moitos compositores e obras foron discriminados e censurados. Nalgúns casos por seren demasiado conservadores ou demasiado avanzados para o seu tempo; noutros, por tomar camiños musicais que ninguén seguiu (polo menos nese momento) moi lonxe da marca do canon.
+[^cita:exclusion_compo]:Ao longo dos diferentes períodos da historia da música, moitos compositores e obras foron discriminados e censurados. Nalgúns casos por seren demasiado conservadores ou demasiado avanzados para o seu tempo; noutros, por tomar camiños musicais que ninguén seguiu (polo menos nese momento) moi lonxe da marca do canon.
 
 [^cita:nacionalismos]: A idea do nacional ou nacionalista tamén influíu na creación do canon. O feito de que as universidades máis importantes de finais do século XIX e principios do XX fosen as de Alemaña e que a escola historiográfica alemá dominase un período decisivo na historiografía musical, explica a abundancia de compositores xermanos no canon.
 

@@ -1,4 +1,3 @@
-fig:figura-musas-1
 eq:binom
 fig:chunk-parts
 fig:oxford-logo
