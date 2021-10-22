@@ -64,6 +64,40 @@ Traballando co `markdown` a estrutura dos arquivos é a seguinte:
 |   +-- unidade-10
 |   ...
 ```
+## Dependencias
+
+Para compilar o traballo, é necesario seguir a guía da plantilla "oxforndown" sobre a que se basea este traballo, no arquivo README_OLD.md
+
+### Paquetes de R necesarios
+
+Os paquetes necesarios, son os seguintes: `rmarkdown`, `bookdown`, `tidyverse`, `kableExtra`, and `here`
+
+Cando se instalan algún deles, presenta erros por dependencias incumplidas na distribución Linux.  
+É preciso seguir os pasos detallados a continuación:
+
+1. PASO 1. Instalar R e algunhas dependencias básicas.
+
+  $ sudo apt update
+  $ sudo apt -y install r-base gdebi-core
+
+2.  PASO 2. Instalar a última versión do RStudio.
+3.  PASO 3. Descomprimir o RStudio.  
+  Na carpeta onde descargamos o RStudio, executamos:
+
+  $ sudo gdebi rstudio-1.2.5019-amd64.deb
+
+4. PASO 4. Abrimos o RStudio
+  Executamos os seguintes comandos para instalar as dependencias:
+  
+  sudo apt-get install libcurl4-openssl-dev
+  sudo apt-get install libssl-dev
+  sudo apt-get install libxml2-dev
+  
+5. PASO 5. Refrescamos a distribución Linux.  
+
+  sudo apt update
+  sudo apt upgrade
+  sudo apt autoremove
 
 ## Compilación
 
