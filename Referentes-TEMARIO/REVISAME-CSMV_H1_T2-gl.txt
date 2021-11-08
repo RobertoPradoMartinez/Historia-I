@@ -1,14 +1,13 @@
-﻿TEMA 2. A ANTIGÜIDADE CLÁSICA: GRECIA E ROMA.
+﻿## ﻿TEMA 2. A ANTIGÜIDADE CLÁSICA: GRECIA E ROMA.
 
 
 (Audicións sobre o tema)
 
-
-1. A música en Grecia
+### 1. A música en Grecia
 
 Considerábase a música unha *tekné (técnica, habilidade, destreza, arte…); a palabra *tekné engloba tanto a artistas como a teóricos. Esta concepción de arte e ciencia como disciplinas teóricas derivará na Idade Media no concepto de *Ars (disciplinas liberais), que se encadrarán no *Trivium e *Quadrivium. Fronte ao *Ars situarase o *Artificium, correspondente ás disciplinas manuais.
 
-1.1. Teoría musical
+#### 1.1. Teoría musical
 
 Os puntos máis importantes da teoría musical grega foron recollidos por *Aristoxeno e *Cleónides, e pódense resumir nos seguintes apartados: notas, intervalos, xéneros, escalas, *tonoi, *modulación e composición.
 
@@ -137,9 +136,9 @@ Do mesmo período, e tamén conservados integramente, temos dous himnos ao deus 
 
 Pertencentes á era cristiá consérvanse o tres himnos de *Mesomedes de *Creta (aínda que o autor pertence ao *II a.*C.), que foron publicados en 1581 por *Vicenzo *Galilei e o papiro de *Oxyrhynchos, cun himno á *Santísima Trindade (século *II d.*C.).
 
-1.2. Desenvolvemento histórico: períodos.
+#### 1.2. Desenvolvemento histórico: períodos.
 
-A) Poesía épica.
+##### A) Poesía épica.
 
 Transcorre aproximadamente entre os séculos *VIII e *VII a.*C., sendo os seus autores principais *Hesíodo, coa súa Teogonía, e Homero coas súas dúas obras fundamentais *Ilíada e Odisea. Por eles, e moi especialmente por Homero, coñecemos o magnífico papel outorgado á música neste período. Existían coros non profesionais dirixidos por un *rapsoda profesional; estes profesionais desempeñaban un importante papel en cortes e festas; o *rapsoda ou bardo (*aedo) cantaba as fazañas dos heroes acompañándose coa *lira, pulsada directamente cos dedos ou cun *plectro ou *púa. A *lira daba o ton pero ignórase si acompañaba o canto aínda que, de ser así, probablemente fixéseo *heterofónicamente.
 
@@ -161,8 +160,7 @@ __ __), *ionico (Ou Ou __ __), *coriambos (__Ou Ou __), *jónico maior (__ __ Ou
 [A *sílaba curta represéntase por Ou , e a longa por __. A curta tiña a metade de valor que a longa.
 Co tempo estes pés simplificáronse enormemente, como veremos noutros temas].
 
-
-*B) Poesía lírica.
+##### *B) Poesía lírica.
 
 
 Corresponde ao período entre os séculos *VII e VIN a.*C. Tal e como o seu nome indica, a poesía producíase ao son da *lira. O instrumento daba o ton e, probablemente, dobraba a melodía *heterofónicamente, é dicir, dobrando a melodía vocal, á que ornamentaba. Trátase de temas populares, raramente escritos.
@@ -174,16 +172,9 @@ Os *dorios de *Esparta desenvolveron un tipo de música comunal con formas corai
 A maioría de datos que posuímos versan sobre *Terpandro quen obtivo un gran triunfo nas festas *espartanas de *Karnee no 676 a.*C. Ademais das súas poesías e da atribución sobre a invención dos *nomoi (segundo *Plutarco), *Terpandro engadiu tres cordas á *lira obtendo a *cítara de sete cordas, o que nos fai pensar nalgún tipo de escala *diatónica. Probablemente leste é o punto de partida da evolución do *pentatonismo ao *heptatonismo.
 
 
-6
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
 *Sakadas de *Argos tivo unha sinalada intervención nos xogos de *Delfos do 586 a.*C., a partir da representación do combate entre Apolo e *Pitón, ao que parece ser que seguiu unha ampla execución no *aulos, instrumento que, si creemos as crónicas, dominaba con gran mestría..
 
-
-*C) A traxedia.
+##### *C) A traxedia.
 
 
 Dentro da representación teatral grega, que incluía todas as manifestacións artísticas, os dous principais xéneros son o *dithyrambos e o drama. O primeiro desenvolveuse a partir dun baile en honra do deus *Dionisios, no que cincuenta homes e raparigos bailaban en círculo agarrados da man ao son do *aulos ou do *barbiton. O drama é unha representación tráxica que combina poesía, música e danza; o texto podía *declamarse *rítmicamente segundo a acentuación das *sílabas, ser recitado, cantado, ou ben adoptar unha fórmula narrativa en prosa.
@@ -200,8 +191,7 @@ Pero a absoluta autonomía da música e a poesía alcanzouse con *Timotheos de *
 
 Paralelamente e desde o século *VII a.*C. prodúcese a evolución instrumental e o virtuosismo co desenvolvemento de dúas escolas fundamentais: a que ampla as posibilidades de execución técnica da *kithara ou *cítara (*kitharistica) e do *aulos (*auletica).
 
-
-D) O *helenismo.
+##### D) O *helenismo.
 
 
 As conquistas de Alejandro Magno provocaron cambios importantes na concepción musical grega. A expansión cara ao leste asiático durante o seu reinado (336-323 a.*C.) provocou un gran número de influencias orientais. Pero ademais, a tradicional independencia dos polis pérdese, dando lugar a un novo concepto de Estado: é o momento álxido da cultura grega.
@@ -212,21 +202,11 @@ No referente á música, o culto ao aplauso que se produce a partir do século *
 
 Os novos xéneros aparecidos nesta época teñen moito de influencia asiática e están claramente ao servizo dunha clase dirixente, nobre e militar. A pantomima baseábase en bailes e xestos asociados, a partir dun argumento *mitológico aos que se engadía canto e instrumento. O xénero máis importante da época podería ser definido como música de cámara, recitado de cancións con acompañamento de arpa, laúde ou *cítara. Inflúen ademais un gran número de instrumentos foráneos, así como músicos ambulantes que se trasladan á metrópole.
 
-
-7
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
 Desde o punto de vista do pensamento musical prodúcese a separación definitiva entre os escritos e a práctica. *Aristoxeno e *Euclides investigan sobre o *monocordio. Prodúcese a procura do *ethos, especialmente por parte dos *estoicos. Os *neopitagóricos e os *neoplatónicos caen nun misticismo do número como xustificante das proporcións musicais e cósmicas, debido ao seu carácter sacro.
 
-
-1.3. Instrumentos e formas.
-
+#### 1.3. Instrumentos e formas.
 
 Os instrumentos máis considerados polos gregos son os de corda, debido á posibilidade de ordenar a melodía, a partir dunha afinación fixa. O instrumento máis coñecido é, á vez, o máis antigo, e estaba ligado a procesos educativos musicais: o *phorminx; tiña orixinalmente catro cordas ás que *Terpandro engadiu outro tres dando lugar á *kithara de sete cordas.
-
 
 A *kithara posuía unha caixa de resonancia grande, aínda que ás veces tocábase un instrumento de menores dimensións, a *kithara de berce, máis apropiado para a práctica musical particular non profesionalizada; o número de cordas ampliouse de sete a doce no século *V a.*C. A *lira tiña sete cordas e unha caixa de resonancia formada polo *caparazón dunha tartaruga (de aí o seu nome, *chelus, tartaruga). O laúde (*pandora) introdúcese en Grecia a partir do sigo *IV a.*C. e posuía tres cordas (*trichordon). Tamén de influencia externa, probablemente exipcia, é a arpa, que chegou a ter vinte cordas; tense constancia do seu uso desde o século *V a.*C., aínda que estaba localizado nalgunhas zonas mediterráneas. O *barbiton estaba ligado ao culto *dionisíaco e posuía sete cordas. O máis característico deste instrumento eran os seus longos brazos exteriores, algo *curvados, que sostiñan o *clavijero.
 
@@ -239,144 +219,25 @@ O *syrinx ou *siringa é unha frauta de Pan que posuía entre cinco e sete tubos
 
 Canto aos instrumentos de percusión os máis importantes son os escarvadentes ou *krotala (especie de *castañuelas, tamén propias do culto *dionisíaco), os pratos (*kimbala) e o tambor (*tympanon).
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TODO: insertar exemplos de instrumentos
 
 *Trígono        Arpa de ángulo        *Aulos
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *Barbiton        Lira (*chelus)        *Kithara
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *Kithara de berce        *Phorminx
 
-
 As formas principais na música grega están ligadas ao culto aos deuses. En xeral, o canto en encomio dos deuses era acompañado pola *kithara e denominábase himno. O *dithyrambo era acompañado ben polo *aulos ben polo *barbiton e era de tipo coral en honra a *Dionisios. En contrapartida o *pean era unha danza de curación en honra de Apolo, tamén de tipo coral pero acompañada pola *kithara. Outras formas se *adecuan a momentos concretos da vida social dos polis, como o queixume fúnebre (*treno) acompañado polo *aulos, así como o *himeneo que se realizaba na voda en honra á noiva.
 
+#### 1.4. Pensamento musical.
 
-1.4. Pensamento musical.
-
-
-A) Influencias *mitológicas.
-
+##### A) Influencias *mitológicas.
 
 O período *mitológico é anterior á poesía épica e denomínase Idade Heroica; a súa cronoloxía data do século *XV a.*C. en diante. O personaxe principal deste período é *Orpheo, que domina a natureza co seu canto. Dado que a natureza é equilibrio (*harmonia) de contrarios (vida - morte, día - noite) sería lóxico concluír que a música é capaz de establecer orde á natureza, polo que a súa importancia é evidente. A música é tamén orde en si mesma, debido á existencia dunhas regras que a rexen, pero ademais posúe un compoñente máxico.
 
-
 Sen negar a importancia de *Orpheo, *Plutarco considera a Apolo como o personaxe divino de máis rango no referente ao musical. Apolo dirixe o coro das Musas (de onde deriva a palabra música) . É ademais un gran intérprete de *lira, e por tanto representa a orde, dado que o catro cordas da *lira afínanse en base ao *tetracordio (e como instrumentos de corda poden seguir a afinación *pitagórica). Xunto ao tres grazas que interpretan na frauta dobre, a *cítara e a *siringa, Apolo tamén domina o *aulos.
 
-
 Segundo a mitoloxía foi o deus *Hermes quen tropezou cunha cuncha de tartaruga, facendo soar os tendóns que quedaban do animal dentro do *caparazón, inventando a *lira; tras obsequiar con ela a Apolo, construíu para el mesmo un *syrinx.
-
-
-9
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
 
 Apolo, ademais, participou na competición co *sileno *Marsias, que retou ao deus a un concurso musical, de maneira que Apolo tocaría a *lira e *Marsias o *aulos: quen gañase aceptaría ao outro por criado. Tras derrotar ao *sileno pola súa interpretación á *lira (o que demostra unha vez máis a supremacía deste instrumento sobre o *aulos) Apolo interpretou tamén co *aulos de maneira maxistral; con todo, non perdoou a *Marsias o seu desafío, e no canto de tomalo como escravo tal e como acordaran, o *desolló. Trátase aquí doutra visión do habitual enfrontamento entre o *apolíneo e o *dionisíaco.
 
@@ -389,8 +250,7 @@ A *filiación do *aulos queda demostrada a partir da mitoloxía: interesada *Ath
 
 Outro interesante personaxe *mitológico ligado á música é Pan, *semidios con forma mixta, entre chibo e ser humano, ligado ao medio agrario. Insaciable nos seus instintos, perseguiu á ninfa *Siringa, que ao pedir axuda aos deuses foi *metamorfoseada en *cañaveral, polo que Pan cortou as canas e construíu unha *siringa ou *syrinx, tamén coñecida por iso como frauta de Pan. A súa música é de carácter pastoral, e é do agrado dos animais, así como dos pastores. Segundo *Plutarco, a súa música e cánticos excitan o ardor das bestas, especialmente dos cabalos. A oposición Pan-polis é evidente, e a asociación a un instrumento de vento consecuente con iso.
 
-
-*B) Homero.
+##### *B) Homero.
 
 
 Aínda que autor de poesía épica e por tanto con grandes ingredientes de esaxeración ao estar baseado en mitos e lendas, as ideas que aparecen na obra de Homero son perfectamente válidas debido á concepción grega de poesía épica. Os gregos usaban a poesía como medio de expresión e arte, e o presentado tiña connotacións educativas e formativas, polo que os datos aparecidos poden ser fiel reflexo dunha serie de costumes sociais, de feitos *pseudohistóricos recolleitos pola tradición oral, e base dun importante pensamento estético.
@@ -399,18 +259,7 @@ Aínda que autor de poesía épica e por tanto con grandes ingredientes de esaxe
 As dúas grandes obras de Homero son *Ilíada e Odisea. A propia existencia de Homero é máis que discutible: nin sequera sábese si era un ou varios, ou mesmo si el mesmo é un personaxe de ficción. O que si está claro é que ambas as obras teñen moi poucos puntos en común, salvo a súa concepción en *hexámetros e a chegada de ambos os manuscritos a Europa da man de *Petrarca, aínda que este gran poeta non puido descifrar o seu contido. O propio *Plutarco considera, desde o punto de vista musical, as grandes diferenzas que existen entre ambos os textos: si no primeiro apenas aparecen ilustracións musicais (a máis coñecida os cánticos do heroe Aquiles para acougar a cólera de *Agamenón), na Odisea abundan os exemplos musicais.
 
 
-Un dos máis curiosos, e que demostra o poder da música como medio máxico capaz de subxugar ao ser humano é o canto das sirenas. Advertido do poder que as sirenas teñen de enmeigar aos mariños co seu canto, *Odiseo (o *Ulises dos romanos) ordena taponar con cera os oídos dos seus compañeiros; con todo, consciente da beleza desas melodías, pretende co seu enxeño salvarse e á vez escoitar o feiticeiro canto, polo que manda aos seus homes que o aten con cadeas ao mastro, coa recomendación de que si lles pide que o solten áteno con máis forza. Desta forma *Odiseo pode ouvir o belo canto, sen caer no encanto de atracción das sirenas, afeitas atraer así ás súas vítimas. A lección de Homero trata dous aspectos
-
-
-
-
-10
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
-fundamentais: a maxia e a beleza da música. O poder do canto feiticeiro de *Circe, que converte aos homes en animais, é tamén de similares características.
+Un dos máis curiosos, e que demostra o poder da música como medio máxico capaz de subxugar ao ser humano é o canto das sirenas. Advertido do poder que as sirenas teñen de enmeigar aos mariños co seu canto, *Odiseo (o *Ulises dos romanos) ordena taponar con cera os oídos dos seus compañeiros; con todo, consciente da beleza desas melodías, pretende co seu enxeño salvarse e á vez escoitar o feiticeiro canto, polo que manda aos seus homes que o aten con cadeas ao mastro, coa recomendación de que si lles pide que o solten áteno con máis forza. Desta forma *Odiseo pode ouvir o belo canto, sen caer no encanto de atracción das sirenas, afeitas atraer así ás súas vítimas. A lección de Homero trata dous aspectos fundamentais: a maxia e a beleza da música. O poder do canto feiticeiro de *Circe, que converte aos homes en animais, é tamén de similares características.
 
 
 Un das pasaxes máis belas, e de maior importancia no que ao aspecto musical refírese, é a estancia de *Ulises na corte dos *feacios (*rapsodia *VIII). Insístese no valor da música a través da imaxe do *aedo, *Demódoco, cantor e cego; sobre a importancia da música na obra baste sinalar a presentación do *rapsoda, “a quen a Musa quería extraordinariamente e deulle un mal e un ben: *privóle da vista, pero concedeulle o doce canto”. Como se pode apreciar equipárase o don da inspiración musical co sentido máis prezado do ser humano, e mesmo así a arte musical salgue beneficiado diso. Co canto do *aedo, especialmente ao narrar o episodio do cabalo de Troia, o propio *Odiseo, astuto e forte, emociónase ata as bágoas; el mesmo recoñece ao *rapsoda (que non sabía que cantaba as fazañas do invitado á corte, ao manter este a súa identidade coidadosamente oculta), que é o máis grande dos poetas.
@@ -418,8 +267,7 @@ Un das pasaxes máis belas, e de maior importancia no que ao aspecto musical ref
 
 Por outra banda, non podemos esquecer a presenza doutro *aedo, *Femio, ás ordes de *Odiseo na corte de *Ítaca, que espera o regreso do seu señor. Do mesmo xeito que nesta casa, *Quirón é o *aedo da corte de Aquiles.
 
-
-*C) *Pitágoras.
+##### *C) *Pitágoras.
 
 
 Aínda que *Pitágoras (582-496 a.*C.) non escribiu ningún libro, coñécense as súas ideas a través dos seus discípulos. A concepción do universo como un equilibrio (*harmonia) de contrarios posibilita a necesaria explicación dun mundo cheo de proporcións matemáticas que son modelo de todas as cousas ou ben representan esa orde. Desde ese punto de vista o número posúe un compoñente divino como unificación de contrarios (pares - impares, finitos - infinitos).
@@ -433,14 +281,7 @@ Por outra banda tamén existe relación entre a música e a alma, xa que a alma 
 
 O máis característico dos *pitagóricos é o estudo *interválico, realizado a partir das vibracións nunha corda tensa (*monocordio). Con iso chegaron á definición da oitava, debida a proporción 2:1, a quinta 3:2, e a cuarta 4:3. A este estudo *interválico inicial habería que sumar posteriormente as investigacións de *Archytas de *Tarento, quen calculou a terceira maior como 5:4 e de *Eratosthenes, que estableceu a terceira menor na proporción 6:5. A primeira clasificación harmónica é debida a *Dydimos.
 
-
-D) *Damón.
-
-
-11
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
+##### D) *Damón.
 
 
 Nacido en *Oa no século *V a.*C., *Damón foi orador, *moralista e pedagogo, pero non deixou constancia escrita do seu pensamento. Tal e como é característico dos pensadores da súa época, *Damón revelouse contra o culto ao aplauso e a ascensión do drama e o *dithyrambo, propugnando a volta aos modelos antigos. Segundo recolleuse dos seus discursos, propugnou unha función moral para a música, que debería educar e rectificar as malas paixóns a través do concepto do *ethos.
@@ -448,43 +289,28 @@ Nacido en *Oa no século *V a.*C., *Damón foi orador, *moralista e pedagogo, pe
 
 O seguinte dato ilustra á perfección este pensamento: si uns mozos nobres, caídos baixo o poder do viño, tentasen asaltar de noite a casa dunha nova viúva, arrepentiríanse das súas perversas intencións ao escoitar unha obra en modo *frigio. Aínda que se discutiu moito sobre si referíase ao *frigio ou ao *dorio, e mesmo ponse en dúbida a paternidade da historia (o propio *Boecio atribúea a *Pitágoras), o fondo que *transluce deixa clara a función moral educativa que ten a música na sociedade grega e a importancia do *ethos.
 
-
-E) Platón.
+##### E) Platón.
 
 
 Platón (428-347 a.*C.) parte dunha consideración similar á de *Damón. Non posúe pensamento musical específico pero podemos atopalo disperso entre as súas obras principais. Na República considera penoso o espectáculo musical e avoga por volver á tradición, xa que nos novos espectáculos calquera é capaz de opinar. Nas Leis expresa o seu desexo de depurar a música para ben do Estado. En *Gorgias trata a música como arte pero non como ciencia, outorgándolle este valor científico en *Fedón . As palabras do seu mestre Sócrates son como música no Banquete, polo que a música está ao servizo da poesía. A música é un don divino en *Fedro e a súa relación co número *pitagórico está presente en *Timeo , xa que existen dúas concepcións de música, unha dela *inaudible.
 
-
-*F) Aristóteles.
+##### *F) Aristóteles.
 
 
 Aristóteles (382-322 a.*C.) considera os mesmos aspectos musicais que os seus antecesores, pero engade un compoñente *hedonista. A música debe estar ao servizo dos mozos como un elemento de lecer, pero non con fins prácticos, xa que profesionalizar a música convértea en tarefa de escravos. A pesar da súa crítica a algúns puntos das teorías *pitagóricas, existe certo *pitagorismo na súa consideración sobre a música como imitación (*mímesis) da natureza. Na natureza existe orde e movemento, e tamén na música hai movemento (debido á melodía) e orde (debido ao ritmo).
 
-
-*G) *Aristoxeno.
-
+##### *G) *Aristoxeno.
 
 *Aristoxeno (354-300 a.*C.) é un discípulo de Aristóteles que retoma o pensamento *pitagórico. O seu punto de vista é eminentemente práctico, tal e como expresa nas súas obras Elementos *armónicos (cara ao 330 a.*C.) e Elementos de rítmica (do que só se conservan fragmentos). As súas ideas foron recollidas e ampliadas polos seus alumnos *Cleónides, *Teofrasto e *Filodemo.
 
-
-2. A música en Roma.
+### 2.  A música en Roma.
 
 
 A partir do 146 a.*C. Grecia foi anexionada a Roma, converténdose en provincia romana. Descoñecemos si os romanos tiñan un sistema musical previo, e si existía fóra quizais de orixe *etrusco, pero en todo caso a súa concepción musical foi substituída pola grega. Tal e como acontece co resto das artes e das ciencias, os sabios gregos pasaron a ser *preceptores dos novos fillos dos *patricios romanos, co que a transmisión dos seus coñecementos ao mundo romano foi inmediata.
 
+#### 2.1. Instrumentos e formas
 
-Con todo, si coñecemos un importante número de instrumentos musicais romanos, previos á influencia musical grega. O instrumento equivalente ao *aulos recibía en Roma o nome de morna e a súa execución estivo ligada a celebracións relixiosas e paradas militares, así como a espectáculos teatrais. Orixinalmente construíase en óso, sendo o seu antecedente a frauta *travesera *etrusca. O
-
-
-
-
-12
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
-termo aplicouse con posterioridade ao correspondente instrumento grego de *lengüeta dobre (*aulos).
+Con todo, si coñecemos un importante número de instrumentos musicais romanos, previos á influencia musical grega. O instrumento equivalente ao *aulos recibía en Roma o nome de morna e a súa execución estivo ligada a celebracións relixiosas e paradas militares, así como a espectáculos teatrais. Orixinalmente construíase en óso, sendo o seu antecedente a frauta *travesera *etrusca. O termo aplicouse con posterioridade ao correspondente instrumento grego de *lengüeta dobre (*aulos).
 
 
 De orixe *etrusco, e similar ao *salpinx, a trompeta (*tuba) romana construíase en metal. Os instrumentos indubidablemente máis coñecidos da música romana, cuxas representacións han chegado a nós en relevo de *sarcófagos e en mosaicos, son o *cornu e a *buccina, especies de trompas; o *cornu era circular, quedando a campá por encima da cabeza, mentres que a *buccina tiña unha forma máis similar ao *sacabuche. Ambos empregáronse no ámbito militar, así como nos espectáculos; a *tuba tamén tivo unha función similar (marcaba á infantería as ordes de ataque e repregamento, mentres a *buccina marcaba os cambios de garda). O *lituus era un instrumento de vento de corpo recto e campá *curvada cara arriba, de orixe *etrusco. Probablemente deu lugar ao instrumento chamado *karnyx, no que en instrumento se dispuña non cara a adiante, senón cara arriba, substituíndo a campá por unha cabeza de animal coa boca aberta tallada.
@@ -512,25 +338,14 @@ Autores destacados deste xénero foron *Catulo (co seu *Carmina) e Horacio (odas
 Desde o punto de vista dos escritos, os máis característicos son os de *Arístides *Quintilianus, con interese cara á formación a través da música. Tamén é necesario mencionar ao historiador *Seudo *Plutarco (48-123 d.*C.,), que estudou en Atenas e viviu en Alexandría e Roma, onde foi distinguido polo emperador *Trajano. No seu tratado *Moralia inclúese o estudo titulado De *Musica. Claudio *Ptolomeo (90-160 d.*C.), en Alexandría, tratou un punto de vista máis práctico, como afondamento no cálculo *interválico *pitagórico. Outro destacado investigador neste campo é *Dydimos de Alexandría (cara ao 30 a.*C.)
 
 
-Debido á crise económica e á presión fronteiriza dos pobos bárbaros, a música viu diminuída a súa importancia ao longo dos séculos *II e *III d. *C. No ano 313 o emperador Constantino deu un importante xiro á política de persecucións que os cristiáns habían soportado anteriormente (especialmente a decretada por *Diocleciano no 303). Coa promulgación do Edicto de Milán todas as relixións pasaban a ter igual importancia, aínda que nesta medida ocultábase unha idea de outorgar maior importancia á relixión cristiá con vistas a
-
-
-13
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
-producir a unificación de todo o Imperio. No ano 325, e con idea de finalizar coa herexía *arriana, convócase o Concilio de *Nicea.
+Debido á crise económica e á presión fronteiriza dos pobos bárbaros, a música viu diminuída a súa importancia ao longo dos séculos *II e *III d. *C. No ano 313 o emperador Constantino deu un importante xiro á política de persecucións que os cristiáns habían soportado anteriormente (especialmente a decretada por *Diocleciano no 303). Coa promulgación do Edicto de Milán todas as relixións pasaban a ter igual importancia, aínda que nesta medida ocultábase unha idea de outorgar maior importancia á relixión cristiá con vistas a producir a unificación de todo o Imperio. No ano 325, e con idea de finalizar coa herexía *arriana, convócase o Concilio de *Nicea.
 
 
 A través de Roma os conceptos musicais gregos (así como os conceptos filosóficos, caracterizándose a Alta Idade Media polo pensamento *neoplatónico, e a Baixa Idade Media polo pensamento *neoaristotélico) chegaron ata os nosos días.
 
+### 3. A música cristiá primitiva.
 
-3. A música cristiá primitiva.
-
-
-3.1. A igrexa cristiá inicial.
+#### 3.1. A igrexa cristiá inicial.
 
 
 Resulta enormemente difícil coñecer os elementos e influencias que a música cristiá recibiu no século *II e *III. Con todo si coñecemos o rexeitamento aos instrumentos musicais, á concepción da música como pracer e a conseguinte condena dos espectáculos. É de supor unha influencia dos anteriores elementos musicais pagáns e xudeus, xa que os primeiros cristiáns pertencían a estes pobos, e por iso achegaron a súa música e os elementos, en xeral, das súas celebracións.
@@ -538,8 +353,7 @@ Resulta enormemente difícil coñecer os elementos e influencias que a música c
 
 Aínda que orixinalmente o idioma da liturxia cristiá foi o grego, ponte entre Oriente e Occidente, a partir do apoio imperial romano que se produce desde o século *IV adoptouse, de maneira definitiva, o latín.
 
-
-A) Influencia xudaica.
+##### A) Influencia xudaica.
 
 
 A práctica relixiosa xudía mostrábase en dous lugares diferentes: o templo e a sinagoga. No templo realizábase a adoración pública, participando na execución musical os *levitas, que entoaban os *salmos en coro. Existía algún tipo de acompañamento rudimentario realizado con instrumentos de corda e frautas, estas últimas similares ao *aulos.
@@ -547,8 +361,7 @@ A práctica relixiosa xudía mostrábase en dous lugares diferentes: o templo e 
 
 A sinagoga é o centro de lectura das Escrituras así como das súas explicacións e comentarios. Non existe acompañamento instrumental, nin no canto de *salmos nin na *cantilación; este defínese como un recitado a determinada altura con escasas variacións *melódicas de lecturas ou pregarias. Os xudeus orientais desenvolveron un tipo de canto baseado nun método *responsorial (dun coro a un solista) e *antifonal (dunha sección a outra, dividindo entre homes e mulleres).
 
-
-*B) Canto sirio.
+##### *B) Canto sirio.
 
 
 Os cantos da liturxia siria parten dunha tradición oral orixinal, polo que non temos elementos fiables na actualidade da súa práctica; quizais se conserven elementos primitivos no actual. O canto sirio provén do palestino; por esta zona, e debido á proximidade xeográfica, estendeuse rapidamente o cristianismo. Por outra banda, a liturxia siria inflúe de maneira determinante na *bizantina e *armenia.
@@ -562,20 +375,10 @@ A liturxia fundamentábase na *entonación de himnos. Neste terreo é necesario 
 
 Do mesmo xeito que na liturxia *bizantina, o canto sirio estrutúrase en sistemas de ordenación de oito modos (*oktoechoi).
 
-
-*C) Canto de *Bizancio.
-
-
-A máis importante influencia de *Bizancio é a interpretación de himnos. Os himnos interpretados podían revestir distintas posibilidades, tales como a elaboración poética dun texto bíblico
+##### *C) Canto de *Bizancio.
 
 
-14
-Apuntamentos do Tema 2. Historia da música *I – Conservatorio Superior de Música de Vigo – *Prof. Dr. Javier Xurado
-
-
-
-
-(método que recibía o nome de *kontakion ), unha resposta de nova composición *intercalada entre os de *versículos dos versos dos *salmos bíblicos (*troparion), ou resposta máis elaborada (*stichera).
+A máis importante influencia de *Bizancio é a interpretación de himnos. Os himnos interpretados podían revestir distintas posibilidades, tales como a elaboración poética dun texto bíblico (método que recibía o nome de *kontakion ), unha resposta de nova composición *intercalada entre os de *versículos dos versos dos *salmos bíblicos (*troparion), ou resposta máis elaborada (*stichera).
 
 
 O *kanon estaba constituído por seccións de nóveos cánticos ou odas bíblicas, como varias estrofas (*troparia) de igual melodía e distinta letra. Todos os cantos compúñanse a partir da *centonización, isto é, o recoller unha serie de fragmentos doutros cantos e unificalos nun novo, colocándoos ao principio, no centro ou cara ao final. Con todo, ignórase en base a que eran escollidos eses breves motivos *preexistentes, así como quen eran os responsables da elección e localización dos fragmentos para constituír o novo. O mesmo podemos afirmar dos textos aplicados ás melodías creadas.
