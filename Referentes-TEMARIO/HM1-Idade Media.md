@@ -10,11 +10,11 @@ Material complementario
 
 <!--Visto 18-1-22-->
 
-O nacemento da canción profana en lingua vernácula (non en latín) asóciase normalmente co movemento trovadoresco, que floreceu no sur de Francia nos séculos XII e XIII. Nesta época, nas cortes aristocráticas de Aquitania e zonas próximas (incluídas Cataluña e o norte de Italia) difundiuse un tipo de canción que alcanzou un gran éxito como forma de lecer; os nobres mantiñan nos seus cortes *trobadores* que compuñan as cancións e *cantadores* que as interpretaban; con frecuencia ambas as facetas realizábaas a mesma persoa, creándose así un grupo profesionalizado de músicos cortesáns; era tamén habitual que os propios nobres, tanto homes como mulleres, fosen trobadores, é dicir, que compuxesen cancións; aínda que a interpretación sempre estaba a cargo dos cantadores.
+O nacemento da canción profana en lingua vernácula (non en latín) asóciase normalmente co movemento trovadoresco, que floreceu no sur de Francia nos séculos XII e XIII. Nesta época, nas cortes aristocráticas de Aquitania e zonas próximas (incluídas Cataluña e o norte de Italia) difundiuse un tipo de canción que alcanzou un gran éxito como forma de lecer; os nobres mantiñan nas suas cortes *trobadores* que compuñan as cancións e *cantadores* que as interpretaban; con frecuencia ambas as facetas realizábaas a mesma persoa, creándose así un grupo profesionalizado de músicos cortesáns; era tamén habitual que os propios nobres, tanto homes como mulleres, fosen trobadores, é dicir, que compuxesen cancións; aínda que a interpretación sempre estaba a cargo dos cantadores.
 
 Os trobadores compuñan o texto e a música das súas cancións axustándose a unha serie de xéneros musicais, pero buscando a orixinalidade na combinación de recursos poéticos e musicais. As súas cancións consérvanse en varios manuscritos, en xeral bastante tardíos (da segunda metade do século XIII). Coñecemos os nomes de máis de catrocentos trobadores e consérvanse os textos dunhas 2500 cancións; con todo, só coñecemos as melodías dunhas 250 cancións de aproximadamente corenta trobadores. Os textos están escritos en lingua occitana ou provenzal, coñecida entón como *langue d’oc* para distinguila da *langue d’oil*, o francés do norte.
 
-As cancións máis antigas corresponden a Guilhem **de Peitieu** (Guillermo IX de Aquitania), duque de Aquitania, que viviu entre finais do século XI e comezos do XII. O movemento trovadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia a mediados deste último século.
+As cancións máis antigas corresponden a **Guilhem de Peitieu** (Guillermo IX de Aquitania), duque de Aquitania, que viviu entre finais do século XI e comezos do XII. O movemento trovadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia a mediados deste último século.
 
 ##### O amor cortés
 
@@ -26,7 +26,7 @@ O tema principal das cancións trovadorescas é o *amor cortés*.  Vexamos en qu
 - Esta relación evoluciona desde o rexeitamento inicial da dama ata a unión amorosa plena, pasando por unha serie de etapas.
 - Ademais do trobador e a dama (ou a trobadora e cabaleiro) adoita aparecer o esposo celoso *gilós*.
 
-Tamén é frecuente,  sí como os amigos dos namorados, que facilitan os encontros, e os *lauzengiers* ou lisonjeros, que espían aos namorados para notificar os seus encontros ao esposo e dese modo escalar postos na corte. As cancións amorosas poden así expor o amor en todos os seus aspectos: o amor non correspondido, o amor feliz, o amor clandestino…
+Ademáis destes tres persoaxes principais, é frecuente que aparezan os amigos dos namorados, que facilitan os encontros, e os *lauzengiers* ou lisonjeros, que espían aos namorados para notificar os seus encontros ao esposo e dese modo escalar postos na corte. As cancións amorosas poden así expor o amor en todos os seus aspectos: o amor non correspondido, o amor feliz, o amor clandestino…
 
 ##### Forma musical
 
