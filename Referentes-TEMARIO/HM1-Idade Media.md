@@ -6,7 +6,7 @@ Material complementario
 
 ## A monodia profana medieval
 
-### O movemento trovadoresco
+### O movemento *trovadoresco*
 
 <!--Visto 18-1-22-->
 
@@ -16,7 +16,7 @@ Os trobadores compuñan o texto e a música das súas cancións axustándose a u
 
 As cancións máis antigas corresponden a **Guilhem de Peitieu** (Guillermo IX de Aquitania), duque de Aquitania, que viviu entre finais do século XI e comezos do XII. O movemento trovadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia a mediados deste último século.
 
-##### O amor cortés
+#### A temática *trovadoresca*: O amor cortés
 
 <!--18-1-22-->
 
@@ -28,51 +28,45 @@ O tema principal das cancións trovadorescas é o *amor cortés*.  Vexamos en qu
 
 Ademáis destes tres persoaxes principais, é frecuente que aparezan os amigos dos namorados, que facilitan os encontros, e os *lauzengiers* ou lisonjeros, que espían aos namorados para notificar os seus encontros ao esposo e dese modo escalar postos na corte. As cancións amorosas poden así expor o amor en todos os seus aspectos: o amor non correspondido, o amor feliz, o amor clandestino…
 
-##### Forma musical
+#### Forma musical da música *trovadoresca*
 
 <!--18-1-22-->
 
-A forma é sempre a **canción estrófica**: o texto divídese en varias estrofas, habitualmente de sete ou oito versos, que utilizan un mesmo esquema métrico e cántanse coa mesma melodía; unha estrofa final máis breve, a *tornada*, repite a estrutura dos últimos versos da estrofa e cántase coa melodía destes. As rimas poden ser as mesmas en todo o texto ou variar de estrofa en estrofa. A melodía divide habitualmente a estrofa en dúas seccións, con frecuencia repetindo a primeira melodía, cunha estrutura **AAB**, coñecida como «forma *bar*», dunha palabra alemá que significa ‘canción’. O máis habitual é que a sección A aplíquese aos dous primeiros versos e repítase nos dous seguintes, mentres o resto da estrofa constitúe a sección B. Por suposto, este esquema non é único e o mérito dun trobador estaba en saber atopar unha correlación orixinal entre estrutura poética e musical.
+A forma é sempre a **canción estrófica**: que consiste en dividir o texto en varias estrofas (de sete ou oito versos), seguindo o mesmo esquema métrico coa mesma melodía; unha estrofa final máis breve (a *tornada*), repite a estrutura e melodía dos últimos versos da estrofa. 
 
-##### Características musicais
+- As rimas poden ser as mesmas en todo o texto ou variar de estrofa en estrofa.  
+- A melodía divide a estrofa en dúas seccións, repetindo con frecuencia a primeira melodía. Obedece á estrutura **AAB**, coñecida como «forma *bar*», que procede dunha palabra alemá que significa "canción". 
+
+O mérito dun trobador estaba en saber atopar unha correlación orixinal entre estrutura poética e musical.
+
+#### Características musicais
 
 <!--18-1-22-->
+As principais características que definen o estilo das cancións trovadorescas son:  
 
-As principais características das melodías trovadorescas son estas:
+- **melodía** basada no **mesmo sistema modal que as gregorianas**, pero con algunhas diferenzas: non existe unha nota tenor e o movemento melódico é máis libre
+- **ámbito** habitualmente de cuarta ou quinta (incluso oitavas): o máis habitual é que cada sección da estrofa se organice sobre un ámbito diferente e o ámbito total abarque ao redor dunha oitava
+- **estilo** de canto silábico, aínda que tamén hai melodías moi adornadas
+- **ritmo** máis compasado e regular que no canto gregoriano
+- **interpretación** acompañada con instrumentos en textura heterofónica
 
-- As melodías utilizan o mesmo sistema modal que as gregorianas, pero con algunhas diferenzas: non existe unha nota tenor e o movemento melódico é máis libre.
-- Os ámbitos son moi diversos, e poden abarcar desde unha cuarta ou unha quinta ata unha dobre oitava; o máis habitual é que cada sección da estrofa organícese sobre un ámbito diferente, e o total abarque ao redor dunha oitava.
-- O estilo de canto tende ao silábico, aínda que tamén hai melodías moi adornadas.
-- O ritmo era probablemente máis compasado e regular que no canto gregoriano.
-- A interpretación acompañábase con instrumentos, seguramente en textura heterofónica.
+#### Xéneros de cancións
 
-##### Xéneros de cancións
+Podemos clasificar as cancións trovadorescas nos seguintes xéneros:
 
-No seu momento de esplendor, as cancións trovadorescas clasificábanse nos seguintes xéneros:
+- *Chanson* (*Cansó* ou **Canción*): a propia canción de amor trovadoresco que servirá de modelo a todas as demais.
 
-- *Cansó*:
+- *Alba* (deriva da Chanson): trata a dor dos amantes ao teren que separarse cando abre do día para evitar que os sorprendan despois de pasar a noite xuntos. Se normalmente o amencer representa, ou é considerado unha sinal de alegría (primeiros raios de sol, cantos de paxaros, etc.) agora é considerado como sinal de tristeza.
 
-  é a canción amorosa, e constitúe o modelo de todas as demais. Forman o conxunto principal da canción trovadoresca.
+- *Pastorela*: de temática narrativa e dramática máis que lírica, trata o encontro entre un cabaleiro e unha moza (pastora) no campo. A intención do cabaleiro é conseguir namorala rapaza; establécese entre ambos, un diálogo que remata (normalmente) co rexeitamento da moza malia que algunha vez consigue namorala.
 
-- *Alba*:
+- *Sirventés*: imita a métrica da *Chansón* e a temática principal pode política, social, sarítica ou moral. Cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
 
-  é un subgénero de cansouna. Trata a dor dos amantes ao ter que separarse ao amencer para evitar que os sorprendan, tras pasar a noite xuntos. Os avisos do amencer (raios de sol, cantos de paxaros), que habitualmente son signos de alegría, convértense aquí en signos de tristeza.
+- *Tensó*: consiste nun debate entre dous trobadores; un deles fixa a forma da estrofa e a melodía, e o outro ten que continuar sobre o mesmo esquema.
 
-- *Pastorela*:
+- *Planh* (Lamentación): canto pola morte dun personaxe, ou unha situación desgraciada.
 
-  relacionada con cansouna, pero de carácter narrativo e dramático máis que lírico. Conta habitualmente o encontro dun cabaleiro cunha pastora no campo; o cabaleiro requírea de amores e establécese un diálogo que termina co rexeitamento da pastora ao cabaleiro ou ben coa aceptación da relación amorosa.
-
-- *Sirventés*:
-
-  trata temas políticos, satíricos ou morais. Normalmente imitaban a estrutura métrica dunha *chanson* e cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
-
-- *Tensó*:
-
-  é un debate entre dous trobadores; un deles fixa a forma da estrofa e a melodía, e o outro ten que continuar sobre o mesmo esquema.
-
-- *Planh*:
-
-  pranto pola morte dun personaxe, ou por unha situación desgraciada.
+#### Principais trobadores
 
 Entre os trobadores destacados cóntanse **Bernart de Ventadorn**, **Marcabrú**, **Jaufré Rudel** ou **Beatriz de Dia**, a única trobadora da que conservamos unha melodía. Entre os trobadores cataláns —que compuñan os seus textos en lingua occitana— destacan **Cerverí de Xirona** e **Guillem de Berguedà**. Considérase o último trobador a Guiraut **Riquier**, que traballou na corte de Alfonso X o Sabio.
 
