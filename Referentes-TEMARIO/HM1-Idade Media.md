@@ -16,7 +16,7 @@ Os trobadores compuñan o texto e a música das súas cancións axustándose a u
 
 As cancións máis antigas corresponden a **Guilhem de Peitieu** (Guillermo IX de Aquitania), duque de Aquitania, que viviu entre finais do século XI e comezos do XII. O movemento trovadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia a mediados deste último século.
 
-#### A temática *trovadoresca*: O amor cortés
+#### A temática *trovadoresca*. O amor cortés
 
 <!--18-1-22-->
 
@@ -68,11 +68,21 @@ Podemos clasificar as cancións trovadorescas nos seguintes xéneros:
 
 #### Principais trobadores
 
-Entre os trobadores destacados cóntanse **Bernart de Ventadorn**, **Marcabrú**, **Jaufré Rudel** ou **Beatriz de Dia**, a única trobadora da que conservamos unha melodía. Entre os trobadores cataláns —que compuñan os seus textos en lingua occitana— destacan **Cerverí de Xirona** e **Guillem de Berguedà**. Considérase o último trobador a Guiraut **Riquier**, que traballou na corte de Alfonso X o Sabio.
+Entre os máis destacados, atopamos trobadores como [**Bernart de Ventadorn**][bio:Ventadorn], [**Marcabrú**][bio:Marcabrú], [**Jaufré Rudel**][bio:Rudel] ou a condesa [**Beatriz de Dia**][bio:Beatriz de Dia], a única trobadora da que conservamos unha melodía. 
+ 
+- Exercicio.- Escoita as audicións propostas no caderno de exercicios e completa a análise, seguindo o modelo que se propón de exemplo no caderno.
+
+<!--Enlaces biografías-->
+[bio:Ventadorn]: https://es.wikipedia.org/wiki/Bernart_de_Ventadorn "Enlace á wikipedia"
+[bio:Marcabrú]: https://es.wikipedia.org/wiki/Marcabr%C3%BA "Enlace á wikipedia"
+[bio:Rudel]: https://es.wikipedia.org/wiki/Jaufr%C3%A9_Rudel "Enlace á wikipedia"
+[bio:Beatriz de Dia]: https://es.wikipedia.org/wiki/Beatriz_de_D%C3%ADa "Enlace á wikipedia"
+
+<!--Audicións propostas para o tema-->
 
 Os manuscritos que conservan os textos e melodías dos trobadores adoitan incluír breves relatos biográficos de cada un, máis ou menos novelados, que se coñecen como *vidas*, así como miniaturas con supostos retratos dos biografiados.
 
-![Retratos de algunos trovadores del siglo XII en manuscritos     del XIII](https://www.franciscocallejo.es/hm4/monodiaprofana/retratos-trovadores.png)Retratos dalgúns trobadores do século XII en manuscritos do XIII
+![Retratos de algunos trovadores del siglo XII en manuscritos del XIII](https://www.franciscocallejo.es/hm4/monodiaprofana/retratos-trovadores.png) Retratos dalgúns trobadores do século XII en manuscritos do XIII
 
 #### Expansión do movemento trovadoresco: os troveros
 
