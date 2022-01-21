@@ -50,27 +50,27 @@ As principais características das melodías trovadorescas son estas:
 
 No seu momento de esplendor, as cancións trovadorescas clasificábanse nos seguintes xéneros:
 
-- Cansou:
+- *Cansó*:
 
   é a canción amorosa, e constitúe o modelo de todas as demais. Forman o conxunto principal da canción trovadoresca.
 
-- Alba:
+- *Alba*:
 
   é un subgénero de cansouna. Trata a dor dos amantes ao ter que separarse ao amencer para evitar que os sorprendan, tras pasar a noite xuntos. Os avisos do amencer (raios de sol, cantos de paxaros), que habitualmente son signos de alegría, convértense aquí en signos de tristeza.
 
-- Pastorela:
+- *Pastorela*:
 
   relacionada con cansouna, pero de carácter narrativo e dramático máis que lírico. Conta habitualmente o encontro dun cabaleiro cunha pastora no campo; o cabaleiro requírea de amores e establécese un diálogo que termina co rexeitamento da pastora ao cabaleiro ou ben coa aceptación da relación amorosa.
 
-- Sirventés:
+- *Sirventés*:
 
-  trata temas políticos, satíricos ou morais. Normalmente imitaban a estrutura métrica dunha *cansou* e cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
+  trata temas políticos, satíricos ou morais. Normalmente imitaban a estrutura métrica dunha *chanson* e cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
 
-- Tensou:
+- *Tensó*:
 
   é un debate entre dous trobadores; un deles fixa a forma da estrofa e a melodía, e o outro ten que continuar sobre o mesmo esquema.
 
-- Planh:
+- *Planh*:
 
   pranto pola morte dun personaxe, ou por unha situación desgraciada.
 
