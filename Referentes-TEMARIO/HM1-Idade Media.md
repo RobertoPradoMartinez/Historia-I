@@ -30,7 +30,9 @@ Ademáis destes tres persoaxes principais, é frecuente que aparezan os amigos d
 
 #### Forma musical da música *trovadoresca*
 
-<!--18-1-22-->
+<!--18-1-22--> 4ºA
+
+<!--21-1-22--> 4ºB
 
 A forma é sempre a **canción estrófica**: que consiste en dividir o texto en varias estrofas (de sete ou oito versos), seguindo o mesmo esquema métrico coa mesma melodía; unha estrofa final máis breve (a *tornada*), repite a estrutura e melodía dos últimos versos da estrofa. 
 
@@ -60,7 +62,7 @@ Podemos clasificar as cancións trovadorescas nos seguintes xéneros:
 
 - *Pastorela*: de temática narrativa e dramática máis que lírica, trata o encontro entre un cabaleiro e unha moza (pastora) no campo. A intención do cabaleiro é conseguir namorala rapaza; establécese entre ambos, un diálogo que remata (normalmente) co rexeitamento da moza malia que algunha vez consigue namorala.
 
-- *Sirventés*: imita a métrica da *Chansón* e a temática principal pode política, social, sarítica ou moral. Cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
+- *Sirventés*: imita a métrica da *Chanson* e a temática principal pode política, social, sarítica ou moral. Cantábanse coa súa melodía, é dicir, utilizando o recurso da parodia.
 
 - *Tensó*: consiste nun debate entre dous trobadores; un deles fixa a forma da estrofa e a melodía, e o outro ten que continuar sobre o mesmo esquema.
 
@@ -69,7 +71,7 @@ Podemos clasificar as cancións trovadorescas nos seguintes xéneros:
 #### Principais trobadores
 
 Entre os máis destacados, atopamos trobadores como [**Bernart de Ventadorn**][bio:Ventadorn], [**Marcabrú**][bio:Marcabrú], [**Jaufré Rudel**][bio:Rudel] ou a condesa [**Beatriz de Dia**][bio:Beatriz de Dia], a única trobadora da que conservamos unha melodía. 
- 
+
 - Exercicio.- Escoita as audicións propostas no caderno de exercicios e completa a análise, seguindo o modelo que se propón de exemplo no caderno.
 
 <!--Enlaces biografías-->
