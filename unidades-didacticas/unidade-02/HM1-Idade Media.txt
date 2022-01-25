@@ -1,0 +1,67 @@
+Tema 6
+
+A idade media
+
+El concepto —y la expresión— de «Edad Media» fue creado por los humanistas europeos del Renacimiento para referirse al período que separaba la Antigüedad clásica de la Modernidad que ellos mismos representaban. Su admiración extrema por el arte y el pensamiento de los antiguos griegos y romanos y su deseo de recuperarlos en una edad moderna los llevaron al desprecio por toda la etapa intermedia entre ambos mundos, ignorando o rechazando todos los desarrollos artísticos, científicos y filosóficos de esa época. Sería mucho más tarde, ya en el siglo xix, cuando los artistas y pensadores de Europa rescatarían esa «Edad Media» y la convertirían en un período mítico de ideales caballerescos, amorosos y religiosos, en un enfoque tan erróneo como el de sus predecesores. 
+
+6.1. Desarrollo histórico 
+
+Entre los siglos iv y v dc se produce lo que se ha llamado «caída del Imperio Romano», es decir, el paulatino desmantelamiento de las estructuras administrativas, políticas, militares, etc., del Imperio y la disgregación de los territorios occidentales en diversos reinos goberna dos por élites de origen germánico (francos, ostrogodos, visigodos…). El proceso comienza con la decadencia de la propia ciudad de Roma, que se abandona como capital en beneficio de la recién construida Constantinopla, en la zona oriental del Imperio, a mediados del siglo iv; la zona occidental, autónoma desde fines del mismo siglo, acabará dividida en diversos reinos go bernados por élites militares y políticas de origen germánico aliados con las élites económicas romanas. 
+
+Este proceso de descomposición política es simultáneo a una ruralización progresiva y un despoblamiento de las ciudades, que tendrá graves consecuencias en la vida cultural y mu sical de Occidente. La población abandona las ciudades desplazándose al campo, donde hay mayores oportunidades; los centros de poder se trasladarán también al campo, para estar en contacto directo con la fuente de riqueza: los gobernantes se establecen en castillos aislados y la Iglesia, que desde comienzos del siglo iv se había ido convirtiendo en una institución del Imperio, centrará su actividad en los monasterio, centros de gran actividad económica y política, pero también cultural: durante varios siglos prácticamente toda la actividad cultural —y también musical— de Occidente se desarrollará fundamentalmente en los monasterios; en ellos se compondrá buena parte de la música medieval —especialmente la religiosa, pero no solo—; en ellos también se escribirán los primeros libros de teoría musical y se desarrollará la notación musical. 
+Al mismo tiempo que esto sucedía en Occidente, el Imperio continuaba en Oriente con su capital en Constantinopla; como el emplazamiento de esta ciudad correspondía a la antigua ciudad griega de Bizancio, conocemos esta etapa del Imperio Romano como Imperio Bizantino. A partir del siglo vii hay un tercer ámbito cultural, político y religioso: el del Islam, fundado por Muhammad (Mahoma) a comienzos del siglo, y que se expandió tras su muerte, extendiéndose a costa del Imperio por las zonas de Siria y Egipto, y también por todo el norte de África y la Península Ibérica, que será conocida como Al-Ándalus. 
+A partir del siglo xi comienza en Occidente una nueva etapa —a la que se denomina Ba ja Edad Media, frente a la Alta Edad Media anterior— que se caracteriza por una vuelta a lo urbano: las ciudades crecen; las actividades económicas urbanas, como el comercio y la indus tria, empiezan a tener más importancia; los gobernantes se instalan en palacios en ellas; las catedrales y otros centros religiosos urbanos toman el relevo a los monasterios; por último, empiezan a crearse centros de educación superior —las universidades— que determinarán la vida cultural, filosófica y científica desde entonces. 
+En esta segunda etapa aparecen nuevas formas y técnicas musicales, fundamentalmente polifónicas, que convivirán con las creadas en la etapa anterior, mayoritariamente monódicas. Todas ellas se basan en un sistema musical codificado a partir del siglo ix. 
+
+6.2. El sistema modal medieval 
+
+Los primeros libros de teoría musical del Occidente europeo corresponden al siglo ix; entre ellos destacan los dos tratados anónimos titulados Musica enchiriadis («Manual de música») y Scolica enchiriadis («Comentarios al manual»). Son también importantes los tratados escritos por el monje Hucbaldo en el mismo siglo. Desde entonces se desarrolla una importante co rriente de literatura técnica musical que explica el sistema sobre el que se componía la música monódica de la Edad Media. 
+
+Este sistema se basaba en la modalidad, y tomaba como referencia los intervalos básicos de quinta y cuarta, así como la octava. Los teóricos medievales partían de las distintas especies de estos intervalos, diferenciadas por la posición que ocupaba el semitono, como se puede ver en el cuadro 6.1. 
+Las cuatro especies de la quinta son la base de los cuatro modos básicos de la música me dieval, que fueron denominados con los ordinales griegos (latinizados) protus, deuterus, tritus y tetrardus (es decir, «primero», «segundo», «tercero» y «cuarto»); algunos teóricos aplicaron a estos modos nombres tomados de la antigua teoría musical griega, aunque con significados diferentes: dórico, frigio, lidio y mixolidio. Los modos se formaban combinando cada especie de quinta con una de cuarta, bien extendiendo la quinta hacia el agudo (modos auténticos), bien hacia el grave (modos plagales); a los nombres griegos de estos últimos se les anteponía el prefijo hipo-. El sistema completo quedaba entonces de la forma que aparece en el cuadro 6.2. En la práctica musical, lo habitual era referirse a los modos utilizando los números del 1 al 8, pero en los libros teóricos se utilizan alternativamente las dos denominaciones indicadas (la eclesiástica y la griega). Las melodías solían abarcar en torno a una octava; una de las notas era la principal del modo y en ella terminaban las melodías, por lo que era denominada final; otras notas servían como ejes melódicos o para las cadencias; en el canto gregoriano una de estas notas adquiría una importancia especial y era denominada tenor («soporte» en latín). 
+Así pues, lo que determinaba el modo en el sistema medieval eran los siguientes elementos: 
+
+a) Nota final, que determinaba en cuál de los cuatro modos básicos estaba la melodía.
+b) Ámbito, por encima de la final en los modos auténticos y en torno a ella en los plagales.
+
+(Cuadro 6.1: Especies de la quinta y la cuarta)
+(Cuadro 6.2: El sistema modal medieval)
+(Figura 6.1: El sistema completo de la música medieval)
+
+c) Nota tenor y otras que pudieran servir para las cadencias. 
+d) Uso de ciertos giros melódicos característicos (incluidas las cadencias). 
+
+Las melodías solían utilizar una interválica sencilla, por grados conjuntos o saltos de tercera; solo ocasionalmente aparecían saltos de quinta o de cuarta, habitualmente en los comienzos de frase. El estilo de una pieza venía determinado, además de por el modo, por otros elementos, como la relación entre melodía y texto, que daba lugar a dos estilos principales: 
+a) Estilo silábico, en que a cada sílaba del texto le corresponde una nota o a lo sumo dos. 
+b) Estilo ornamentado, en que algunas sílabas del texto se alargan en cadenas de notas denominadas melismas. 
+Aunque cada modo destaca ciertas notas y tiene un ámbito determinado, debe tenerse en cuenta que no se trata de alturas reales, sino de intervalos; es decir, cualquier modo podía cantarse transportado a cualquier altura siempre que se respetara la distribución de los intervalos.
+
+En principio, el sistema completo abarcaba dos octavas, empezando y terminando en la, y se utilizaron las letras del alfabeto latino para designar estas notas en orden ascendente: A=la, B=si, C=do… Con el tiempo, el sistema se fue ampliando hasta abarcar algo más de dos octavas, diferenciadas por el uso de mayúsculas y minúsculas o por la duplicación de las letras. El si era una nota de afinación variable: para evitar el tritono con el fa se podía rebajar medio tono, convirtiéndolo así en un «si suave» (en latín b molle), que se escribía con una b redonda para 
+diferenciarlo del «si duro» (b durum) que se escribía con una �� cuadrada (b quadratum); estos 
+signos son los antecedentes de los actuales ♭♮♯. 
+
+El sistema completo puede verse en la Figura 6.1. 
+
+En el siglo xi, el monje y maestro de coro italiano Guido d’Arezzo, para facilitar el apren dizaje de las melodías, que seguían memorizándose, inventó un sistema que asociaba deter minadas sílabas con notas y sus combinaciones con intervalos; para ello utilizó seis sílabas sacadas del texto de un himno religioso: ut re mi fa sol la; en esta sucesión de seis sílabas todos los intervalos eran de un tono excepto el intervalo central mi-fa, que era de un semitono. La serie podía comenzar en la nota do, en la nota fa con el si «suave» y en la nota sol con el si «duro», resultando así los tres tipos de hexacordos que se muestran en la Figura 6.2a. 
+Puesto que los hexacordos podían comenzar en notas diferentes, en melodías más amplias se utilizaba un sistema de paso de un hexacordo a otro llamado solmisación. Cada nota del sistema podía así entonarse con varias sílabas distintas, tal como indica la Figura 6.2b. Esta serie de sílabas acabó formando parte del nombre de la nota, como en Gsolreut o alamire.
+
+(a) Los tres hexacordos(b) Distribución de los hexacordos 
+Figura 6.2: El sistema de hexacordos 
+
+6.3. La notación musical 
+
+6.3.1. La notación 
+
+A comienzos del siglo vii, Isidoro de Sevilla afirmaba en sus Etimologías: «si los sonidos no se retienen en la memoria, se pierden, pues no se pueden escribir». La antigua notación griega se había dejado de utilizar más de tres siglos antes, y hasta unos doscientos años después no aparecería la notación musical occidental. Durante medio milenio, aproximadamente, la música occidental se transmitió de forma oral, con la memoria de los intérpretes como archivo fundamental de las melodías. 
+Durante toda la Edad Media —e incluso después— la música seguiría transmitiéndose oral mente, pero a lo largo del siglo ix, en varios monasterios de Occidente, se desarrollaría un sistema de escritura musical nuevo, que evolucionaría a lo largo de los siglos hasta desembo car en el sistema actual. La razón de este desarrollo fue la implantación del repertorio de canto llamado «gregoriano». Se pretendía, por un lado, unificar la interpretación musical litúrgica en todos los territorios que dependían de la Iglesia de Roma; por otro lado, el repertorio estaba creciendo y era ya excesivo para retenerlo en la memoria. 
+Las notaciones más antiguas utilizaban unos signos llamados neumas que se escribían sobre las líneas del texto que se debía cantar. Estos neumas «dibujaban» el perfil melódico del canto, pero no pretendían reflejar con precisión la melodía, que se aprendía de oído y memorizando (figura 6.3). Este primer sistema de notación presentaba numerosas variantes, dependiendo del lugar concreto (monasterio o región) en que se elaboraba cada manuscrito. Algunas de estas variantes, las llamadas adiastemáticas, se centraban en las cualidades de la interpretación sin atender a la interválica; otras, las llamadas diastemáticas, utilizaban
+32 La Edad Media   Figura 6.3: Notación neumática 
+diversos sistemas (puntos, líneas…) para tratar de indicar la amplitud relativa de los intervalos. En la primera mitad del siglo xi, Guido d’Arezzo reunió varias técnicas que facilitaban la lectura a primera vista y por tanto el aprendizaje de los cantos; las principales características de su propuesta eran las siguientes: 
+— Los neumas se situaban sobre una pauta de líneas paralelas que marcaban la distancia de una tercera, y la longitud de sus trazos indicaba la amplitud del intervalo. 
+— Las notas contiguas a los semitonos se indicaban con líneas de colores específicos: el fa en color rojo, el do en color amarillo. 
+— A la izquierda de esas líneas se escribían letras clave, que indicaban esas mismas notas: la F para el fa y la C para el do. 
+— A la derecha de cada pauta se escribía un pequeño signo, llamado custos, que indicaba la primera nota de la siguiente pauta y facilitaba así la entonación correcta del intervalo. 
+El sistema guidoniano (figura 6.4) tuvo gran éxito y se extendió inmediatamente por to do Occidente, aunque las diversas notaciones neumáticas se siguieren utilizando en algunos lugares incluso hasta el siglo xvi. De la notación guidoniana derivaron otras, como la nota ción alemana de clavo de herradura o la notación cuadrada francesa (figura 6.5), que nació en el siglo xii y que aún se utiliza en los libros de canto gregoriano. Esta última se adaptó posteriormente para las canciones trovadorescas y otros géneros de música profana. A partir del siglo xiii, las nuevas técnicas de la música polifónica plantearon nuevas necesidades de escritura, especialmente en el aspecto rítmico, que harían evolucionar el sistema.
+6.3 La notación musical 33   Figura 6.4: Notación guidoniana 
+  
+Figura 6.5: Notación cuadrada
