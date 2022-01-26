@@ -24,15 +24,38 @@ Nesta segunda etapa aparecen novas formas e técnicas musicais, fundamentalmente
 
 Os primeiros libros de teoría musical do Occidente europeo corresponden ao século IX; entre eles destacan os dous tratados anónimos titulados *Musica enchiriadis* («Manual de música») e *Scolica enchiriadis* («Comentarios ao manual»). Son tamén importantes os tratados escritos polo monxe **Hucbaldo** no mesmo século. Desde entón desenvólvese unha importante corrente de literatura técnica musical que explica o sistema sobre o que se compuña a música monódica da Idade Media.
 
-Este sistema baseábase na **modalidade**, e tomaba como referencia os intervalos básicos de quinta e cuarta, así como a oitava. Os teóricos medievais partían das distintas **especies** destes intervalos, diferenciadas pola posición que ocupaba o semitono, como se pode ver no cadro seguinte:
+#### En que consiste?
 
-![Especies de la quinta y la cuarta](https://www.franciscocallejo.es/hm4/edadmedia/especies.jpg)Especies da quinta e a cuarta
+Este sistema baseábase na **modalidade**, e tomaba como referencia os intervalos básicos de quinta e cuarta, así como a oitava. Os teóricos medievais partían das distintas **especies** destes intervalos, diferenciadas pola posición que ocupaba o semitono, como se pode ver na figura X.
 
-O catro especies da quinta son a base do catro modos básicos da música medieval, que foron denominados cos ordinales gregos (latinizados) *protus*, *deuterus*, *tritus* e *tetrardus* (é dicir, «primeiro», «segundo», «terceiro» e «cuarto»); algúns teóricos aplicaron a estes modos nomees tomados da antiga teoría musical grega, aínda que con significados diferentes: *dórico*, *frigio*, *lido* e *mixolidio*. Os modos formábanse combinando cada especie de quinta cunha de cuarta, ben estendendo a quinta cara ao agudo (modos *auténticos*), ben cara ao grave (modos *plagales*); aos nomes gregos destes últimos antepúñaselles o prefixo *hipo-*. O sistema completo quedaba entón da forma que aparece no seguinte cadro: 
 
-![Sistema modal](https://www.franciscocallejo.es/hm4/edadmedia/sistemaModal.jpg)Sistema modal
 
-Na práctica musical, o habitual era referirse a os modos utilizando os números do 1 ao 8, pero nos libros teóricos utilízanse alternativamente as dúas denominacións indicadas (a eclesiástica e a grega). As melodías adoitaban abarcar ao redor dunha oitava; unha das notas era a principal do modo e nela terminaban as melodías, polo que era denominada *final*; outras notas servían como eixos melódicos ou para as cadencias; no canto gregoriano una destas notas adquiría unha importancia especial e era denominada *tenor* («soporte» en latín).
+![Especies de la quinta y la cuarta](../../Historia-I/figures/ud-03/especies.jpg)
+
+Figura X.- Especies da quinta e a cuarta.
+
+As catro especies da quinta son a base dos catro modos básicos da música medieval: 
+
+1. *protus* («primeiro»)
+2. *deuterus* («segundo»)
+3. *tritus* («terceiro»)
+4. *tetrardus* («cuarto»)
+
+Algúns teóricos, aplicaron os nomes da antiga teoría musical grega (con significado distinto) a estas catro especies da quinta, resultando: *dórico*, *frigio*, *lidio* , *mixolidio*.
+
+#### Como se formaban os modos?
+
+Formábanse combinando cada especie de quinta cunha de cuarta. Segundo a súa colocación ou combinación podemos falar de modos *auténticos* (se a especie de quinta vai despois da de cuarta), ou modos *plagales* (se a especie de cuarta vai antes da especie de quinta). Para diferencialos dos auténticos, os modos *plagales*, antepónselles o prefixo *hipo-* ao nome grego correspondente.
+
+O sistema completo quedaba entón da forma:
+
+![Sistema modal](../../Historia-I/figures/ud-03/sistema-modal.jpg)Figura X.- Sistema modal medieval.
+
+Na práctica, o habitual era referirse aos modos cos números do 1 ao 8; nos tratados teóricos, empregábanse alternativamente tanto a denominación eclesiástica como a grega. 
+
+O **ámbito** da melodía adoitaba abarcar a oitava; unha das notas, era considerada como a nota principal do modo e denominábase *final* (na que remataba a melodía). Outras notas servían como eixos melódicos ou para as cadencias; no canto gregoriano una destas notas adquiría unha importancia especial e era denominada *tenor* («soporte» en latín).
+
+<!--pendiente-->
 
 Así pois, o que determinaba o modo no sistema medieval eran os seguintes elementos:
 
