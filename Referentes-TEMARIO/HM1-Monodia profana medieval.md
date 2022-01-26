@@ -45,7 +45,10 @@ O mérito dun trobador estaba en saber atopar unha correlación orixinal entre e
 
 #### Características musicais
 
-<!--18-1-22-->
+<!--18-1-22-->4ºA
+
+<!--26-2-22-->4ºB
+
 As principais características que definen o estilo das cancións trovadorescas son:  
 
 - **melodía** basada no **mesmo sistema modal que as gregorianas**, pero con algunhas diferenzas: non existe unha nota tenor e o movemento melódico é máis libre
@@ -90,6 +93,8 @@ Os manuscritos que conservan os textos e melodías dos trobadores adoitan inclu�
 
 #### Expansión do movemento trovadoresco: os troveros
 
+<!--26-1-22-->4ºB
+
 Medio século despois da aparición do movemento trovadoresco xorden movementos similares noutros lugares de Europa. No norte de Francia desenvolveuse o movemento dos troveros (*trouvères*) ao comezarse a compor cancións de tipo trovadoresco sobre textos en francés, a chamada *langue d’oil*.
 
 O primeiro trovero do que se ten noticia foi **Chrétien de Troyes**, aínda que non se conserva ningunha das súas cancións. Entre moitos outros, destaca moi especialmente **Thibaut de Champagne**, que foi rei de Navarra e promoveu o cultivo da canción trovera no seu corte de Pamplona. A etiqueta de «último trovero» aplícaselle habitualmente a Adam **de Áchea**, que viviu a finais do século XIII e comezou a composición de cancións polifónicas.
@@ -112,7 +117,7 @@ A composición de cancións narrativas deriva do antigo xénero da *chanson de x
 
 ###### As formas fixas
 
-<!--25-1-22-->4
+<!--25-1-22-->
 
 As cancións derivadas da danza apareceron cara ao final da época trovera, na segunda metade do século XIII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da *chanson*, estas cancións tiñan sempre una mesma estrutura, polo que llas coñece como *formes fixes* (formas fixas). Entre as formas fixas destacan tres:
 
