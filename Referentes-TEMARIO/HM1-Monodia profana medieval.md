@@ -61,7 +61,7 @@ As principais características que definen o estilo das cancións trovadorescas 
 
 Podemos clasificar as cancións trovadorescas nos seguintes xéneros:
 
-- *Chanson* (*Cansó* ou **Canción*): a propia canción de amor trovadoresco que servirá de modelo a todas as demais.
+- *Chanson* (*Cansó* ou *Canción*): a propia canción de amor trovadoresco que servirá de modelo a todas as demais.
 
 - *Alba* (deriva da Chanson): trata a dor dos amantes ao teren que separarse cando abre do día para evitar que os sorprendan despois de pasar a noite xuntos. Se normalmente o amencer representa, ou é considerado unha sinal de alegría (primeiros raios de sol, cantos de paxaros, etc.) agora é considerado como sinal de tristeza.
 
@@ -89,9 +89,11 @@ Entre os máis destacados, atopamos trobadores como [**Bernart de Ventadorn**][b
 
 Os manuscritos que conservan os textos e melodías dos trobadores adoitan incluír breves relatos biográficos de cada un, máis ou menos novelados, que se coñecen como *vidas*, así como miniaturas con supostos retratos dos biografiados.
 
-![Retratos de algunos trovadores del siglo XII en manuscritos del XIII](https://www.franciscocallejo.es/hm4/monodiaprofana/retratos-trovadores.png) Retratos dalgúns trobadores do século XII en manuscritos do XIII
+![Retratos de algunos trovadores del siglo XII en manuscritos del XIII](../../Historia-I/figures/ud-03/retratos-trovadores.png) 
 
-#### Expansión do movemento trovadoresco: os troveros
+Retratos dalgúns trobadores do século XII en manuscritos do XIII
+
+#### Expansión do movemento trovadoresco: os *troveros*
 
 <!--26-1-22-->4ºB
 
@@ -101,17 +103,17 @@ O primeiro trovero do que se ten noticia foi **Chrétien de Troyes**, aínda que
 
 ##### Xéneros
 
-Os troveros da *langue d’oil* cultivaron en xeral os mesmos xéneros de canción que os trobadores en langue *d’oc*. Entre eles, a *chanson*, equivalente de cansouna; a *chanson d’aube* (alba), a *pastourelle* (pastorela) ou o *jeu parti*, versión trovera de tensouna. Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a canción narrativa e a canción de danza.
+Os *troveros* da *langue d’oil* cultivaron en xeral os mesmos xéneros de canción que os trobadores en *langue* *d’oc*. Entre eles, a *chanson*, equivalente de *cansó*; a *chanson d’aube* (alba), a *pastourelle* (pastorela) ou o *jeu parti*, versión trovera de *tensó*. Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a **canción narrativa** e a **canción de danza**.
 
 ###### Cancións narrativas
 
-A composición de cancións narrativas deriva do antigo xénero da *chanson de xeste* (cantar de xesta), cultivado en Francia desde o século X. Dentro deste grupo, destacan dous tipos principais:
+A composición de cancións narrativas deriva do antigo xénero da *chanson de geste* (*cantar de gesta*), cultivado en Francia desde o século X. Dentro deste grupo, destacan dous tipos principais:
 
-- Lai:
+- ***Lai***:
 
   trátase de extensas cancións narrativas, divididas en estrofas de métrica e melodía diferentes; cada estrofa adoita estar dividida en dúas ou tres partes con esquema métrico similar que se cantaban por tanto coa mesma melodía, dando lugar a un esquema parecido ao que aparece nas secuencias da época ou nalgunhas cancións profanas en latín (AA BB CC…). O *lai* era unha forma culta e complexa de canción, de tradición anterior aos troveros e que seguiu cultivándose ata finais do século XIV, moito despois da extinción do movemento trovero.
 
-- Chanson de toile:
+- ***Chanson de toile:***
 
   estas cancións presentaban sempre unha escena en que unha muller soa, tecendo, lendo ou paseando nun xardín, laméntase da ausencia do seu namorado —case sempre por estar na guerra—. O queixume da dama interrómpeo un mensaxeiro que adoita traer a noticia da morte do cabaleiro, aínda que ás veces o final é feliz, coa noticia do seu regreso ou mesmo coa aparición do propio namorado. Formalmente, a *chanson de toile* cantábase cunha fórmula melódica dun ou dous versos que se repetía constantemente, ás veces alternando cun refrán. Esta forma relaciónase moi directamente coa *chanson de xeste*.
 
