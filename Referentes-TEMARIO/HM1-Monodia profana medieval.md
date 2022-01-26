@@ -1,4 +1,6 @@
-# Historia da música 4.º
+# Historia da música 1
+
+4º CURSO DE GRAO PROFESIONAL
 
 [Páxina principal](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/../index.php)[Páxina da materia](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php)[Temario](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php?page=Temario4.html)
 
@@ -109,6 +111,8 @@ A composición de cancións narrativas deriva do antigo xénero da *chanson de x
   estas cancións presentaban sempre unha escena en que unha muller soa, tecendo, lendo ou paseando nun xardín, laméntase da ausencia do seu namorado —case sempre por estar na guerra—. O queixume da dama interrómpeo un mensaxeiro que adoita traer a noticia da morte do cabaleiro, aínda que ás veces o final é feliz, coa noticia do seu regreso ou mesmo coa aparición do propio namorado. Formalmente, a *chanson de toile* cantábase cunha fórmula melódica dun ou dous versos que se repetía constantemente, ás veces alternando cun refrán. Esta forma relaciónase moi directamente coa *chanson de xeste*.
 
 ###### As formas fixas
+
+<!--25-1-22-->4
 
 As cancións derivadas da danza apareceron cara ao final da época trovera, na segunda metade do século XIII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da *chanson*, estas cancións tiñan sempre una mesma estrutura, polo que llas coñece como *formes fixes* (formas fixas). Entre as formas fixas destacan tres:
 
