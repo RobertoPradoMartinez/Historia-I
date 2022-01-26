@@ -64,10 +64,10 @@ Así pois, o que determinaba o modo no sistema medieval eran os seguintes elemen
 3. Nota **tenor** e outras que puidesen servir para as cadencias.
 4. Uso de certos **xiros melódicos** característicos (incluídas as cadencias).
 
-As melodías adoitaban utilizar unha interválica sinxela, por graos conxuntos ou saltos de terceira; só ocasionalmente aparecían saltos de quinta ou de cuarta, habitualmente nos comezos de frase. O estilo dunha peza viña determinado, ademais de por o modo, por outros elementos, como a relación entre melodía e texto, que daba lugar a dous estilos principais:
+As melodías adoitaban utilizar unha interválica sinxela, por graos conxuntos ou saltos de terceira; só ocasionalmente aparecían saltos de quinta ou de cuarta, habitualmente nos comezos de frase. O estilo dunha peza viña determinado, ademais de polo modo, por outros elementos tales como a relación entre melodía e texto, que daba lugar a dous estilos principais:
 
-1. **Estilo silábico**, en que a cada sílaba do texto correspóndelle unha nota ou como máximo dúas.
-2. **Estilo ornamentado**, en que algunhas sílabas do texto alónganse en cadeas de notas denominadas *melismas*.
+1. **Estilo silábico**: a cada sílaba do texto correspóndelle unha nota ou como máximo dúas.
+2. **Estilo ornamentado**: algunhas sílabas do texto, prolónganse con varias notas denominadas *melismas*.
 
 Aínda que cada modo destaca certas notas e ten un ámbito determinado, debe terse en conta que non se trata de alturas reais, senón de intervalos; é dicir, calquera modo podía cantarse transportado a calquera altura sempre que se respectase a distribución dos intervalos.
 
