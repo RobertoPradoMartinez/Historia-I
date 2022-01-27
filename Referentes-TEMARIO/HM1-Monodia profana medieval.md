@@ -121,6 +121,8 @@ A composición de cancións narrativas deriva do antigo xénero da *chanson de g
 
 <!--25-1-22-->
 
+<!--Importante-->
+
 As cancións derivadas da danza apareceron cara ao final da época trovera, na segunda metade do século XIII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da *chanson*, estas cancións tiñan sempre una mesma estrutura, polo que llas coñece como *formes fixes* (formas fixas). Entre as formas fixas destacan tres:
 
 - *Ballade*:
@@ -138,6 +140,8 @@ As cancións derivadas da danza apareceron cara ao final da época trovera, na s
 A finais do século XIII comezou a moda de compor *ballades*, *rondeaux* e *virelais* en forma polifónica; isto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias importantes: a separación de funcións entre poeta e músico e a desaparición do *amateurismo* que fora a base da canción trovera e trovadoresca. Coa aparición da canción profana polifónica desaparece o movemento trovero.
 
 #### Expansión do movemento trovadoresco: os *Minnesinger*
+
+<!--2022: non visto-->
 
 En Alemaña, a canción de tipo trovadoresco apareceu ao mesmo tempo que no norte de Francia e mantívose bastante máis tempo, en dúas etapas diferenciadas: a dos *Minnesinger* e a dos *Meistersinger*.
 
@@ -167,9 +171,14 @@ O segundo, de comezos do século XIII, coñecido como *Carmina Burana* (Cantos d
 
 O uso de instrumentos musicais na Idade Media está testemuñado por numerosas pinturas, miniaturas, esculturas… así como por referencias escritas. Con todo, é escasísima a música conservada para uso instrumental. As razóns desta ausencia son diversas: é posible que os instrumentistas realizasen versións adaptadas da música vocal; ou ben que a música instrumental transmitísese exclusivamente de forma oral, dado que os xograres e *ministriles* (intérpretes de instrumentos) descoñecían polo xeral a notación musical. Tampouco está claro cal podería ser o uso dos instrumentos na música vocal, especialmente nas cancións: talvez dobrásese a melodía da voz, posiblemente variándoa, creando así unha textura heterofónica; ou ben se improvisasen «interludios» entre estrofa e estrofa a partir da melodía destas.
 
-No entanto, consérvanse algunhas pezas puramente instrumentais, todas elas danzas. As fontes principais son dúas: un manuscrito francés do XIII que inclúe oito danzas e un italiano do XIV que inclúe quince. Hai algunhas pezas máis en manuscritos ingleses, pero o total non chega ao trinta pezas.
+No entanto, consérvanse algunhas pezas puramente instrumentais, todas elas danzas. As fontes principais son dúas:
 
-A maior parte destas danzas reciben o nome de estampida (en francés *estampie*, en italiano *istampitta*). Formalmente constan dunha serie de seccións que se repiten, en forma AA BB CC DD… ao estilo do *lai* e da secuencia; estas repeticións alternan dous finais, chamados aberto e cerrado; o segundo termina na nota final do modo, o primeiro en calquera outra nota.
+- un manuscrito francés do XIII que inclúe oito danzas
+- un  manuscrito italiano do XIV que inclúe quince
+
+Hai algunhas pezas máis en manuscritos ingleses, pero o total non chega ao trinta pezas.
+
+A maior parte destas danzas reciben o nome de **estampida** (en francés *estampie*, en italiano *istampitta*). Formalmente constan dunha serie de seccións que se repiten, en forma AA BB CC DD… ao estilo do *lai* e da secuencia; estas repeticións alternan dous finais, chamados aberto e cerrado; o segundo termina na nota final do modo, o primeiro en calquera outra nota.
 
 Algunhas das danzas do manuscrito italiano, como o *Queixume dei Tristano* ou a *Manfredina* divídense en dous partes, a primeira máis grave e lenta e a segunda máis rápida. Este costume continuará no Renacemento e desenvolverase nas *suites* barrocas.
 
