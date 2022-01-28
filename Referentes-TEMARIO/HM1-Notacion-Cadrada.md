@@ -1,7 +1,6 @@
-## A notacion cadrada
-
-A notación cadrada aparece en Francia no s. XII como evolución de notacións neumáticas anteriores. A escrita deste tipo de notación é sobre unha pauta de catro liñas (tetragrama) a distancia de terceira.
-
+La notación cuadrada
+La notación cuadrada apareció en Francia en el siglo xii como evolución de notaciones
+neumáticas anteriores.
 Se escribe sobre una pauta de cuatro líneas (tetragrama) a distancia de tercera, como en el
 pentagrama actual. A la izquierda de cada tetragrama se sitúa la clave que sirve para identificar
 la altura de las notas. Se utilizan dos claves: DO y FA, que pueden situarse en cualquiera de las
