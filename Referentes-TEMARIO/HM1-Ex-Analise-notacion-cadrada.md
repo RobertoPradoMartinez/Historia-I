@@ -2,8 +2,8 @@
 
 Dadas as seguintes melodías medievais en notación cadrada, realiza unha análise e comentario das mesmas, tendo en conta os seguintes puntos:  
 
-1.  Analiza o **modo** e xustifica a túa resposta
-2.  Indica o **ámbito** da melodía
+1. Analiza o **modo** e xustifica a túa resposta
+2. Indica o **ámbito** da melodía
 3. Explica o **estilo** de canto segundo a ornamentación
 4. Comenta o **perfil** melódico e a **interválica** do canto
 
