@@ -1,5 +1,7 @@
 # Historia da música 1
 
+<!--TODO: comprobar que as imaxes estén na ruta da carpeta de imaxes-->
+
 4º CURSO DE GRAO PROFESIONAL
 
 [Páxina principal](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/../index.php)[Páxina da materia](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php)[Temario](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php?page=Temario4.html)
@@ -89,7 +91,7 @@ Entre os máis destacados, atopamos trobadores como [**Bernart de Ventadorn**][b
 
 Os manuscritos que conservan os textos e melodías dos trobadores adoitan incluír breves relatos biográficos de cada un, máis ou menos novelados, que se coñecen como *vidas*, así como miniaturas con supostos retratos dos biografiados.
 
-![Retratos de algunos trovadores del siglo XII en manuscritos del XIII](../../Historia-I/figures/ud-03/retratos-trovadores.png) 
+![Retratos dalguns trovadores do século XII en manuscritos do XIII](../figures/ud-03/retratos-trovadores.png) 
 
 Retratos dalgúns trobadores do século XII en manuscritos do XIII
 
@@ -119,7 +121,7 @@ A composición de cancións narrativas deriva do antigo xénero da *chanson de g
 
 ###### As formas fixas
 
-<!--25-1-22-->
+<!--25-1-22-->4ºA
 
 <!--Importante-->
 
@@ -137,7 +139,7 @@ As cancións derivadas da danza apareceron cara ao final da época trovera, na s
 
   é a forma máis tardía; constaba dun refrán e varias estrofas que alternaban con el; a melodía do refrán constituía a segunda sección de cada estrofa, que tiñan tamén forma *bar*. O esquema habitual dun virelai era A bba A bba A…
 
-A finais do século XIII comezou a moda de compor *ballades*, *rondeaux* e *virelais* en forma polifónica; isto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias importantes: a separación de funcións entre poeta e músico e a desaparición do *amateurismo* que fora a base da canción trovera e trovadoresca. Coa aparición da canción profana polifónica desaparece o movemento trovero.
+A finais do século XIII comezou a moda das *ballades*, *rondeaux* e *virelais* en forma polifónica; isto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias importantes: a separación de funcións entre poeta e músico e a desaparición do *amateurismo* que fora a base da canción trovera e trovadoresca. Coa aparición da canción profana polifónica desaparece o movemento trovero.
 
 #### Expansión do movemento trovadoresco: os *Minnesinger*
 
@@ -153,6 +155,8 @@ Do mesmo xeito que o movemento trovero, o dos *Minnesinger* extinguiuse a comezo
 
 ### A canción monódica latina
 
+<!--NON VER-->
+
 Non está claro o momento en que o latín deixou de ser unha lingua de uso común para dar paso ás linguas actuais. No ámbito da igrexa continuou sendo a lingua habitual do canto durante moitos séculos; e desde a fundación das primeiras universidades, no século XI, o latín foi a lingua de cultura europea ata o XVII. Isto fixo que unha boa parte da poesía culta profana escribísese en latín, e por tanto que houbese unha continuidade na produción de cancións profanas latinas. Ao mesmo tempo, por tratarse da lingua principal de comunicación entre estudantes de diversas procedencias, hai tamén unha boa parte de cancións profanas menos «cultas» co texto en latín.
 
 A maior parte destas cancións non se recolleron por escrito; cando se fixo, recolleuse só o texto; unicamente nuns poucos casos consérvase a notación musical. Aínda así, a notación musical adoita ser *adiastemática*, é dicir, non indica exactamente os intervalos, o que impide a súa transcrición actual. Só cando as melodías poden ser identificadas en manuscritos que inclúen notación diastemática (por exemplo, notación cadrada) podemos transcribir e coñecer directamente estes cantos.
@@ -163,11 +167,15 @@ O primeiro deles, do século XI, coñécese como *Cantos de Cambridge* (en latí
 
 ##### Os *Carmina Burana*
 
+<!--NON VISTO-->
+
 O segundo, de comezos do século XIII, coñecido como *Carmina Burana* (Cantos de Beuern), inclúe máis de douscentos textos de cancións, algúns con notación musical neumática. Logrouse identificar a melodía dun trinta cancións, que forma o grupo máis importante de cancións profanas latinas medievais. Os temas destas cancións son diversos: morais e filosóficos, amorosos, primaverais, tabernarios… Algunhas cancións relaciónanse cos *goliardos*, clérigos errantes que formaban unha especie de orde relixiosa alternativa. Canto á súa forma poética e musical, predominan dous tipos: os cantos estróficos, con refrán ou sen el, e os cantos en forma de secuencia (ou de lai ), é dicir, con melodías diferentes para cada grupo de dúas estrofas, que producen a forma AA BB CC… Os cantos estróficos presentan ás veces forma bar (AAB), como moitas composicións profanas en lingua vernácula.
 
-![La rueda de la fortuna en el manuscrito Carmina Burana](https://www.franciscocallejo.es/hm4/monodiaprofana/burana.png)A roda da fortuna no manuscrito *Carmina Burana*
+![A roda da fortuna no manuscrito Carmina Burana](../figures/ud-03/burana.png)A roda da fortuna no manuscrito *Carmina Burana*
 
 ### A música instrumental na Idade Media
+
+<!--TODO: pendiente de ver-->
 
 O uso de instrumentos musicais na Idade Media está testemuñado por numerosas pinturas, miniaturas, esculturas… así como por referencias escritas. Con todo, é escasísima a música conservada para uso instrumental. As razóns desta ausencia son diversas: é posible que os instrumentistas realizasen versións adaptadas da música vocal; ou ben que a música instrumental transmitísese exclusivamente de forma oral, dado que os xograres e *ministriles* (intérpretes de instrumentos) descoñecían polo xeral a notación musical. Tampouco está claro cal podería ser o uso dos instrumentos na música vocal, especialmente nas cancións: talvez dobrásese a melodía da voz, posiblemente variándoa, creando así unha textura heterofónica; ou ben se improvisasen «interludios» entre estrofa e estrofa a partir da melodía destas.
 
@@ -180,29 +188,33 @@ Hai algunhas pezas máis en manuscritos ingleses, pero o total non chega ao trin
 
 A maior parte destas danzas reciben o nome de **estampida** (en francés *estampie*, en italiano *istampitta*). Formalmente constan dunha serie de seccións que se repiten, en forma AA BB CC DD… ao estilo do *lai* e da secuencia; estas repeticións alternan dous finais, chamados aberto e cerrado; o segundo termina na nota final do modo, o primeiro en calquera outra nota.
 
-Algunhas das danzas do manuscrito italiano, como o *Queixume dei Tristano* ou a *Manfredina* divídense en dous partes, a primeira máis grave e lenta e a segunda máis rápida. Este costume continuará no Renacemento e desenvolverase nas *suites* barrocas.
+Algunhas das danzas do manuscrito italiano, como o *Queixume dei Tristano* ou a *Manfredina* divídense en dúas partes, a primeira máis grave e lenta e a segunda máis rápida. Este costume continuará no Renacemento e desenvolverase nas *suites* barrocas.
 
-##### Instrumentos medievais
+##### Organoloxía medieval: principais instrumentos
 
-A iconografía e a literatura presentan multitude de instrumentos que se utilizaban na música medieval. Algúns deles son os seguintes:
+A iconografía e a literatura presentan multitude de instrumentos que se utilizaban na música medieval. Destacaremos os seguintes:
 
 - Cordófonos.
 
-  Entre os instrumentos de corda pulsada habíaos con mastro, como o **laúde** e a **guitarra**; tamén sen mastro, como os diversos tipos de cítaras pulsadas ou percutidas, chamadas genéricamente **salterios**; e unha gran variedade de arpas .Os instrumentos máis habituais de corda fregada eran as **viellas**, antecedentes de viólalas e violíns; o **rabel**, de orixe árabe, se utilizabe na península Ibérica e noutras zonas de Europa. Un importante instrumento de corda fregada era **a zanfona** (coñecida tamén como *organistrum*), na cal as cordas se fregan cunha roda que se manexa cunha manivela; e en lugar de pisar as cordas directamente cos dedos, utilízase un teclado sinxelo.
+  Entre os instrumentos de corda pulsada habíaos con mastro (*mástil*) , como o **laúde** e a **guitarra**; tamén sen mastro, como os diversos tipos de cítaras pulsadas ou percutidas, chamadas xenéricamente **salterios** e unha gran variedade de **arpas**. Os instrumentos máis habituais de *corda refregada* eran as **viellas**, antecedentes de violas e violíns; o **rabel**, de orixe árabe, frecuente na península Ibérica e noutras zonas de Europa. Un importante instrumento de *corda refregada* era **a zanfona** (coñecida tamén como *organistrum*), na cal as cordas se refregan cunha roda que se manexa cunha manivela; e en lugar de pulsar as cordas directamente cos dedos, utilízase un teclado sinxelo.
 
 - Aerófonos.
 
-  Entre os aerófonos de madeira había unha ampla variedade de frautas , tanto rectas como traveseras; utilizábanse tamén con frecuencia os aerófonos de lengüeta simple, como o **albogue**, ou dobre, como as **chirimías**. Moitos destes instrumentos construíanse en varios tamaños para manexar distintas tesituras.Os aerófonos de metal eran *naturais*, é dicir, non utilizaban ningún tipo de válvula, co que podían realizar soamente os harmónicos naturais do seu son basee. Destacan varios tipos **de trompetas** (rectas) e **trompas** (curvas ou enroscadas).Tamén deben incluírse entre os aerófonos os diversos tipos **de órganos**; os máis habituais eran os **portativos**, que levaban normalmente colgados e podíanse utilizar en desfiles; habíaos tamén **positivos**, máis grandes, que se colocaban sobre unha mesa ou outro soporte.
+  Entre os aerófonos de madeira, había unha ampla variedade de frautas tanto rectas como traveseras; dentro dos aerófonos de lengüeta simple atopamos o **albogue**; dentro dos de lengüeta dobre as **chirimías**. Moitos destes instrumentos construíanse en varios tamaños para manexar distintas tesituras.  
+  Os aerófonos de metal eran *naturais*, é dicir, non utilizaban ningún tipo de válvula, co que podían realizar soamente os harmónicos naturais do seu propio son. Destacan varios tipos **de trompetas** (rectas) e **trompas** (curvas ou enroscadas).  
+  Dentro dos aerófonos incluiremos os diversos tipos **de órganos**; os máis habituais eran os **portativos** que se levaban normalmente colgados e eran de uso frecuente en desfiles, procesións, etc.; os órganos **positivos** necesitaban dun soporte (unha mesa, ...) debido ás súas dimensións.
 
 - Membranófonos e idiófonos.
 
-  Ambos os tipos de instrumentos eran moi frecuentes na música medieval, especialmente nas danzas. Os membranófonos abarcaban varios tamaños, desde os **tambores** máis pequenos e portátiles ata os grandes **timbales**, que normalmente se transportaban a lombos de cabalerías; podían ser simples ou dobres, abertos ou cerrados, e ter unha ou dúas membranas. Era habitual a interpretación por un mesmo músico dunha frauta e un tambor.Utilizábase tamén unha gran diversidade de idiófonos (**campás** e **campanillas**, **sonajas**, **sistros**, etc.).
+  Estes tipos de instrumentos eran moi frecuentes na música medieval, especialmente nas danzas. Dentro dos membranófonos, atopamos desde os **tambores** máis pequenos e portátiles ata os grandes **timbales**, que normalmente se transportaban a lombos de cabalerías. Podían ser simples ou dobres, abertos ou cerrados e ter unha ou dúas membranas. Era habitual a interpretación por un mesmo músico dunha frauta e un tambor.
+  Utilizábase tamén unha gran diversidade de idiófonos: **campás**, **campaíñas**, **sonajas**, **sistros**, etc.).
 
-![Instrumentos musicales en las miniaturas de uno de los     códices de las Cantigas de Santa María.](https://www.franciscocallejo.es/hm4/monodiaprofana/instrumentos.png)Instrumentos musicais nas miniaturas dun dos códices das *Cantigas de Santa*María .
+Para saber máis sobre os instrumentos musicais e a súa clasificación moderna:  
+- Carpintero, P. e Marín, X.R. *Os instrumentos musicais na tradición galega*, Consello da cultura galega. Santiago de Compostela, 2010. Recuperado de http://www.consellodacultura.gal/asg/instrumentos/indice-de-instrumentos/ Xaneiro de 2021
+
+![Instrumentos musicales en las miniaturas de uno de los códices de las Cantigas de Santa María.](https://www.franciscocallejo.es/hm4/monodiaprofana/instrumentos.png)
+Instrumentos musicais nas miniaturas dun dos códices das *Cantigas de Santa María*.
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
 
-Os contidos orixinais deste sitio web están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
-
-Francisco Callejo Giménez, 2008-2021
-[fcallejo.hm@cpmcristobaldemorales.es](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/mailto:fcallejo.hm@cpmcristobaldemorales.es)
+Os contidos orixinais destes apuntamentos están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).

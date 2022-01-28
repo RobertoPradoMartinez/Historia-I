@@ -1,39 +1,44 @@
-# Audicións de Canto Chá
+# Comentario de Audicións de Canto Chá
 
-## Exemplos de análise de audición con partitura
+## Exemplos de análise e comentario dunha audición con partitura
 
-Na análise e comentario de audición de pezas do repertorio gregoriano deben terse en conta os aspectos seguintes:
-1. modo
-2. ámbito total
-3. estilo de canto
-4. estrutura formal
-5. clasificación no repertorio.
+Na análise de audición con partitura de pezas do repertorio gregoriano (canto chá), debemos ter en conta os puntos seguines:  
+
+1. **modo** ao que pertence o canto
+2. **ámbito** total
+3. **estilo** de canto
+4. **forma** ou estrutura formal
+5. **clasificación** no repertorio
 
 Os exemplos seguintes, sirven de modelo para realizar unha análise e comentario de audición con partitura, de distintos tipos de cantos.
 
 ### Exemplo 1: Introito "*Puer nátus est nóbis*"
 
-#### Modo. 
+<!--PENDIENTE PARTITURA-->
 
-A nota final da peza é un sol, no primeiro espazo en clave de *do en terceira. O modo por tanto debe ser *tetrardus. A nota máis aguda, un *fa, está unha sétima por encima da final; a máis grave, o sol, é a mesma nota final. O modo é por tanto *tetrardus auténtico, o número 7. O tenor, que pode verse ao comezo da cadencia de *salmo, sobre a E, é *re, nota tenor do modo 7.
+#### Modo 
 
-#### Ámbito. 
+A **nota final** da peza é un *sol* no primeiro espazo en **clave** de *dó en terceira*. O modo por tanto debe ser *tetrardus*. A **nota máis aguda** (un *fa*) está unha sétima por encima da final; a **nota máis grave** (o *sol*) é a mesma nota final. O **modo** é por tanto *tetrardus auténtico*, o número 7. O **tenor**, que pode verse ao comezo da cadencia de *salmo* sobre o "E", é *re* que corresponde coa **nota tenor** do modo 7.
 
-O ámbito total abarca desde o nota final sol ata o *fa, unha sétima en total. É un ámbito próximo ao oitava pero inferior a ela; por tanto un ámbito máis ben pequeno.
+#### Ámbito
 
-#### Estilo de canto. 
+O **ámbito total** abarca desde o nota final *sol* ata o *fa*, unha sétima en total. É un ámbito próximo ao oitava pero inferior a ela polo tanto é un ámbito máis ben pequeno.
 
-O canto é neumático, dado que a maioría das *sílabas cántanse adornadas, cun *neuma de entre dúas e sete notas. A segunda sección, ao tratarse dun verso de *salmo, ten un estilo máis *silábico.
+#### Estilo de canto 
 
-#### Estrutura formal.
+O canto é neumático, dado que a maioría das sílabas cántanse adornadas; cun *neuma* de entre dúas e sete notas. A segunda sección, ao tratarse dun verso de *salmo*, ten un estilo máis *silábico*.
 
-A peza comeza cunha sección extensa (A) que chega ata a primeira dobre barra no cuarto *tetragrama. De seguido, cántase un verso de salmo (B) seguido da doxología (C), cantada coa mesma melodía do *salmo, e que aparece abreviada só co comezo (Gloria Patri) e o final (seculorum amen, escrito Euouae). A continuación vólvese ao comezo e cántase ata o final da sección A. A forma completa sería *ABCA.
+#### Forma ou estrutura formal
 
-#### Clasificación no repertorio.
+A peza comeza cunha sección extensa (A) que chega ata a primeira dobre barra no cuarto *tetragrama*. De seguido cántase un verso de salmo (B) seguido da *doxología* (C) cantada coa mesma melodía do *salmo* e que aparece abreviada só co comezo (*Gloria Patri*) e o final (*seculorum amen*, escrito *Euouae*). A continuación, volve ao comezo e cántase ata o final da sección A. A forma completa sería ABCA.
 
-Tendo en conta o ámbito de sétima e o estilo neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal do propio da misa. A estrutura formal, coa inclusión de versos de *salmo, corresponde tamén a este tipo de cantos.
+#### Clasificación no repertorio
+
+Tendo en conta o **ámbito** de sétima e o **estilo** neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal* do *propio* da misa. A estrutura formal, coa inclusión de versos de *salmo*, corresponde tamén a este tipo de cantos.
 
 ### Exemplo 2: Gradual "*Vidérunt ómnes*"
+
+<!--PENDIENTE PARTITURA-->
 
 Modo. 
 
@@ -56,6 +61,8 @@ Clasificación no repertorio.
 Ao ter estilo *melismático debe clasificarse entre os cantos *responsoriales do propio da misa. O ámbito, sen ser moi extenso, é superior á oitava, o que confirma que era interpretado por un solista. A forma é tamén a habitual nos cantos *responsoriales, con dúas seccións pero sen posibilidade de estendelo con versos de *salmo.
 
 EXEMPLO 3. *Antífona "Ecce *Dóminus *noster"
+
+<!--PENDIENTE PARTITURA-->
 
 Modo.
 
