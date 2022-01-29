@@ -30,7 +30,7 @@ Este sistema baseábase na **modalidade**, e tomaba como referencia os intervalo
 
 
 
-![Especies de la quinta y la cuarta](../../Historia-I/figures/ud-03/especies.jpg)
+![Especies de la quinta y la cuarta](../../figures/ud-03/especies.jpg)
 
 Figura X.- Especies da quinta e a cuarta.
 
@@ -49,7 +49,7 @@ Formábanse combinando cada especie de quinta cunha de cuarta. Segundo a súa co
 
 O sistema completo quedaba entón da forma:
 
-![Sistema modal](../../Historia-I/figures/ud-03/sistema-modal.jpg)Figura X.- Sistema modal medieval.
+![Sistema modal](../../figures/ud-03/sistema-modal.jpg)Figura X.- Sistema modal medieval.
 
 Na práctica, o habitual era referirse aos modos cos números do 1 ao 8; nos tratados teóricos, empregábanse alternativamente tanto a denominación eclesiástica como a grega. 
 
