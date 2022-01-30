@@ -2,7 +2,7 @@
 
 Realiza a transcrición da seguinte melodía 
 
-![Exercicio de transcrición](/home/robertopradomartinez/Documentos/GitHub/Historia-I/figures/ud-03/Ex-Transcripción_1.png)
+![Exercicio de transcrición](../figures/ud-03/Ex-Transcripción_1.png)
 
 
 

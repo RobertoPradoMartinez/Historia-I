@@ -24,17 +24,19 @@ Nesta segunda etapa aparecen novas formas e técnicas musicais, fundamentalmente
 
 Os primeiros libros de teoría musical do Occidente europeo corresponden ao século IX; entre eles destacan os dous tratados anónimos titulados *Musica enchiriadis* («Manual de música») e *Scolica enchiriadis* («Comentarios ao manual»). Son tamén importantes os tratados escritos polo monxe **Hucbaldo** no mesmo século. Desde entón desenvólvese unha importante corrente de literatura técnica musical que explica o sistema sobre o que se compuña a música monódica da Idade Media.
 
-#### En que consiste?
+#### As *especies* de intervalos 
 
-Este sistema baseábase na **modalidade**, e tomaba como referencia os intervalos básicos de quinta e cuarta, así como a oitava. Os teóricos medievais partían das distintas **especies** destes intervalos, diferenciadas pola posición que ocupaba o semitono, como se pode ver na figura X.
+O sistema modal medieval parte da **modalidade**, e tomaba como referencia os intervalos básicos de quinta e cuarta, así como a oitava. Os teóricos medievais partían das distintas **especies** destes intervalos, diferenciadas pola posición que ocupaba o semitono, como se pode ver na figura X.
 
 
 
-![Especies de la quinta y la cuarta](../../figures/ud-03/especies.jpg)
+![Especies de la quinta y la cuarta](../figures/ud-03/especies.jpg)
 
 Figura X.- Especies da quinta e a cuarta.
 
-As catro especies da quinta son a base dos catro modos básicos da música medieval: 
+#### Os modos medievais
+
+As catro especies da quinta son a base dos catro **modos básicos** da música medieval: 
 
 1. *protus* («primeiro»)
 2. *deuterus* («segundo»)
@@ -43,53 +45,67 @@ As catro especies da quinta son a base dos catro modos básicos da música medie
 
 Algúns teóricos, aplicaron os nomes da antiga teoría musical grega (con significado distinto) a estas catro especies da quinta, resultando: *dórico*, *frigio*, *lidio* , *mixolidio*.
 
-#### Como se formaban os modos?
-
-Formábanse combinando cada especie de quinta cunha de cuarta. Segundo a súa colocación ou combinación podemos falar de modos *auténticos* (se a especie de quinta vai despois da de cuarta), ou modos *plagales* (se a especie de cuarta vai antes da especie de quinta). Para diferencialos dos auténticos, os modos *plagales*, antepónselles o prefixo *hipo-* ao nome grego correspondente.
+Combinando cada especie de quinta cunha de cuarta, obtemos o que se coñece como modo. Segundo a súa combinación, podemos falar de **modos *auténticos*** (se a especie de cuarta vai despois da de quinta), ou **modos *plagales*** (se a especie de cuarta vai antes da especie de quinta). Para diferenciar os plagales dos anténticos, antepoñemos o prefixo *hipo-* ao nome grego correspondente (*hipo-*dórico, *hipo*-frixio, … ) tal como se indica na táboa do sistema modal medieval.
 
 O sistema completo quedaba entón da forma:
 
-![Sistema modal](../../figures/ud-03/sistema-modal.jpg)Figura X.- Sistema modal medieval.
+![Sistema modal](../figures/ud-03/sistema-modal.jpg)Figura X.- Sistema modal medieval.
 
-Na práctica, o habitual era referirse aos modos cos números do 1 ao 8; nos tratados teóricos, empregábanse alternativamente tanto a denominación eclesiástica como a grega. 
+Se ben é certo, que na práctica o máis habitual era referirse aos modos cos números do 1 ao 8,  nos tratados teóricos empregábanse tanto a denominación eclesiástica como a grega. 
 
-O **ámbito** da melodía adoitaba abarcar a oitava; unha das notas, era considerada como a nota principal do modo e denominábase *final* (na que remataba a melodía). Outras notas servían como eixos melódicos ou para as cadencias; no canto gregoriano una destas notas adquiría unha importancia especial e era denominada *tenor* («soporte» en latín).
+#### *Tenor*, *Finalis* e ámbito da melodía
 
-<!--pendiente-->
+A melodía do canto, abarca o ámbito da oitava. Adoita utilizar unha interválica sinxela; graos conxuntos ou saltos de terceira e só ocasionalmente aparecen saltos de quinta ou de cuarta, habitualmente nos comezos de frase. Unha das notas da melodía, era considerada como a nota principal do modo que se coñece co nome de *final* (na que remata a melodía). Outras notas da melodía, servían de soporte –ou eixos melódicos– sobre os que se move a melodía; no canto gregoriano unha destas notas toma especial importancia e recibe o nome de *tenor* («soporte» en latín).
 
-Así pois, o que determinaba o modo no sistema medieval eran os seguintes elementos:
+Para determinar o modo no sistema medieval, debemos considerar:
 
-1. Nota **final**, que determinaba en cal do catro modos básicos estaba a melodía.
-2. **Ámbito**, por encima da final nos modos auténticos e ao redor dela nos plagales.
-3. Nota **tenor** e outras que puidesen servir para as cadencias.
-4. Uso de certos **xiros melódicos** característicos (incluídas as cadencias).
+1. A nota **final**, que determina en cal do catro modos básicos está a melodía.
+2. O **ámbito**,  por encima da final no caso dos modos auténticos e ao redor dela nos plagales.
+3. A nota **tenor** e outras que puidesen servir para as cadencias.
+4. O uso de certos **xiros melódicos** característicos (incluídas as cadencias).
 
-As melodías adoitaban utilizar unha interválica sinxela, por graos conxuntos ou saltos de terceira; só ocasionalmente aparecían saltos de quinta ou de cuarta, habitualmente nos comezos de frase. O estilo dunha peza viña determinado, ademais de polo modo, por outros elementos tales como a relación entre melodía e texto, que daba lugar a dous estilos principais:
+#### O estilo
+
+O estilo dunha peza viña determinado –ademais de polo modo– por outros elementos tales como a relación entre melodía e texto, que daba lugar a dous estilos principais:
 
 1. **Estilo silábico**: a cada sílaba do texto correspóndelle unha nota ou como máximo dúas.
 2. **Estilo ornamentado**: algunhas sílabas do texto, prolónganse con varias notas denominadas *melismas*.
 
-Aínda que cada modo destaca certas notas e ten un ámbito determinado, debe terse en conta que non se trata de alturas reais, senón de intervalos; é dicir, calquera modo podía cantarse transportado a calquera altura sempre que se respectase a distribución dos intervalos.
+Aínda que cada modo destaca certas notas e ten un ámbito determinado, teremos en conta que non se trata de alturas reais, senón de intervalos isto é; calquera modo podía cantarse transportado a calquera altura, sempre que se respectase a distribución dos intervalos.
 
-En principio, o sistema completo abarcaba dúas oitavas, empezando e terminando na, e utilizáronse as letras do alfabeto latino para designar estas notas en orde ascendente: A=a, B=si, C=do… Co tempo, o sistema foise ampliando ata abarcar algo máis de dúas oitavas, diferenciadas polo uso de maiúsculas e minúsculas ou pola duplicación das letras. O si era unha nota de afinación variable: para evitar o tritono co fa podíase rebaixar medio ton, converténdoo así nun «si suave» (en latín *b molle*), que se escribía cunha b redonda para diferencialo do «si duro» (*b durum*) que se escribía cunha  cadrada (*b quadratum*); estes signos son os antecedentes dos actuais bemol, becuadro e sostido ( ♭ ♮ ♯ ).
+#### A escrita
 
-O sistema completo é leste:
+En principio, o sistema completo abarcaba dúas oitavas. Na escrita, utilizáronse as letras do alfabeto latino para designar as notas en orde ascendente. Co tempo, o sistema foise ampliando ata abarcar algo máis de dúas oitavas, diferenciadas polo uso de maiúsculas e minúsculas ou pola duplicación das letras. 
 
-![Sistema completo](https://www.franciscocallejo.es/hm4/edadmedia/sistemaCompleto.jpg)Sistema completo
+O *si* era unha nota de afinación variable: para evitar o tritono co fa podíase rebaixar medio ton, converténdoo así nun «si suave» (en latín *b molle*), que se escribía cunha «b» redonda para diferencialo do «si duro» (*b durum*) que se escribía cunha «b» cadrada (*b quadratum*); estes signos son os antecedentes dos actuais *bemol*, *becuadro* e *sostido* ( ♭ ♮ ♯ ).
 
-No século XI, o monxe e mestre de coro italiano **Guido d’Arezzo**, para facilitar a aprendizaxe das melodías, que seguían memorizándose, inventou un sistema que asociaba determinadas sílabas con notas e as súas combinacións con intervalos; para iso utilizou seis sílabas sacadas do texto dun himno relixioso: *ut re o meu fa sol a*; nesta sucesión de seis sílabas todos os intervalos eran dun ton excepto o intervalo central o meu-fa, que era dun semitono. A serie podía comezar na nota do, na nota fa co si «suave» e en nótaa sol co si «duro», resultando así o tres tipos **de hexacordos** que se mostran na seguinte figura:
+![Sistema completo](https://www.franciscocallejo.es/hm4/edadmedia/sistemaCompleto.jpg)Figura X.- Sistema completo
 
-![Los hexacordos](https://www.franciscocallejo.es/hm4/edadmedia/hexacordos.jpg)Os hexacordos
+No século XI, o monxe e mestre de coro italiano **Guido d’Arezzo**, para facilitar a aprendizaxe das melodías, que seguían memorizándose, inventou un sistema que asociaba determinadas sílabas con notas e as súas combinacións con intervalos; para iso utilizou seis sílabas sacadas do texto dun himno relixioso: *ut re mi fa sol la*; nesta sucesión de seis sílabas todos os intervalos eran dun tono excepto o intervalo central *mi-fa*, que era dun semitono. 
 
-![Distribución de los hexacordos](https://www.franciscocallejo.es/hm4/edadmedia/tabHexachordi.jpg)Distribución dos hexacordos
+A serie podía comezar na nota *dó*, na nota *fa* co «*si* suave» e na nota *sol* co «*si* duro», resultando así o tres tipos **de hexacordos**:
 
-Posto que os hexacordos podían comezar en notas diferentes, en melodías máis amplas utilizábase un sistema de paso dun hexacordo a outro chamado **solmisación**. Cada nota do sistema podía así entoarse con varias sílabas distintas, tal como indica a figura anterior. Esta serie de sílabas acabou formando parte do nome da nota, como en Gsolreut ou *alamire*.
+![Los hexacordos](../figures/ud-03/hexacordos.jpg)
 
-### A notación musical
+Figura X.- Os hexacordos
+
+
+
+![Distribución de los hexacordos](../figures/ud-03/tabHexachordi.jpg)
+
+Figura x.- Distribución dos hexacordos
+
+Posto que os hexacordos podían comezar en notas diferentes, en melodías máis amplas utilizábase un sistema de paso dun hexacordo a outro chamado **solmisación**. 
+
+### A notación musical medieval
 
 #### A notación
 
-A comezos do século VII, Isidoro de Sevilla afirmaba nas *súas Etimoloxías*: «si os sons non se reteñen na memoria, pérdense, pois non se poden escribir». A antiga notación grega deixouse de utilizar máis de tres séculos antes, e ata uns douscentos anos despois non aparecería a notación musical occidental. Durante medio milenio, aproximadamente, a música occidental transmitiuse de forma oral, coa memoria dos intérpretes como arquivo fundamental das melodías.
+> […] se os sons non se reteñen na memoria, pérdense, pois non se poden escribir. [^cita:Isidoro]
+
+[^cita:Isidoro]: Recuperado de *Etimoloxías*.  Isidoro de Sevilla (s. VII)
+
+A comezos do século VII, Isidoro de Sevilla reflexionaba sobre a importancia da memoria dos intérpretes e o seu papel como transmisores da herdanza musical, sen os cales as melodías non serían transmitidas a xeracións posteriores.  A antiga notación grega deixouse de utilizar máis de tres séculos antes, e ata uns douscentos anos despois non aparecería a notación musical occidental. 
 
 Durante toda a Idade Media —e mesmo despois— a música seguiría transmitíndose oralmente, pero ao longo do século IX, en varios mosteiros de Occidente, desenvolveríase un sistema de escritura musical novo, que evolucionaría ao longo dos séculos ata desembocar no sistema actual. A razón deste desenvolvemento foi a implantación do repertorio de canto chamado «gregoriano». Pretendíase, por unha banda, unificar a interpretación musical litúrxica en todos os territorios que dependían da Igrexa de Roma; doutra banda, o repertorio estaba a crecer e era xa excesivo para retelo na memoria.
 

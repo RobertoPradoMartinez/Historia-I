@@ -21,7 +21,7 @@ Audicións propostas:
 
 
 
-![Introito Puer natus est, da terceira misa de Nadal](/home/robertopradomartinez/Documentos/GitHub/Historia-I/figures/ud-03/Ej-análisis_1-puer-natus-est-nobis.png)
+![Introito Puer natus est, da terceira misa de Nadal](../figures/ud-03/Ej-análisis_1-puer-natus-est-nobis.png)
 
 
 
@@ -29,7 +29,7 @@ Audicións propostas:
 
 
 
-![Gradual Viderunt omnes, da terceira misa de Nadal](/home/robertopradomartinez/Documentos/GitHub/Historia-I/figures/ud-03/Ej-análisis_1-gradual-viderunt.png)
+![Gradual Viderunt omnes, da terceira misa de Nadal](../figures/ud-03/Ej-análisis_1-gradual-viderunt.png)
 
 
 
@@ -37,7 +37,7 @@ Audicións propostas:
 
 
 
-![Lanquan li jorn, cansó de Jaufré Rudel](/home/robertopradomartinez/Documentos/GitHub/Historia-I/figures/ud-03/Ej-análisis_2-lanquan-Rudel.png)
+![Lanquan li jorn, cansó de Jaufré Rudel](../figures/ud-03/Ej-análisis_2-lanquan-Rudel.png)
 
 
 
