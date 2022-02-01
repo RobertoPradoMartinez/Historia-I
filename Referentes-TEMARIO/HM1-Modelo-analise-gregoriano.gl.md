@@ -1,5 +1,3 @@
-# Comentario de Audicións de Canto Chá
-
 ## Exemplos de análise e comentario dunha audición con partitura
 
 Na análise de audición con partitura de pezas do repertorio gregoriano (canto chá), debemos ter en conta os puntos seguines:  
@@ -43,6 +41,8 @@ A peza comeza cunha sección extensa (A) que chega ata a primeira dobre barra no
 #### 5. Clasificación no repertorio
 
 Tendo en conta o **ámbito** de sétima e o **estilo** neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal* do *propio* da misa. A estrutura formal, coa inclusión de versos de *salmo*, corresponde tamén a este tipo de cantos.
+
+
 
 ### Exemplo 2: Gradual "*Vidérunt ómnes*"
 

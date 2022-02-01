@@ -1,13 +1,3 @@
-# Historia da música 1
-
-<!--TODO: comprobar que as imaxes estén na ruta da carpeta de imaxes-->
-
-4º CURSO DE GRAO PROFESIONAL
-
-[Páxina principal](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/../index.php)[Páxina da materia](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php)[Temario](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php?page=Temario4.html)
-
-Material complementario
-
 ## A monodia profana medieval
 
 ### O movemento *trovadoresco*
