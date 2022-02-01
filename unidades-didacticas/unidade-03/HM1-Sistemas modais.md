@@ -1,28 +1,31 @@
-## Os sistemas modais
 
-### Concepto de modo.
+## Os sistemas modais {-}
+
+### Concepto de modo {-}
 
 - **Modalidade**. A modalidade é un sistema de organización musical baseado nos intervalos. Este concepto está relacionado especialmente coa *melodía*, se temos en conta que esta é unha sucesión ordenada de intervalos.
 
 - **Modo**. Nos sistemas modais, o concepto básico é o **de modo**. Consiste na organización dos intervalos en grupos nos que certas notas teñen unha importancia especial.
 
-### Organización do modo
+### Organización do modo {-}
 
 Os modos, baséanse en pequenos grupos de notas que abarcan en total un intervalo de cuarta ou quinta (ás veces terceira). Entre as dúas notas extremas sitúanse outras que dividen o conxunto en pequenos intervalos, que non teñen por que axustarse necesariamente a tonos ou ao semitonos.
 
-![Grupos](../figures/ud-03/grupos.png)
+
+![Grupos](figures/ud-03/grupos.png)
+
 
 Estes pequenos grupos únense a outros, ben utilizando as notas extremas como notas comúns, ou ben cunha certa separación entre ambos (habitualmente dun tono). Este conxunto de dúas ou máis unidades, dá lugar ao ámbito completo do modo, que pode ser dunha oitava ou maior.
 
 
+![Modo dórico](figures/ud-03/escalas-2.png)
 
-![Modo dórico](../figures/ud-03/escalas-2.png)
 
-### O ritmo nos sistemas modais
+### O ritmo nos sistemas modais {-}
 
 As definicións antigas da música facían referencia á arte (ou a ciencia) *de medir ben*. Esta medida debíase facer en dúas dimensións: na da **altura** dos sons, entoando correctamente os intervalos; e na da **duración** dos sons, levando adecuadamente o ritmo. Ámbalas dimensións definen a *melodía*, que é o elemento fundamental nas músicas modais.
 
-#### Tipos de ritmo
+#### Tipos de ritmo {-}
 
 Consideramos dous estilos fundamentais de ritmo:
 
@@ -34,7 +37,7 @@ Consideramos dous estilos fundamentais de ritmo:
 
   As duracións dos sons axústanse a un pulso, que pode ser regular ou flexible. Na música vocal, os elementos prosódicos (acento, cantidade silábica) poden determinar a forma de axustarse ao pulso. Denomínaselle tamén **ritmo *mensural***.
 
-#### Os ciclos rítmicos
+#### Os ciclos rítmicos {-}
 
 Na música mensural, o pulso pode presentar diversas diferenzas (por ejempl, forte/débil). Estes pulsos diferentes organízanse en grupos que se repiten con regularidade, constituíndo así os*ciclos*.
 
@@ -42,7 +45,7 @@ A forma máis simple de ciclo rítmico é o *compás* da música occidental: gru
 
 
 
-![Ejemplos de compases](../figures/ud-03/compases.png)
+![Exemplos de compases](figures/ud-03/compases.png)
 
 
 
@@ -55,11 +58,11 @@ Algúns exemplos de ciclos rítmicos complexos, son o *compás de doce* habitual
 
 
 
-![Compás flamenco de 12](../figures/ud-03/ciclos-1.png)
+![Compás flamenco de 12](figures/ud-03/ciclos-1.png)
 
 
 
-#### Os modos rítmicos medievais
+#### Os modos rítmicos medievais {-}
 
 Nos tratados medievais sobre música, xunto ao ritmo e á melodía (que habitualmente denominaban *harmonía*), incluíase a **métrica** isto é, a organización sonora das palabras propia da poesía; debido a que a música era maioritariamente vocal, e o ritmo dependía desa organización.
 
@@ -67,4 +70,6 @@ No século XIII estableceuse unha organización rítmica baseada en modos, do me
 
 
 
-![Modos rítmicos](../figures/ud-03/modosritmicos.png)
+![Modos rítmicos](figures/ud-03/modosritmicos.png)
+
+

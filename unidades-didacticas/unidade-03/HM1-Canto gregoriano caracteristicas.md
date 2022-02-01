@@ -1,4 +1,6 @@
-### Características que definen o canto gregoriano
+## Consideracións sobre o Canto Gregoriano {-}
+
+### Características que definen o canto gregoriano {-}
 
 O canto gregoriano, como todo o canto litúrxico medieval, presenta as seguintes características:
 
@@ -9,7 +11,7 @@ O canto gregoriano, como todo o canto litúrxico medieval, presenta as seguintes
 - A melodía móvese por graos **conxuntos** ou **saltos de terceira**; ocasionalmente aparecen saltos de cuarta ou quinta, normalmente nos comezos. Son inhabituais intervalos máis amplos.
 - O perfil melódico de cada canto organízase ao redor de dous eixos: a **nota final**, na que termina e con frecuencia tamén comeza o canto, e a chamada **nota tenor** («soporte» en latín), sobre a que se desenvolve a melodía. Esta nota está normalmente unha quinta sobre a final nos modos auténticos e unha terceira por baixo desta nos plagales, excepto cando recae sobre a nota *si*, que se pasa ao do.
 
-#### Estilos de canto
+#### Estilos de canto {-}
 
 Segundo a relación entre o texto e a melodía, desenvólvense tres estilos de canto:
 
@@ -17,9 +19,9 @@ Segundo a relación entre o texto e a melodía, desenvólvense tres estilos de c
 - **Neumático:** estilo adornado; a cada sílaba correspóndenlle varias notas (normalmente de dúas a seis).
 - **Melismático:** estilo moi adornado; algunhas sílabas teñen melismas extensos, ás veces de decenas de notas; no resto adoita predominar o estilo neumático.
 
-​	Nun mesmo canto mestúranse varios estilos, pero un deles predomina e é o que caracteriza a ese canto.
+Nun mesmo canto mestúranse varios estilos, pero un deles predomina e é o que caracteriza a ese canto.
 
-#### Estilos de interpretación
+#### Estilos de interpretación {-}
 
 Hai tamén tres estilos de interpretación (chamados tamén estilos de salmodia):
 
