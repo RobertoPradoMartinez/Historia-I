@@ -10,7 +10,15 @@ documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
+<!-- COMENTARIOS A ESTA UNIDADE:
+- Para incluir as imaxes e non se movan, incluír código seguinte:
+<!--
+```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Este é un modelo para inserir imaxes. - (fonte:pellicer.fremm.org)", fig.scap="Etiqueta da figura para índice", out.width="100%"}
+knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
+```
+-->
 
+-->
 # Conceptos sobre a monodia medieval {-}
 
 \minitoc <!-- this will include a mini table of contents-->
