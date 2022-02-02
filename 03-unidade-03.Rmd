@@ -18,7 +18,7 @@ knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
 ```
 -->
 
--->
+
 # Conceptos sobre a monodia medieval {-}
 
 \minitoc <!-- this will include a mini table of contents-->
