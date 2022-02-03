@@ -41,3 +41,37 @@ A peza comeza cunha sección extensa (A) que chega ata a primeira dobre barra no
 #### 5. Clasificación no repertorio
 
 Tendo en conta o **ámbito** de sétima e o **estilo** neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal* do *propio* da misa. A estrutura formal, coa inclusión de versos de *salmo*, corresponde tamén a este tipo de cantos.
+
+
+
+<!-- comprobar-->
+
+### Análisis Introito "Puer natus est nobis"
+
+**Ritmo**
+a) Tipo de ritmo: No se atiene a medida regular siguiendo el ritmo del texto.
+b) Compás: No tiene.
+c) Tempo: No se indica en la partitura siguiendo en la audición el tempo natural de la palabra hablada.
+d) Otras observaciones de interés: algunas notas aumentan su duración en la interpretación según se indican el los *punctum mora vocis* en las silabas al final de cada miembro de frase y de inciso. Estos puntos a su vez coinciden con los signos de puntuación del texto.
+
+**Melodía**
+a) Tipo de melodía: diatónica con salto significativo de quinta en la primera sílaba. El movimiento en general de las notas es por grados conjuntos con algún salto de tercera tanto ascendente como descendente. La tendencia de la frase melódica es acabar en el grave.
+b) Otras observaciones de interés: El estilo de la melodía es neumático, es decir, por lo general hay un neuma por sílaba. La melodía está en modo VII por tener la final en *sol* y la dominate en *re* como puede comprobarse en el salmo que repercute sobre la nota *re* con final en *sol.* 
+
+**Textura:** 
+a) Tipo de textura: monódica
+b) Otras observaciones de interés: La reverberación del recinto provoca que unas notas queden mantenidas mientras suenan las siguientes, esto es, que se solapen. Se crea pues un efecto armónico.
+
+**Timbre**
+a) Voz, instrumento, conjunto vocal e instrumental: Grupo de voces masculinas.
+b) Otras observaciones de interés: El grupo de voces canta *a capella,* es decir sin acompañamiento instrumental alguno. Aunque estaba permitido el uso del órgano en la iglesia, la interpretaciòn más purista, como la que escuchamos, no lo utiliza.
+
+**1b. Forma, género musical, periodo artístico, autor y título de la obra.**
+a) Forma: Canto gregoriano. Estructura ternaria de la siguiente forma A (antífona) - B (salmo y gloria) - A (antífona)
+b) Otras observaciones de interés: el Gloria no aparece en la partitura pero debe añadirse al ser costumbre añadirlo tras el salmo (Ps).
+
+Género: Vocal religioso, canto gregoriano.
+Periodo artístico: Alta Edad Media
+Cronología: Siglos V al XIII
+Título: Pues natus est nobis
+Autor: Anónimo
