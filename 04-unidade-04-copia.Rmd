@@ -1,0 +1,22 @@
+---
+output:
+  #bookdown::html_document2: default
+  #bookdown::word_document2: default
+  bookdown::pdf_document2:
+    template: templates/brief_template.tex
+    citation_package: biblatex
+documentclass: book
+#bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
+---
+
+# Audicións {-} 
+\minitoc <!-- this will include a mini table of contents-->
+
+## Audición no.1 A Chantar {-}
+
+```{r kyrie-fons-bonitatis, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="", fig.scap="Partitura audición: A chantar", out.width="100%"}
+knitr::include_graphics('figures/audicions/achantar.pdf')
+```
+
+
+

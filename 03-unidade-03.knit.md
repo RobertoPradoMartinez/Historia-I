@@ -29,9 +29,14 @@ classoption: twocolumn
 <!--
 - Para incluir as imaxes e non se movan, incluír código seguinte:
 
-```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Este é un modelo para inserir imaxes. - (fonte:pellicer.fremm.org)", fig.scap="Etiqueta da figura para índice", out.width="100%"}
-knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=1\linewidth]{figures/ud-00/banda-caricatura} 
+
+}
+
+\caption[Etiqueta da figura para índice]{Este é un modelo para inserir imaxes. - (fonte:pellicer.fremm.org)}(\#fig:banda-caricatura-1)
+\end{figure}
 -->
 
 <!-- 
@@ -349,9 +354,14 @@ As técnicas de tropar son fundamentalmente tres:
 
 Como exemplo desta técnica atopamos o *Kyrie fons bonitatis*, resultado de tropar con texto o *Kyrie*:
 
-```{r kyrie-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Melodía orixinal do Kyrie", fig.scap="Melodía do *Kyrie*", out.width="100%"}
-knitr::include_graphics('figures/ud-03/Kyrie-1.png')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=1\linewidth]{figures/ud-03/Kyrie-1} 
+
+}
+
+\caption[Melodía do *Kyrie*]{Melodía orixinal do Kyrie}(\#fig:kyrie-1)
+\end{figure}
 
 ```{=html}
 <!--
@@ -360,9 +370,14 @@ knitr::include_graphics('figures/ud-03/Kyrie-1.png')
 ```
 A versión tropada, quedaría polo tanto do seguinte xeito no [*Kyrie fons bonitatis*](https://es.wikipedia.org/wiki/Kyrie_eleison "Enlace á Wikipedia"): [(audición)](https://open.spotify.com/track/74ztOxzqhvEStzW4pqZII0?si=fbe1ed03f9bf4d6c "Enlace á audición no Spotify")
 
-```{r kyrie-fons-bonitatis, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Melodía tropada do Kyrie", fig.scap="Melodía tropada do Kyrie fons bonitatis", out.width="100%"}
-knitr::include_graphics('figures/ud-03/Kyrie-fons-bonitatis.png')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=1\linewidth]{figures/ud-03/Kyrie-fons-bonitatis} 
+
+}
+
+\caption[Melodía tropada do Kyrie fons bonitatis]{Melodía tropada do Kyrie}(\#fig:kyrie-fons-bonitatis)
+\end{figure}
 
 ```{=html}
 <!--
@@ -388,9 +403,14 @@ Do mesmo xeito que os tropos, as secuencias foron prohibidas polo concilio de Tr
 
 Un dos exemplos máis coñecidos de *sequentia* é o *Dies irae (Officium defunctorum)* da misa de defuntos.
 
-```{r Dies-irae, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Exemplo da secuencia Dies Irae", fig.scap="Secuencia Dies irae", out.width="75%"}
-knitr::include_graphics('figures/ud-03/Dies-irae.png')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=0.75\linewidth]{figures/ud-03/Dies-irae} 
+
+}
+
+\caption[Secuencia Dies irae]{Exemplo da secuencia Dies Irae}(\#fig:Dies-irae)
+\end{figure}
 
 ### O drama litúrxico {.unnumbered}
 
@@ -431,18 +451,57 @@ Realizaremos a análise e comentario da audición, prestando atención á partit
 \par
 \vspace*{0.35cm}
 
-```{r Puer-natus-est, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Introito do Puer natus est nobis", fig.scap="Puer natus est  nobis", out.width="100%"}
-knitr::include_graphics('figures/audicions/Puer-natus.eps')
-```
+\begin{figure}[ht]
+
+{\centering \includegraphics[width=1\linewidth]{figures/audicions/Puer-natus} 
+
+}
+
+\caption[Puer natus est  nobis]{Introito do Puer natus est nobis}(\#fig:Puer-natus-est)
+\end{figure}
 ---
 <!-- ANÁLISE DO PUER NATUS EST NOBIS -->
-```{r child=here::here('unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md')}
-```
+
+Se atendemos a unha primeira escoita da obra e tendo en conta a fonte de información facilitada, podemos deducir o seguinte:
+
+1. **Ritmo**. Estamos ante un tipo de ritmo *non mensural* dado que non atende a pulso regular; neste caso axústase ao texto. Non se indica compás e carece de indicacións dinámicas; podemos afirmar que desenvolve o tempo natural da declamación. Algunhas notas, aumentan a súa duración nas sílabas do final de frase e inciso, atendendo aos *punctum mora vocis*, que coinciden cos signos de puntuación do texto.
+
+2. **Melodía**. En canto ao tipo de melodía, observamos un salto de quinta na primeira sílaba; as notas non presentan grandes saltos, discurrindo por graos conxuntos con excepción de saltos de terceira tanto ascendentes como descendentes. Trátase dunha melodía diatónica.  
+    - **Modo**: a nota final da peza é un *sol* no primeiro espazo en clave de *dó en terceira*. O modo básico por tanto, debe ser *tetrardus* (IV). A nota máis aguda é un *fa* que está unha sétima por encima da final; a nota máis grave (o *sol*) é a mesma que a nota final. O modo é por tanto *tetrardus auténtico*, que corresponde co número 7. O tenor, que pode verse ao comezo da cadencia de *salmo* sobre o "E", é *re* (dominante de *sol*) que corresponde coa nota tenor do modo 7.  
+    - **Ámbito**: o ámbito total abarca desde o nota final *sol* ata o *fa*, unha sétima que é un ámbito próximo á oitava pero inferior a ela; polo tanto, é un ámbito máis ben pequeno.  
+    - **Estilo de canto**: tendo en conta que se cantan a maioría das sílabas adornadas cun *neuma* de entre dúas e sete notas, estamos ante un estilo de canto neumático. A segunda sección, ao tratarse dun verso de *salmo*, ten un estilo máis *silábico*.
+
+3. **Timbre**. Polas características da obra e a audición da mesma, diferenciamos un coro de voces masculinas cantando *a capella*, sen ningún tipo de acompañamento instrumental.
+
+4. **Textura**. Percíbese na audición, unha pequena reverberación que provoca un efecto *sostenuto* dalgunhas notas mentres soan as seguintes a modo de solape, creando así un efecto harmónico que non debemos confundir na textura. Trátase pois, dunha textura melódica de escrita horizontal onde só hai unha única liña melódica que todos cantan ao unísono; obedece a unha textura monódica.
+
+5. **Forma** ou estrutura formal. A peza comeza cunha sección extensa (A) que chega ata a primeira dobre barra no cuarto *tetragrama*. De seguido cántase un verso de salmo (B) seguido da *doxoloxía* (C) cantada coa mesma melodía do *salmo* e que aparece abreviada só co comezo (*Gloria Patri*) e o final (*seculorum amen*, escrito *Euouae*). A continuación, volve ao comezo e cántase ata o final da sección A, polo que a forma completa sería ABCA. Estamos ante unha forma de estrutura ternaria de "Canto Gregoriano"
+
+6. **Clasificación** no repertorio. Tendo en conta o **ámbito** de sétima e o **estilo** neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal* do *propio* da misa. A estrutura formal, coa inclusión de versos de *salmo*, corresponde tamén a este tipo de cantos.
+
+Con todos estes datos, estamos en disposición de elaborar a ficha de audición correspondente, onde indicaremos o título da obra, autor, xénero, estilo, etc.
+
+
+7. Datos da obra
+Título da obra: *Puer natus est nobis*
+Autor: anónimo
+Xénero: Vocal relixioso
+Estilo: Canto chá
+
+
+
+<!-- comprobar-->
 
  
 #### Exemplo no.2: Gradual "*Vidérunt ómnes*" {-}
 
 O exemplo da figura \@ref(fig:Puer-natus-est), pertence ao Gradual "*Vidérunt ómnes*". 
 
-```{r Viderunt-omnes, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Fragmento do Gradual Vidérunt ómnes", fig.scap="Vidérunt ómnes", out.width="100%"}
-knitr::include_graphics('figures/ud-03/Dies-irae.png')
+\begin{figure}[h]
+
+{\centering \includegraphics[width=1\linewidth]{figures/ud-03/Dies-irae} 
+
+}
+
+\caption[Vidérunt ómnes]{Fragmento do Gradual Vidérunt ómnes}(\#fig:Viderunt-omnes)
+\end{figure}
