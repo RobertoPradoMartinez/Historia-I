@@ -1,27 +1,15 @@
 ---
-header-includes:
-- \usepackage[utf8]{inputenc}
-- \usepackage{graphicx}
-- \usepackage{lipsum}
 output:
   #bookdown::html_document2: default
   #bookdown::word_document2: default
   bookdown::pdf_document2:
     template: templates/brief_template.tex
     citation_package: biblatex
-bib-humanities: true
-documentclass: book
-link-citations: yes # añadido
-linkcolor: blue
-urlcolor: blue
-citecolor: red
-mainfont: "Libertinus"
-papersize: a4
-fontsize: 10pt
-classoption: twocolumn
 
+documentclass: book
 
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
+
 ---
 
 <!-- Última actualización: Febreiro 2022 -->
@@ -99,7 +87,7 @@ Consideramos dous estilos fundamentais de ritmo:
 
 -   Ritmo **libre**:
 
-    As duracións dos sons non se axustan a ningún pulso, podendo alongarse ou acurtarse a vontade dos intérpretes. Na música vocal, o ritmo adoita axustarse ás necesidades do texto. Denomínaselle ás veces **ritmo *non mensural*** ou *non medido*.
+  As duracións dos sons non se axustan a ningún pulso, podendo alongarse ou acurtarse a vontade dos intérpretes. Na música vocal, o ritmo adoita axustarse ás necesidades do texto. Denomínaselle ás veces **ritmo *non mensural*** ou *non medido*.
 
 -   Ritmo **medido**:
 
@@ -199,8 +187,6 @@ A serie podía comezar na nota *dó*, na nota *fa* co «*si* suave» e na nota *
 
 Posto que os hexacordos podían comezar en notas diferentes, en melodías máis amplas utilizábase un sistema de paso dun hexacordo a outro chamado **solmisación**.
 
-<!--- NOTACIÓN MUSICAL MEDIEVAL-->
-
 ## A notación musical medieval {.unnumbered}
 
 ### A notación {.unnumbered}
@@ -223,23 +209,6 @@ Na primeira metade do século XI, **Guido d'Arezzo** reuniu varias técnicas que
 O **sistema guidoniano** tivo gran éxito e estendeuse inmediatamente por todo Occidente, aínda que as diversas notacións neumáticas seguíronse utilizando nalgúns lugares mesmo ata o século XVI.
 
 Da notación guidoniana derivaron outras, como a notación alemá de cravo **de ferradura** ou a **notación cadrada** francesa, que naceu no século XII e que aínda se utiliza nos libros de canto gregoriano. Esta última adaptouse posteriormente para as cancións trovadorescas e outros xéneros de música profana. A partir do século XIII, as novas técnicas da música polifónica farán evolucionar a notacións, especialmente no aspecto rítmico.
-
-```{=html}
-<!--
-![Notación neumática](figures/ud-03/neumas-sangalo.jpg)
--->
-```
-```{=html}
-<!--
-![Notación guidoniana](figures/ud-03/neumas-guidoniana.png)
--->
-```
-```{=html}
-<!--
-![Notación cuadrada](figures/ud-03/neumas-cisterciense.jpg)
--->
-```
-<!-- CANTO GREGORIANO CARACTERÍSTICAS -->
 
 \newpage
 
@@ -323,7 +292,7 @@ Se ben cada hora tiña unha estrutura diferente, os cantos do oficio pódense ag
 
 A gran maioría das melodías do repertorio gregoriano e as dos seus predecesores son anónimas, en parte debido o escaso interese que os músicos medievais --e os artistas en xeral-- tiñan en canto á cuestión da autoría. Coñecemos varios nomes de compositores: entre eles, **Notker de San Gall** (s. IX-X), ou **Hildegard de Bingen** (s.XII) destacada escritora, científica e conselleira de papas e emperadores.
 
-<!-- EXPANSIÓNS DO CANTO -->
+
 
 ## Expansións do canto gregoriano {.unnumbered}
 
@@ -343,9 +312,7 @@ As técnicas de tropar son fundamentalmente tres:
 
 -   Adición de texto: neste caso, non se engade un melisma senón texto nun canto, transformando este melisma nunha pasaxe en estilo silábico; recibía os nomes de prosa ou *prosula*.
 
--   Adición de música e texto.
-
-    É a técnica máis importante, e a que recibiu propiamente o nome de tropo . Consistía en engadir pasaxes breves (ás veces non tan breves) de texto con música, que se situaban ao comezo ou ao final dun canto, ou ben se intercalaban entre os versos de leste.
+-   Adición de música e texto. É a técnica máis importante, e a que recibiu propiamente o nome de tropo . Consistía en engadir pasaxes breves (ás veces non tan breves) de texto con música, que se situaban ao comezo ou ao final dun canto, ou ben se intercalaban entre os versos de leste.
 
 Como exemplo desta técnica atopamos o *Kyrie fons bonitatis*, resultado de tropar con texto o *Kyrie*:
 
@@ -353,11 +320,6 @@ Como exemplo desta técnica atopamos o *Kyrie fons bonitatis*, resultado de trop
 knitr::include_graphics('figures/ud-03/Kyrie-1.png')
 ```
 
-```{=html}
-<!--
-![Melodía do kyrie](figures/ud-03/Kyrie-1.png)
--->
-```
 A versión tropada, quedaría polo tanto do seguinte xeito no [*Kyrie fons bonitatis*](https://es.wikipedia.org/wiki/Kyrie_eleison "Enlace á Wikipedia"): [(audición)](https://open.spotify.com/track/74ztOxzqhvEStzW4pqZII0?si=fbe1ed03f9bf4d6c "Enlace á audición no Spotify")
 
 ```{r kyrie-fons-bonitatis, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Melodía tropada do Kyrie", fig.scap="Melodía tropada do Kyrie fons bonitatis", out.width="100%"}
@@ -400,13 +362,9 @@ A orixe do drama litúrxico adóitase relacionar cunha composición coñecida co
 
 \newpage
 
-## Actividades e audicións desta unidade {-}
+## Actividades e audicións{-}
 
-### Listado de audicións {-}
-
-
-
-### Análise e comentario de audición con partitura {-}
+### Análise e comentario de audicóns con partitura {-}
 
 Para realizar unha análise da obra, primeiramente faremos unha lectura a vista da información que nos ofrece; ollaremos a escrita prestando especial atención a tódolos elementos que observamos, tratando de identificalos. Dado que se trata dunha análise de audición con partitura, escoitaremos de seguido a obra tomando como guía a partitura, observando o perfil melódico, pausas, relación música texto, etc.   
 
@@ -427,17 +385,20 @@ Debemos determinar:
 \vspace*{0.25cm}
 
 Realizaremos a análise e comentario da audición, prestando atención á partitura e os elementos que observamos na mesma.
-
 \par
 \vspace*{0.35cm}
 
 ```{r Puer-natus-est, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Introito do Puer natus est nobis", fig.scap="Puer natus est  nobis", out.width="100%"}
 knitr::include_graphics('figures/audicions/Puer-natus.eps')
 ```
+
 ---
+
 <!-- ANÁLISE DO PUER NATUS EST NOBIS -->
+
 ```{r child=here::here('unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md')}
 ```
+
 
  
 #### Exemplo no.2: Gradual "*Vidérunt ómnes*" {-}
@@ -446,3 +407,5 @@ O exemplo da figura \@ref(fig:Puer-natus-est), pertence ao Gradual "*Vidérunt �
 
 ```{r Viderunt-omnes, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Fragmento do Gradual Vidérunt ómnes", fig.scap="Vidérunt ómnes", out.width="100%"}
 knitr::include_graphics('figures/ud-03/Dies-irae.png')
+
+

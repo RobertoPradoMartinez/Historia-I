@@ -15,15 +15,5 @@ Se atendemos a unha primeira escoita da obra e tendo en conta a fonte de informa
 
 6. **Clasificación** no repertorio. Tendo en conta o **ámbito** de sétima e o **estilo** neumático do canto, a peza debía ser interpretada polos cantores profesionais e por tanto debe ser un canto *antifonal* do *propio* da misa. A estrutura formal, coa inclusión de versos de *salmo*, corresponde tamén a este tipo de cantos.
 
-Con todos estes datos, estamos en disposición de elaborar a ficha de audición correspondente, onde indicaremos o título da obra, autor, xénero, estilo, etc.
+Unha vez realizada a análise da audición, debemos indicar o título e autor (de ser posible), período-época á que pertence, xénero e estilo completando así as conclusións sobre a obra.
 
-
-7. Datos da obra
-Título da obra: *Puer natus est nobis*
-Autor: anónimo
-Xénero: Vocal relixioso
-Estilo: Canto chá
-
-
-
-<!-- comprobar-->

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.2)  4 FEB 2022 18:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2022.2.2)  4 FEB 2022 20:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,61 +749,56 @@ Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
 \ULC@box=\box122
 Package: ulem 2019/11/18
 \ULdepth=\dimen283
-) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count344
-\l__lipsum_a_int=\count345
-\l__lipsum_b_int=\count346
-(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.sty
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count347
+\lrq@indent=\count344
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-\c@tabx@nest=\count348
-\c@listtotal=\count349
-\c@listcount=\count350
-\c@liststart=\count351
-\c@liststop=\count352
-\c@citecount=\count353
-\c@citetotal=\count354
-\c@multicitecount=\count355
-\c@multicitetotal=\count356
-\c@instcount=\count357
-\c@maxnames=\count358
-\c@minnames=\count359
-\c@maxitems=\count360
-\c@minitems=\count361
-\c@citecounter=\count362
-\c@maxcitecounter=\count363
-\c@savedcitecounter=\count364
-\c@uniquelist=\count365
-\c@uniquename=\count366
-\c@refsection=\count367
-\c@refsegment=\count368
-\c@maxextratitle=\count369
-\c@maxextratitleyear=\count370
-\c@maxextraname=\count371
-\c@maxextradate=\count372
-\c@maxextraalpha=\count373
-\c@abbrvpenalty=\count374
-\c@highnamepenalty=\count375
-\c@lownamepenalty=\count376
-\c@maxparens=\count377
-\c@parenlevel=\count378
-\blx@tempcnta=\count379
-\blx@tempcntb=\count380
-\blx@tempcntc=\count381
-\c@blx@maxsection=\count382
-\c@blx@maxsegment@0=\count383
-\blx@notetype=\count384
-\blx@parenlevel@text=\count385
-\blx@parenlevel@foot=\count386
-\c@blx@sectionciteorder@0=\count387
-\blx@entrysetcounter=\count388
-\blx@biblioinstance=\count389
+\c@tabx@nest=\count345
+\c@listtotal=\count346
+\c@listcount=\count347
+\c@liststart=\count348
+\c@liststop=\count349
+\c@citecount=\count350
+\c@citetotal=\count351
+\c@multicitecount=\count352
+\c@multicitetotal=\count353
+\c@instcount=\count354
+\c@maxnames=\count355
+\c@minnames=\count356
+\c@maxitems=\count357
+\c@minitems=\count358
+\c@citecounter=\count359
+\c@maxcitecounter=\count360
+\c@savedcitecounter=\count361
+\c@uniquelist=\count362
+\c@uniquename=\count363
+\c@refsection=\count364
+\c@refsegment=\count365
+\c@maxextratitle=\count366
+\c@maxextratitleyear=\count367
+\c@maxextraname=\count368
+\c@maxextradate=\count369
+\c@maxextraalpha=\count370
+\c@abbrvpenalty=\count371
+\c@highnamepenalty=\count372
+\c@lownamepenalty=\count373
+\c@maxparens=\count374
+\c@parenlevel=\count375
+\blx@tempcnta=\count376
+\blx@tempcntb=\count377
+\blx@tempcntc=\count378
+\c@blx@maxsection=\count379
+\c@blx@maxsegment@0=\count380
+\blx@notetype=\count381
+\blx@parenlevel@text=\count382
+\blx@parenlevel@foot=\count383
+\c@blx@sectionciteorder@0=\count384
+\blx@entrysetcounter=\count385
+\blx@biblioinstance=\count386
 \labelnumberwidth=\skip90
 \labelalphawidth=\skip91
 \biblabelsep=\skip92
@@ -815,86 +810,86 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \blx@bcfin=\read4
 \blx@bcfout=\write5
 \blx@langwohyphens=\language9
-\c@mincomprange=\count390
-\c@maxcomprange=\count391
-\c@mincompwidth=\count392
+\c@mincomprange=\count387
+\c@maxcomprange=\count388
+\c@mincompwidth=\count389
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count393
-\c@savedafterword=\count394
-\c@annotator=\count395
-\c@savedannotator=\count396
-\c@author=\count397
-\c@savedauthor=\count398
-\c@bookauthor=\count399
-\c@savedbookauthor=\count400
-\c@commentator=\count401
-\c@savedcommentator=\count402
-\c@editor=\count403
-\c@savededitor=\count404
-\c@editora=\count405
-\c@savededitora=\count406
-\c@editorb=\count407
-\c@savededitorb=\count408
-\c@editorc=\count409
-\c@savededitorc=\count410
-\c@foreword=\count411
-\c@savedforeword=\count412
-\c@holder=\count413
-\c@savedholder=\count414
-\c@introduction=\count415
-\c@savedintroduction=\count416
-\c@namea=\count417
-\c@savednamea=\count418
-\c@nameb=\count419
-\c@savednameb=\count420
-\c@namec=\count421
-\c@savednamec=\count422
-\c@translator=\count423
-\c@savedtranslator=\count424
-\c@shortauthor=\count425
-\c@savedshortauthor=\count426
-\c@shorteditor=\count427
-\c@savedshorteditor=\count428
-\c@labelname=\count429
-\c@savedlabelname=\count430
-\c@institution=\count431
-\c@savedinstitution=\count432
-\c@lista=\count433
-\c@savedlista=\count434
-\c@listb=\count435
-\c@savedlistb=\count436
-\c@listc=\count437
-\c@savedlistc=\count438
-\c@listd=\count439
-\c@savedlistd=\count440
-\c@liste=\count441
-\c@savedliste=\count442
-\c@listf=\count443
-\c@savedlistf=\count444
-\c@location=\count445
-\c@savedlocation=\count446
-\c@organization=\count447
-\c@savedorganization=\count448
-\c@origlocation=\count449
-\c@savedoriglocation=\count450
-\c@origpublisher=\count451
-\c@savedorigpublisher=\count452
-\c@publisher=\count453
-\c@savedpublisher=\count454
-\c@language=\count455
-\c@savedlanguage=\count456
-\c@origlanguage=\count457
-\c@savedoriglanguage=\count458
-\c@pageref=\count459
-\c@savedpageref=\count460
+\c@afterword=\count390
+\c@savedafterword=\count391
+\c@annotator=\count392
+\c@savedannotator=\count393
+\c@author=\count394
+\c@savedauthor=\count395
+\c@bookauthor=\count396
+\c@savedbookauthor=\count397
+\c@commentator=\count398
+\c@savedcommentator=\count399
+\c@editor=\count400
+\c@savededitor=\count401
+\c@editora=\count402
+\c@savededitora=\count403
+\c@editorb=\count404
+\c@savededitorb=\count405
+\c@editorc=\count406
+\c@savededitorc=\count407
+\c@foreword=\count408
+\c@savedforeword=\count409
+\c@holder=\count410
+\c@savedholder=\count411
+\c@introduction=\count412
+\c@savedintroduction=\count413
+\c@namea=\count414
+\c@savednamea=\count415
+\c@nameb=\count416
+\c@savednameb=\count417
+\c@namec=\count418
+\c@savednamec=\count419
+\c@translator=\count420
+\c@savedtranslator=\count421
+\c@shortauthor=\count422
+\c@savedshortauthor=\count423
+\c@shorteditor=\count424
+\c@savedshorteditor=\count425
+\c@labelname=\count426
+\c@savedlabelname=\count427
+\c@institution=\count428
+\c@savedinstitution=\count429
+\c@lista=\count430
+\c@savedlista=\count431
+\c@listb=\count432
+\c@savedlistb=\count433
+\c@listc=\count434
+\c@savedlistc=\count435
+\c@listd=\count436
+\c@savedlistd=\count437
+\c@liste=\count438
+\c@savedliste=\count439
+\c@listf=\count440
+\c@savedlistf=\count441
+\c@location=\count442
+\c@savedlocation=\count443
+\c@organization=\count444
+\c@savedorganization=\count445
+\c@origlocation=\count446
+\c@savedoriglocation=\count447
+\c@origpublisher=\count448
+\c@savedorigpublisher=\count449
+\c@publisher=\count450
+\c@savedpublisher=\count451
+\c@language=\count452
+\c@savedlanguage=\count453
+\c@origlanguage=\count454
+\c@savedoriglanguage=\count455
+\c@pageref=\count456
+\c@savedpageref=\count457
 \shorthandwidth=\skip98
 \shortjournalwidth=\skip99
 \shortserieswidth=\skip100
@@ -918,42 +913,54 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count461
-\c@textcitetotal=\count462
-\c@textcitemaxnames=\count463
-\c@biburlbigbreakpenalty=\count464
-\c@biburlbreakpenalty=\count465
-\c@biburlnumpenalty=\count466
-\c@biburlucpenalty=\count467
-\c@biburllcpenalty=\count468
+\c@textcitecount=\count458
+\c@textcitetotal=\count459
+\c@textcitemaxnames=\count460
+\c@biburlbigbreakpenalty=\count461
+\c@biburlbreakpenalty=\count462
+\c@biburlnumpenalty=\count463
+\c@biburlucpenalty=\count464
+\c@biburllcpenalty=\count465
 \biburlbigskip=\muskip21
 \biburlnumskip=\muskip22
 \biburlucskip=\muskip23
 \biburllcskip=\muskip24
-\c@smartand=\count469
+\c@smartand=\count466
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
-(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count470
-\c@bbx:relatedtotal=\count471
-))
-Package biblatex Info: Trying to load citation style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.cbx' found.
-(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
-File: authoryear.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+\c@bbx:relatedcount=\count467
+\c@bbx:relatedtotal=\count468
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count469
+\c@cbx@tempcntb=\count470
+\c@cbx@tempcntc=\count471
+\c@cbx@tempcntd=\count472
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -984,30 +991,359 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
-LaTeX Font Info:    Trying to load font information for T1+LibertinusSerif-TLF on input line 170.
+LaTeX Font Info:    Trying to load font information for T1+LibertinusSerif-TLF on input line 167.
 (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/libertinus-type1/T1LibertinusSerif-TLF.fd
 File: T1LibertinusSerif-TLF.fd 2020/08/22 (autoinst) Font definitions for T1/LibertinusSerif-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 170.
+(Font)              scaled to size 12.0pt on input line 167.
 (./03-unidade-03.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 )
-Runaway argument?
-{\co 
-! File ended while scanning use of \@writefile.
-<inserted text> 
-                \par 
-l.170 \begin{document}
-                       
-Here is how much of TeX's memory you used:
- 27794 strings out of 480154
- 489982 string characters out of 5891455
- 1102765 words of memory out of 5000000
- 45214 multiletter control sequences out of 15000+600000
- 477725 words of font info for 33 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
- 70i,1n,77p,746b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
+\openout1 = `03-unidade-03.aux'.
 
-!  ==> Fatal error occurred, no output PDF file produced!
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(88.2037pt, 421.10046pt, 88.2037pt)
+* v-part:(T,H,B)=(71.13188pt, 697.09262pt, 76.82234pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=421.10046pt
+* \textheight=662.33034pt
+* \oddsidemargin=15.93372pt
+* \evensidemargin=15.93372pt
+* \topmargin=-1.1381pt
+* \headheight=15.0pt
+* \headsep=22.76228pt
+* \topskip=12.0pt
+* \footskip=34.14322pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Info: Redefining \microtypecontext on input line 167.
+Package microtype Info: Applying patch `item' on input line 167.
+Package microtype Info: Applying patch `toc' on input line 167.
+Package microtype Info: Applying patch `eqnum' on input line 167.
+Package microtype Info: Applying patch `footnote' on input line 167.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 167.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `LibertinusSerif-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
+Package hyperref Info: Link coloring OFF on input line 167.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count473
+)
+LaTeX Info: Redefining \ref on input line 167.
+LaTeX Info: Redefining \pageref on input line 167.
+LaTeX Info: Redefining \nameref on input line 167.
+(./03-unidade-03.out) (./03-unidade-03.out)
+\@outlinefile=\write6
+\openout6 = `03-unidade-03.out'.
+
+\c@mv@tabular=\count474
+\c@mv@boldtabular=\count475
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+File: spanish.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `03-unidade-03.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file '03-unidade-03.bbl' found.
+(./03-unidade-03.bbl)
+Package biblatex Info: Reference section=0 on input line 167.
+Package biblatex Info: Reference segment=0 on input line 167.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
+(Font)              scaled to size 24.88pt on input line 183.
+LaTeX Font Info:    Trying to load font information for T1+put on input line 183.
+(/home/robertopradomartinez/.TinyTeX/texmf-dist/tex/latex/psnfss/t1put.fd
+File: t1put.fd 2001/06/04 font definitions for T1/put.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `put' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package minitoc Info: I0006
+(minitoc)             03-unidade-03.mtc0 is empty on input line 187.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 189.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
+(Font)              scaled to size 17.28pt on input line 189.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 190.
+
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 193.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 193.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 198.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 198.
+<figures/ud-03/grupos.png, id=90, 255.354pt x 62.634pt>
+File: figures/ud-03/grupos.png Graphic file (type png)
+<use figures/ud-03/grupos.png>
+Package pdftex.def Info: figures/ud-03/grupos.png  used on input line 211.
+(pdftex.def)             Requested size: 255.35338pt x 62.63383pt.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 212.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 212.
+<figures/ud-03/escalas-2.png, id=92, 222.5916pt x 61.1886pt>
+File: figures/ud-03/escalas-2.png Graphic file (type png)
+<use figures/ud-03/escalas-2.png>
+Package pdftex.def Info: figures/ud-03/escalas-2.png  used on input line 219.
+(pdftex.def)             Requested size: 222.59105pt x 61.18843pt.
+[1
+
+
+{/home/robertopradomartinez/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/ud-03/grupos.png>]
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/it' will be
+(Font)              scaled to size 12.0pt on input line 241.
+
+Overfull \hbox (10.66518pt too wide) in paragraph at lines 254--255
+[]\T1/LibertinusSerif-TLF/m/n/12 (-20) Na músi-ca men-su-ral, o pul-so pode pre-sen-tar di-ver-sas diferen-zas (por ejem-pl, forte/débil).
+ []
+
+<figures/ud-03/compases.png, id=108, 355.0866pt x 50.1072pt>
+File: figures/ud-03/compases.png Graphic file (type png)
+<use figures/ud-03/compases.png>
+Package pdftex.def Info: figures/ud-03/compases.png  used on input line 260.
+(pdftex.def)             Requested size: 355.08571pt x 50.10706pt.
+<figures/ud-03/ciclos-1.png, id=109, 352.6776pt x 56.3706pt>
+File: figures/ud-03/ciclos-1.png Graphic file (type png)
+<use figures/ud-03/ciclos-1.png>
+Package pdftex.def Info: figures/ud-03/ciclos-1.png  used on input line 278.
+(pdftex.def)             Requested size: 352.67673pt x 56.37045pt.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/sl' in size <12> not available
+(Font)              Font shape `T1/LibertinusSerif-TLF/m/it' tried instead on input line 287.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 287.
+[2 <./figures/ud-03/escalas-2.png (PNG copy)> <./figures/ud-03/compases.png (PNG copy)>]
+<figures/ud-03/modosritmicos.png, id=119, 235.6002pt x 132.495pt>
+File: figures/ud-03/modosritmicos.png Graphic file (type png)
+<use figures/ud-03/modosritmicos.png>
+Package pdftex.def Info: figures/ud-03/modosritmicos.png  used on input line 292.
+(pdftex.def)             Requested size: 235.59961pt x 132.49466pt.
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/it' will be
+(Font)              scaled to size 14.4pt on input line 303.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 304.
+
+<figures/ud-03/especies.jpg, id=120, 341.275pt x 266.9975pt>
+File: figures/ud-03/especies.jpg Graphic file (type jpg)
+<use figures/ud-03/especies.jpg>
+Package pdftex.def Info: figures/ud-03/especies.jpg  used on input line 310.
+(pdftex.def)             Requested size: 341.27415pt x 266.99683pt.
+[3 <./figures/ud-03/ciclos-1.png (PNG copy)> <./figures/ud-03/modosritmicos.png (PNG copy)>]
+<figures/ud-03/sistema-modal.jpg, id=129, 463.9734pt x 355.0866pt>
+File: figures/ud-03/sistema-modal.jpg Graphic file (type jpg)
+<use figures/ud-03/sistema-modal.jpg>
+Package pdftex.def Info: figures/ud-03/sistema-modal.jpg  used on input line 341.
+(pdftex.def)             Requested size: 463.97226pt x 355.08571pt.
+
+Overfull \hbox (42.8718pt too wide) in paragraph at lines 341--342
+ [][] 
+ []
+
+[4 <./figures/ud-03/especies.jpg>] [5 <./figures/ud-03/sistema-modal.jpg>]
+<figures/ud-03/sistemaCompleto.jpg, id=147, 447.5922pt x 121.8954pt>
+File: figures/ud-03/sistemaCompleto.jpg Graphic file (type jpg)
+<use figures/ud-03/sistemaCompleto.jpg>
+Package pdftex.def Info: figures/ud-03/sistemaCompleto.jpg  used on input line 397.
+(pdftex.def)             Requested size: 447.5911pt x 121.8951pt.
+
+Overfull \hbox (26.49063pt too wide) in paragraph at lines 397--398
+ [][] 
+ []
+
+<figures/ud-03/hexacordos.jpg, id=148, 213.4374pt x 152.2488pt>
+File: figures/ud-03/hexacordos.jpg Graphic file (type jpg)
+<use figures/ud-03/hexacordos.jpg>
+Package pdftex.def Info: figures/ud-03/hexacordos.jpg  used on input line 407.
+(pdftex.def)             Requested size: 213.43686pt x 152.24841pt.
+[6 <./figures/ud-03/sistemaCompleto.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 419.
+
+[7 <./figures/ud-03/hexacordos.jpg>] [8]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 457.
+
+[9] [10]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 581.
+
+[11]
+<figures/ud-03/Kyrie-1.png, id=194, 4078.23625pt x 473.77pt>
+File: figures/ud-03/Kyrie-1.png Graphic file (type png)
+<use figures/ud-03/Kyrie-1.png>
+Package pdftex.def Info: figures/ud-03/Kyrie-1.png  used on input line 602.
+(pdftex.def)             Requested size: 421.10046pt x 48.91235pt.
+<figures/ud-03/Kyrie-fons-bonitatis.png, id=197, 4078.23625pt x 473.77pt>
+File: figures/ud-03/Kyrie-fons-bonitatis.png Graphic file (type png)
+<use figures/ud-03/Kyrie-fons-bonitatis.png>
+Package pdftex.def Info: figures/ud-03/Kyrie-fons-bonitatis.png  used on input line 613.
+(pdftex.def)             Requested size: 421.10046pt x 48.91235pt.
+[12 <./figures/ud-03/Kyrie-1.png> <./figures/ud-03/Kyrie-fons-bonitatis.png>]
+<figures/ud-03/Dies-irae.png, id=209, 582.175pt x 981.6675pt>
+File: figures/ud-03/Dies-irae.png Graphic file (type png)
+<use figures/ud-03/Dies-irae.png>
+Package pdftex.def Info: figures/ud-03/Dies-irae.png  used on input line 650.
+(pdftex.def)             Requested size: 315.82535pt x 532.54912pt.
+[13] [14 <./figures/ud-03/Dies-irae.png>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 673.
+
+[15]
+Package epstopdf Info: Source file: <figures/audicions/Puer-natus.eps>
+(epstopdf)                    date: 2022-02-04 12:25:18
+(epstopdf)                    size: 204354 bytes
+(epstopdf)             Output file: <figures/audicions/Puer-natus-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-02-04 12:25:47
+(epstopdf)                    size: 30541 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/audicions/Puer-natus-eps-converted-to.pdf figures/audicions/Puer-natus.eps>
+(epstopdf)             \includegraphics on input line 713.
+Package epstopdf Info: Output file is already uptodate.
+<figures/audicions/Puer-natus-eps-converted-to.pdf, id=232, 312.16624pt x 320.19624pt>
+File: figures/audicions/Puer-natus-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/audicions/Puer-natus-eps-converted-to.pdf>
+Package pdftex.def Info: figures/audicions/Puer-natus-eps-converted-to.pdf  used on input line 713.
+(pdftex.def)             Requested size: 421.10046pt x 431.94334pt.
+[16 <./figures/audicions/Puer-natus-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 734--736
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 736--738
+
+ []
+
+[17]
+File: figures/ud-03/Dies-irae.png Graphic file (type png)
+<use figures/ud-03/Dies-irae.png>
+Package pdftex.def Info: figures/ud-03/Dies-irae.png  used on input line 760.
+(pdftex.def)             Requested size: 421.10046pt x 710.08047pt.
+
+LaTeX Warning: Float too large for page by 71.35013pt on input line 765.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Empty bibliography on input line 778.
+
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the 03-unidade-03.maf file.
+\openout3 = `03-unidade-03.maf'.
+
+[18] [19] (./03-unidade-03.aux
+LaTeX Info: Redefining \sptext on input line 26.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+)
+Package rerunfilecheck Info: File `03-unidade-03.out' has not changed.
+(rerunfilecheck)             Checksum: 7E71F923FA790BBDCBD47A7AC558A5C8;4237.
+Package logreq Info: Writing requests to '03-unidade-03.run.xml'.
+\openout1 = `03-unidade-03.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 29466 strings out of 480154
+ 528054 string characters out of 5891455
+ 1275563 words of memory out of 5000000
+ 46401 multiletter control sequences out of 15000+600000
+ 575138 words of font info for 244 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 70i,12n,77p,1188b,1832s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_opzo24.enc}{/home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_nufysp.enc}{/home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_sfissr.enc}{/home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/enc/dvips/libertinus-type1/lbts_75t36g.enc}</home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/type1/public/libertinus-type1/LibertinusSerif-Bold.pfb></home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/type1/public/libertinus-type1/LibertinusSerif-BoldItalic.pfb></home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/type1/public/libertinus-type1/LibertinusSerif-Italic.pfb></home/robertopradomartinez/.TinyTeX/texmf-dist/fonts/type1/public/libertinus-type1/LibertinusSerif-Regular.pfb>
+Output written on 03-unidade-03.pdf (19 pages, 733257 bytes).
+PDF statistics:
+ 395 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 48378 words of extra memory for PDF output out of 51595 (max. 10000000)
+
