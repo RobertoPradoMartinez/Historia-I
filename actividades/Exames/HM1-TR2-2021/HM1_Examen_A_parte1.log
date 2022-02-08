@@ -1,0 +1,1236 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 17:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/media/roberto/AULA-CMUS/Temas_Historia/Historia1/Exercicios_Exames_HM1/Exame
+s/TR-2-2021/HM1_Examen_A_parte1.tex
+
+(/media/roberto/AULA-CMUS/Temas_Historia/Historia1/Exercicios_Exames_HM1/Exames
+/TR-2-2021/HM1_Examen_A_parte1.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/home/roberto/.TinyTeX/texmf-dist/tex/latex/
+base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (../../Modelos/include/config-HM1examen_A_Parte1.tex (/home/roberto/.TinyTeX/
+texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks16
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (650.0pt) is ignored.
+
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/02/22 3.54 The Babel package
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/02/22 3.54 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen147
+\l@babelnohyphens=\language4
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks19
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+Package babel Info: Making ' an active character on input line 725.
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks20
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count193
+\mult@box=\box47
+\multicol@leftmargin=\dimen148
+\c@unbalance=\count194
+\c@collectmore=\count195
+\doublecol@number=\count196
+\multicoltolerance=\count197
+\multicolpretolerance=\count198
+\full@width=\dimen149
+\page@free=\dimen150
+\premulticols=\dimen151
+\postmulticols=\dimen152
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen153
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count199
+\c@columnbadness=\count266
+\c@finalcolumnbadness=\count267
+\last@try=\dimen154
+\multicolovershoot=\dimen155
+\multicolundershoot=\dimen156
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count268
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box93
+\shadowsize=\dimen157
+\@Sbox=\box94
+\do@VerbBox=\toks21
+\the@fancyput=\toks22
+\this@fancyput=\toks23
+\EndVerbatimTokens=\toks24
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read3
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/02/05 v0.5s Insert pages of external PDF documents (AM)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count269
+\calc@Bcount=\count270
+\calc@Adimen=\dimen158
+\calc@Bdimen=\dimen159
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count271
+\calc@Cskip=\skip62
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen160
+\ESO@tempdimb=\dimen161
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+\AM@pagewidth=\dimen164
+\AM@pageheight=\dimen165
+\AM@fboxrule=\dimen166
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/02/05 v0.5s Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count272
+\AM@pagebox=\box95
+\AM@global@opts=\toks25
+\AM@pagecnt=\count273
+\AM@toc@title=\toks26
+\c@AM@survey=\count274
+\AM@templatesizebox=\box96
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/
+home/roberto/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box97
+))
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-0
+1.sty
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.t
+ex))) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\c@abspage=\count277
+Package zref Info: New property: abspage on input line 66.
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip63
+\c@mdf@globalstyle@cnt=\count278
+\mdf@skipabove@length=\skip64
+\mdf@skipbelow@length=\skip65
+\mdf@leftmargin@length=\skip66
+\mdf@rightmargin@length=\skip67
+\mdf@innerleftmargin@length=\skip68
+\mdf@innerrightmargin@length=\skip69
+\mdf@innertopmargin@length=\skip70
+\mdf@innerbottommargin@length=\skip71
+\mdf@splittopskip@length=\skip72
+\mdf@splitbottomskip@length=\skip73
+\mdf@outermargin@length=\skip74
+\mdf@innermargin@length=\skip75
+\mdf@linewidth@length=\skip76
+\mdf@innerlinewidth@length=\skip77
+\mdf@middlelinewidth@length=\skip78
+\mdf@outerlinewidth@length=\skip79
+\mdf@roundcorner@length=\skip80
+\mdf@footenotedistance@length=\skip81
+\mdf@userdefinedwidth@length=\skip82
+\mdf@needspace@length=\skip83
+\mdf@frametitleaboveskip@length=\skip84
+\mdf@frametitlebelowskip@length=\skip85
+\mdf@frametitlerulewidth@length=\skip86
+\mdf@frametitleleftmargin@length=\skip87
+\mdf@frametitlerightmargin@length=\skip88
+\mdf@shadowsize@length=\skip89
+\mdf@extratopheight@length=\skip90
+\mdf@subtitleabovelinewidth@length=\skip91
+\mdf@subtitlebelowlinewidth@length=\skip92
+\mdf@subtitleaboveskip@length=\skip93
+\mdf@subtitlebelowskip@length=\skip94
+\mdf@subtitleinneraboveskip@length=\skip95
+\mdf@subtitleinnerbelowskip@length=\skip96
+\mdf@subsubtitleabovelinewidth@length=\skip97
+\mdf@subsubtitlebelowlinewidth@length=\skip98
+\mdf@subsubtitleaboveskip@length=\skip99
+\mdf@subsubtitlebelowskip@length=\skip100
+\mdf@subsubtitleinneraboveskip@length=\skip101
+\mdf@subsubtitleinnerbelowskip@length=\skip102
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/home/
+roberto/.TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/home/roberto/.Ti
+nyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lis
+ts.tex)) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-l
+atex.def
+\pgfutil@abb=\box98
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex 
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/home/
+roberto/.TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/home/roberto
+/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen169
+\pgf@y=\dimen170
+\pgf@xa=\dimen171
+\pgf@ya=\dimen172
+\pgf@xb=\dimen173
+\pgf@yb=\dimen174
+\pgf@xc=\dimen175
+\pgf@yc=\dimen176
+\pgf@xd=\dimen177
+\pgf@yd=\dimen178
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count279
+\c@pgf@countb=\count280
+\c@pgf@countc=\count281
+\c@pgf@countd=\count282
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count283
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.de
+f
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pd
+f.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.c
+ode.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count284
+\pgfsyssoftpath@bigbuffer@items=\count285
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.c
+ode.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.t
+ex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/home
+/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/home/r
+oberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/ro
+berto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count286
+\pgfmath@box=\box99
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.t
+ex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.
+code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigon
+ometric.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random
+.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compar
+ison.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.c
+ode.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.
+code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.c
+ode.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.intege
+rarithmetics.code.tex))) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/mat
+h/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count287
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.cod
+e.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstr
+uct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.
+code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.cod
+e.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box100
+\pgf@hbox=\box101
+\pgf@layerbox@main=\box102
+\pgf@picture@serial@count=\count288
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicsta
+te.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen198
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransforma
+tions.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code
+.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.co
+de.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproces
+sing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.cod
+e.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen258
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code
+.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count289
+\pgf@shadingcount=\count290
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code
+.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.c
+ode.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box103
+))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.cod
+e.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparen
+cy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.c
+ode.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.t
+ex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code
+.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box104
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.t
+ex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-
+0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-
+1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/home
+/roberto/.TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/home/roberto
+/.TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/home/robert
+o/.TinyTeX/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/home/roberto/.TinyTeX/te
+xmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/home/roberto/.TinyTeX/texmf-
+dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code
+.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothand
+lers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count291
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikz@lastmovetox=\dimen269
+\tikz@lastmovetoy=\dimen270
+\tikzleveldistance=\dimen271
+\tikzsiblingdistance=\dimen272
+\tikz@figbox=\box105
+\tikz@figbox@bg=\box106
+\tikz@tempbox=\box107
+\tikz@tempbox@bg=\box108
+\tikztreelevel=\count292
+\tikznumberofchildren=\count293
+\tikznumberofcurrentchild=\count294
+\tikz@fig@count=\count295
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code
+.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count296
+\pgfmatrixcurrentcolumn=\count297
+\pgf@matrix@numberofcolumns=\count298
+)
+\tikz@expandcount=\count299
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box109
+\mdf@footnotebox=\box110
+\mdf@splitbox@one=\box111
+\mdf@splitbox@two=\box112
+\mdf@splitbox@save=\box113
+\mdfsplitboxwidth=\skip103
+\mdfsplitboxtotalwidth=\skip104
+\mdfsplitboxheight=\skip105
+\mdfsplitboxdepth=\skip106
+\mdfsplitboxtotalheight=\skip107
+\mdfframetitleboxwidth=\skip108
+\mdfframetitleboxtotalwidth=\skip109
+\mdfframetitleboxheight=\skip110
+\mdfframetitleboxdepth=\skip111
+\mdfframetitleboxtotalheight=\skip112
+\mdffootnoteboxwidth=\skip113
+\mdffootnoteboxtotalwidth=\skip114
+\mdffootnoteboxheight=\skip115
+\mdffootnoteboxdepth=\skip116
+\mdffootnoteboxtotalheight=\skip117
+\mdftotallinewidth=\skip118
+\mdfboundingboxwidth=\skip119
+\mdfboundingboxtotalwidth=\skip120
+\mdfboundingboxheight=\skip121
+\mdfboundingboxdepth=\skip122
+\mdfboundingboxtotalheight=\skip123
+\mdf@freevspace@length=\skip124
+\mdf@horizontalwidthofbox@length=\skip125
+\mdf@verticalmarginwhole@length=\skip126
+\mdf@horizontalspaceofbox=\skip127
+\mdfsubtitleheight=\skip128
+\mdfsubsubtitleheight=\skip129
+\c@mdfcountframes=\count300
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count301
+\c@mdf@env@i=\count302
+\c@mdf@env@ii=\count303
+\c@mdf@zref@counter=\count304
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarythrough.code.tex
+File: tikzlibrarythrough.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@layerbox@background=\box114
+\pgf@layerboxsaved@background=\box115
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.c
+ode.tex
+File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\arrowsize=\dimen273
+))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrarys
+hapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/datavisualization/tikzlibrarydatavisualization.code.tex
+File: tikzlibrarydatavisualization.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduledatavisuali
+zation.code.tex
+File: pgfmoduledatavisualization.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.tex
+\pgfoo@objectcount=\count305
+\pgfoothis@count=\count306
+\pgfoo@toks=\toks39
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code
+.tex)
+\pgf@lib@dv@cache@count=\count307
+\pgf@lib@dv@cache@count=\count308
+)
+\tikzdvvisualizercounter=\count309
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrarys
+hapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodepartlowerbox=\box116
+\pgfnodeparttwobox=\box117
+\pgfnodepartthreebox=\box118
+\pgfnodepartfourbox=\box119
+\pgfnodeparttwentybox=\box120
+\pgfnodepartnineteenbox=\box121
+\pgfnodeparteighteenbox=\box122
+\pgfnodepartseventeenbox=\box123
+\pgfnodepartsixteenbox=\box124
+\pgfnodepartfifteenbox=\box125
+\pgfnodepartfourteenbox=\box126
+\pgfnodepartthirteenbox=\box127
+\pgfnodeparttwelvebox=\box128
+\pgfnodepartelevenbox=\box129
+\pgfnodeparttenbox=\box130
+\pgfnodepartninebox=\box131
+\pgfnodeparteightbox=\box132
+\pgfnodepartsevenbox=\box133
+\pgfnodepartsixbox=\box134
+\pgfnodepartfivebox=\box135
+)))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarydecorations.pathmorphing.code.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarydecorations.code.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations
+.code.tex
+\pgfdecoratedcompleteddistance=\dimen274
+\pgfdecoratedremainingdistance=\dimen275
+\pgfdecoratedinputsegmentcompleteddistance=\dimen276
+\pgfdecoratedinputsegmentremainingdistance=\dimen277
+\pgf@decorate@distancetomove=\dimen278
+\pgf@decorate@repeatstate=\count310
+\pgfdecorationsegmentamplitude=\dimen279
+\pgfdecorationsegmentlength=\dimen280
+)
+\tikz@lib@dec@box=\box136
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/decorations/pgflib
+rarydecorations.pathmorphing.code.tex)) (/home/roberto/.TinyTeX/texmf-dist/tex/
+latex/pgfplots/pgfplots.sty (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfp
+lots/pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex (/hom
+e/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks40
+\t@pgfplots@tokb=\toks41
+\t@pgfplots@tokc=\toks42
+\pgfplots@tmpa=\dimen281
+\c@pgfplots@coordindex=\count311
+\c@pgfplots@scanlineindex=\count312
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.
+code.tex))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.co
+de.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplots
+oldpgfsupp_loader.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.
+tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsl
+iststructure.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsl
+iststructureext.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsa
+rray.code.tex
+\c@pgfplotsarray@tmp=\count313
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsm
+atrix.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstables
+hared.code.tex
+\c@pgfplotstable@counta=\count314
+\t@pgfplotstable@a=\toks43
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsd
+eque.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.cod
+e.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.dat
+a.code.tex))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.
+code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots
+.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count315
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.
+surfshading.pgfsys-pdftex.def)))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.c
+ode.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code
+.tex))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.co
+de.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.co
+de.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler
+.code.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.c
+ode.tex)))
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.t
+ex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing
+.code.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code
+.tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.t
+ex) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.
+tex)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibrarydecorations.pathreplacing.code.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/decorations/pgflib
+rarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count316
+\pgfplots@xmin@reg=\dimen282
+\pgfplots@xmax@reg=\dimen283
+\pgfplots@ymin@reg=\dimen284
+\pgfplots@ymax@reg=\dimen285
+\pgfplots@zmin@reg=\dimen286
+\pgfplots@zmax@reg=\dimen287
+)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries
+/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmark
+s.code.tex
+File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip130
+For additional information on amsmath, use the `?' option.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks44
+\ex@=\dimen288
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen289
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count317
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count318
+\leftroot@=\count319
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count320
+\DOTSCASE@=\count321
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box137
+\strutbox@=\box138
+\big@size=\dimen290
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count322
+\c@MaxMatrixCols=\count323
+\dotsspace@=\muskip16
+\c@parentequation=\count324
+\dspbrk@lvl=\count325
+\tag@help=\toks45
+\row@=\count326
+\column@=\count327
+\maxfields@=\count328
+\andhelp@=\toks46
+\eqnshift@=\dimen291
+\alignsep@=\dimen292
+\tagshift@=\dimen293
+\tagwidth@=\dimen294
+\totwidth@=\dimen295
+\lineht@=\dimen296
+\@envbody=\toks47
+\multlinegap=\skip131
+\multlinetaggap=\skip132
+\mathdisplay@stack=\toks48
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2019/10/16 v2.13 TOC entries
+\ttl@leftsep=\dimen297
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count329
+\c@ALG@rem=\count330
+\c@ALG@nested=\count331
+\ALG@tlm=\skip133
+\ALG@thistlm=\skip134
+\c@ALG@Lnr=\count332
+\c@ALG@blocknr=\count333
+\c@ALG@storecount=\count334
+\c@ALG@tmpcounter=\count335
+\ALG@tmplength=\skip135
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/bohr/bohr.sty
+Package: bohr 2015/06/24 v1.0 simple atom representation according to the Bohr 
+model
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks49
+\pgfopts@list@add@b@toks=\toks50
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/elements/elements.sty
+Package: elements 2019/10/14 v0.3 properties of chemical elements
+\c@@elements@orbital@type=\count336
+\c@@elements@shell@number=\count337
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+))
+\c@@bohr@shell@number=\count338
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/xlop/xlop.sty
+Package: xlop 2020/04/26 package wrapper for xlop.tex
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/xlop/xlop.tex
+\op@count@z=\count339
+\op@count@i=\count340
+\op@count@ii=\count341
+\op@count@iii=\count342
+\op@count@iv=\count343
+\op@count@v=\count344
+\op@count@vi=\count345
+\op@nbop=\count346
+\op@currentstyle=\toks51
+`xlop' v0.28  <2020/11/11> (jcc)
+\opcolumnwidth=\dimen298
+\oplineheight=\dimen299
+\op@strutbox=\box139
+\op@decimalsepwidth=\dimen300
+\op@decimalsepoffset=\dimen301
+\op@hrulewidth=\dimen302
+\op@vrulewidth=\dimen303
+\op@parenthesis=\count347
+\op@token=\count348
+\op@stack=\count349
+\op@stackb=\count350
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/bbding/bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/mathdesign/mathdesign.sty
+Package: mathdesign 2013/08/29 v2.31 Math Design Project
+
+Package mathdesign Warning: No font specified on input line 175.
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
+2.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+))) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/libertine/libertineRoman.sty
+Package: libertineRoman 2020/03/26 (Bob Tennent) Supports Libertine Roman fonts
+ for all LaTeX engines.
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/home/roberto/.TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+(/home/roberto/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/home/rober
+to/.TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks52
+\XKV@tempa@toks=\toks53
+)
+\XKV@depth=\count351
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 232.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/libertine/LinLibertine_I.tex))
+\c@exercise=\count352
+\c@ejercicio=\count353
+\c@alphListCounter=\count354
+\c@numListCounter=\count355
+)
+LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
+on input line 34.
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
+File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
+nuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 34.
+(./HM1_Examen_A_parte1.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+)
+\openout1 = `HM1_Examen_A_parte1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* lines: 45
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 666.9326pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=666.9326pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)) (/home/roberto/.TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 34.
+
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/translations/translations-basic-di
+ctionary-spanish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `spanish'. on input line 34.
+\c@mv@tabular=\count356
+\c@mv@boldtabular=\count357
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/elements/elements_names_spanish.de
+f)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 41.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF
+ on input line 42.
+
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.f
+d
+File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/
+LinuxLibertineT-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 17.28pt on input line 42.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 52.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+2.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 67.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 9
+3.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+93.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+93.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+93.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+93.
+(/home/roberto/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 12.0pt on input line 102.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 114.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[1{/home/roberto/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Package mdframed Info: Box was splittet wrong
+ starting loop to iterate the splitting point
+(mdframed)              on input line 304.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[3] (./HM1_Examen_A_parte1.aux
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+) ) 
+Here is how much of TeX's memory you used:
+ 35518 strings out of 480953
+ 886898 string characters out of 5906847
+ 1341651 words of memory out of 5000000
+ 52106 multiletter control sequences out of 15000+600000
+ 437805 words of font info for 57 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 112i,12n,113p,884b,1139s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/home/roberto/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc
+} </home/roberto/.TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>
+{/home/roberto/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/
+home/roberto/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/ho
+me/roberto/.TinyTeX/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</home
+/roberto/.TinyTeX/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></h
+ome/roberto/.TinyTeX/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb
+></home/roberto/.TinyTeX/texmf-dist/fonts/type1/public/libertine/LinLibertineTI
+.pfb>
+Output written on HM1_Examen_A_parte1.pdf (3 pages, 239276 bytes).
+PDF statistics:
+ 87 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+

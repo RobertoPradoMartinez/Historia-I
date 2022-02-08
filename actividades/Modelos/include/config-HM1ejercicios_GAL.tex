@@ -1,0 +1,322 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ---------- MODELO EJERCICIOS ---------- 
+%% MATERIA: HISTORIA
+%% CURSO: 
+%% AÑO ACADÉMICO: 
+%% CENTRO: 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%% MODELO PARA REDACTAR EJERCICIOS
+%% ===============================
+%% 
+%% Clase de documento
+%% ------------------
+%\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
+%\documentclass[12pt,a4paper,notitlepage]{article}
+%
+% Márgenes de documento
+% ---------------------
+\usepackage[left=2.0cm, right=2.0cm, lines=45, top=2.5cm, bottom=2.0cm]{geometry}
+%
+% Paquetes necesarios
+% -------------------
+\usepackage[utf8]{inputenc} % acentos en ES
+\usepackage[spanish,activeacute, es-tabla]{babel}
+\usepackage{enumerate} % entornos de listas
+\usepackage{multicol}  % varias columnas texto
+\usepackage{fancyhdr}  % encabezado personalizado
+\usepackage{fancybox}  % entornos con cajas
+\usepackage{pdfpages}  % páginas pdf
+%
+\usepackage{lipsum} % generar texto aleatorio "loren ipsum"
+\usepackage{environ} 
+\usepackage{probsoln} % paquete para soluciones
+%\showanswers % para mostrar soluciones
+%
+%Esto es lo importante. Ponemos la solución al margen.
+\NewEnviron{solutionnew}{%
+%  \leavevmode\marginpar{\raggedright\footnotesize \textbf{Solución:}\\ \BODY}
+%  \textbf{Solución:}\\ \BODY} % sol. con salto de liña
+  \small{Solución:} \BODY} % sol. na mesma liña
+  {}
+\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
+%
+%
+% Lineas de encabezado y pié
+% --------------------------
+\renewcommand{\headrulewidth}{0.5pt}
+%\renewcommand{\headrulewidth}{1.0pt}
+\renewcommand{\footrulewidth}{0.5pt}
+%\renewcommand{\footrulewidth}{1.0pt}
+\pagestyle{fancy} % estilo de página
+%
+% Recuadros y figuras
+% -------------------
+\newcommand\Loadedframemethod{TikZ}
+\usepackage[framemethod=\Loadedframemethod]{mdframed}
+\usepackage{tikz}
+\usetikzlibrary{calc,through,backgrounds}
+\usetikzlibrary{matrix,positioning}
+%Desssins geometriques
+\usetikzlibrary{arrows}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{datavisualization}
+\usetikzlibrary{automata} % LATEX and plain TEX
+\usetikzlibrary{shapes.multipart}
+\usetikzlibrary{decorations.pathmorphing} 
+\usepackage{pgfplots}
+\usepackage{physics}
+\usepackage{titletoc}
+\usepackage{mathpazo} 
+\usepackage{algpseudocode}
+\usepackage{algorithmicx} 
+\usepackage{bohr} 
+\usepackage{xlop} 
+\usepackage{bbding} 
+%\usepackage{minibox} 
+% Texto árabe
+\usepackage{mathdesign}
+\usepackage{bbding} 
+% --
+% Tipograía:
+% ----------
+% Fuente HEURÍSTICA (cómoda de leer)
+%\usepackage{heuristica}
+% Fuente LIBERTINE (cómoda para apuntes)
+\usepackage{libertineRoman}
+%\usepackage[proportional]{libertine}
+% Fuente ROMANDE (estilo antiguo pero no muy cómoda)
+%\usepackage{romande} %
+% 
+% Encabezado y pié de página (textos)
+% -----------------------------------
+% Modelo 1:
+% ---------
+% texto de encabezado izquierda:
+%\lhead{\normalfont{Historia de la Música I}}
+% texto encabezado centro:
+%\chead{\textbf{Ejercicios}}
+% texto de encabezado derecha:
+%\rhead{\normalfont{curso: 2020/2021}}
+% texto pié izquierdo:
+%\lfoot{\small{\textit{}}}
+% texto pié centrado:
+%\cfoot{\textsc{Pág. \thepage }}
+% texto pié derecho
+%\rfoot{\textit{Pr. $\mathcal{A}$.Kaal}}
+% ----------
+% Modelo 2:
+% ---------
+% Encabezado y pié de página (textos)
+% -----------------------------------
+% texto de encabezado izquierda:
+%
+%\lhead{
+%	\hrule
+%	\vspace*{0.20cm}
+%	\normalfont{Historia de la Música I}
+%	\vspace*{0.10cm}
+	%\hrule
+%}
+% texto encabezado centro:
+%\chead{
+%	\textbf{Cuestionario de Ejercicios}
+%	\vspace*{0.08cm}}
+% texto de encabezado derecha:
+%\rhead{
+%	\normalfont{curso: 2020/2021}
+%	\vspace*{0.08cm}}
+%
+% texto pié izquierdo:
+%\lfoot{
+	%\begin{center}
+		%\vspace*{0.20cm}
+		%\hrule
+		%\small{
+		%Conservatorio Profesional de Música de Viveiro - Avda. da mariña s/n - (27850) Viveiro - Lugo
+		%	}
+	%\end{center}
+%}
+% texto pié centrado:
+%\cfoot{
+	%\vspace*{0.30cm}
+	%\hrule
+	%\vspace*{0.90cm}
+%	\small{- Página \thepage -  }\\
+	%\small{Conservatorio Profesional de Música de Viveiro}\\
+	%\small{avda. da Mariña s/n}
+%}
+
+% ----------
+% Modelo 3:
+% ---------
+% Encabezado y pié de página (textos)
+% -----------------------------------
+% texto de encabezado izquierda:
+%
+\lhead{
+	\hrule
+	\vspace*{0.20cm}
+	\normalfont{Historia da Música I}
+	\vspace*{0.10cm}
+	%\hrule
+}
+% texto encabezado centro:
+\chead{
+	\textbf{CADERNO DE EXERCICIOS}
+	\vspace*{0.08cm}}
+% texto de encabezado derecha:
+\rhead{
+	\normalfont{curso: 2021/2022}
+	\vspace*{0.08cm}}
+%
+% texto pié izquierdo:
+%\lfoot{
+	%\begin{center}
+		%\vspace*{0.20cm}
+		%\hrule
+		%\small{
+		%Conservatorio Profesional de Música de Viveiro - Avda. da mariña s/n - (27850) Viveiro - Lugo
+		%	}
+	%\end{center}
+%}
+% texto pié centrado:
+\cfoot{
+	%\vspace*{0.30cm}
+	%\hrule
+	%\vspace*{0.90cm}
+	\small{- \thepage -  }\\
+	%\small{Conservatorio Profesional de Música de Viveiro}\\
+	%\small{avda. da Mariña s/n}
+}
+
+% --------
+%=====================Algo setup
+\algblock{If}{EndIf}
+\algcblock[If]{If}{ElsIf}{EndIf}
+\algcblock{If}{Else}{EndIf}
+\algrenewtext{If}{\textbf{si}}
+\algrenewtext{Else}{\textbf{sinon}}
+\algrenewtext{EndIf}{\textbf{finsi}}
+\algrenewtext{Then}{\textbf{alors}}
+\algrenewtext{While}{\textbf{tant que}}
+\algrenewtext{EndWhile}{\textbf{fin tant que}}
+\algrenewtext{Repeat}{\textbf{r\'ep\'eter}}
+\algrenewtext{Until}{\textbf{jusqu'\`a}}
+\algcblockdefx[Strange]{If}{Eeee}{Oooo}
+[1]{\textbf{Eeee} "#1"}
+{\textbf{Wuuuups\dots}}
+
+\algrenewcommand\algorithmicwhile{\textbf{TantQue}}
+\algrenewcommand\algorithmicdo{\textbf{Faire}}
+\algrenewcommand\algorithmicend{\textbf{Fin}}
+\algrenewcommand\algorithmicrequire{\textbf{Variables}}
+\algrenewcommand\algorithmicensure{\textbf{Constante}}% replace ensure by constante
+\algblock[block]{Begin}{End}
+\newcommand\algo[1]{\textbf{algorithme} #1;}
+\newcommand\vars{\textbf{variables } }
+\newcommand\consts{\textbf{constantes}}
+\algrenewtext{Begin}{\textbf{debut}}
+\algrenewtext{End}{\textbf{fin}}
+%================================
+%================================
+
+\setlength{\parskip}{1.25cm}
+\setlength{\parindent}{1.25cm}
+\tikzstyle{titregris} =
+[draw=gray,fill=gray, shading = exersicetitle, %
+text=gray, rectangle, rounded corners, right,minimum height=.3cm]
+\pgfdeclarehorizontalshading{exersicebackground}{100bp}
+{color(0bp)=(green!40); color(100bp)=(black!5)}
+\pgfdeclarehorizontalshading{exersicetitle}{100bp}
+{color(0bp)=(red!40);color(100bp)=(black!5)}
+\newcounter{exercise}
+%\renewcommand*\theexercise{exercice \textbf{Ejercicio}~n\arabic{exercise}} % CASTELÁN
+\renewcommand*\theexercise{exercice \textbf{Exercicio}~n\arabic{exercise}} % GALEGO
+\makeatletter
+\def\mdf@@exercisepoints{}%new mdframed key:
+\define@key{mdf}{exercisepoints}{%
+\def\mdf@@exercisepoints{#1}
+}
+\mdfdefinestyle{exercisestyle}{%
+outerlinewidth=1em,outerlinecolor=white,%
+leftmargin=-1em,rightmargin=-1em,%
+middlelinewidth=0.5pt,roundcorner=3pt,linecolor=black,
+apptotikzsetting={\tikzset{mdfbackground/.append style ={%
+shading = exersicebackground}}},
+innertopmargin=0.1\baselineskip,
+skipabove={\dimexpr0.1\baselineskip+0\topskip\relax},
+skipbelow={-0.1em},
+needspace=0.5\baselineskip,
+frametitlefont=\sffamily\bfseries,
+settings={\global\stepcounter{exercise}},
+singleextra={%
+\node[titregris,xshift=0.5cm] at (P-|O) %
+{~\mdf@frametitlefont{\theexercise}~};
+\ifdefempty{\mdf@@exercisepoints}%
+{}%
+{\node[titregris,left,xshift=-1cm] at (P)%
+{~\mdf@frametitlefont{\mdf@@exercisepoints points}~};}%
+},
+firstextra={%
+\node[titregris,xshift=1cm] at (P-|O) %
+{~\mdf@frametitlefont{\theexercise}~};
+\ifdefempty{\mdf@@exercisepoints}%
+{}%
+{\node[titregris,left,xshift=-1cm] at (P)%
+{~\mdf@frametitlefont{\mdf@@exercisepoints points}~};}%
+},
+}
+\makeatother
+
+
+%%%%%%%%%
+
+%%%%%%%%%%%%%%%
+\mdfdefinestyle{theoremstyle}{%
+outerlinewidth=0.01em,linecolor=black,middlelinewidth=0.5pt,%
+frametitlerule=true,roundcorner=2pt,%
+apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
+shade,left color=white, right color=blue!20}}},
+frametitlerulecolor=black,innertopmargin=1\baselineskip,%green!60,
+innerbottommargin=0.5\baselineskip,
+frametitlerulewidth=0.1pt,
+innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
+frametitleaboveskip=1pt,
+frametitlebelowskip=1pt
+}
+\setlength{\parskip}{0mm}
+\setlength{\parindent}{10mm}
+%\mdtheorem[style=theoremstyle]{ejercicio}{\textbf{Ejercicio}} % Castelán
+\mdtheorem[style=theoremstyle]{ejercicio}{\textbf{Exercicio}} % Galego
+%================Liste definition--numList-and alphList=============
+\newcounter{alphListCounter}
+\newenvironment
+{alphList}
+{\begin{list}
+{\alph{alphListCounter})}
+{\usecounter{alphListCounter}
+\setlength{\rightmargin}{0cm}
+\setlength{\leftmargin}{0.5cm}
+\setlength{\itemsep}{0.2cm}
+\setlength{\partopsep}{0cm}
+\setlength{\parsep}{0cm}}
+}
+{\end{list}}
+\newcounter{numListCounter}
+\newenvironment
+{numList}
+{\begin{list}
+{\arabic{numListCounter})}
+{\usecounter{numListCounter}
+\setlength{\rightmargin}{0cm}
+\setlength{\leftmargin}{0.5cm}
+\setlength{\itemsep}{0cm}
+\setlength{\partopsep}{0cm}
+\setlength{\parsep}{0cm}}
+}
+{\end{list}}
+%
+%
+%% -- Fin del archivo de configuración  --
+%%

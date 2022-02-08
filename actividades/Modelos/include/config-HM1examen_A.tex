@@ -1,0 +1,98 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ---------- MODELO EXÁMENES ---------- 
+%% MATERIA: HISTORIA
+%% CURSO: 
+%% AÑO ACADÉMICO: 
+%% CENTRO: 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% 
+%% MODELO PARA REDACTAR EXÁMENES
+%% =============================
+%% 
+%% Clase de documento
+%% ------------------
+%\documentclass[12pt,a4papper,notitlepage,addpoints]{exam}
+% ------
+% Tipografías
+%\usepackage{heuristica} % para examenes y ejercicios
+\usepackage{libertineRoman} % lectura cómododa
+%\usepackage[proportional]{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage[spanish]{babel}
+%
+% Gráficos
+\usepackage{graphicx}
+%
+\usepackage[spanish,activeacute, es-tabla]{babel}
+\usepackage{enumerate} % entornos de listas
+\usepackage{multicol}  % varias columnas texto
+%\usepackage{fancyhdr}  % encabezado personalizado
+\usepackage{fancybox}  % entornos con cajas
+\usepackage{pdfpages}  % páginas pdf
+% 
+\usepackage{lipsum} % generar texto aleatorio "loren ipsum"
+\usepackage{environ} 
+\usepackage{probsoln} % paquete para soluciones
+%\showanswers % para mostrar soluciones
+%
+% ---
+% Lineas de encabezado y pié
+% --------------------------
+%\renewcommand{\headrulewidth}{0.5pt}
+%\renewcommand{\headrulewidth}{1.0pt}
+%\renewcommand{\footrulewidth}{0.5pt}
+%\renewcommand{\footrulewidth}{1.0pt}
+%\pagestyle{fancy} % estilo de página
+% ---
+% Encabezado y pié de página (textos)
+% -----------------------------------
+% texto de encabezado izquierda:
+%
+\lhead{
+	\hrule
+	\vspace*{0.20cm}
+	\normalfont{Historia de la Música I}
+	\vspace*{0.20cm}
+	\hrule
+}
+% texto encabezado centro:
+\chead{
+	%\hrule
+	%\vspace*{0.20cm}
+	\textbf{Cuestionario de Examen}
+	\vspace*{0.42cm}}
+% texto de encabezado derecha:
+\rhead{
+	%\vspace*{0.20cm}
+	\normalfont{curso: 2020/2021}
+	\vspace*{0.42cm}}
+
+%
+% texto pié izquierdo:
+%\lfoot{	} % vacío
+% texto pié centrado:
+\cfoot{
+	%\vspace*{0.30cm}
+	%\hrule
+	\vspace*{1.0cm}
+	\small{- Página \thepage -  }\\
+	%\small{Conservatorio Profesional de Música de Viveiro}\\
+	%\small{avda. da Mariña s/n}
+	}
+%\vspace*{0.20cm}
+% texto pié derecho
+%\rfoot{\textit{Pr. $\mathcal{A}$.Kaal}}
+%
+%
+\pointpoints{punto}{puntos}
+\marginpointname{ \points} %Texto tras el número
+\pointsinmargin %Puntos en el margen izquierdo
+\bracketedpoints %Puntos entre corchetes
+% ---
+%Esto es lo importante. Ponemos la solución al margen.
+\NewEnviron{solutionnew}{%
+  \leavevmode\marginpar{\raggedright\footnotesize Solución:\\ \BODY}}{}
+\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
+%
+% Fin archivo configuración

@@ -1,0 +1,70 @@
+% PROBA PARA FACER EXAMES ALEATORIOS
+%
+\documentclass[11pt,a4papper,addpoints]{exam}
+
+\input{include/config-HM1examen_A.tex}
+
+\begin{document}
+
+\begin{center}
+\Large{
+Examen de los temas 1 y 2 \\ (esto es un ejemplo)
+} \\
+\vspace*{0.5cm}
+\normalsize % Trimestre al que corresponde:
+(1er / 2º / 3er trimestre indica el que corresponda)
+\vspace*{0.5cm}
+\\
+%\hrule
+%\vspace*{0.05cm}
+%\hrule
+%
+\vspace{1.10cm}
+	\begin{flushleft}
+	Nombre y Apellidos: \hrulefill\\
+	\vspace*{0.50cm}
+		\begin{center}
+		\small{\texttt{Instrucciones para realizar los ejercicios}}\\		
+		\end{center}
+%	\hrulefill \\
+	\vspace*{0.5cm}
+\small{ % Instrucciones:
+\texttt{
+Lee con atención y realiza con detenimiento, los siguientes ejercicios teniendo en cuenta lo que se indica en cada uno. \\
+}} % fin instrucciones.
+%
+	\vspace*{0.75cm}		
+ 	\end{flushleft}
+\end{center}
+
+% ----
+%
+% ----
+\hideanswers % oculta respostas
+%
+% Cargamos os Exercicios:
+\loadallproblems[loops]{loops} % todo seguido
+%\loadrandomproblems[loops]{2}{loops}% aleatorios
+%
+% FOLLA EXERCICIOS: 
+% -----------------
+\begin{multicols}{2} % a 2 columnas
+    \begin{enumerate}
+%\useproblem{input}
+    \foreachproblem[loops]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \end{enumerate}
+\end{multicols}
+%
+% SOLUCIONS:
+% ----------
+\newpage
+
+\showanswers
+\begin{itemize}
+\foreachdataset{\thisdataset}{%
+\foreachproblem[\thisdataset]{\item[\ref{prob:\thisproblemlabel}]\thisproblem}
+}
+\end{itemize}
+
+
+\end{document}

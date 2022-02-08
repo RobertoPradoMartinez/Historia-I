@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage{lipsum}
+\usepackage{environ} 
+\usepackage{probsoln}
+\showanswers
+%Definición del problema de ejemplo. Esto se hace normalmente desde un archivo aparte.
+\begin{defproblem}{problem1}
+\begin{onlysolution}
+\begin{solution}
+The answer is 42
+\end{solution}
+\end{onlysolution}
+We want to know the answer to The Ultimate Question of Life, the Universe, and     Everything 
+
+%\lipsum[1]
+\end{defproblem}
+
+%%Esto es lo importante. Ponemos la solución al margen.
+\NewEnviron{solutionnew}{%
+  \leavevmode\marginpar{\raggedright\footnotesize My solution name:\\ \BODY}}{}
+\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
+
+
+\begin{document}
+\useproblem{problem1}
+\end{document}

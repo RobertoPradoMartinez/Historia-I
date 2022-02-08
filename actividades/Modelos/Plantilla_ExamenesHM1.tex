@@ -1,0 +1,138 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MODELO PARA ELABORAR EXÁMENES
+% 
+% Incluye varios modelos de preguntas:
+% - cuestiones tipo test
+% - cuestiones de desarrollo
+% - cuestiones de opinión
+% - cuestiones con respuesta oculta
+%
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Nota: algunas cuestiones de examen pueden extraerse de hojas de ejercicios, con lo que es recomendable emplear un formato común en ambas para evitar así errores de compilación.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+\documentclass[12pt,a4papper,addpoints]{exam}
+%
+%
+\input{include/config-HM1examen_A.tex}
+% ------
+%
+% Moi interesante para crear unha folla de respostas:
+% ---------------------------------------------------
+%Definición del problema de ejemplo. Esto se hace normalmente desde un archivo aparte.
+\begin{defproblem}{problem1}
+\begin{onlysolution}
+\begin{solution}
+b)
+\end{solution}
+\end{onlysolution}
+Aquí vai o texto da pregunta do exame ... 
+%
+%\lipsum[1]
+\end{defproblem}
+%
+% ------------------
+%
+\begin{document}
+%
+% ---------
+% CABECERA 
+% ---------
+%
+\begin{center}
+\Large{
+Examen de los temas 1 y 2 \\ (esto es un ejemplo)
+} \\
+\vspace*{0.5cm}
+\normalsize % Trimestre al que corresponde:
+(1er / 2º / 3er trimestre indica el que corresponda)
+\vspace*{0.5cm}
+\\
+%\hrule
+%\vspace*{0.05cm}
+%\hrule
+%
+\vspace{1.10cm}
+	\begin{flushleft}
+	Nombre y Apellidos: \hrulefill\\
+	\vspace*{0.50cm}
+		\begin{center}
+		\small{\texttt{Instrucciones para realizar los ejercicios}}\\		
+		\end{center}
+%	\hrulefill \\
+	\vspace*{0.5cm}
+%
+\small{ % Instrucciones:
+\texttt{
+Lee con atención y realiza con detenimiento, los siguientes ejercicios teniendo en cuenta lo que se indica en cada uno. \\
+}} % fin instrucciones.
+%
+	\vspace*{0.75cm}		
+ 	\end{flushleft}
+\end{center}
+% ----
+% Cuestiones basadas en diferentes modelos de preguntas
+\begin{questions}
+  \question [1] Esta cuestión puede servir de ejemplo para pregunta tipo test de cuatro respuestas, donde el alumno debe (por ejemplo) rodear una o más, según se indique en el enunciado.
+  \begin{parts}
+      \part Opción a
+      \part Opción b
+      \part Opción c
+      \part Opción d
+  \end{parts}
+  
+  \question [1] Este ejemplo muestra una cuestión con varias subcuestiones agrupadas:
+  \begin{parts}
+      \part ¿Cuándo ....? 
+      \begin{subparts}
+          \subpart En el s. XXI (primera opción)
+          \subpart segunda opción
+      \end{subparts}
+  \end{parts}
+% Otro modelo:
+ \question Referente a las <<novelas cortas>> de Alarcón, responde las siguientes preguntas.
+  \begin{parts}
+      \part[1] ¿En qué siglo se escribió La Buenaventura?
+      \begin{checkboxes}
+          \choice XVII
+          \choice XVIII
+          \CorrectChoice XIX
+      \end{checkboxes}
+      \part[9] Escribe el primer párrafo de La Buenaventura
+      \begin{solution}[4cm]
+          No sé qué día de Agosto del año 1816 llegó a las puertas de
+          la Capitanía general de Granada cierto haraposo y grotesco
+          gitano, de sesenta años de edad, de oficio esquilador y de
+          apellido o sobrenombre Heredia, caballero en flaquísimo y
+          destartalado burro mohíno, cuyos arneses se reducían a una
+          soga atada al pescuezo; y, echado que hubo pie a tierra, dijo
+          con la mayor frescura <<que quería ver al Capitán general.>>
+      \end{solution}
+  \end{parts}
+  \question[2] Pedro Antonio de \fillin[Alarcón] nació en \fillin[1833] y murió en \fillin[1891].
+
+  \question[1] Pregunta
+    \begin{solutionorbox}[4cm]
+        Solución...
+    \end{solutionorbox}
+    \question[1] Otra pregunta
+
+	\question[1] Pregunta
+    \begin{solutionorlines}[4cm]
+        Solución...
+    \end{solutionorlines}
+    \question[1] Otra pregunta    
+    
+\question[1] Pregunta
+    \begin{solutionordottedlines}[4cm]
+        Solución...
+    \end{solutionordottedlines}
+    \question[1] Otra pregunta
+    
+
+\end{questions}
+%
+\useproblem{problem1} % para insertar un ejercicio predefinido
+
+\end{document}
