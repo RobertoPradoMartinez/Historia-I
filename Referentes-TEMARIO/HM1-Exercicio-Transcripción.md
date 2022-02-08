@@ -1,5 +1,7 @@
 Transcripción y análisis de melodías en notación cuadrada
 
+
+
 Instrucciones
 
 • Dado que la notación cuadrada no indica las duraciones de las notas se utiliza una única

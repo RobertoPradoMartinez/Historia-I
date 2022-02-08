@@ -364,48 +364,103 @@ A orixe do drama litúrxico adóitase relacionar cunha composición coñecida co
 
 ## Actividades e audicións{-}
 
-### Análise e comentario de audicóns con partitura {-}
+### Aspectos sobre a notación cadrada {-}
 
-Para realizar unha análise da obra, primeiramente faremos unha lectura a vista da información que nos ofrece; ollaremos a escrita prestando especial atención a tódolos elementos que observamos, tratando de identificalos. Dado que se trata dunha análise de audición con partitura, escoitaremos de seguido a obra tomando como guía a partitura, observando o perfil melódico, pausas, relación música texto, etc.   
+A notación cadrada é unha evolución de notacións neumáticas anteriores, que aparece en Francia no século XII.
 
-Trátase de realizar unha escoita activa da obra, prestando atención a tódolos elementos que nos permitan obter a máxima información posible para determinar o modo, o ámbito, estilo e forma, para finalmente clasificar a obra dentro do repertorio.  
+#### A escrita e grafía
 
-Debemos determinar:  
+A escrita deste tipo de notación realízase sobre pauta de catro liñas paralelas que se coñece co nome de **tetragrama**; as liñas e espazos están a distancia de terceira ao igual que no pentagrama actual. 
 
-1. **modo** ao que pertence o canto
-2. **ámbito** total da melodía
-3. **estilo** de canto segundo ornamentación
-4. **forma** ou estrutura formal
-5. **clasificación** no repertorio
+Ao principio do tetragrama, atopamos a **clave** que identifica a altura das notas. As dúas empregadas son as de **Dó** e **Fa**, que indistintamente se sitúan en calquera das catro liñas.
+
+```{r notacion-cadrada, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Notación cadrada e claves» ", fig.scap="Notación cadrada", out.width="50%"}
+knitr::include_graphics('figures/ud-03/notacion-cadrada-claves.eps')
+```
+
+Os signos que indican as notas, son os **neumas**, que ben poden indicar un único son ou varios cantados sobre a mesma sílaba. Os nomes das notas son os indicados na figura \@ref(fig:notación-cadrada-notas). 
+
+
+```{r notacion-cadrada-notas, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Nomenclatura de notación cadrada", fig.scap="Notación cadrada, notas", out.width="75%"}
+knitr::include_graphics('figures/ud-03/notacion-cadrada-notas.eps')
+```
+
+#### Transcrición a notación actual 
+
+En canto á transcrición de melodías en notación cadrada, debemos ter en conta os seguintes puntos:
+
+- A notación cadrada non indica a duración das notas e polo tanto, empregaremos unha única figura nas transcricións; habitualmente cabezas de negra.
+- O bemol aparece sempre diante do neuma; non aparece diante da nota e polo tanto aplícase  únicamente á palabra da que forma parte o neuma.
+- As notas que pertencen a un mesmo neuma van unidas con ligadura
+- Os neumas extensos están formados por grupos de neumas simples; a ligadura polo tanto aplícase a cada neuma simple.
+- O signo que aparece ao final de cada tetragrama, recibe o nome de *custus* (custos) e indica a primeira nota do seguinte tetragrama, facilitando así a entoación do intervalo. Non se transcribe.
+- O fraseo e respiración ven indicado por barras e semibarras que se transcriben igual.
+- O resto de signos, como liñas, puntos e demáis, se aparecen non se transcriben.
 
 ---
+
+Para realizar unha transcrición a notación actual teremos en conta este sistema. Podemos ver dous exemplos de transcrición de notación cadrada a notación actual nas figuras \@ref(fig:notacion-cadrada-exemplo1) e \@ref(fig:notacion-cadrada-exemplo2).
+
+
+```{r notacion-cadrada-exemplo1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Exemplo de transcrición de notación cadrada a notación actual", fig.scap="Exemplo 1 de transcrición", out.width="75%"}
+knitr::include_graphics('figures/ud-03/notacion-cadrada-exemplo1.eps')
+```
+
+
+```{r notacion-cadrada-exemplo2, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Exemplo de transcrición de notación cadrada a notación actual", fig.scap="Exemplo 2 de transcrición", out.width="75%"}
+knitr::include_graphics('figures/ud-03/notacion-cadrada-exemplo2.eps')
+```
+
+### Análise e comentario de audicóns con partitura {-}
+
+Para realizar unha análise de audición con partitura dunha obra, primeiramente faremos unha lectura a vista da información que nos ofrece a partitura; ollaremos a escrita prestando especial atención a tódolos elementos que observamos, tratando de identificalos.  
+Escoitaremos de seguido a obra tomando como guía a partitura, observando o perfil melódico, pausas, relación música texto, etc.   
+
+Trátase de realizar unha escoita activa da obra, prestando atención a tódolos elementos que nos permitan obter a máxima información posible para determinar o modo, o ámbito, estilo e forma, e finalmente clasificar a obra dentro do repertorio.  
+
+Con todo o anterior, debemos determinar entre outros aspectos:  
+
+1. **Modo** ao que pertence o canto
+2. **Ámbito** total da melodía
+3. **Estilo** de canto segundo ornamentación
+4. **Forma** ou estrutura formal
+5. **Clasificación** no repertorio
+
+---
+
 \newpage
 
 #### Audición comentada do Introito "*Puer nátus est nóbis*" {-}
 \vspace*{0.25cm}
 
-Realizaremos a análise e comentario da audición, prestando atención á partitura e os elementos que observamos na mesma.
+Como exemplo e modelo de análise e comentario da audición, tomaremos un *introito* gregoriano correspondente á misa da mañá do día de Nadal: «Puer natus est nobis». 
+
+A figura \@ref(fig:Puer-natus-est) é unha transcrición da orixinal.
+
 \par
 \vspace*{0.35cm}
 
-```{r Puer-natus-est, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Introito do Puer natus est nobis", fig.scap="Puer natus est  nobis", out.width="100%"}
+```{r Puer-natus-est, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Transcrición do «Puer natus est nobis» ", fig.scap="«Puer natus est nobis»", out.width="100%"}
 knitr::include_graphics('figures/audicions/Puer-natus.eps')
 ```
 
 ---
 
-<!-- ANÁLISE DO PUER NATUS EST NOBIS -->
+<!-- COMENTARIO E ANÁLISE DO PUER NATUS EST NOBIS -->
 
 ```{r child=here::here('unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md')}
 ```
 
+<!-- PARTITURA DA AUDICIÓN - COMANTADA -->
 
- 
+
+```{r Puer-natus-comentado, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Análise da partitura do «Puer natus est nobis» ", fig.scap="Análise «Puer natus est nobis»", out.width="100%"}
+knitr::include_graphics('figures/audicions/Puer-natus-comentado.png')
+```
+
+\newpage
+
 #### Exemplo no.2: Gradual "*Vidérunt ómnes*" {-}
 
 O exemplo da figura \@ref(fig:Puer-natus-est), pertence ao Gradual "*Vidérunt ómnes*". 
-
-```{r Viderunt-omnes, echo=FALSE, fig.align='center', fig.pos='h',  fig.cap="Fragmento do Gradual Vidérunt ómnes", fig.scap="Vidérunt ómnes", out.width="100%"}
-knitr::include_graphics('figures/ud-03/Dies-irae.png')
-
 
