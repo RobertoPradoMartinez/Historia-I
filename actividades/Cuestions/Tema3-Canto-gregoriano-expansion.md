@@ -42,10 +42,12 @@ Cantos independientes de nova composición en estilo silábico sen repetición
 
 Cuestión: Canto gregoriano: expansión - secuencias
 
-O XIX Concilio ecuménico da Igrexa católica celebrado en Trento (Italia) coñecido como Concilio de Trento, celebrado en períodos descontinuos entre 1545 e 1563, prohibe varias obras que se baseaban en certas formas de expansión do canto litúrxico, indultando a coñecida misa de defuntos Dies Irae.  A que técnica de expansión se axusta esta obra de canto chá?
+O XIX Concilio ecuménico da Igrexa católica celebrado en Trento (Italia) coñecido como Concilio de Trento, celebrado en períodos descontinuos entre 1545 e 1563, prohibe varias obras que se baseaban en certas formas de expansión do canto litúrxico, indultando a coñecida misa de defuntos Dies Irae.  A que técnica de expansión do repertorio de este canto, se axusta a mencionada obra?
 
 Tropo
 
 Secuencia
 
 Drama litúrxico
+
+Introito
