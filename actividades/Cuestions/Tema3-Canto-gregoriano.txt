@@ -1,4 +1,4 @@
-Cuestión: Canto gregoriano: características do canto
+CUESTIÓN: Canto gregoriano: características do canto
 
 Sinala cales das seguintes, son características do canto coñecido como "gregoriano":
 
@@ -12,7 +12,7 @@ trátase dun canto polifónico mensural
 
 
 
-Cuestión: Canto gregoriano: NON características do canto
+CUESTIÓN: Canto gregoriano: NON características do canto
 
 Sinala cales das seguintes, non son características do canto coñecido como "gregoriano":
 
@@ -26,7 +26,7 @@ trátase dun canto monódico a capella mensural (x)
 
 
 
-Cuestión: Canto gregoriano: estilos de canto
+CUESTIÓN: Canto gregoriano: estilos de canto
 
 Segundo a relación entre o texto e música, distinguimos no canto "gregoriano" tres estilos :
 
@@ -40,7 +40,7 @@ Silábico, neumático, non melismático
 
 
 
-Cuestión: Canto gregoriano: estilos de interpretación
+CUESTIÓN: Canto gregoriano: estilos de interpretación
 
 Segundo o estilo de interpretación, distinguimos no canto "gregoriano" tres estilos :
 
@@ -54,7 +54,7 @@ Silábico, neumático, non melismático
 
 
 
-Cuestión: Canto gregoriano: estilos de interpretación
+CUESTIÓN: Canto gregoriano: estilos de interpretación
 
 Na abadía benedictina de Santo Domingo de Silos (Burgos) dous coros están a realizar un ensaio do introito  <<Puer Natus est nobis>>. Observamos no ensaio, que cantan alternando os dous coros. Segundo a interpretación, podemos afirmar que: 
 
@@ -68,7 +68,7 @@ Cantan en estilo antifonal (x)
 
 
 
-Cuestión: Canto gregoriano: estilos de canto
+CUESTIÓN: Canto gregoriano: estilos de canto
 
 Como sabes, o repertorio gregoriano, mestura varios estilos de canto. Á hora de determinar o estilo, teremos en conta que un deles vai predominar sobre os outros e, polo tanto, caracteriza ese canto.   
 
@@ -84,7 +84,7 @@ Responsorial
 
 
 
-Cuestión: Canto gregoriano: repertorio do canto
+CUESTIÓN: Canto gregoriano: repertorio do canto
 
 O repertorio gregoriano está formado fundamentalmente por cantos que se interpretaban nas dúas grandes cerimonias litúrxicas. Os cantos do propio ...
 
@@ -98,7 +98,7 @@ eran interpretados pola fieles, forman parte dos cantos do oficio
 
 
 
-Cuestión: Canto gregoriano: cantos do ordinario
+CUESTIÓN: Canto gregoriano: cantos do ordinario
 
 Kyrie, Gloria, (...) son cantos moi antigos do repertorio gregoriano, que reciben o nome das palabras coas que comezan os textos do canto. 
 
@@ -114,7 +114,7 @@ Forman parte do repertorio dos cantos do propio dos oficios
 
 
 
-Cuestión: Canto gregoriano: cantos do oficio (antífonas)
+CUESTIÓN: Canto gregoriano: cantos do oficio (antífonas)
 
 Que nome reciben os cantos de ámbito reducido, estilo silábico, cantados como introdución e conclusión de salmos e cánticos que forman parte dos cantos do oficio do repertorio gregoriano?
 
@@ -128,7 +128,7 @@ Himnos
 
 
 
-Cuestión: Canto gregoriano: autoría dos cantos
+CUESTIÓN: Canto gregoriano: autoría dos cantos
 
 A meirande parte de melodías de canto chá podemos afirmar que son ...
 
