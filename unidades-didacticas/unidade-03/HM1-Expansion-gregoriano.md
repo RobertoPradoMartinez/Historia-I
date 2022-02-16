@@ -21,7 +21,7 @@ As técnicas de tropar son fundamentalmente tres:
 
 - Adición de música e texto.
 
-  É a técnica máis importante, e a que recibiu propiamente o nome de tropo . Consistía en engadir pasaxes breves (ás veces non tan breves) de texto con música, que se situaban ao comezo ou ao final dun canto, ou ben se intercalaban entre os versos de leste.
+  É a técnica máis importante, e a que recibiu propiamente o nome de tropo. Consistía en engadir pasaxes breves (ás veces non tan breves) de texto con música, que se situaban ao comezo ou ao final dun canto, ou ben se intercalaban entre os versos de leste.
 
 Como exemplo desta técnica atopamos o *Kyrie fons bonitatis*, resultado de tropar con texto o *Kyrie*:
 
