@@ -25,7 +25,7 @@
 
 % Cabeceira:
 % ----------
-\input{../../Modelos/include/config-HM1cabeceira1.tex}
+\input{../../Modelos/include/config-HM1cabeceira2.tex}
 
 % Instruccións do exame:
 % ----------------------
@@ -33,20 +33,20 @@
 
 % Parte (A ou B):
 % ---------------
-\input{../../Modelos/include/config-HM1cabeceira1-parte-A.tex}
+\input{../../Modelos/include/config-HM1cabeceira2-parte-A.tex}
 
 % Carga de tódalas preguntas:
 % ---------------------------
-%\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
-%\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
-%\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
-\loadallproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+\loadallproblems[Tema3-NOTA]{../../Cuestions/Tema3-Notacion-modal.tex}
+\loadallproblems[Tema3-TROBA]{../../Cuestions/Tema3-Monodia-Profana.tex}
+\loadallproblems[Tema3-GREGO1]{../../Cuestions/Tema3-Canto-gregoriano-expansion.tex}
+%\loadallproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
 %\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
 %\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
 %
 % Carga aletoria de preguntas:
 % ----------------------------
-%\loadrandomproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
+%\loadrandomproblems[Tema3-TROBA]{../../Cuestions/Tema3-Monodia-Profana.tex}
 %\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
 %\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
 %\loadrandomproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
@@ -56,11 +56,11 @@
 %
 % Carga selectiva de preguntas:
 % -----------------------------
-%\loadselectedproblems[Tema1-EX]{T1EX-01,T1EX-02}{../../Cuestions/Tema1-Exipto.tex}
-\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
-\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
-\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
-\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
+\loadselectedproblems[Tema3-GREGO]{T3GREGO-11,T3GREGO-12,T3GREGO-05,T3GREGO-08,T3GREGO-10}{../../Cuestions/Tema3-Canto-gregoriano.tex}
+%\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
+%\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
+%\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
+%\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
 %
 % Carga exclusica de preguntas:
 % -----------------------------
@@ -70,12 +70,12 @@
 % ---------------------------------------------
 \begin{multicols}{2}
 	\begin{enumerate}[1.-]
-    \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
-    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem} % Pensamento
-    \foreachproblem[Tema1-OR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Organoloxía
-    \foreachproblem[Tema1-RO]{\item\label{prob:\thisproblemlabel}\thisproblem} % Roma
+    \foreachproblem[Tema3-NOTA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
+    \foreachproblem[Tema3-TROBA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Pensamento
+    \foreachproblem[Tema3-GREGO]{\item\label{prob:\thisproblemlabel}\thisproblem} % Organoloxía
+    \foreachproblem[Tema3-GREGO1]{\item\label{prob:\thisproblemlabel}\thisproblem} % Roma
 %    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
+%    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
     \end{enumerate}
 \end{multicols}
 %
