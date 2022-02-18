@@ -4,7 +4,8 @@ Banco de preguntas para cuestionarios sobre: Monodia medieval
 
 
 
-Cuestións sobre: Modo e modalidade
+MODO E MODALIDADE
+=================
 
 CUESTIÓN: MONODIA MEDIEVAL: Concepto de modo
 
@@ -32,7 +33,8 @@ CUESTIÓN: MONODIA MEDIEVAL: Estilos de canto - Silábico e ornamentado
 
 
 
-Cuestións sobre: Notación musical medieval
+NOTACIÓN MUSICAL MEDIEVAL
+=========================
 
 CUESTIÓN: NOTACIÓN MUSICAL MEDIEVAL: Neumas
 
@@ -46,7 +48,8 @@ CUESTIÓN: NOTACIÓN MUSICAL MEDIEVAL: Sistema - Guido d'Arezzo
 
 
 
-Cuestións sobre: Expansión do canto chá
+EXPANSIÓNS DO CANTO CHÁ - XÉNEROS PARALITÚRXICOS
+================================================
 
 CUESTIÓN: EXPANSIÓN CANTO CHÁ: Tropos
 
@@ -60,7 +63,8 @@ CUESTIÓN: EXPANSIÓN CANTO CHÁ: Drama litúrxico
 
 
 
-Cuestións sobre: Repertorio do canto chá
+REPERTORIO DO CANTO CHÁ
+=======================
 
 CUESTIÓN: REPERTORIO CANTO CHÁ: Cantos da misa
 
@@ -77,8 +81,8 @@ CUESTIÓN: REPERTORIO CANTO CHÁ: Responsorios
 CUESTIÓN: REPERTORIO CANTO CHÁ: Himnos
 
 
-
-Cuestións sobre: Características do canto chá
+CARACTERÍSTICAS SOBRE CANTO CHÁ
+===============================
 
 CUESTIÓN: CANTO CHÁ: Características
 

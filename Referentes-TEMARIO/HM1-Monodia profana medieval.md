@@ -41,9 +41,9 @@ O mérito dun trobador estaba en saber atopar unha correlación orixinal entre e
 
 <!--26-2-22-->4ºB
 
-As principais características que definen o estilo das cancións trovadorescas son:  
+As principais características que definen o estilo das cancións trobadorescas son:  
 
-- **melodía** basada no **mesmo sistema modal que as gregorianas**, pero con algunhas diferenzas: non existe unha nota tenor e o movemento melódico é máis libre
+- **melodía** basea no **mesmo sistema modal que as gregorianas**, pero con algunhas diferenzas: non existe unha nota tenor e o movemento melódico é máis libre
 - **ámbito** habitualmente de cuarta ou quinta (incluso oitavas): o máis habitual é que cada sección da estrofa se organice sobre un ámbito diferente e o ámbito total abarque ao redor dunha oitava
 - **estilo** de canto silábico, aínda que tamén hai melodías moi adornadas
 - **ritmo** máis compasado e regular que no canto gregoriano
