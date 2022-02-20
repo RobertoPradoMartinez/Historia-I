@@ -1,0 +1,141 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% DOCUMENTO PRINCIPAL PARA CREAR OS EXAMES DE HM1 %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%              Versión 2021/2022                  %%
+%%                                                 %%
+%% Notas sobre a versión: Ver README.md            %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% ---------------
+% PREÁMBULO LATEX 
+% ---------------
+%
+% Tipo de documento e características:
+% ------------------------------------
+\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
+%
+% Dependencias:
+% -------------
+%\graphicspath{ {/home/user/images/} }        % carpeta de figuras
+\usepackage{graphicx}                         % paquete para gráficos
+\setlength{\columnsep}{0.75cm}                % separación de columnas
+%
+% Configuración personalizada para exame:
+% ---------------------------------------
+\input{../../Modelos/include/config-HM1examen_A_Parte1.tex}
+%
+% Fin do preámbulo de LaTeX
+% -------------------------
+%
+%
+% MAQUETACIÓN DA PROBA DE TEORÍA PARTE A:
+% ---------------------------------------
+%
+\begin{document}
+%
+% -----------------------
+% 1.- Cabeceira do exame:
+% -----------------------
+%
+% Cabeceira:
+% ----------
+%
+% 1a Avaliación:
+% --------------
+%\input{../../Modelos/include/config-HM1cabeceira1.tex}
+%
+% 2a Avaliación:
+% --------------
+\input{../../Modelos/include/config-HM1cabeceira2.tex}
+%
+% 3a Avaliación:
+% --------------
+%\input{../../Modelos/include/config-HM1cabeceira3.tex}
+%
+% ---------------------------------------
+% 2.- Instruccións para realizar a proba:
+% ---------------------------------------
+\input{../../Modelos/include/config-HM1instruccions.tex}
+%
+% ----------------------
+% 3.- Cabeceira Parte A:
+% ----------------------
+%
+% 1a Avaliación:
+% --------------
+% \input{../../Modelos/include/config-HM1cabeceira1-parte-A.tex}
+%
+% 2a Avaliación:
+% --------------
+\input{../../Modelos/include/config-HM1cabeceira2-parte-A.tex}
+%
+% 3a Avaliación:
+% --------------
+% \input{../../include/config-HM2cabeceira3-parte-A.tex}
+%
+%
+% -------------------------------------
+% 4.- Cuestionario da proba avaliación:
+% -------------------------------------
+%
+% - Amosar respostas:
+% -------------------
+\hideanswers        % oculta respostas
+%\showanswers        % mostra respostas
+%
+% - Opcións de carga banco cuestións:
+% -----------------------------------
+%
+% A) Cargar todas:
+% ----------------
+\loadallproblems[Tema3-NOTA]{../../Cuestions/Tema3-Notacion-modal.tex}
+\loadallproblems[Tema3-TROBA]{../../Cuestions/Tema3-Monodia-Profana.tex}
+\loadallproblems[Tema3-GREGO1]{../../Cuestions/Tema3-Canto-gregoriano-expansion.tex}
+%\loadallproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+%\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
+%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+%
+% B) Cargar aleatoriamente: 
+% -------------------------
+% !TODO: REVISAR POR QUE PRODUCE ERRO !! 
+%\loadrandomproblems[Tema3-TROBA]{../../Cuestions/Tema3-Monodia-Profana.tex}
+%\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
+%\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
+%\loadrandomproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+%\loadrandomproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
+%\loadrandomproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+%
+% C) Cargar manualmente (selectiva):
+% ----------------------------------
+\loadselectedproblems[Tema3-GREGO]{T3GREGO-11,T3GREGO-12,T3GREGO-05,T3GREGO-08,T3GREGO-10}{../../Cuestions/Tema3-Canto-gregoriano.tex}
+%\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
+%\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
+%\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
+%\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
+%
+% D) Cargar por exclusión:
+% ------------------------
+%\loadexceptproblems[Tema1-CO]{T1CO-01,T1CO-02,T1CO-03,T1CO-04}{../../Cuestions/Tema1-Compositores.tex}
+% 
+% NUMERACIÓN PREGUNTAS E ESTRUTURA da PROBA:
+% ------------------------------------------
+\begin{multicols}{2}
+	\begin{enumerate}[1.-]
+    \foreachproblem[Tema3-NOTA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
+    \foreachproblem[Tema3-TROBA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Pensamento
+    \foreachproblem[Tema3-GREGO]{\item\label{prob:\thisproblemlabel}\thisproblem} % Organoloxía
+    \foreachproblem[Tema3-GREGO1]{\item\label{prob:\thisproblemlabel}\thisproblem} % Roma
+%    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
+%    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
+    \end{enumerate}
+\end{multicols}
+%
+%
+% --------------------------------------
+% 5.- Texto fin de cuestionario Parte A:
+% --------------------------------------
+% !TODO: PENDIENTE DE FACER !!
+% (Incluír solamente se é necesario)
+% \input{../../include/config-HM2instruccions-fin.tex}
+\end{document}
+% Fin de Hoja de ejercicios
