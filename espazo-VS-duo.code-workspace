@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "Historia-II",
+			"path": "..\\Historia-II"
 		}
 	],
 	"settings": {
