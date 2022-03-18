@@ -1,14 +1,14 @@
-# Historia da música 4.º
+## A Orixe da polifonía
 
-[Páxina principal](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/../index.php)[Páxina da materia](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php)[Temario](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/index.php?page=Temario4.html)
-
-Material complementario
-
-## Orixes da polifonía
+A polifonía foi unha **técnica de amplificación e recreación do repertorio gregoriano**, ao igual que os *tropos*. A súa orixe non pode datarse con claridade; se ben as primeiras noticias que temos son dos teóricos do século IX, malia que o uso desta técnica xa viña dalgún tempo atrás. 
 
 ### O *organum* primitivo
 
-A polifonía foi unha técnica de amplificación e recreación do repertorio gregoriano, do mesmo xeito que os tropos. A súa orixe non pode datarse con claridade: as primeiras noticias que temos dánnolas os teóricos do século IX, pero o uso da técnica viña de atrás. Entre os séculos IX e XI numerosos tratados fan referencia ao *organum* (nome habitual da técnica polifónica), pero apenas se conservan libros de canto que o inclúan, o que fai pensar que se trataba dunha práctica de improvisación. Entre eses tratados atópanse *Musica enchiriadis* (Manual de música) e *Scholia enchiriadis* (Comentarios ao manual), anónimos, do século IX. Guido d’Arezzo estuda algunhas características do *organum* no *seu Micrologus*, de cara a 1030; no límite entre os séculos XI e XII hai dous tratados importantes, o *De Musica* de John Cotton e o anónimo *Ad organum faciendum* (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de organum :
+Entre os séculos IX e XI numerosos tratados fan referencia ao ***organum***[^def:organum]; pero apenas se conservan libros de canto que o inclúan, o que nos leva a pensar que se trataba dunha práctica de improvisación. 
+
+Entre eses tratados atópanse *Musica enchiriadis* (Manual de música) e *Scholia enchiriadis* (Comentarios ao manual), ámbolos dous do século IX atribuídos ao monxe Hucbaldo, se ben non se coñece o seu autor.
+
+Guido d’Arezzo estuda algunhas características do *organum* no *seu Micrologus*, de cara a 1030; no límite entre os séculos XI e XII hai dous tratados importantes, o *De Musica* de John Cotton e o anónimo *Ad organum faciendum* (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de organum :
 
 - *Organum* paralelo.
 
@@ -64,7 +64,11 @@ As innovacións da escola de Notre Dáme, especialmente a adición de máis voce
 
 [![Licencia de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
 
-Os contidos orixinais deste sitio web están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
+Os contidos orixinais deste sitio web están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
 
-Francisco Callejo Giménez, 2008-2021
-[fcallejo.hm@cpmcristobaldemorales.es](http://traductor.dacoruna.gal/frontal_2013/urlTranslate.php?direccion3=es-gl&inurl=/mailto:fcallejo.hm@cpmcristobaldemorales.es)
+Podes ver a presentación do tema no seguinte [enlace](https://www.canva.com/design/DAE7U2O1bLQ/dJjeziM0gDUc1SMfRSqlvg/view?utm_content=DAE7U2O1bLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+Roberto Prado Martínez, 2016-2022
+[historia1.cmusviveiro@gmail.com](mailto:historia1.cmusviveiro@gmail.com)
+
+[^def:organum]: nome co que se denomina comunmente a técnica de polifonía
