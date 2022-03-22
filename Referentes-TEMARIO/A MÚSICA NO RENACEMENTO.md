@@ -36,35 +36,26 @@ Por outra banda, hai que destacar a revalorización da formación musical na alt
 
 ### A MÚSICA RENACENTISTA
 
-> **2.1 Técnicas compositivas**
->
-> As técnicas de composición da época son:
+#### Técnicas compositivas
 
--   Composición a través de [*cantus firmus*:](http://es.wikipedia.org/wiki/Cantus_firmus) consiste en utilizar unha melodía preexistente como base dunha nova composición polifónica. O *cantus firmus* procede de música relixiosa ou profana, ou ben é de nova creación. O seu modo consérvase intacto ou se modifica e o seu ritmo ou estrutura de frase tamén pode variar. Aínda que as melodías preexistentes están presentes na maioría das primeiras composicións polifónicas xa na Idade Media, como vimos, o termo C.F. utilízase por convención para referirse tan só á música posterior, a partir do XV.
+As técnicas de composición da época son:
 
-> Hai varios procedementos para a utilización do C.F.:
+1. **Composición a través de [*cantus firmus*:](http://es.wikipedia.org/wiki/Cantus_firmus)** consiste en utilizar unha melodía preexistente como base dunha nova composición polifónica. O *cantus firmus* procede de música relixiosa ou profana, ou ben é de nova creación. O seu modo consérvase intacto ou se modifica e o seu ritmo ou estrutura de frase tamén pode variar. Aínda que as melodías preexistentes están presentes na maioría das primeiras composicións polifónicas xa na Idade Media, como vimos, o termo C.F. utilízase por convención para referirse tan só á música posterior, a partir do XV.
 
--   Paráfrasis: a voz superior é a que leva o C.F., elaborándoo libremente.
+Hai varios procedementos para a utilización do C.F.:
 
--   C.F. de tenor: podería estar no tenor ou moverse entre voces (*cantus firmus* migrante ou errante).
+	- Paráfrasis: a voz superior é a que leva o C.F., elaborándoo libremente.
+	- C.F. de tenor: podería estar no tenor ou moverse entre voces (*cantus firmus* migrante ou errante).
 
 -   Parodia: cando se utiliza como C.F. unha obra polifónica, en todo ou en parte (cada voz da obra polifónica proporciona o C.F. para as voces da nova composición).
 
-&nbsp;
+2. **Contrapunto imitativo**: consiste en expor nunha voz un motivo (antecedente) que repite outra voz a unha distancia concreta (consecuente). Esta entrada pode producirse a altura variable ou ben manterse de forma estrita, estendéndose de igual ou similar maneira ás demais entradas. Ademais, o antecedente pode estar encuberto polos seguintes procedementos:
 
--   Contrapunto imitativo: consiste en expor nunha voz un motivo (antecedente) que repite outra voz a unha distancia concreta (consecuente). Esta entrada pode producirse a altura variable ou ben manterse de forma estrita, estendéndose de igual ou similar maneira ás
-
-2
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
->
-> demais entradas. Ademais, o antecedente pode estar encuberto polos seguintes procedementos:
-
--   Espello ou *speculum* (investimento), convertendo os intervalos ascendentes en descendentes e viceversa.
+-   Espello ou *speculum* (inversión), convertendo os intervalos ascendentes en descendentes e viceversa.
 
 -   Cangrexo ou movemento cancrizante (retrogradación), sendo o consecuente igual que o antecedente lido de dereita a esquerda.
 
--   Investimento retrogradada, xuntando ambos os procedementos anteriores.
+-   Inversión retrogradada, xuntando ambos os procedementos anteriores.
 
 -   Aumentación, a duración das notas do consecuente alárgase en relación ás do antecedente.
 
