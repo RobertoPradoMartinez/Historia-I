@@ -44,9 +44,8 @@ As técnicas de composición da época son:
 
 Hai varios procedementos para a utilización do C.F.:
 
-	- Paráfrasis: a voz superior é a que leva o C.F., elaborándoo libremente.
-	- C.F. de tenor: podería estar no tenor ou moverse entre voces (*cantus firmus* migrante ou errante).
-
+- Paráfrasis: a voz superior é a que leva o C.F., elaborándoo libremente.
+- C.F. de tenor: podería estar no tenor ou moverse entre voces (*cantus firmus* migrante ou errante).
 -   Parodia: cando se utiliza como C.F. unha obra polifónica, en todo ou en parte (cada voz da obra polifónica proporciona o C.F. para as voces da nova composición).
 
 2. **Contrapunto imitativo**: consiste en expor nunha voz un motivo (antecedente) que repite outra voz a unha distancia concreta (consecuente). Esta entrada pode producirse a altura variable ou ben manterse de forma estrita, estendéndose de igual ou similar maneira ás demais entradas. Ademais, o antecedente pode estar encuberto polos seguintes procedementos:
@@ -61,9 +60,7 @@ Hai varios procedementos para a utilización do C.F.:
 
 -   Diminución, cando se produce o efecto contrario.
 
-&nbsp;
-
--   Variación: consiste en repetir un tema variándoo ou cambiándoo cada vez que aparece. É factible variar a melodía, o ritmo, a harmonía, etc. Empregouse de forma destacada na música instrumental. Neste caso, non adoita aparecer o tema de partida, senón directamente as variacións ou "diferenzas".
+3. **Variación**: consiste en repetir un tema variándoo ou cambiándoo cada vez que aparece. É factible variar a melodía, o ritmo, a harmonía, etc. Empregouse de forma destacada na música instrumental. Neste caso, non adoita aparecer o tema de partida, senón directamente as variacións ou "diferenzas".
 
 -   Textura homofónica: todas as voces cantan en vertical e co mesmo ritmo e texto.
 
@@ -78,10 +75,6 @@ Hai varios procedementos para a utilización do C.F.:
 -   Ordénase e regula o emprego de notas auxiliares á harmonía (floreos, notas de paso, retardos, escapadas e *cambiatas*).
 
 -   O ideal sonoro baséase nunha textura a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha textura de contrapunto imitativo. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, tenor e *contratenor bassus*.
-
-3
-
-Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 -   É frecuente a utilización de motivos recorrentes (pequenas células ou ideas melódicas que se presentan unha e outra vez na obra, suxeitas a pequenas elaboracións).
 
