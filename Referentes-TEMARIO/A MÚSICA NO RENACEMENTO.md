@@ -2,6 +2,8 @@
 
 [Audicións](http://open.spotify.com/user/javierjuradoluque/playlist/6hkvm3DeOXNPNpkdOMWdzc)
 
+<!--TODO: REVISIÓN DE MAQUETACIÓN E TEXTOS-->
+
 ### CONTEXTO HISTÓRICO
 
 O concepto de [Renacemento](http://es.wikipedia.org/wiki/Renacimiento) aparece para a historiografía da arte e da cultura en época tan distante como o século XIX. Este termo refírese á recuperación da cultura da [Antigüidade](http://es.wikipedia.org/wiki/Antig%C3%BCedad_cl%C3%A1sica) [clásica](http://es.wikipedia.org/wiki/Antig%C3%BCedad_cl%C3%A1sica) tras o longo período, supostamente escuro, que suporía a [Idade Media.](http://es.wikipedia.org/wiki/Edad_Media) Efectivamente, os séculos XV e XVI trouxeron grandes cambios, así como a formación dalgúns dos principios estruturais que estiveron operativos na cultura europea até as revolucións burguesas dos séculos XVIII e XIX. De feito, basta lembrar que a historiografía fai comezar no século XV unha nova [Idade Moderna.](http://es.wikipedia.org/wiki/Edad_Moderna) En contrapartida, cabe dicir que en non poucos aspectos a cultura do Renacemento supuxo unha elaboración de trazos que xa se presentaron na Idade Media.
@@ -102,17 +104,9 @@ Hai varios procedementos para a utilización do C.F.:
 
     -   Homofónica (ou, con máis propiedade, homorrítmica): as voces marchan xuntas formando acordes; é a textura propia de xéneros como [*a chanson*,](http://es.wikipedia.org/wiki/Chanson) a [*frottola*](http://es.wikipedia.org/wiki/Frottola) ou a [panxoliña.](http://es.wikipedia.org/wiki/Villancico) É habitual que nestas composicións existan algúns fragmentos contrapuntísticos, dependendo do compositor de que se trate.
 
-> Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realidade, a mesma. Heinrich Isaak escribiu dúas versións de *Innsbruck, ich muss dich lassen* (Innsbruck, debo abandonarche), unha homofónica, coa melodía na voz superior, e outra polifónica (*Gross* *lei muss ich tragen*), partindo dun canon a dous entre as voces intermedias. Na [interpretación](http://open.spotify.com/track/6sFWmiPy6R5EeOC58TXO9Y) que escoitamos, ambas as posibilidades van seguidas, o que facilita a comprensión das diferenzas entre os dous tipos de textura empregados no Renacemento:
-
-4
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
+Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realidade, a mesma. Heinrich Isaak escribiu dúas versións de *Innsbruck, ich muss dich lassen* (Innsbruck, debo abandonarche), unha homofónica, coa melodía na voz superior, e outra polifónica (*Gross* *lei muss ich tragen*), partindo dun canon a dous entre as voces intermedias. Na [interpretación](http://open.spotify.com/track/6sFWmiPy6R5EeOC58TXO9Y) que escoitamos, ambas as posibilidades van seguidas, o que facilita a comprensión das diferenzas entre os dous tipos de textura empregados no Renacemento:
 
 ![](media/image1.jpeg){width="6.774305555555555in" height="9.470138888888888in"}
-
-5
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 ![](media/image2.jpeg){width="6.774305555555555in" height="8.370138888888889in"}
 
@@ -123,10 +117,6 @@ Até entrado o século XVI prevalece un estilo internacional, relativamente unif
 -   1ª (1400-1460): [Dunstable,](http://es.wikipedia.org/wiki/John_Dunstable) [Dufay](http://es.wikipedia.org/wiki/Guillaume_Dufay) e [Binchois.](http://es.wikipedia.org/wiki/Gilles_Binchois)
 
 -   2ª (1450-1500): [Busnois](http://en.wikipedia.org/wiki/Busnois) e [Ockeghem.](http://es.wikipedia.org/wiki/Ockeghem)
-
-6
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 -   3ª (1490-1520): Josquin [deas Prés,](http://es.wikipedia.org/wiki/Josquin_des_Pr%C3%A9s) [Obrecht,](http://es.wikipedia.org/wiki/Jacob_Obrecht) [Isaak.](http://es.wikipedia.org/wiki/Heinrich_Isaac)
 
@@ -146,8 +136,8 @@ Ao redor de 1550 xorden e desenvólvense distintos estilos nacionais. Pódense d
 
 2.  As ESCOLAS COMPOSITIVAS
 
-> **3.1 A escola Franco-flamenca**
->
+**3.1 A escola Franco-flamenca**
+
 > A guerra dos Cen Anos conduciu a unha diminución da importancia musical de Francia, que fai desviar a hexemonía musical desta nación e de Italia cara a Inglaterra, Borgoña e, sobre todo, Flandes. Estas cortes serán escenario de festas relixiosas e profanas nas que a música ocupa un posto relevante. Nelas fúndanse capelas musicais principescas a imitación da papal.
 >
 > Na evolución da música do continente atopamos dúas tendencias: unha, central, herdeira do *Ars Nova* e do *Ars Subtilior* e outra, periférica, de influencia inglesa. Foi esencial neste sentido a achega de Dunstable, que estaba ao servizo do duque de Bedford e, por tanto, pertencía ás tropas invasoras do continente, e que entrou en contacto con músicos franco-flamencos e borgoñones. A súa música caracterízase por:
@@ -168,13 +158,9 @@ Adóitanse distinguir varias xeracións de compositores franco-flamencos (ou bor
 
 -   Os compositores da terceira xeración viaxaron a distintas cortes e igrexas de Europa, polo que recibiron importantes influencias musicais, tanto do sur como do norte de Europa.
 
-7
+Obsérvase un aligeramiento das texturas, así como ritmo e melodía máis sinxela. A figura principal foi Josquin deas Prés. As súas grandes obras están desenvolvidas a partir de C.F. tomado do canto chairo ou ben de obras profanas, como no caso de [*L'homme arme*,](http://open.spotify.com/track/5SWo3PgUcCLFblqvS2U0sw) tema moi utilizado nesta época e empregado como C.F. por el en dúas misas (Misa *L'homme* *arme* *super voces musicais* e Misa [*L'homme arme* de sexto ton](http://open.spotify.com/track/4bx9nePdM3wwj3Z7FZ0owv)). Este autor ten especial preocupación polo inteligible do texto. Usa o simbolismo musical, é dicir, símbolos expresados musicalmente (tresillos para a trinidad, por exemplo). \[Para o resto das súas características, consulta os apuntamentos da audición *Déploration sur lle mort d'Ockeghem*.\]
 
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
->
-> Obsérvase un aligeramiento das texturas, así como ritmo e melodía máis sinxela. A figura principal foi Josquin deas Prés. As súas grandes obras están desenvolvidas a partir de C.F. tomado do canto chairo ou ben de obras profanas, como no caso de [*L'homme arme*,](http://open.spotify.com/track/5SWo3PgUcCLFblqvS2U0sw) tema moi utilizado nesta época e empregado como C.F. por el en dúas misas (Misa *L'homme* *arme* *super voces musicais* e Misa [*L'homme arme* de sexto ton](http://open.spotify.com/track/4bx9nePdM3wwj3Z7FZ0owv)). Este autor ten especial preocupación polo inteligible do texto. Usa o simbolismo musical, é dicir, símbolos expresados musicalmente (tresillos para a trinidad, por exemplo). \[Para o resto das súas características, consulta os apuntamentos da audición *Déploration sur lle mort d'Ockeghem*.\]
->
-> \- Na cuarta xeración, a escritura vólvese máis densa, sendo habituais as composicións a cinco e seis voces. As misas máis frecuentes son as de parodia, utilizando o material dunha *chanson* ou dun motete.
+- Na cuarta xeración, a escritura vólvese máis densa, sendo habituais as composicións a cinco e seis voces. As misas máis frecuentes son as de parodia, utilizando o material dunha *chanson* ou dun motete.
 
 -   Na quinta xeración, a textura utilizada é a de cinco ou seis voces *a capella* e cóidase a disposición do texto e a relación entre a música e os contidos expresados por el. Utilizan texturas contrapuntísticas e homofónicas alternadas. A forma principal é o motete. Un dos principais compositores foi Orlando di Lasso.
 
@@ -186,7 +172,7 @@ Desde o primeiro momento, Lutero mostrouse partidario de aproveitar a música de
 
 A coral é en orixe un canto relixioso monódico, en alemán, con ritmo sinxelo, melodía de ámbito curto, por graos conxuntos e estilo silábico. A súa sinxeleza, e o feito de que moitas destas melodías fosen populares, garantiron unha ampla difusión deste estilo vocal. A execución da coral ía desde os máis sinxelos monódicos (asemblea ao unísono) até as grandes presentacións das corais harmonizados, onde á melodía cantada pola asemblea súmase o acompañamento de órgano ou instrumentos e dun coro especializado.
 
-> Ao longo da evolución da coral, distinguimos:
+Ao longo da evolución da coral, distinguimos:
 
 -   Coral de tenor (como C.F.), propio do século XVI, tanto polifónico como homofónico. De estilo sinxelo, é cadrado, sobre baixo armónico e con cadencias claras.
 
@@ -198,13 +184,7 @@ A coral é en orixe un canto relixioso monódico, en alemán, con ritmo sinxelo,
 
 A resposta da igrexa católica ás reformas protestantes foi a convocatoria do [Concilio de](http://es.wikipedia.org/wiki/Concilio_de_Trento) [Trento,](http://es.wikipedia.org/wiki/Concilio_de_Trento) que se celebrou na cidade do mesmo nome entre os anos 1545-1563. É nos dous últimos anos cando se abordan as cuestións musicais e se debate sobre a música a empregar na liturxia.
 
-As sesións do Concilio de Trento puxeron de manifesto a necesidade dunha reforma en profundidade da práctica musical no seo da liturxia. Os procedementos das misas de parodia, os excesos dos instrumentos, o artificio das voces\... chegaban a facer incomprensible o texto sacro, polo que conduciron a un afastamento perigoso para a dogma e a edificación de
-
-8
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
-
-os fieis que se debía buscar na liturxia. Estas orientacións de estilo deron lugar ao que se coñece como Escola romana.
+As sesións do Concilio de Trento puxeron de manifesto a necesidade dunha reforma en profundidade da práctica musical no seo da liturxia. Os procedementos das misas de parodia, os excesos dos instrumentos, o artificio das voces\... chegaban a facer incomprensible o texto sacro, polo que conduciron a un afastamento perigoso para a dogma e a edificación de os fieis que se debía buscar na liturxia. Estas orientacións de estilo deron lugar ao que se coñece como Escola romana.
 
 Por Escola Romana enténdese ao grupo de compositores que actuaron durante o século XVI na Capela Papal en Roma, cuxo máximo representante é G. P. dá Palestrina. A súa música caracterízase por unha melodía sinxela e *cantabile*, ritmo fluído e tranquilo, texturas imitativas pero non excesivamente densas, harmonías triádicas, textos comprensibles con preferencia ao emprego de tenores gregorianos como C.F. (aínda que emprega tamén paráfrasis, parodia e composición libre). O seu estilo é sobrio austero e equilibrado. A súa música foi considerada a expresión máis perfecta do estilo eclesiástico. A súa arte resume todo o século que lle precede, englobando todas as técnicas da composición polifónica e os seus xéneros. \[Para o resto das súas características, consulta os apuntamentos da audición *Misa Ascendo ad*Patrem .\]
 
