@@ -66,17 +66,19 @@ Hai varios procedementos para a utilización do C.F.:
 
 -   Textura homofónica: todas as voces cantan en vertical e co mesmo ritmo e texto.
 
-2.2 Características
+#### 2.2 Características
 
--   Rítmicamente, as obras tamén se simplifican, fuxindo das complexidades da Idade Media. A isorritmia utilízase unicamente en celebracións relixiosas solemnes e mantense só durante o século XV. Emprégase a indicación de compás ao comezo dunha partitura, aínda que non se fai uso das liñas divisorias. O sistema de medida mantén os conceptos de *tempus* e *prolatio* herdados desde o XIV, evolucionando ao longo do período. O tipo de pulsación preferido é o chamado *tactus*, sucesión de pulsos regulares de igual xerarquía. Ademais desta idea de pulsación interveñen outros enriquecementos rítmicos, especialmente no primeiro renacemento, con numerosas síncopas, hemiolias e outras irregularidades. Conforme avanza o período, o ritmo armónico cobra importancia, especialmente na Escola Romana.
+Podemos destacar as seguintes:
 
--   As melodías son fluídas e sinxelas, estruturadas segundo a respiración natural, e menos artificiais que no Medioevo. Móvense maioritariamente de grao e por salto consonante, sendo o seu ámbito reducido. Utilizan pequenas células ou motivos que se reelaboran ao longo do discurso musical.
+-   **Rítmicamente**, as obras tamén se simplifican, fuxindo das complexidades da Idade Media. A isorritmia utilízase unicamente en celebracións relixiosas solemnes e mantense só durante o século XV. Emprégase a **indicación de compás** ao comezo dunha partitura, aínda que **non se fai uso das liñas divisorias**. O sistema de medida mantén os conceptos de *tempus* e *prolatio* herdados desde o XIV, evolucionando ao longo do período. O tipo de **pulsación** preferido é o chamado *tactus*, sucesión de pulsos regulares de igual xerarquía. Ademais desta idea de pulsación interveñen outros enriquecementos rítmicos, especialmente no primeiro renacemento, con numerosas síncopas, hemiolias e outras irregularidades. Conforme avanza o período, o **ritmo armónico** cobra importancia, especialmente na Escola Romana.
+
+-   As **melodías son fluídas e sinxelas**, estruturadas segundo a respiración natural, e menos artificiais que no Medioevo. Móvense maioritariamente de grao e por salto consonante, sendo o seu ámbito reducido. Utilizan pequenas células ou motivos que se reelaboran ao longo do discurso musical.
 
 -   Utilízanse os antigos modos, ampliados a doce a metade de século grazas aos teóricos [Glareanus](http://es.wikipedia.org/wiki/Glareanus) e [Zarlino](http://es.wikipedia.org/wiki/Gioseffo_Zarlino) (ao considerar a existencia dun si bemol constante no lido daría lugar á aparición do jónico ou modo de do; o mesmo feito dará lugar á consideración dun eólico ou modo da diferenciado do dórico). Os compositores empregan cada vez con máis liberdade as notas alteradas (que non pertencen ao modo no que está escrita a obra) e vaise preparando o tránsito da vella arquitectura modal ao sistema bimodal moderno. As notas non escritas e que se elevan para dar lugar a sensibles dos modos dan lugar a un sistema de [*musica ficta*](http://es.wikipedia.org/wiki/M%C3%BAsica_ficta) (ficticia, xa que está fóra do ámbito creado por Guido d'Arezzo), que se basea nunhas regras estritas aínda que non do todo coñecidas por nós.
 
 -   Ordénase e regula o emprego de notas auxiliares á harmonía (floreos, notas de paso, retardos, escapadas e *cambiatas*).
 
--   O ideal sonoro baséase nunha textura a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha textura de contrapunto imitativo. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, tenor e *contratenor bassus*.
+-   O ideal sonoro baséase nunha **textura** a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha textura de contrapunto imitativo. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, tenor e *contratenor bassus*.
 
 -   É frecuente a utilización de motivos recorrentes (pequenas células ou ideas melódicas que se presentan unha e outra vez na obra, suxeitas a pequenas elaboracións).
 
