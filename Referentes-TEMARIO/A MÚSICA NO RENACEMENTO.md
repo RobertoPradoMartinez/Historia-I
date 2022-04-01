@@ -20,11 +20,12 @@ Facendo unha síntese, podemos enunciar os trazos xerais da cultura do Renacemen
 
 -   A creación artística será un dos aspectos máis rechamantes do período. En primeiro lugar polo novo concepto de arte: o artista xa non é un artesán ao servizo da inspiración divina, senón un creador que aspira ao status de home de ciencia. Poucos períodos da Historia de Occidente coñeceron un ritmo de produción de obras de arte tan intenso en calidade e cantidade como este, porque posta ao servizo da exaltación do poder persoal (príncipes, papas\...) a creación artística convértese nun elemento de prestixio privilexiado, facendo do mecenado unha institución obrigada para calquera poderoso.
 
-Os aspectos xerais da música renacentista son:
+As principais características da música renacentista son:
 
--   Aspectos estéticos: o músico do Renacemento desenvolveu un concepto de creación que era esencialmente novo. A obra musical é a expresión subxectiva do autor, realizada conforme a unhas regras racionais e codificadas. Con todo, dado que os músicos dos séculos XV e XVI non contaban con modelos antigos, pode dicirse que aquí a continuidade coas formas do XIV foi moito maior, de maneira que (como noutras ocasións ao longo da historia da música) non é posible falar de ruptura.
+-   <u>Aspectos estéticos</u>: o músico do Renacemento desenvolveu un concepto de creación que era esencialmente novo. A obra musical é a expresión subxectiva do autor, realizada conforme a unhas regras racionais e codificadas. Con todo, dado que os músicos dos séculos XV e XVI non contaban con modelos antigos, pode dicirse que aquí a continuidade coas formas do XIV foi moito maior, de maneira que (como noutras ocasións ao longo da historia da música) non é posible falar de ruptura.
 
--   Aspectos sociolóxicos: a música recupera o lugar que, dentro da sociedade, desempeñaba para Platón: un aspecto fundamental na formación moral do cidadán e tamén un espazo expresivo que o Estado debe controlar moi de preto. Dado o seu valor pedagóxico, ocupa tamén un lugar principal como espazo para expandir determinadas ideoloxías, a través das súas formas e, especialmente, dos textos que a acompañan.
+
+-   <u>Aspectos sociolóxicos</u>: a música recupera o lugar que, dentro da sociedade, desempeñaba para Platón: un aspecto fundamental na formación moral do cidadán e tamén un espazo expresivo que o Estado debe controlar moi de preto. Dado o seu valor pedagóxico, ocupa tamén un lugar principal como espazo para expandir determinadas ideoloxías, a través das súas formas e, especialmente, dos textos que a acompañan.
 
 Por outra banda, hai que destacar a revalorización da formación musical na alta sociedade.
 
@@ -64,7 +65,7 @@ Hai varios procedementos para a utilización do C.F.:
 
 3. **Variación**: consiste en repetir un tema variándoo ou cambiándoo cada vez que aparece. É factible variar a melodía, o ritmo, a harmonía, etc. Empregouse de forma destacada na música instrumental. Neste caso, non adoita aparecer o tema de partida, senón directamente as variacións ou "diferenzas".
 
--   Textura homofónica: todas as voces cantan en vertical e co mesmo ritmo e texto.
+4. **Textura homofónica**: todas as voces cantan en vertical e co mesmo ritmo e texto.
 
 #### 2.2 Características
 
@@ -74,25 +75,33 @@ Podemos destacar as seguintes:
 
 -   As **melodías son fluídas e sinxelas**, estruturadas segundo a respiración natural, e menos artificiais que no Medioevo. Móvense maioritariamente de grao e por salto consonante, sendo o seu ámbito reducido. Utilizan pequenas células ou motivos que se reelaboran ao longo do discurso musical.
 
--   Utilízanse os antigos modos, ampliados a doce a metade de século grazas aos teóricos [Glareanus](http://es.wikipedia.org/wiki/Glareanus) e [Zarlino](http://es.wikipedia.org/wiki/Gioseffo_Zarlino) (ao considerar a existencia dun si bemol constante no lido daría lugar á aparición do jónico ou modo de do; o mesmo feito dará lugar á consideración dun eólico ou modo da diferenciado do dórico). Os compositores empregan cada vez con máis liberdade as notas alteradas (que non pertencen ao modo no que está escrita a obra) e vaise preparando o tránsito da vella arquitectura modal ao sistema bimodal moderno. As notas non escritas e que se elevan para dar lugar a sensibles dos modos dan lugar a un sistema de [*musica ficta*](http://es.wikipedia.org/wiki/M%C3%BAsica_ficta) (ficticia, xa que está fóra do ámbito creado por Guido d'Arezzo), que se basea nunhas regras estritas aínda que non do todo coñecidas por nós.
+-   **Utilízanse os antigos modos**, ampliados a doce a metade de século grazas aos teóricos [Glareanus](http://es.wikipedia.org/wiki/Glareanus) e [Zarlino](http://es.wikipedia.org/wiki/Gioseffo_Zarlino) (ao considerar a existencia dun si bemol constante no lido daría lugar á aparición do jónico ou modo de do; o mesmo feito dará lugar á consideración dun eólico ou modo da diferenciado do dórico). Os compositores empregan cada vez con máis liberdade as notas alteradas (que non pertencen ao modo no que está escrita a obra) e vaise preparando o tránsito da vella arquitectura modal ao sistema bimodal moderno. As notas non escritas e que se elevan para dar lugar a sensibles dos modos dan lugar a un sistema de [*musica ficta*](http://es.wikipedia.org/wiki/M%C3%BAsica_ficta) (ficticia, xa que está fóra do ámbito creado por Guido d'Arezzo), que se basea nunhas regras estritas aínda que non do todo coñecidas por nós.
 
--   Ordénase e regula o emprego de notas auxiliares á harmonía (floreos, notas de paso, retardos, escapadas e *cambiatas*).
+-   Ordénase e regula o emprego de **notas auxiliares á harmonía** (floreos, notas de paso, retardos, escapadas e *cambiatas*).
 
--   O ideal sonoro baséase nunha **textura** a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha textura de contrapunto imitativo. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, tenor e *contratenor bassus*.
+-   O ideal sonoro baséase nunha textura a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha **textura de contrapunto imitativo**. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, *tenor* e *contratenor bassus*.
 
--   É frecuente a utilización de motivos recorrentes (pequenas células ou ideas melódicas que se presentan unha e outra vez na obra, suxeitas a pequenas elaboracións).
+-   É frecuente a utilización de **motivos recorrentes** (pequenas células ou ideas melódicas que se presentan unha e outra vez na obra, suxeitas a pequenas elaboracións).
 
--   A polifonía considérase verticalmente, polo que a concepción sucesiva das voces que se utilizaba na Idade Media substitúese por unha concepción simultánea, pasando do horizontal ao vertical. Progresivamente, prepárase unha harmonía baseada no acorde triádico funcional. As disonancias son preparadas e resoltas.
+-   A polifonía considérase verticalmente, polo que a concepción sucesiva das voces que se utilizaba na Idade Media substitúese por unha concepción simultánea, pasando do horizontal ao vertical.
 
 -   Non hai unha música totalmente instrumental ou vocal; toda a música instrumental pódese cantar e viceversa. De igual forma, é factible dobrar ou non as voces con instrumentos, aínda que non existe especificidad instrumental aínda (calquera instrumento podería dobrar calquera voz, sempre que corresponda á súa tesitura).
 
 -   No que se refire á relación texto-música, esta expresa os contidos do texto sen dificultar a súa comprensión. Nace o termino [*música reservata*](http://es.wikipedia.org/wiki/Musica_reservata) (termo quizais acuñado por Josquin deas Prez), para referirse a aquela música que trata de traducir o máis fielmente posible o sentido do texto. Aplicada ao xénero profano dará logo tardíamente aos madrigalismos.
 
--   Os xéneros empregados son:
+-   As **formas** máis empregadas son:
 
-    -   Na música relixiosa, o motete (no significado de peza relixiosa paralitúrgica de composición libre) e a misa, máis as partes do oficio. Abandónase a isorritmia e a politextualidad no motete.
+    1. Na música relixiosa:
 
-    -   Na música profana o será as xa mencionadas *chanson*, *frottola*, panxoliña e o [madrigal.](http://es.wikipedia.org/wiki/Madrigal_%28m%C3%BAsica%29) Este terá unha estrutura similar ao motete pero máis avanzado rítmica e armónicamente. Ademais, experimenta un enorme auxe a música instrumental, con multitude de xéneros, así como a música de danza.
+       - o **motete** (no significado de peza relixiosa paralitúrgica de composición libre),
+
+       - a **misa**, máis as **partes do oficio**. 
+
+         Abandónase a isorritmia e a politextualidad no motete.
+
+    2. Na música profana:
+
+       o será as xa mencionadas *chanson*, *frottola*, villancico e o [madrigal](http://es.wikipedia.org/wiki/Madrigal_%28m%C3%BAsica%29); este terá unha estrutura similar ao motete pero máis avanzado rítmica e armónicamente. Ademais, experimenta un enorme auxe a música instrumental, con multitude de xéneros, así como a música de danza.
 
 -   Cada escola presenta unhas especificaciones concretas en relación ao número de voces, cadencias empregadas, textura, modos, etc. \[Para unha maior comprensión destas, convén estudar detidamente os apuntamentos correspondentes ás audicións\].
 
@@ -208,13 +217,9 @@ A igrexa anglicana separouse da católica en 1534, durante o reinado de [Enrique
 
 Este período é considerado como a Idade de Ouro da música española, que alcanza fama internacional. A obra dos grandes mestres polifonistas do Renacemento español é concentrada, austera e impregnada dun profundo misticismo. Este misticismo, que é a súa calidade máis determinante, conséguese a través dunha expresividade profunda. As necesidades expresivas levan aos nosos músicos a compor nunha linguaxe moderna, con disonancias, emprego artístico do silencio e uso persoal do contrapunto.
 
-9
-
-Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
-
 Estas calidades emparentan aos nosos músicos con outros artistas da época que tratan de dicir o mesmo con outros medios artísticos, por exemplo [O Greco](http://es.wikipedia.org/wiki/El_Greco) (en cuxa pintura existe o mesmo misticismo), [Berruguete](http://es.wikipedia.org/wiki/Alonso_Berruguete) (escultura) ou san [Juan da Cruz](http://es.wikipedia.org/wiki/Juan_de_la_Cruz) e santa [Teresa de Ávila](http://es.wikipedia.org/wiki/Teresa_de_%C3%81vila) (literatura). A maior parte da nosa música vocal é relixiosa, aínda que tamén existan obras profanas de Juan Vázquez e Mateo Frecha.
 
-> A\) A época dos Reis Católicos
+A\) A época dos Reis Católicos
 
 Cos Reis Católicos dá comezo un período de esplendor cultural. A música española, tanto durante este reinado como cos posteriores da casa dos Austrias, foi moito máis rica e importante do que se pensou até o século XIX, cando se descubriu o *Cancioneiro musical de* *Palacio* na biblioteca do Palacio Real de Madrid.
 
@@ -228,7 +233,7 @@ Aínda que a música máis importante foi a relixiosa, os nobres cultivaron a m�
 
 -   A [ensalada](http://open.spotify.com/track/4dLxTrRRCpqV59G9S2GqvC) é un xénero polifónico profano no que se mesturan os diferentes estilos do madrigal, canción popular, panxoliña, romance e danza (de aí o seu nome).
 
--   A panxoliña é unha forma musical profana de orixe popular que consta de tres partes: refrán, copla e refrán, levando a melodía na voz superior, cunha harmonía sinxela, unha textura homorrítmica e un estilo silábico. O nome fai referencia ás cancións "de viláns", de estilo popular nos temas. Formalmente ten as seguintes características:
+-   A panxoliña (villancico) é unha forma musical profana de orixe popular que consta de tres partes: refrán, copla e refrán, levando a melodía na voz superior, cunha harmonía sinxela, unha textura homorrítmica e un estilo silábico. O nome fai referencia ás cancións "de viláns", de estilo popular nos temas. Formalmente ten as seguintes características:
 
     -   Composicións para tres ou catro voces, que poden ser dobradas ou suplidas por instrumentos.
 
@@ -244,43 +249,43 @@ Aínda que a música máis importante foi a relixiosa, os nobres cultivaron a m�
 
 -   A forma é similar á do virelai (AbbaA), onde A sería a parte do refrán que se repite sempre tal cal, bb correspondería aos cambios (partes que mudan en cada copla) e a corresponde á volta (música de A, pero cambiando o texto).
 
-> Un tipo concreto de panxoliña é o relixioso, dotado dun texto sacro, xeralmente en castelán, composto para unha celebración eclesiástica concreta (como o Nadal ou a Semana Santa).
->
-> [*Todos os bens do mundo*,](http://open.spotify.com/track/0l6KJwUYfv2GuKJ2HpOq1L) *panxoliña* de [Juan do Enzina,](http://es.wikipedia.org/wiki/Juan_del_Enzina) *ilustra* este xénero.
+Un tipo concreto de panxoliña é o relixioso, dotado dun texto sacro, xeralmente en castelán, composto para unha celebración eclesiástica concreta (como o Nadal ou a Semana Santa).
 
-Todos os bens do mundo
+Exemplo: [*Todos os bens do mundo*,](http://open.spotify.com/track/0l6KJwUYfv2GuKJ2HpOq1L) *panxoliña* de [Juan do Enzina,](http://es.wikipedia.org/wiki/Juan_del_Enzina) *ilustra* este xénero.
 
-pasan presto e a súa memoria,
+> Todos os bens do mundo
 
-salvo a fama e a gloria.
+> pasan presto e a súa memoria,
 
-O tempo leva os uns,
+> salvo a fama e a gloria.
 
-a outra fortuna e sorte.
+> O tempo leva os uns,
 
-e ao cabo vén a morte,
+> a outra fortuna e sorte.
 
-que non nos dexa ningúns.
+> e ao cabo vén a morte,
 
-Todos son bens fortunos
+> que non nos dexa ningúns.
 
-E de moi pouca memoria
+> Todos son bens fortunos
 
-salvo a fama e a gloria.
+> E de moi pouca memoria
 
-Procuremos boa fama,
+> salvo a fama e a gloria.
 
-que xamais nunca se perde,
+> Procuremos boa fama,
 
-árbore que sempre está verde
+> que xamais nunca se perde,
 
-e co froito na rama.
+> árbore que sempre está verde
 
-Todo ben que ben se chama
+> e co froito na rama.
 
-pasa presto e a súa memoria
+> Todo ben que ben se chama
 
-salvo a fama a gloria.
+> pasa presto e a súa memoria
+
+> salvo a fama a gloria.
 
 Esta panxoliña está presente no *Cancionero Musical de Palacio*, tamén chamado *Cancionero* *Barbieri* (por ser este músico madrileño o seu descubridor). Polo número de pezas que contén, pode dicirse que é o mellor compendio do que debeu ser a música de corte do período.
 
@@ -298,7 +303,7 @@ Como xa se viu, o compositor máis destacado do período é Juan do Enzina (1468
 
 En música relixiosa destaca Francisco de Peñalosa (1470-1528), o compositor máis prolífico do seu tempo. Aínda que compón panxoliñas e cancións, case toda a súa obra é de carácter relixioso.
 
-> B\) A segunda época: Música nos reinados de Carlos I e Felipe II.
+B\) A segunda época: Música nos reinados de Carlos I e Felipe II.
 
 Entre 1516 e 1598, coincidindo cos reinados de Carlos I e Felipe II, alcanza a súa plenitude o renacemento musical español. O elevado nivel técnico e expresivo dos compositores do momento leva as súas obras a gozar da máxima consideración entre os seus coetáneos europeos. Os contactos que sempre existiran entre España e outros países intensificáronse no século XVI debido en parte ao nomeamento de Carlos I como Carlos V, emperador de Alemaña, e á súa sucesión por parte de Felipe II. Tamén contribúe o papel que asume a Coroa Española como paladín das directrices propugnadas pola Igrexa de Roma.
 
@@ -318,13 +323,7 @@ As abulense Tomas Luís de Vitoria (1548-1611) estudou en Roma, onde traballou c
 
 Outros dos grandes polifonistas foron Francisco de Guerreiro (1528-1599) e Juan Vázquez (1500-1560).
 
-En canto á música instrumental, destaca a composición para órgano e vihuela. Antonio de Cabezón, cego desde neno, chegou a ser músico de cámara de Carlos V e organista principal do seu fillo Felipe II. É considerado como o creador da escola organística española, aínda que compuxo
-
-12
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
-
-tamén para tecla, arpa e viola dá gamba. Coñecía as técnicas e estilos europeos, de onde toma a súa concepción harmónica e contrapuntística. Compuxo unha ampla obra, case toda relixiosa, entre a que destacan tientos ou "fugas" (especie de motetes instrumentais baseados na imitación, a catro voces), todos eles creación propia, aínda que algúns toman pequenos elementos melódicos do canto gregoriano. Os tientos de Cabezón caracterízanse pola variedade de estrutura e polo uso da composición utilizando a aumentación e a diminución.
+En canto á música instrumental, destaca a composición para órgano e vihuela. Antonio de Cabezón, cego desde neno, chegou a ser músico de cámara de Carlos V e organista principal do seu fillo Felipe II. É considerado como o creador da escola organística española, aínda que compuxo tamén para tecla, arpa e viola dá gamba. Coñecía as técnicas e estilos europeos, de onde toma a súa concepción harmónica e contrapuntística. Compuxo unha ampla obra, case toda relixiosa, entre a que destacan tientos ou "fugas" (especie de motetes instrumentais baseados na imitación, a catro voces), todos eles creación propia, aínda que algúns toman pequenos elementos melódicos do canto gregoriano. Os tientos de Cabezón caracterízanse pola variedade de estrutura e polo uso da composición utilizando a aumentación e a diminución.
 
 En contraste, as súas diferenzas (ciclos de variacións sobre temas populares ou cancións francesas) toman sempre un elemento xerador alleo. Destas destacan as [*Diferenzas sobre o canto do*](http://open.spotify.com/track/3KIn5dZJbmc4bJ4aJpyGnl) [*Caballero*](http://open.spotify.com/track/3KIn5dZJbmc4bJ4aJpyGnl) pola súa beleza e perfección:
 
@@ -352,15 +351,9 @@ A [*frottola*](http://open.spotify.com/track/0d6zn7tm3FYToN3oR0ad9M) é un xéne
 
 O madrigal do XVI non ten nada que ver, formal nin literariamente, co do século XIV, co que só comparte o nome, en virtude dunha parcial coincidencia en temas de tipo pastoril e amatorio. O madrigal renacentista orixínase en Italia no segundo cuarto do XVI, pero expándese por toda Europa, interpretándose en toda clase de reunións sociais e cortesás.
 
-O madrigal é unha forma musical polifónica de xénero profano, organizada en seccións en función do texto, de carácter descritivo que pretende, a través da unión de letra e música, expresar sentimentos. Na súa expresión alcanza un nivel moi depurado; adoita ser a catro ou cinco voces, *a capella* (aínda que se podían introducir instrumentos dobrando ou substituíndo algunha parte) e foi unha das manifestacións máis acabadas do ideal de *musica reservata*. É a expresión lírica
+O madrigal é unha forma musical polifónica de xénero profano, organizada en seccións en función do texto, de carácter descritivo que pretende, a través da unión de letra e música, expresar sentimentos. Na súa expresión alcanza un nivel moi depurado; adoita ser a catro ou cinco voces, *a capella* (aínda que se podían introducir instrumentos dobrando ou substituíndo algunha parte) e foi unha das manifestacións máis acabadas do ideal de *musica reservata*. É a expresión lírica do ser humano que canta as súas vivencias, os seus sentimentos, que trata de demostrar que el é o centro do mundo. Dáse en ambientes cortesáns como exaltación de sentimentos sensuais e amorosos e naqueles lugares onde é máis forte o ambiente profano, como Venecia e Inglaterra.
 
-13
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
-
-do ser humano que canta as súas vivencias, os seus sentimentos, que trata de demostrar que el é o centro do mundo. Dáse en ambientes cortesáns como exaltación de sentimentos sensuais e amorosos e naqueles lugares onde é máis forte o ambiente profano, como Venecia e Inglaterra.
-
-> As súas características son:
+As súas características son:
 
 -   Emprego dunha linguaxe musical difícil, culto e para minorías.
 
@@ -372,7 +365,7 @@ do ser humano que canta as súas vivencias, os seus sentimentos, que trata de de
 
 -   Texto: formado por estrofas cun esquema de rima libre e un número moderado de versos (xeralmente de sete e once sílabas). O que máis caracteriza ao madrigal é o coidado no tratamento do texto, que debe ser o máis fielmente posible traducido musicalmente, a miúdo mediante sofisticados procedementos que se denominan madrigalismos. Para iso son frecuentes os cambios de ritmo e o uso de cromatismos.
 
-> Podemos falar dunha evolución dentro do madrigal:
+Podemos falar dunha evolución dentro do madrigal:
 
 -   [Madrigal primitivo](http://open.spotify.com/track/0fmcNVwu3fbEqcoHCx13X0) (1530-1550). Escritura a catro voces, con predominio da textura homofónica, frases marcadas por cadencias claras e harmonía sinxela. As voces podían ser dobradas instrumentalmente. Autores importantes son Verdelot, Arcadelt e Willaert.
 
@@ -388,17 +381,13 @@ A expansión do madrigal italiano xerou variantes locais que nalgún caso alcanz
 
 Até case o século XVI a historia musical desenvólvese case exclusivamente sobre o plano vocal. Tan só interviñeron os instrumentos dentro da música culta en forma limitada e incidental, e como simples duplicadores da voz. Con todo, o Renacemento espertou xa un interese pola música instrumental que segue en aumento ata que a mediados do século XVIII excedeu en importancia á música vocal. Aparecen xa libros nos que describen os instrumentos e danse instrucións sobre como interpretalos; ademais, temos numerosas fontes escultóricas e pictóricas.
 
-> A emancipación da música instrumental pode ser atribuída a varios factores:
-
-14
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
+A emancipación da música instrumental pode ser atribuída a varios factores:
 
 -   Histórico-sociais: crecemento (en número e posición social) das clases burguesas e das cidades, o que supón unha maior demanda de música profana e dentro dela da especificamente instrumental.
 
 -   Organológicos: durante os séculos XV e XVI prodúcese un notable progreso na construción dos instrumentos, o que repercute nun avance na afinación, extensión, tesitura e posibilidades dinámicas.
 
-> Como consecuencia da citada emancipación da música instrumental:
+Como consecuencia da citada emancipación da música instrumental:
 
 -   Xurdiron novas formas
 
@@ -416,9 +405,9 @@ Entre os compositores italianos dedicados a música instrumental é especialment
 
 #### **5.1 Clasificación**
 
-> A música instrumental clasifícase en función dos modelos dos que deriva:
->
-> a\) Repertorio derivado de modelos vocais
+A música instrumental clasifícase en función dos modelos dos que deriva:
+
+a\) Repertorio derivado de modelos vocais
 
 Durante o Renacemento, a música vocal e instrumental estaba estreitamente relacionada, de forma que as pezas vocais podían ser interpretadas indistintamente por voces ou por instrumentos (de feito, unha posibilidade é a mera transcrición de música vocal). Por iso, as obras instrumentais derivadas de modelos vocais son cancións, madrigales ou motetes adaptados para instrumentos. As principais son as seguintes:
 
@@ -426,37 +415,29 @@ Durante o Renacemento, a música vocal e instrumental estaba estreitamente relac
 
 -   Ricercar: composición instrumental desenvolvida sobre o modelo proporcionado polo motete. O seu carácter é imitativo e contrapuntístico. Ao principio tiña un carácter improvisatorio: os distintos temas preséntanse e son tratados en imitación, ao modo de cada frase do motete. Progresivamente asume formas máis estandarizadas, con repetición de temas segundo un plan establecido e mellor articulación do conxunto, de forma que o ricercar monotemático despraza aos modelos anteriores.
 
-> b\) Obras de carácter improvisado
+b\) Obras de carácter improvisado
 
 As obras incluídas neste apartado presentan unha terminología confusa, ás veces coincidentes con outras (preludio, fantasía, ricercar\...). Crese que esta música aparece pola necesidade de exercitar os dedos e probar a afinación do instrumento antes de comezar a interpretación, por iso eran obras para solista inicialmente. Atopamos dous tipos:
-
-15
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 -   Variacións sobre temas populares e melodías de danza.
 
 -   Pezas libres, como *a toccata* (para instrumentos de tecla). Os preludios son pezas que anteceden a unha execución vocal, mentres que as fantasías son semellantes aos *ricercari* pero de tratamento máis libre. En España empregábase o tento, composición para órgano a catro voces. A fantasía é de tipo libre, con numerosos recursos polifónicos e contrapuntísticos
 
-> c\) Música para danza
+c\) Música para danza
 
 Xeralmente escribíase en tabulaturas ou libros (non se improvisaba); a instrumentación aínda non se especificaba. Loxicamente tiña un ritmo moi marcado e agrupábanse en dúos ou tríos (que máis adiante conformarán suites de danzas), contrastantes entre si. As principais danzas renacentistas son a [*bassa danza*,](http://es.wikipedia.org/wiki/Baja_danza) [pavana,](http://es.wikipedia.org/wiki/Pavana) pasamezzo, gallarda, saltarello, gavota, [branle,](http://es.wikipedia.org/wiki/Branle) etc. Varios destes bailes están descritos no [*Orchesography*](http://memory.loc.gov/cgi-bin/ampage?collId=musdi&fileName=219//musdi219.db&recNum=3&itemLink=r?ammem/musdibib:@field%28NUMBER+@od1%28musdi+219%29%29&linkText=0) de [Arbeau.](http://es.wikipedia.org/wiki/Thoinot_Arbeau)
 
-> Como exemplo de pavana, [*Belle qui tiens ma vie*:](http://open.spotify.com/track/6lvQfnbXx6sBCYDl92L3wc)
+Como exemplo de pavana, [*Belle qui tiens ma vie*:](http://open.spotify.com/track/6lvQfnbXx6sBCYDl92L3wc)
 
 ![](media/image4.jpeg){width="6.585416666666666in" height="4.759722222222222in"}
 
-> Como exemplo de *brandle* veremos o Rondel VIN, de [Tielman Susato:](http://es.wikipedia.org/wiki/Tielman_Susato)
-
-16
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
+Como exemplo de *brandle* veremos o Rondel VIN, de [Tielman Susato:](http://es.wikipedia.org/wiki/Tielman_Susato)
 
 ![](media/image5.jpeg){width="6.579861111111111in" height="4.759027777777778in"}
 
-> d\) Música baseada na variación
+d\) Música baseada na variación
 
-As variacións son pezas baseadas nunha melodía ou nun baixo. Utilízanse no Renacemento non só como forma fixa, senón tamén como ma for improvisada; de aí a súa importante presenza en edicións de toda Europa. Hai dous tipos de variacións (*diferenzas*):
+As variacións son pezas baseadas nunha melodía ou nun baixo. Utilízanse no Renacemento non só como forma fixa, senón tamén como forma improvisada; de aí a súa importante presenza en edicións de toda Europa. Hai dous tipos de variacións (*diferenzas*):
 
 -   As compostas sobre material preexistente ao que aplican diferentes procedementos (ornamentación, cambios de ritmo ou metro, diminución, etc.).
 
@@ -469,10 +450,6 @@ As variacións son pezas baseadas nunha melodía ou nun baixo. Utilízanse no Re
     -   A romanesca:
 
 ![](media/image6.jpeg){width="6.689583333333333in" height="0.6416666666666667in"}
-
-17
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 ![](media/image9.jpeg){width="6.690277777777778in" height="0.6375in"}
 
@@ -494,10 +471,8 @@ No que se refire ao instrumento de corda pinzada con teclado (espineta, virginal
 
 #### **5.3 O *consort***
 
-> Neste apartado entraría a música para:
+Neste apartado entraría a música para:
 
 -   *Whole consort*, agrupación integrada por instrumentos da mesma familia.
 
 -   *Broken consort*, instrumentos de diferente familia.
-
-18
