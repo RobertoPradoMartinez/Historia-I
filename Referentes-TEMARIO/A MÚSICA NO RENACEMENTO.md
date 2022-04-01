@@ -112,7 +112,7 @@ Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realid
 
 ![](media/image2.jpeg){width="6.774305555555555in" height="8.370138888888889in"}
 
-**2.3 Periodización**
+#### **2.3 Periodización**
 
 Até entrado o século XVI prevalece un estilo internacional, relativamente uniforme e en gran medida ditado por compositores franceses e franco-flamencos. Pódense diferenciar 5 xeracións:
 
@@ -136,9 +136,9 @@ Ao redor de 1550 xorden e desenvólvense distintos estilos nacionais. Pódense d
 
 -   Escola inglesa: [Byrd,](http://es.wikipedia.org/wiki/William_Byrd) [Tallis,](http://es.wikipedia.org/wiki/Thomas_Tallis) [Morley.](http://es.wikipedia.org/wiki/Thomas_Morley)
 
-2.  As ESCOLAS COMPOSITIVAS
+### AS ESCOLAS COMPOSITIVAS
 
-**3.1 A escola Franco-flamenca**
+#### **3.1 A escola Franco-flamenca**
 
 > A guerra dos Cen Anos conduciu a unha diminución da importancia musical de Francia, que fai desviar a hexemonía musical desta nación e de Italia cara a Inglaterra, Borgoña e, sobre todo, Flandes. Estas cortes serán escenario de festas relixiosas e profanas nas que a música ocupa un posto relevante. Nelas fúndanse capelas musicais principescas a imitación da papal.
 >
@@ -166,7 +166,7 @@ Obsérvase un aligeramiento das texturas, así como ritmo e melodía máis sinxe
 
 -   Na quinta xeración, a textura utilizada é a de cinco ou seis voces *a capella* e cóidase a disposición do texto e a relación entre a música e os contidos expresados por el. Utilizan texturas contrapuntísticas e homofónicas alternadas. A forma principal é o motete. Un dos principais compositores foi Orlando di Lasso.
 
-**3.2 A música alemá**
+#### **3.2 A música alemá**
 
 En 1517, coa fixación das [95 teses de Wittemberg](http://es.wikipedia.org/wiki/Las_95_tesis) por Lutero [,](http://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero) iníciase o proceso que habería de desembocar no cisma protestante. A partir de 1521, o luteranismo difúndese por toda Europa central. No caso de Inglaterra o contencioso político-diplomático co papado levará á ruptura en 1534.
 
@@ -182,7 +182,7 @@ Ao longo da evolución da coral, distinguimos:
 
 -   Motete-coral, da mesma época, tomando a coral como C.F. en estilo motete (contrapunto imitativo).
 
-**3.3 A música da Contrareforma: a Escola Romana**
+#### **3.3 A música da Contrareforma: a Escola Romana**
 
 A resposta da igrexa católica ás reformas protestantes foi a convocatoria do [Concilio de](http://es.wikipedia.org/wiki/Concilio_de_Trento) [Trento,](http://es.wikipedia.org/wiki/Concilio_de_Trento) que se celebrou na cidade do mesmo nome entre os anos 1545-1563. É nos dous últimos anos cando se abordan as cuestións musicais e se debate sobre a música a empregar na liturxia.
 
@@ -192,7 +192,7 @@ Por Escola Romana enténdese ao grupo de compositores que actuaron durante o sé
 
 A obra de Palestrina é case integramente relixiosa, aínda que tamén compuxo madrigales sacros e profanos. Foi admirado en toda Europa, aínda que a súa calidade non reside tanto na novidade dos seus métodos como na intelixencia coa que os utilizou.
 
-**3.4 A Escola Veneciana**
+#### **3.4 A Escola Veneciana**
 
 Si a Escola Romana significou o culmen e perfeccionamento dentro dunha evolución, máis que innovación, a Escola Veneciana presenta características singulares que a diferencian claramente do resto das escolas polifónicas.
 
@@ -200,11 +200,11 @@ Aparecen por primeira vez música para dúas ou máis coros de voces ([coro spez
 
 Todo isto é a representación do ambiente festivo-relixioso, cívico e social que se desenvolve ao redor da [Basílica de San Marcos,](http://es.wikipedia.org/wiki/Bas%C3%ADlica_de_San_Marcos) o Palacio do Duce e a nobreza veneciana. O promotor da nova escola veneciana é o flamenco [Willaert,](http://es.wikipedia.org/wiki/Adrian_Willaert) mestre de capela de San Marcos. Ademais do novo estilo do dobre coro, os seus progresos foron considerables no campo da música instrumental. Outros autores, á parte dos Gabrieli, foron [Zarlino](http://es.wikipedia.org/wiki/Gioseffo_Zarlino) e [Cipriano de Rore.](http://es.wikipedia.org/wiki/Cipriano_de_Rore)
 
-**3.5 Inglaterra**
+#### **3.5 Inglaterra**
 
 A igrexa anglicana separouse da católica en 1534, durante o reinado de [Enrique VIII.](http://es.wikipedia.org/wiki/Enrique_VIII_de_Inglaterra) A misa non sufriu grandes cambios, salvo a substitución do latín polo inglés. Ademais, a separación de Roma non implicará que se deixe de compor música para a liturxia católica (como fixo William Byrd). Dentro dos cantos propiamente anglicanos destacamos o *Sevice* (servizo) e o *Anthem* (que poderiamos traducir como Himno). Ou *Anthem* constitúe unha das formas máis peculiares da liturxia anglicana, ocupando un lugar similar ao da coral protestante en canto á súa función e trazos formais. Dentro do *Service* inclúense os cantos de oficios de maitines e vésperas, así como a misa anglicana.
 
-**3.6 O Renacemento en España**
+#### **3.6 O Renacemento en España**
 
 Este período é considerado como a Idade de Ouro da música española, que alcanza fama internacional. A obra dos grandes mestres polifonistas do Renacemento español é concentrada, austera e impregnada dun profundo misticismo. Este misticismo, que é a súa calidade máis determinante, conséguese a través dunha expresividade profunda. As necesidades expresivas levan aos nosos músicos a compor nunha linguaxe moderna, con disonancias, emprego artístico do silencio e uso persoal do contrapunto.
 
@@ -237,10 +237,6 @@ Aínda que a música máis importante foi a relixiosa, os nobres cultivaron a m�
     -   A melodía adoita ir na voz superior, é silábica, móvese preferentemente por graos conxuntos e é facilmente cantable.
 
     -   O ritmo é flexible, utilizándose con frecuencia ritmos de danzas.
-
-10
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
 
 -   A textura predominante é de tipo homofónico.
 
@@ -294,13 +290,7 @@ As composicións son de autor diverso, ademais dalgunhas anónimas e pertencen a
 
 Trátase dunha composición estrófica: unha panxoliña a catro voces, marcadamente homorrítmico, baseado nos acordes nas cadencias da e re, cun posicionamento armónico característico nos xéneros polifónicos considerados populares.
 
-Desde o punto de vista formal, do mesmo xeito que os preto de medio centenar de panxoliñas que escribiu Juan do Enzina no Cancionero Musical de Palacio, conserva literalmente o esquema dos virelais: un refrán (neste caso de tres versos) máis estrofa de sete versos asimétricos (4 + 3 semellantes estes últimos aos do refrán). A música tamén conserva o mesmo esquema: A
-
-11
-
-> Apuntamentos do Tema 5. Historia da música I -- Conservatorio Superior de Música de Vigo -- Prof. Dr. Javier Xurado
-
-(refrán) / BBA (estrofa), mostra dun certo arcaísmo, propio do primeiro Renacemento musical na península.
+Desde o punto de vista formal, do mesmo xeito que os preto de medio centenar de panxoliñas que escribiu Juan do Enzina no Cancionero Musical de Palacio, conserva literalmente o esquema dos virelais: un refrán (neste caso de tres versos) máis estrofa de sete versos asimétricos (4 + 3 semellantes estes últimos aos do refrán). A música tamén conserva o mesmo esquema: A(refrán) / BBA (estrofa), mostra dun certo arcaísmo, propio do primeiro Renacemento musical na península.
 
 Como é habitual, a harmonía é sinxela, con utilización dun baixo armónico (frecuentes saltos de 4ª e 5ª), e con terceiras paralelas entre as voces. A melodía atópase na voz superior e discorre silábica e por graos conxuntos. Desde ou punto de vista rítmico segue un patrón sinxelo.
 
@@ -342,9 +332,9 @@ En contraste, as súas diferenzas (ciclos de variacións sobre temas populares o
 
 A vihuela gozou de gran popularidade no século XVI. Autores como Milán, Narváez ou Diego Pisador compuxeron fantasías, diferenzas e cancións que, aínda que influídas polas obras dos laudistas italianos, constitúen un repertorio imprescindible dentro da música renacentista española. Obra a destacar son as [*Diferenzas sobre Gárdame as vacas*,](http://open.spotify.com/track/6NTeSGJjH5nL7FRHf0L09S) musicada por varios autores.
 
-4\. XÉNEROS VOCAIS NACIONAIS
+### XÉNEROS VOCAIS NACIONAIS
 
-**4.1 Previos**
+#### **4.1 Previos**
 
 En xeral, estes xéneros comparten unhas características, aínda que existen particularidades zonais:
 
@@ -358,7 +348,7 @@ En xeral, estes xéneros comparten unhas características, aínda que existen pa
 
 A [*frottola*](http://open.spotify.com/track/0d6zn7tm3FYToN3oR0ad9M) é un xénero italiano que xorde a finais do XV e inicios do XVI. En canto á *chanson*, distínguense por períodos a *chanson* en estilo motete (principios do XVI), *[chanson](http://open.spotify.com/track/3Gnfe3ubxrEsquzLAGx9uH)* [homofónica](http://open.spotify.com/track/3Gnfe3ubxrEsquzLAGx9uH) (descritiva e moi expresiva, de mediados do XVI) e a influída polo madrigal (máis cromática e contrapuntística, da segunda metade do XVI).
 
-**4.2 O madrigal**
+#### **4.2 O madrigal**
 
 O madrigal do XVI non ten nada que ver, formal nin literariamente, co do século XIV, co que só comparte o nome, en virtude dunha parcial coincidencia en temas de tipo pastoril e amatorio. O madrigal renacentista orixínase en Italia no segundo cuarto do XVI, pero expándese por toda Europa, interpretándose en toda clase de reunións sociais e cortesás.
 
@@ -394,7 +384,7 @@ Claudio Monteverdi foi ou último gran compositor de madrigales; o seu oito libr
 
 A expansión do madrigal italiano xerou variantes locais que nalgún caso alcanzaron un desenvolvemento autónomo do modelo orixinal, como é o caso do madrigal inglés, con figuras da talla de Thomas Morley. Derivado deste xénero creouse un tipo de canción con acompañamento de laúde e un tipo de viola dá gamba ([*lyra viol*](http://en.wikipedia.org/wiki/Lyra_viol)) chamado simplemente *song* ou [*ayre*,](http://open.spotify.com/track/2qswQJGVw0CID7luFgs7iA) así como cancións para solista ou dúo con acompañamento de *consort* instrumental.
 
-5\. MÚSICA INSTRUMENTAL
+### 5\. MÚSICA INSTRUMENTAL
 
 Até case o século XVI a historia musical desenvólvese case exclusivamente sobre o plano vocal. Tan só interviñeron os instrumentos dentro da música culta en forma limitada e incidental, e como simples duplicadores da voz. Con todo, o Renacemento espertou xa un interese pola música instrumental que segue en aumento ata que a mediados do século XVIII excedeu en importancia á música vocal. Aparecen xa libros nos que describen os instrumentos e danse instrucións sobre como interpretalos; ademais, temos numerosas fontes escultóricas e pictóricas.
 
@@ -424,7 +414,7 @@ A pesar da súa importancia, o Concilio de Trento prohibiu o uso de instrumentos
 
 Entre os compositores italianos dedicados a música instrumental é especialmente famoso Giovanni Gabrielli (1557-1612), organista da catedral de San Marcos de Venecia; a súa música posúe un carácter instrumental, ao outorgar a cada instrumento unha función distinta e característica.
 
-**5.1 Clasificación**
+#### **5.1 Clasificación**
 
 > A música instrumental clasifícase en función dos modelos dos que deriva:
 >
@@ -488,7 +478,7 @@ As variacións son pezas baseadas nunha melodía ou nun baixo. Utilízanse no Re
 
 Obra fundamental neste aspecto é o [Tratado de glosas](http://es.wikipedia.org/wiki/Tratado_de_glosas) para violón escrito por Diego [Ortiz](http://es.wikipedia.org/wiki/Diego_Ortiz) en 1553.
 
-**5.2 Música para teclado**
+#### **5.2 Música para teclado**
 
 Ademais do exposto con anterioridade, interesa comentar algúns aspectos referidos a instrumentos concretos. No caso do órgano, instrumento litúrxico por excelencia, o seu repertorio está composto por obras xa tratadas (canzonas, ricercares, fantasías, tocatas):
 
@@ -502,7 +492,7 @@ Ademais do exposto con anterioridade, interesa comentar algúns aspectos referid
 
 No que se refire ao instrumento de corda pinzada con teclado (espineta, virginal, clave), a súa música experimenta un importante auxe a finais do XVI, estacando as variacións.
 
-**5.3 O *consort***
+#### **5.3 O *consort***
 
 > Neste apartado entraría a música para:
 
