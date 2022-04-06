@@ -1,5 +1,9 @@
 ## A Orixe da polifonía
 
+<!-- REPASAR 4ºB:-->
+
+<!-- REPASAR 4ºA:-->
+
 A polifonía foi unha **técnica de amplificación e recreación do repertorio gregoriano**, ao igual que os *tropos*. A súa orixe non pode datarse con claridade; se ben as primeiras noticias que temos son dos teóricos do século IX, malia que o uso desta técnica xa viña dalgún tempo atrás. 
 
 ### O *organum* primitivo
