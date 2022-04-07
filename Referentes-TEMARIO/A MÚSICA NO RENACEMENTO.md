@@ -41,6 +41,8 @@ Por outra banda, hai que destacar a revalorización da formación musical na alt
 
 #### Técnicas compositivas
 
+<!-- 4ºA: (7-IV-22)-->
+
 As técnicas de composición da época son:
 
 1. **Composición a través de [*cantus firmus*:](http://es.wikipedia.org/wiki/Cantus_firmus)** consiste en utilizar unha melodía preexistente como base dunha nova composición polifónica. O *cantus firmus* procede de música relixiosa ou profana, ou ben é de nova creación. O seu modo consérvase intacto ou se modifica e o seu ritmo ou estrutura de frase tamén pode variar. Aínda que as melodías preexistentes están presentes na maioría das primeiras composicións polifónicas xa na Idade Media, como vimos, o termo C.F. utilízase por convención para referirse tan só á música posterior, a partir do XV.
@@ -101,19 +103,19 @@ Podemos destacar as seguintes:
 
     2. Na música profana:
 
-       o será as xa mencionadas *chanson*, *frottola*, villancico e o [madrigal](http://es.wikipedia.org/wiki/Madrigal_%28m%C3%BAsica%29); este terá unha estrutura similar ao motete pero máis avanzado rítmica e armónicamente. Ademais, experimenta un enorme auxe a música instrumental, con multitude de xéneros, así como a música de danza.
+       serán a*chanson*, *frottola*, villancico e o [madrigal](http://es.wikipedia.org/wiki/Madrigal_%28m%C3%BAsica%29); este terá unha estrutura similar ao motete pero máis avanzado rítmica e harmónicamente. Ademais, experimenta un enorme auxe a música instrumental, con multitude de xéneros, así como a música de danza.
 
--   Cada escola presenta unhas especificaciones concretas en relación ao número de voces, cadencias empregadas, textura, modos, etc. \[Para unha maior comprensión destas, convén estudar detidamente os apuntamentos correspondentes ás audicións\].
+-   Cada escola presenta unhas características en relación ao número de voces, cadencias empregadas, textura, modos, etc.
 
--   Utilízase un mesmo estilo para a música relixiosa e a profana.
+-   Utilízase **un mesmo estilo** para a música relixiosa e a profana.
 
--   Respecto da notación, non hai ningunha achega, senón unha simplificación da herdanza recibida. Prodúcese o baleirado das notas negras que conduce á "nota branca", baseada nos principios da nota mensural negra. Isto permite usar a nota negra cunha nova significación de diminución do valor dunha nota, o que posibilita a obtención de particularidades rítmicas como a formación de grupos irregulares, hemiolias e cambios de compás.
+-   Respecto da notación, non hai ningunha achega, senón unha **simplificación** da herdanza recibida. Prodúcese o baleirado das notas negras que conduce á "nota branca", baseada nos principios da nota mensural negra. Isto permite usar a nota negra cunha nova significación de diminución do valor dunha nota, o que posibilita a obtención de particularidades rítmicas como a formación de grupos irregulares, hemiolias e cambios de compás.
 
--   Existen dous tipos de textura:
+-   Existen dous <u>tipos de textura</u>:
 
-    -   Polifónica, contrapuntística ou imitativa: baseada na idea da imitación a intervalos armónicos regulares e na independencia rítmica das voces.
+    -   **Polifónica**, contrapuntística ou imitativa: baseada na idea da imitación a intervalos armónicos regulares e na independencia rítmica das voces.
 
-    -   Homofónica (ou, con máis propiedade, homorrítmica): as voces marchan xuntas formando acordes; é a textura propia de xéneros como [*a chanson*,](http://es.wikipedia.org/wiki/Chanson) a [*frottola*](http://es.wikipedia.org/wiki/Frottola) ou a [panxoliña.](http://es.wikipedia.org/wiki/Villancico) É habitual que nestas composicións existan algúns fragmentos contrapuntísticos, dependendo do compositor de que se trate.
+    -   **Homofónica** (ou, con máis propiedade, homorrítmica): as voces marchan xuntas formando acordes; é a textura propia de xéneros como [*a chanson*,](http://es.wikipedia.org/wiki/Chanson) a [*frottola*](http://es.wikipedia.org/wiki/Frottola) ou a [panxoliña.](http://es.wikipedia.org/wiki/Villancico) É habitual que nestas composicións existan algúns fragmentos contrapuntísticos, dependendo do compositor de que se trate.
 
 Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realidade, a mesma. Heinrich Isaak escribiu dúas versións de *Innsbruck, ich muss dich lassen* (Innsbruck, debo abandonarche), unha homofónica, coa melodía na voz superior, e outra polifónica (*Gross* *lei muss ich tragen*), partindo dun canon a dous entre as voces intermedias. Na [interpretación](http://open.spotify.com/track/6sFWmiPy6R5EeOC58TXO9Y) que escoitamos, ambas as posibilidades van seguidas, o que facilita a comprensión das diferenzas entre os dous tipos de textura empregados no Renacemento:
 
@@ -122,6 +124,8 @@ Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realid
 ![](media/image2.jpeg){width="6.774305555555555in" height="8.370138888888889in"}
 
 #### **2.3 Periodización**
+
+<!-- 4ºA: (7-IV-22) -->
 
 Até entrado o século XVI prevalece un estilo internacional, relativamente uniforme e en gran medida ditado por compositores franceses e franco-flamencos. Pódense diferenciar 5 xeracións:
 
@@ -135,7 +139,7 @@ Até entrado o século XVI prevalece un estilo internacional, relativamente unif
 
 -   5ª (1560-1600): [Lasso.](http://es.wikipedia.org/wiki/Orlando_di_Lasso)
 
-Ao redor de 1550 xorden e desenvólvense distintos estilos nacionais. Pódense distinguir:
+Ao redor de 1550 xorden e desenvólvense distintos **estilos nacionais**. Pódense distinguir:
 
 -   Escola romana: [Palestrina.](http://es.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina)
 
@@ -145,7 +149,7 @@ Ao redor de 1550 xorden e desenvólvense distintos estilos nacionais. Pódense d
 
 -   Escola inglesa: [Byrd,](http://es.wikipedia.org/wiki/William_Byrd) [Tallis,](http://es.wikipedia.org/wiki/Thomas_Tallis) [Morley.](http://es.wikipedia.org/wiki/Thomas_Morley)
 
-### AS ESCOLAS COMPOSITIVAS
+### As escolas compositivas
 
 #### **3.1 A escola Franco-flamenca**
 

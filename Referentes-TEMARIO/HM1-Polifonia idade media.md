@@ -2,11 +2,13 @@
 
 <!-- REPASAR 4ºB:-->
 
-<!-- REPASAR 4ºA:-->
+<!-- AMPLIAR 4ºA: 7-IV-22-->
 
 A polifonía foi unha **técnica de amplificación e recreación do repertorio gregoriano**, ao igual que os *tropos*. A súa orixe non pode datarse con claridade; se ben as primeiras noticias que temos son dos teóricos do século IX, malia que o uso desta técnica xa viña dalgún tempo atrás. 
 
 ### O *organum* primitivo
+
+<!-- VER EXEMPLO-->
 
 Entre os séculos IX e XI numerosos tratados fan referencia ao ***organum***[^def:organum]; pero apenas se conservan libros de canto que o inclúan, o que nos leva a pensar que se trataba dunha práctica de improvisación. 
 
@@ -14,19 +16,21 @@ Entre eses tratados atópanse *Musica enchiriadis* (Manual de música) e *Scholi
 
 Guido d’Arezzo estuda algunhas características do *organum* no *seu Micrologus*, de cara a 1030; no límite entre os séculos XI e XII hai dous tratados importantes, o *De Musica* de John Cotton e o anónimo *Ad organum faciendum* (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de organum :
 
-- *Organum* paralelo.
+- ***Organum* paralelo**
 
   É a forma máis antiga; consiste simplemente en que unha voz, chamada voz organal, dobra a melodía gregoriana a distancia de quinta ou cuarta, habitualmente inferior. Si algunha das voces, ou ambas, dobrábanse á oitava, formábase o *organum* composto.
 
-- *Organum* paralelo modificado.
+- ***Organum* paralelo modificado**
 
   Similar ao anterior, pero finalizando (e xeralmente tamén comezando) ao unísono. Isto obrigaba a ter en conta o movemento oblicuo, directo e contrario, ademais do paralelo; tamén a considerar o uso das disonancias (terceiras e sextas) e a súa función, especialmente nas cadencias. Era a forma habitual a comezos do XI.
 
-- *Organum* libre.
+- ***Organum* libre**
 
   A voz organal non dobra a melodía orixinal, senón que avanza á vez que ela en distintos intervalos, con predominio de oitavas, quintas e cuartas, e con diversidade de movemento. Desenvólvese na segunda metade do XI. Habitualmente chámaselle *discantus*, tanto á voz organal como á técnica en si mesma.
 
-![Organum paralelo en el Musica enchiriadis](https://www.franciscocallejo.es/hm4/polifonia/tupatris.png)*Organum* paralelo no *Musica enchiriadis*
+![Organum paralelo en el Musica enchiriadis](https://www.franciscocallejo.es/hm4/polifonia/tupatris.png)
+
+*Organum* paralelo no *Musica enchiriadis*
 
 ### A polifonía aquitana
 
