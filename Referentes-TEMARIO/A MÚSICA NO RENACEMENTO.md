@@ -133,7 +133,7 @@ Até entrado o século XVI prevalece un estilo internacional, relativamente unif
 
 -   2ª (1450-1500): [Busnois](http://en.wikipedia.org/wiki/Busnois) e [Ockeghem.](http://es.wikipedia.org/wiki/Ockeghem)
 
--   3ª (1490-1520): Josquin [deas Prés,](http://es.wikipedia.org/wiki/Josquin_des_Pr%C3%A9s) [Obrecht,](http://es.wikipedia.org/wiki/Jacob_Obrecht) [Isaak.](http://es.wikipedia.org/wiki/Heinrich_Isaac)
+-   3ª (1490-1520): Josquin [des Prés,](http://es.wikipedia.org/wiki/Josquin_des_Pr%C3%A9s) [Obrecht,](http://es.wikipedia.org/wiki/Jacob_Obrecht) [Isaak.](http://es.wikipedia.org/wiki/Heinrich_Isaac)
 
 -   4ª (1520-1560): [Jannequin,](http://es.wikipedia.org/wiki/Cl%C3%A9ment_Janequin) [Willaert,](http://es.wikipedia.org/wiki/Adrian_Willaert) [Gombert,](http://es.wikipedia.org/wiki/Nicolas_Gombert) [Clemens non Papa.](http://es.wikipedia.org/wiki/Clemens_non_Papa)
 
@@ -177,7 +177,7 @@ Adóitanse distinguir varias xeracións de compositores franco-flamencos (ou bor
 
 -   Na **quinta xeración**, a textura utilizada é a de cinco ou seis voces *a capella* e cóidase a disposición do texto e a relación entre a música e os contidos expresados por el. Utilizan texturas contrapuntísticas e homofónicas alternadas. A forma principal é o motete. Un dos principais compositores foi Orlando di Lasso.
 
-#### **3.2 A música alemá: Lutero e a Reforma 
+#### 3.2 A música alemá: Lutero e a Reforma 
 
 En 1517, coa fixación das [95 teses de Wittemberg](http://es.wikipedia.org/wiki/Las_95_tesis) por Lutero [,](http://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero) iníciase o proceso que habería de desembocar no cisma protestante. A partir de 1521, o luteranismo difúndese por toda Europa central. No caso de Inglaterra o contencioso político-diplomático co papado levará á ruptura en 1534.
 
