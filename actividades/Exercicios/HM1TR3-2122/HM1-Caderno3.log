@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.9)  24 APR 2022 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.8.9)  28 APR 2022 18:58
 entering extended mode
 **./HM1-Caderno3.tex
 (HM1-Caderno3.tex
@@ -1309,8 +1309,10 @@ nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 35.
-
-No file HM1-Caderno3.aux.
+ (HM1-Caderno3.aux
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+)
 \openout1 = `HM1-Caderno3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -1331,6 +1333,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1434,6 +1437,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
+ (HM1-Caderno3.out) (HM1-Caderno3.out)
 \@outlinefile=\write8
 \openout8 = `HM1-Caderno3.out'.
 
@@ -1582,7 +1586,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-[7]))
+[7])) (Exercicio-Ficha-audicions.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 23.43588pt, for example:
@@ -1591,27 +1595,85 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-[8] (HM1-Caderno3.aux
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[9]
+Package mdframed Info: Not enough space on this page on input line 105.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[10]
+Package mdframed Info: Not enough space on this page on input line 158.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[11]
+Package mdframed Info: Not enough space on this page on input line 211.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[12]
+Package mdframed Info: Not enough space on this page on input line 264.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[13]
+Package mdframed Info: Not enough space on this page on input line 317.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[14] (HM1-Caderno3.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `HM1-Caderno3.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `HM1-Caderno3.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  093A8B28AE6B9153C5612612896DED26;194.
+Package rerunfilecheck Info: File `HM1-Caderno3.out' has not changed.
+(rerunfilecheck)             Checksum: 093A8B28AE6B9153C5612612896DED26;194.
  ) 
 Here is how much of TeX's memory you used:
- 42826 strings out of 478868
- 1011377 string characters out of 2847862
- 1537310 words of memory out of 3000000
- 59950 multiletter control sequences out of 15000+600000
+ 42928 strings out of 478868
+ 1012752 string characters out of 2847862
+ 1538189 words of memory out of 3000000
+ 59968 multiletter control sequences out of 15000+600000
  458290 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,12n,124p,1110b,1138s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1626,9 +1688,9 @@ ers/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/libertine/LinLiber
 tineTB.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
 ibertine/LinLibertineTBI.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on HM1-Caderno3.pdf (8 pages, 304171 bytes).
+Output written on HM1-Caderno3.pdf (14 pages, 323429 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
