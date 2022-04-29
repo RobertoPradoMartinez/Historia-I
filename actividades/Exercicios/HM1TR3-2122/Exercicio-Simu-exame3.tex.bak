@@ -1,0 +1,41 @@
+%
+% ----
+\hideanswers % oculta respostas
+%
+% Cargamos os Exercicios:
+% ----------------------
+
+\loadallproblems[Tema4-RENA]{../../Cuestions/Modelo-cuestions.tex}
+
+%\loadallproblems[Tema3-GREGO1]{../../Cuestions/Tema3-Canto-gregoriano-expansion.tex} %
+%\loadallproblems[Tema3-NOTA]{../../Cuestions/Tema3-Notacion-modal.tex} %
+%\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex} %
+%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex} %
+%\loadrandomproblems[loops]{2}{loops}% aleatorios
+%
+% FOLLA EXERCICIOS: 
+% -----------------
+% Comentario para realizar o simulacro de exame:
+\subsection*{Cuestionario autoavaliación} \label{subsec:autoaval}
+Realiza o seguinte exercicio de autoavaliación, prestando atención a aquelas cuestións onde a resposta non sexa clara e ofreza dúbidas. Anota todas aquelas que consideres oportunas para debatilas coas túas compañeiras e compañeiros de clase.
+\begin{multicols}{2} % a 2 columnas
+    \begin{enumerate}
+%\useproblem{input}
+    \foreachproblem[Tema4-RENA]{\item\label{prob:\thisproblemlabel}\thisproblem}
+%    \foreachproblem[Tema3-GREGO1]{\item\label{prob:\thisproblemlabel}\thisproblem}
+ %   \foreachproblem[Tema3-NOTA]{\item\label{prob:\thisproblemlabel}\thisproblem}
+%    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \end{enumerate}
+\end{multicols}
+%
+% SOLUCIONS:
+% ----------
+%\newpage
+%\begin{multicols}{2}
+%\showanswers
+%\begin{itemize}
+%\foreachdataset{\thisdataset}{%
+%\foreachproblem[\thisdataset]{\item[\ref{prob:\thisproblemlabel}]\thisproblem}
+%}
+%\end{itemize}
+%\end{multicols}
