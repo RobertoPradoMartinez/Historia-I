@@ -1,0 +1,567 @@
+#LyX file created by tex2lyx 2.3
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin /home/robertopradomartinez/Documentos/GitHub/Historia-I/actividades/Cuestions/
+\textclass article
+\options notitlepage
+\use_default_options false
+\maintain_unincluded_children false
+\language spanish
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks 0
+\pdf_bookmarksnumbered 0
+\pdf_bookmarksopen 0
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks 0
+\pdf_pdfborder 0
+\pdf_colorlinks 0
+\pdf_backref section
+\pdf_pdfusetitle 0
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% -------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% BANCO DE PREGUNTAS DE HISTORIA
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% -------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% Tema 4.- MÃSICA NO RENACEMENTO
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% EXERCICIO.- 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% -------------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+%
+\backslash
+newproblem{T4RENA-01}{
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+Adoita situarse a orixe do Renacemento como fenÃ³meno cultural e artÃ­stico, nas cidades italianas do norte e en Roma, xunto coas de Flandes e PaÃ­ses Baixos e, por tanto, relacionado con Ã¡reas de forte desenvolvemento urbano e comercial. Desde estes focos iniciais, o Renacemento estenderÃ­ase a toda Europa paulatinamente. A cronoloxÃ­a clÃ¡sica distingue entre 
+\begin_inset CommandInset href
+LatexCommand href
+name "\emph{quattrocento}"
+target "http://es.wikipedia.org/wiki/Quattrocento"
+literal "true"
+
+\end_inset
+
+e 
+\begin_inset CommandInset href
+LatexCommand href
+name "\emph{cinquecento}."
+target "http://es.wikipedia.org/wiki/Cinquecento"
+literal "true"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset VSpace 0.25cm*
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+PeriodizaciÃ³n - Renacemento
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ LÃ© con atenciÃ³n o seguinte texto e responde a cuestiÃ³n. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+%
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{quote}
+\end_layout
+
+\end_inset
+
+ O concepto de 
+\begin_inset CommandInset href
+LatexCommand href
+name "Renacemento"
+target "http://es.wikipedia.org/wiki/Renacimiento"
+literal "false"
+
+\end_inset
+
+aparece para a historiografÃ­a da arte e da cultura en Ã©poca tan distante como o sÃ©culo XIX. Este termo refÃ­rese Ã¡ recuperaciÃ³n da cultura da 
+\begin_inset CommandInset href
+LatexCommand href
+name "AntigÃ¼idade"
+target "http://es.wikipedia.org/wiki/Antig\%C3\%BCedad_cl\%C3\%A1sica"
+literal "true"
+
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "clÃ¡sica"
+target "http://es.wikipedia.org/wiki/Antig\%C3\%BCedad_cl\%C3\%A1sica"
+literal "true"
+
+\end_inset
+
+tras o longo perÃ­odo, supostamente escuro, que suporÃ­a a 
+\begin_inset CommandInset href
+LatexCommand href
+name "Idade Media."
+target "http://es.wikipedia.org/wiki/Edad_Media"
+literal "false"
+
+\end_inset
+
+[\SpecialChar ldots
+] 
+\begin_inset Newline newline
+\end_inset
+
+ Efectivamente, os sÃ©culos XV e XVI trouxeron grandes cambios, asÃ­ como a formaciÃ³n dalgÃºns dos principios estruturais que estiveron operativos na cultura europea atÃ© as revoluciÃ³ns burguesas dos sÃ©culos XVIII e XIX. De feito, basta lembrar que a historiografÃ­a fai comezar no sÃ©culo (\SpecialChar ldots
+) unha nova 
+\begin_inset CommandInset href
+LatexCommand href
+name "Idade Moderna."
+target "http://es.wikipedia.org/wiki/Edad_Moderna"
+literal "false"
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{quote}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{flushright}
+\end_layout
+
+\end_inset
+
+ J.Jurado: 
+\shape italic
+Apuntamentos para a historia da mÃºsica
+\shape default
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{flushright}
+\end_layout
+
+\end_inset
+
+ Tendo en conta a periodizaciÃ³n que coÃ±eces, a que sÃ©culo se estÃ¡ a referir o autor da cita? \SpecialChar ldots
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 0.15cm*
+\end_inset
+
+ 
+\begin_inset Tabular 
+<lyxtabular version="3" rows="1" columns="4">
+<features rotate="0" tabularvalignment="middle" tabularwidth="0pt">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\lang spanish
+a) XIV 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\lang spanish
+b) XV 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\lang spanish
+c) XIII 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+\lang spanish
+d) XVI 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+%
+\backslash
+end{multicols}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+%}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% {a)}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% comentario da resposta:
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+%    
+\backslash
+
+\backslash
+ 
+\backslash
+small{Indica o comentario}
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
