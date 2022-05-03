@@ -1,0 +1,1984 @@
+#LyX file created by tex2lyx 2.3
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin /home/robertopradomartinez/Documentos/GitHub/Historia-I/actividades/Cuestions/
+\textclass article
+\options notitlepage
+\use_default_options false
+\maintain_unincluded_children false
+\language spanish
+\language_package none
+\inputencoding auto
+\fontencoding default
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref true
+\pdf_bookmarks 0
+\pdf_bookmarksnumbered 0
+\pdf_bookmarksopen 0
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks 0
+\pdf_pdfborder 0
+\pdf_colorlinks 0
+\pdf_backref section
+\pdf_pdfusetitle 0
+\papersize letterpaper
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 0
+\use_package cancel 0
+\use_package esint 1
+\use_package mathdots 0
+\use_package mathtools 0
+\use_package mhchem 0
+\use_package stackrel 0
+\use_package stmaryrd 0
+\use_package undertilde 0
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style french
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% A ESCOLA FRANCO-FLAMENCA
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ========================
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\lang spanish
+A escola franco-flamenca
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{multicols}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+A guerra dos Cen Anos conduciu a unha diminuciÃ³n da importancia musical de Francia, que fai desviar a hexemonÃ­a musical desta naciÃ³n e de Italia cara a Inglaterra, BorgoÃ±a e, sobre todo, Flandes. Estas cortes serÃ¡n escenario de festas relixiosas e profanas nas que a mÃºsica ocupa un posto relevante. Nelas fÃºndanse capelas musicais principescas a imitaciÃ³n da papal. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+Na evoluciÃ³n da mÃºsica do continente atopamos dÃºas tendencias: unha, central, herdeira do 
+\emph on
+Ars Nova
+\emph default
+ e outra, perifÃ©rica, de influencia inglesa. Foi esencial neste sentido a achega de Dunstable, que estaba ao servizo do duque de Bedford e, por tanto, pertencÃ­a Ã¡s tropas invasoras do continente, e que entrou en contacto con mÃºsicos franco-flamencos e borgoÃ±ones.
+\begin_inset Newline newline
+\end_inset
+
+ A sÃºa mÃºsica caracterÃ­zase por: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Ritmos regulares
+\series default
+ e 
+\series bold
+melodÃ­as sinxelas
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Motetes a tres voces
+\series default
+ (algÃºn a catro); aÃ­nda emprega a isorritmia nalgÃºn deles 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+CanciÃ³ns a tres voces
+\series default
+ con influencias tanto italianas como da 
+\emph on
+Chanson
+\emph default
+. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: Compositores franco-flamencos
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ---------------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Compositores franco-flamencos ou borgoÃ±ones
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Dentro da 
+\series bold
+escola franco-flamenca
+\series default
+, adÃ³itanse distinguir varias xeraciÃ³ns de compositores. Completa os seguintes apartados: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{multicols}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+A 
+\series bold
+primeira xeraciÃ³n
+\series default
+, ten como principais representantes a 
+\begin_inset space \dotfill{}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Principais caracterÃ­sticas: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 2.5cm*
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+A 
+\series bold
+segunda xeraciÃ³n
+\series default
+ estÃ¡ representada por 
+\begin_inset space \dotfill{}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Principais caracterÃ­sticas: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 2.5cm*
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+A 
+\series bold
+terceira xeraciÃ³n
+\series default
+ estÃ¡ representada sobre todo por 
+\begin_inset space \dotfill{}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Principais caracterÃ­sticas: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 2.5cm*
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+Na 
+\series bold
+cuarta xeraciÃ³n
+\series default
+, os compositores mÃ¡is destacados son 
+\begin_inset space \dotfill{}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Principais caracterÃ­sticas: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 2.5cm*
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+A 
+\series bold
+quinta xeraciÃ³n
+\series default
+, ten como principal representante a 
+\begin_inset space \dotfill{}
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ Principais caracterÃ­sticas: 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 2cm*
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: Resumo renacemento en Italia
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ---------------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Renacemento en Italia
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Resume as principais caracterÃ­sticas que consideras son representativas do 
+\begin_inset Quotes fld
+\end_inset
+
+Renacemento italiano
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ Indica as principais formas de mÃºsica profana que coÃ±eces. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 9cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: resumo reacemento en EspaÃ±a
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% -------------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Renacemento en EspaÃ±a
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Resume as principais caracterÃ­sticas do 
+\begin_inset Quotes fld
+\end_inset
+
+Renacemento espaÃ±ol
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ Indica as principais formas e mÃºsicos representativos desta Ã©poca. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 9cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: renacemento en Francia
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% --------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Renacemento en Francia
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Resume as principais caracterÃ­sticas que consideras son representativas do 
+\begin_inset Quotes fld
+\end_inset
+
+Renacemento francÃ©s
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ Indica as principais formas de mÃºsica profana que coÃ±eces. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 5cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: renacemento en Inglaterra
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% -----------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Renacemento en Inglaterra
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Resume as principais caracterÃ­sticas do 
+\begin_inset Quotes fld
+\end_inset
+
+Renacemento inglÃ©s
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ Indica as principais formas e mÃºsicos representativos desta Ã©poca. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 5cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: renacemento en AlemaÃ±a
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% --------------------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+Renacemento en AlemaÃ±a
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ Resume as principais caracterÃ­sticas do 
+\begin_inset Quotes fld
+\end_inset
+
+Renacemento alemÃ¡n
+\begin_inset Quotes frd
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ Indica as principais formas e mÃºsicos representativos desta Ã©poca. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 5cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% A ESCOLA ALEMÃ
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ==============
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\lang spanish
+Lutero e a reforma
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+A mÃºsica na alemaÃ±a da Ã©poca renacentista, ven determinada por un feito dunha grande repercusiÃ³n dentro do seo da igrexa cristiÃ¡; a fixaciÃ³n das 
+\begin_inset CommandInset href
+LatexCommand href
+name "95 teses de Wittemberg"
+target "http://es.wikipedia.org/wiki/Las_95_tesis"
+literal "false"
+
+\end_inset
+
+de 
+\series bold
+MartiÃ±o Lutero
+\series default
+, publicadas un 31 de outubro de 1517. Con este feito, inÃ­ciase o proceso que haberÃ­a de desembocar no 
+\series bold
+cisma protestante
+\series default
+. SerÃ¡ a partir do 1521, cando o 
+\emph on
+luteranismo
+\emph default
+ se difunde por toda Europa central. Dentro do eido musical, a repercusiÃ³n deste feito estÃ¡ determinada pola importancia que terÃ¡ a 
+\emph on
+coral
+\emph default
+ dentro da mÃºsica sacra no seo da Igrexa.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\lang spanish
+A 
+\emph on
+coral
+\emph default
+ alemÃ¡
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{multicols}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+A coral Ã© en orixe un canto relixioso monÃ³dico, en alemÃ¡n, con ritmo sinxelo, melodÃ­a de Ã¡mbito curto, por graos conxuntos e estilo silÃ¡bico. A sÃºa sinxeleza, e o feito de que moitas destas melodÃ­as fosen populares, garantiron unha ampla difusiÃ³n deste estilo vocal. A execuciÃ³n da coral Ã­a desde os mÃ¡is sinxelos cÃ¡nticos monÃ³dicos (cantados ao unÃ­sono) atÃ© as grandes presentaciÃ³ns de 
+\emph on
+corais
+\emph default
+ harmonizadas, onde Ã¡ melodÃ­a cantada pola comunidade, sÃºmase agora o acompaÃ±amento de Ã³rgano –ou instrumentos– e dun coro especializado. Ao longo da evoluciÃ³n da 
+\emph on
+coral
+\emph default
+, distinguimos:
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Coral de tenor
+\series default
+ (como C.F.), propio do sÃ©culo XVI, tanto polifÃ³nico como homofÃ³nico. De estilo sinxelo, Ã© cadrado, sobre baixo harmÃ³nico e con cadencias claras. 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Coral de soprano
+\series default
+ (como C.F., Ã© dicir, parÃ¡frasis), a catro partes con acompaÃ±amento de Ã³rgano; aparece a finais do XVI. 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+
+\series bold
+Motete-coral
+\series default
+, da mesma Ã©poca, tomando a coral como C.F. en estilo motete (contrapunto imitativo). 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{itemize}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\lang spanish
+A Contrarreforma
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+A resposta da igrexa catÃ³lica Ã¡s reformas protestantes foi a convocatoria do 
+\begin_inset CommandInset href
+LatexCommand href
+name "Concilio de Trento"
+target "http://es.wikipedia.org/wiki/Concilio_de_Trento"
+literal "false"
+
+\end_inset
+
+, que se celebrou na cidade do mesmo nome entre os anos 1545-1563. SerÃ¡ nos dous Ãºltimos anos da sÃºa celebraciÃ³n, cando se abordan as cuestiÃ³ns musicais e se debate sobre a mÃºsica que se empregarÃ­a na liturxia.
+\end_layout
+
+\begin_layout Subsubsection*
+
+\lang spanish
+A Escola Romana
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{multicols}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+As sesiÃ³ns do Concilio de Trento puxeron de manifesto a necesidade dunha reforma en profundidade da prÃ¡ctica musical no seo da liturxia. Os procedementos das misas de parodia, os excesos dos instrumentos, o artificio das voces (\SpecialChar ldots
+) chegaban a facer incomprensible o texto sacro, polo que conduciron a un afastamento perigoso para o dogma e o adoutrinamento de fieis que se procuraba na liturxia. Estas orientaciÃ³ns de estilo deron lugar ao que se coÃ±ece como Escola romana.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+Por 
+\series bold
+Escola Romana
+\series default
+ entÃ©ndese ao grupo de compositores que actuaron durante o sÃ©culo XVI na Capela Papal en Roma, onde o mÃ¡ximo representante Ã© 
+\series bold
+G.P. da Palestrina
+\series default
+. A sÃºa mÃºsica caracterÃ­zase por: unha melodÃ­a sinxela e 
+\emph on
+cantabile
+\emph default
+, ritmo fluÃ­do e tranquilo, texturas imitativas pero non excesivamente densas, harmonÃ­as triÃ¡dicas, textos comprensibles con preferencia ao emprego de tenores gregorianos como C.F. (aÃ­nda que emprega tamÃ©n parÃ¡frasis, parodia e composiciÃ³n libre). O seu estilo Ã© sobrio austero e equilibrado. A sÃºa mÃºsica foi considerada a expresiÃ³n mÃ¡is perfecta do estilo eclesiÃ¡stico. A sÃºa arte resume todo o sÃ©culo que lle precede, englobando todas as tÃ©cnicas da composiciÃ³n polifÃ³nica e os seus xÃ©neros.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+A obra de Palestrina Ã© case integramente relixiosa, aÃ­nda que tamÃ©n se atopan 
+\emph on
+madrigales
+\emph default
+ sacros e profanos. Foi admirado en toda Europa, aÃ­nda que a sÃºa calidade non reside tanto na novidade dos seus mÃ©todos como na intelixencia coa que os utilizou.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+subsubsection*{A Escola Veneciana}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+Si a Escola Romana significou a perfecciÃ³n total, dentro dunha evoluciÃ³n, mÃ¡is que innovaciÃ³n, a Escola Veneciana presenta caracterÃ­sticas singulares que a diferencian claramente do resto das escolas polifÃ³nicas.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+Aparece por primeira vez mÃºsica para dÃºas ou mÃ¡is coros de voces 
+\begin_inset CommandInset href
+LatexCommand href
+name "\emph{coro spezzato}"
+target "http://es.wikipedia.org/wiki/Estilo_policoral_veneciano"
+literal "true"
+
+\end_inset
+
+, creando con iso uns efectos antifonales de coros que dialogan. O escenario no que se desenvolvÃ­a a mÃºsica desta escola, era a catedral de estilo bizantino de San Marcos, cuberta de cÃºpulas e de magnÃ­ficos mosaicos, que proporcionaba un marco incomparable para a experimentaciÃ³n da 
+\series bold
+tÃ©cnica policoral
+\series default
+; a estes coros engadÃ­ase en moitas ocasiÃ³ns instrumentos para logar maior forza. O efecto policoral, tal e como se practicou en Venecia en tempos dos 
+\begin_inset CommandInset href
+LatexCommand href
+name "Gabrieli"
+target "http://open.spotify.com/track/6r9zLucRqaSSyV4XS4t7HL"
+literal "false"
+
+\end_inset
+
+, estÃ¡ na base da tÃ©cnica do 
+\emph on
+concertato
+\emph default
+, que se consolida como o ideal estÃ©tico do Barroco a partir dos inicios do sÃ©culo XVII. O aumento no nÃºmero de voces e o uso de dous coros (tÃ©cnica do 
+\emph on
+doble coro
+\emph default
+) proporcionoulle gran brillo e esplendor.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+Todo isto Ã© a representaciÃ³n do ambiente festivo-relixioso, cÃ­vico e social que se desenvolve ao redor da BasÃ­lica de San Marcos e a nobreza veneciana. O promotor da nova escola veneciana Ã© o flamenco 
+\begin_inset CommandInset href
+LatexCommand href
+name "Willaert"
+target "http://es.wikipedia.org/wiki/Adrian_Willaert"
+literal "false"
+
+\end_inset
+
+, mestre de capela na citada basÃ­lica de San Marcos. A maiores do novo estilo do dobre coro, os seus progresos foron considerables no campo da mÃºsica instrumental. Outros autores, Ã¡ parte dos Gabrieli, foron 
+\begin_inset CommandInset href
+LatexCommand href
+name "Zarlino"
+target "http://es.wikipedia.org/wiki/Gioseffo_Zarlino"
+literal "false"
+
+\end_inset
+
+e Cipriano de Rore.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset VSpace 0.25cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% CUESTIÃN: Coral alemÃ¡
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+% ---------------------
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{ejercicio}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+[
+\end_layout
+
+\end_inset
+
+A mÃºsica da Reforma - a 
+\emph on
+coral
+\emph default
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+]
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{multicols}
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+{
+\end_layout
+
+\end_inset
+
+2
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+begin{enumerate}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+Que supÃ³n a 
+\begin_inset Quotes fld
+\end_inset
+
+reforma luterana
+\begin_inset Quotes frd
+\end_inset
+
+ no contexto musical alemÃ¡n?. 
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+Que entendes por 
+\emph on
+coral
+\emph default
+? \SpecialChar ldots
+
+\end_layout
+
+\begin_layout Standard
+
+\lang spanish
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+item 
+\end_layout
+
+\end_inset
+
+Que tipos de 
+\emph on
+coral
+\emph default
+ coÃ±eces? \SpecialChar ldots
+Indica en que consisten. 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{enumerate}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset space \hrulefill{}
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+par 
+\end_layout
+
+\end_inset
+
+
+\begin_inset VSpace 7cm
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\backslash
+end{ejercicio}
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_body
+\end_document
