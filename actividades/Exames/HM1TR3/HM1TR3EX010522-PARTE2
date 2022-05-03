@@ -1,0 +1,75 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PLANTILLA EJERCICIOS DE HISTORIA DE LA MÚSICA I
+% Este es un modelo para redactar los ejercicios
+% 
+% Pasos para cubrir la plantilla:
+% 1) Realizar una copia de este modelo
+% 2) Renombrar el archivo:
+%		"HM1_Hoja(número).tex"
+% 3) El número de Hoja debe ser correlativo
+% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Esta plantilla es para crear ejercicios de esta materia
+% Se recomienda crear un archivo por cada tema
+% Descomentar según se necesite utilizar un modelo de ejercicio u otro
+% Clase de documento:
+\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
+%
+% CONFIGURACIÓN:
+% Ruta de figuras y demás:
+% configurar cuando se redacte el documento final
+% indicar ruta donde se encuentre lo que se quiera adjuntar.
+%
+%\graphicspath{ {/home/user/images/} }
+%
+% Archivo externo de configuración
+% --------------------------------
+\input{../../Modelos/include/config-HM1examen_A_Parte2.tex}
+% --------------------------------
+\usepackage{graphicx}
+\setlength{\columnsep}{1.25cm} % separamos
+%
+\begin{document}
+\hideanswers % ocultamos solucións cuestionario
+
+% Cabeceira do exame:
+% -------------------
+\input{../../Modelos/include/config-HM1cabeceira2.tex}
+
+% Cabeceira Parte B:
+% ------------------
+\input{../../Modelos/include/config-HM1cabeceira-parte-B.tex}
+
+% Instruccións para audicións:
+% ----------------------------
+\input{../../Modelos/include/config-HM1cabeceira-audicions.tex}
+
+% ESPACIO PARA AS AUDICIÓNS:
+% --------------------------
+% AUDICIÓN 1
+\input{../../Cuestions/Tema3-Audicions-ex.tex}
+\useproblem{Audicion-01} % cargamos audición
+\newpage
+%
+% AUDICIÓN 2
+%
+\useproblem{Audicion-01} % cargamos ficha 2
+\vspace*{3.30cm}
+\begin{center}
+    \large{FIN DA PROBA DE AUDICIÓN}
+    \par
+    \vspace{1.0cm}
+    Entrega este cuestionario \\
+    indicando \textbf{nome} e \textbf{apelidos} \\
+    dentro do cuestionario da Parte A \\
+    \par
+    \vspace{0.75cm}
+    \textbf{Os cuestionarios sen nome e apelidos considéranse non realizados}
+\end{center}
+\newpage
+
+%\end{multicols}
+\end{document}
+% Fin de Hoja de ejercicios
