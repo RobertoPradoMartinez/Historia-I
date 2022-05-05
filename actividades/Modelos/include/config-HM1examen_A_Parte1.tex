@@ -28,20 +28,12 @@
 \usepackage{fancybox}  % entornos con cajas
 \usepackage{pdfpages}  % páginas pdf
 \usepackage{amssymb}   % completar líneas
+\usepackage{xcolor}  % color en exames
 %
 \usepackage{environ} 
 \usepackage{probsoln} % paquete para soluciones
 %\showanswers % para mostrar soluciones
-%
-%Esto es lo importante. Ponemos la solución al margen.
-\NewEnviron{solutionnew}{%
-%  \leavevmode\marginpar{\raggedright\footnotesize \textbf{Solución:}\\ \BODY}
-%  \textbf{Solución:}\\ \BODY} % sol. con salto de liña
-  \small{Solución:} \BODY} % sol. na mesma liña
-  {}
-\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
-% ---
-%
+% --->
 % Recuadros y figuras
 % -------------------
 % Código de "OndaHostil"
@@ -71,6 +63,17 @@
 
 \usepackage[colorlinks, linkcolor=black]{hyperref}
 %
+% SOLUCIÓNS AOS EXAMES:
+% ---------------------
+% Esto es lo importante. Ponemos la solución al margen.
+\NewEnviron{solutionnew}{%
+%  \leavevmode\marginpar{\raggedright\footnotesize \textbf{Solución:}\\ \BODY}
+%  \textbf{Solución:}\\ \BODY} % sol. con salto de liña
+  \small{Solución:} \BODY} % sol. na mesma liña
+  {}
+\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
+% ---
+
 % --------
 % Lineas de encabezado y pié
 % --------------------------
