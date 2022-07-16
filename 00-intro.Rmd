@@ -121,11 +121,6 @@ As diferentes perspectivas sobre a música, introducen un concepto fundamental: 
 
 A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar o significado.
 
-```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="A música é un feito social e cultural. - (fonte:pellicer.fremm.org)", fig.scap="A música é un feito social e cultural", out.width="100%"}
-knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
-```
-
-
 <!---DESCARTADO POLO MOMENTO:
 Música
 :    

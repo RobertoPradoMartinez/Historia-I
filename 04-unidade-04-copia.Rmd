@@ -14,7 +14,7 @@ documentclass: book
 
 ## Audición no.1 A Chantar {-}
 
-```{r kyrie-fons-bonitatis, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="", fig.scap="Partitura audición: A chantar", out.width="100%"}
+```{r achantar, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="", fig.scap="Partitura audición: A chantar", out.width="100%"}
 knitr::include_graphics('figures/audicions/achantar.pdf')
 ```
 

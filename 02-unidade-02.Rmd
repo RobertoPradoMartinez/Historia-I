@@ -14,7 +14,9 @@ documentclass: book
 
 # A música en Grecia e Roma
 
-Obxectivos.
+\minitoc <!-- índice do tema-->
+
+## Obxectivos do tema
 
 * Comprender que a música é parte da historia do home.
 * Coñecer o contexto histórico-cultural e o significado da música na sociedade grecorromana.
@@ -24,8 +26,28 @@ Obxectivos.
 
 ## A música na sociedade e culturas grega
 
-### As fontes de información
+<!--### As fontes de información-->
 
-<!-- PENDIENTE DE FACER O ESQUEMA DA UNIDADE -->
+### A música como ideal educativo
+
+### O sistema musical
+
+#### Notas, intervalos, xéneros e sistemas de escalas
+
+#### Notación musical
+
+### O pensamento musical
+
+#### A escola pitagórica
+
+#### O pensamento platónico e aristotélico
+
+### A música instrumental
+
+### Organoloxía. Cítara e aulos
+
+## Actividades e audicións
+
+## Resumo do tema
 
 

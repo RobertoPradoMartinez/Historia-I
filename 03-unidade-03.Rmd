@@ -9,15 +9,6 @@ documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-<!-- Última actualización: Febreiro 2022 -->
-
-<!--
-- Para incluir as imaxes e non se movan, incluír código seguinte:
-
-```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="Este é un modelo para inserir imaxes. - (fonte:pellicer.fremm.org)", fig.scap="Etiqueta da figura para índice", out.width="100%"}
-knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
-```
--->
 
 <!-- 
 TODO:
@@ -25,9 +16,10 @@ TODO:
 - Engadir os contidos que faltan
 
 # A monodia relixiosa medieval -->
-# Conceptos sobre a monodia medieval {.unnumbered}
 
-\minitoc 
+# Conceptos sobre a monodia medieval
+
+\minitoc <!-- índice do tema-->
 
 <!-- Descomentar os obxectivos
 
@@ -56,15 +48,15 @@ Contidos.
 
 -->
 
-## Os sistemas modais {.unnumbered}
+## Os sistemas modais
 
-### Concepto de modo {.unnumbered}
+### Concepto de modo
 
 -   **Modalidade**. A modalidade é un sistema de organización musical baseado nos intervalos. Este concepto está relacionado especialmente coa *melodía*, se temos en conta que esta é unha sucesión ordenada de intervalos.
 
 -   **Modo**. Nos sistemas modais, o concepto básico é o **de modo**. Consiste na organización dos intervalos en grupos nos que certas notas teñen unha importancia especial.
 
-### Organización do modo {.unnumbered}
+### Organización do modo
 
 Os modos, baséanse en pequenos grupos de notas que abarcan en total un intervalo de cuarta ou quinta (ás veces terceira). Entre as dúas notas extremas sitúanse outras que dividen o conxunto en pequenos intervalos, que non teñen por que axustarse necesariamente a tonos ou ao semitonos.
 
@@ -74,11 +66,11 @@ Estes pequenos grupos únense a outros, ben utilizando as notas extremas como no
 
 ![Modo dórico](figures/ud-03/escalas-2.png)
 
-### O ritmo nos sistemas modais {.unnumbered}
+### O ritmo nos sistemas modais
 
 As definicións antigas da música facían referencia á arte (ou a ciencia) *de medir ben*. Esta medida debíase facer en dúas dimensións: na da **altura** dos sons, entoando correctamente os intervalos; e na da **duración** dos sons, levando adecuadamente o ritmo. Ámbalas dimensións definen a *melodía*, que é o elemento fundamental nas músicas modais.
 
-#### Tipos de ritmo {.unnumbered}
+#### Tipos de ritmo
 
 Consideramos dous estilos fundamentais de ritmo:
 
@@ -90,7 +82,7 @@ Consideramos dous estilos fundamentais de ritmo:
 
     As duracións dos sons axústanse a un pulso, que pode ser regular ou flexible. Na música vocal, os elementos prosódicos (acento, cantidade silábica) poden determinar a forma de axustarse ao pulso. Denomínaselle tamén **ritmo *mensural***.
 
-#### Os ciclos rítmicos {.unnumbered}
+#### Os ciclos rítmicos
 
 Na música mensural, o pulso pode presentar diversas diferenzas (por ejempl, forte/débil). Estes pulsos diferentes organízanse en grupos que se repiten con regularidade, constituíndo así os*ciclos*.
 
@@ -117,17 +109,17 @@ No século XIII estableceuse unha organización rítmica baseada en modos, do me
 
 <!--SISTEMA MODAL MEDIEVAL -->
 
-## O sistema modal medieval {.unnumbered}
+## O sistema modal medieval
 
 Os primeiros libros de teoría musical do Occidente europeo corresponden ao século IX; entre eles destacan os dous tratados anónimos titulados *Musica enchiriadis* («Manual de música») e *Scolica enchiriadis* («Comentarios ao manual»), a partir dos cales se desenvólve unha importante corrente de literatura técnica musical, que explica o sistema sobre o que se compón a música monódica da Idade Media.
 
-### As *especies* de intervalos {.unnumbered}
+### As *especies* de intervalos
 
 O sistema modal medieval parte da **modalidade**, e tomaba como referencia os intervalos básicos de quinta e cuarta, así como a oitava. Os teóricos medievais partían das distintas **especies** destes intervalos, diferenciadas pola posición que ocupaba o semitono, como se pode ver na figura X.
 
 ![Especies de quinta e cuarta](figures/ud-03/especies.jpg)
 
-### Os modos medievais {.unnumbered}
+### Os modos medievais
 
 As catro especies de quinta, son a base dos **catro modos básicos** da música medieval:
 
@@ -146,7 +138,7 @@ O sistema completo quedaba entón da forma:
 
 Se ben é certo, que na práctica o máis habitual era referirse aos modos cos números do 1 ao 8, nos tratados teóricos empregábanse tanto a denominación eclesiástica como a grega.
 
-### *Tenor*, *Finalis* e ámbito da melodía {.unnumbered}
+### *Tenor*, *Finalis* e ámbito da melodía
 
 A melodía do canto, abarca o ámbito da oitava. Adoita utilizar unha interválica sinxela; graos conxuntos ou saltos de terceira e só ocasionalmente aparecen saltos de quinta ou de cuarta, normalmente só nos comezos de frase.
 
@@ -159,7 +151,7 @@ Para determinar o modo no sistema medieval, debemos considerar:
 3.  A nota **tenor** e outras que puidesen servir para as cadencias.
 4.  O uso de certos **xiros melódicos** característicos (incluídas as cadencias).
 
-### O estilo {.unnumbered}
+### O estilo
 
 O estilo dunha peza viña determinado --ademais de polo modo-- por outros elementos tales como a relación entre melodía e texto, que daba lugar a dous estilos principais:
 
@@ -168,7 +160,7 @@ O estilo dunha peza viña determinado --ademais de polo modo-- por outros elemen
 
 Aínda que cada modo destaca certas notas e ten un ámbito determinado, teremos en conta que non se trata de alturas reais, senón de intervalos isto é; calquera modo podía cantarse transportado a calquera altura, sempre que se respectase a distribución dos intervalos.
 
-### A escrita {.unnumbered}
+### A escrita
 
 En principio, o sistema completo abarcaba dúas oitavas. Na escrita, utilizáronse as letras do alfabeto latino para designar as notas en orde ascendente. Co tempo, o sistema foise ampliando ata abarcar algo máis de dúas oitavas, diferenciadas polo uso de maiúsculas e minúsculas ou pola duplicación das letras.
 
@@ -186,11 +178,11 @@ Posto que os hexacordos podían comezar en notas diferentes, en melodías máis 
 
 ## A notación musical medieval {.unnumbered}
 
-### A notación {.unnumbered}
+### A notación
 
 Durante toda a Idade Media ---e mesmo despois--- a música seguiría transmitíndose oralmente. No século IX, en varios mosteiros de Occidente, desenvolveríase un sistema de escritura musical novo, que evolucionaría ao longo dos séculos ata desembocar no sistema actual. A principal razón deste desenvolvemento, foi a implantación do repertorio de canto chamado «gregoriano», pero non a única. Pretendíase tamén unificar a interpretación musical litúrxica en todos os territorios que dependían da Igrexa de Roma.
 
-#### Os neumas {.unnumbered}
+#### Os neumas
 
 As notacións máis antigas utilizaban uns signos chamados **neumas** que se escribían sobre as liñas do propio texto que se debía cantar. Estes neumas «debuxaban» o perfil melódico do canto, pero non con precisión a melodía que se aprendía por escoita e memorización.
 
@@ -217,9 +209,9 @@ Da notación guidoniana derivaron outras, como a notación alemá de cravo **de 
 ### O canto bizantino
 -->
 
-## Consideracións sobre o Canto Gregoriano {.unnumbered}
+## Consideracións sobre o Canto Gregoriano
 
-### Características que definen o canto gregoriano {.unnumbered}
+### Características que definen o canto gregoriano
 
 O canto gregoriano, como todo o canto litúrxico medieval, presenta as seguintes características:
 
@@ -230,7 +222,7 @@ O canto gregoriano, como todo o canto litúrxico medieval, presenta as seguintes
 -   A melodía móvese por graos **conxuntos** ou **saltos de terceira**; ocasionalmente aparecen saltos de cuarta ou quinta, normalmente nos comezos. Son inhabituais intervalos máis amplos.
 -   O perfil melódico de cada canto organízase ao redor de dous eixos: a **nota final**, na que termina e con frecuencia tamén comeza o canto, e a chamada **nota tenor** («soporte» en latín), sobre a que se desenvolve a melodía. Esta nota está normalmente unha quinta sobre a final nos modos auténticos e unha terceira por baixo desta nos plagales, excepto cando recae sobre a nota *si*, que se pasa ao do.
 
-#### Estilos de canto {.unnumbered}
+#### Estilos de canto
 
 Segundo a relación entre o texto e a melodía, desenvólvense tres estilos de canto:
 
@@ -240,7 +232,7 @@ Segundo a relación entre o texto e a melodía, desenvólvense tres estilos de c
 
 Nun mesmo canto mestúranse varios estilos, pero un deles predomina e é o que caracteriza a ese canto.
 
-#### Estilos de interpretación {.unnumbered}
+#### Estilos de interpretación
 
 Hai tamén tres estilos de interpretación (chamados tamén estilos de salmodia):
 
@@ -252,11 +244,11 @@ Hai tamén tres estilos de interpretación (chamados tamén estilos de salmodia)
 ### A liturxia romana
 -->
 
-### O repertorio do canto gregoriano {.unnumbered}
+### O repertorio do canto gregoriano
 
 O repertorio gregoriano está formado fundamentalmente polos cantos que se interpretaban nas dúas grandes cerimonias litúrxicas: a misa e o oficio.
 
-#### Cantos da misa {.unnumbered}
+#### Cantos da misa
 
 Os cantos da misa dividíanse en dous grandes grupos: aqueles que se repetían a diario, durante todo o ano, ou en certas épocas chamados **cantos do ordinario**, interpretados polos asistentes; e aqueles que variaban en función da festa, do día ou da semana do ano litúrxico, chamados **cantos do propio**, cantados normalmente polas *scholae* (coros profesionais).
 
@@ -271,7 +263,7 @@ Non debe confundirse este uso dos termos "antifonal" e "responsorial" cos estilo
 
     Son cantos moi antigos e na súa orixe eran cantados por tódolos asistentes. A partir do século XI compuxéronse centenares de melodías novas para eles, posiblemente porque xa non os cantaba a comunidade senón a *schola*. Posteriormente serían tamén o núcleo principal na composición de misas polifónicas e concertadas.
 
-#### Cantos do oficio {.unnumbered}
+#### Cantos do oficio
 
 Entre tódalas obrigas das comunidades monásticas, atopábase a de reunirse para o rezo varias veces ao día; estes momentos denominábanse *horas* e en conxunto constituían o *oficio*. Desenvolvíase normalmente en oito sesións diarias, das que as máis importantes eran **vésperas** (na posta de sol), **maitines** (na medianoite) e **laudes** (coa saída do sol).
 
@@ -285,19 +277,19 @@ Se ben cada hora tiña unha estrutura diferente, os cantos do oficio pódense ag
 
 -   **Himnos**. Cantos estróficos, divididos habitualmente en estrofas de catro versos de oito sílabas, de igual melodía. Foron moi populares e existe un gran repertorio, malia non contar nos inicios coa aceptación das autoridades relixiosas, empregándose nunha parte marxinal da liturxia. Probablemente a súa popularidade puido deberse á súa semellanza cos cantos populares.
 
-### Autoría dos cantos {.unnumbered}
+### Autoría dos cantos
 
 A gran maioría das melodías do repertorio gregoriano e as dos seus predecesores son anónimas, en parte debido o escaso interese que os músicos medievais --e os artistas en xeral-- tiñan en canto á cuestión da autoría. Coñecemos varios nomes de compositores: entre eles, **Notker de San Gall** (s. IX-X), ou **Hildegard de Bingen** (s.XII) destacada escritora, científica e conselleira de papas e emperadores.
 
 
 
-## Expansións do canto gregoriano {.unnumbered}
+## Expansións do canto gregoriano
 
 Co paso do tempo, os músicos de igrexa continuaron creando música nova, que se engadía de diversas formas ás melodías gregorianas; desde pezas completamente novas, ben por novas festividades, ben para momentos que non tiñan cantos, como por exemplo as procesións. Neste último caso inclúense os cantos denominados ***conductus***.
 
 De entre as técnicas e formas que aparecen neste contexto, destacan os **tropos**, as **secuencias** e os **dramas litúrxicos**.
 
-### Tropos {.unnumbered}
+### Tropos
 
 *Tropo* designa actualmente un conxunto diverso de técnicas de ampliación dos cantos do repertorio gregoriano; na súa época, estas técnicas recibiron distintas denominacións.
 
@@ -323,14 +315,9 @@ A versión tropada, quedaría polo tanto do seguinte xeito no [*Kyrie fons bonit
 knitr::include_graphics('figures/ud-03/Kyrie-fons-bonitatis.png')
 ```
 
-```{=html}
-<!--
-![Exemplo de tropo: Kyrie fons bonitatis](figures/ud-03/Kyrie-fons-bonitatis.png)
--->
-```
 Os tropos tiveron un gran desenvolvemento desde o século IX ata o XVI, cando foron prohibidos polo concilio de Trento. Os cantos que se tropaban con máis frecuencia eran os cantos procesionais da misa (Introito, Ofertorio e Comunión) e os responsorios do oficio. Tamén se tropaban os cantos do ordinario da misa, a excepción do Credo.
 
-### Secuencias {.unnumbered}
+### Secuencias
 
 As secuencias son cantos independentes de nova composición que se interpretaban despois do aleluia na misa. A súa orixe puido estar relacionada cos tropos: en principio, a *sequentia* aparece como un melisma engadido á última sílaba da palabra *aleluia*; este melisma foi despois tropado e convertido en canto silábico, para finalmente independizarse completamente. Etimolóxicamente, *sequentia* significa "o que segue" (melisma que segue ao aleluia).
 
@@ -351,7 +338,7 @@ Un dos exemplos máis coñecidos de *sequentia* é o *Dies irae (Officium defunc
 knitr::include_graphics('figures/ud-03/Dies-irae.png')
 ```
 
-### O drama litúrxico {.unnumbered}
+### O drama litúrxico
 
 O que coñecemos actualmente como *drama litúrxico* é un tipo de composición dialogada, cantada na súa totalidade, que se representaba durante algunha cerimonia relixiosa en forma teatral. Datan de entre os séculos X e XVI; son dramas relixiosos en latín, que se representan nos tempos litúrxicos de Nadal e Semana Santa e probablemente a súa orixe proceda do desarrollo dramático de tropos dialogados.
 
@@ -359,9 +346,9 @@ A orixe do drama litúrxico adóitase relacionar cunha composición coñecida co
 
 \newpage
 
-## Actividades e audicións{-}
+## Actividades e audicións
 
-### Aspectos sobre a notación cadrada {-}
+### Aspectos sobre a notación cadrada
 
 A notación cadrada é unha evolución de notacións neumáticas anteriores, que aparece en Francia no século XII.
 

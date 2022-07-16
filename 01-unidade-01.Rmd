@@ -18,24 +18,19 @@ documentclass: book
 
 # Orixes da Música Occidental
 
-\minitoc <!-- this will include a mini table of contents-->
+\minitoc <!-- índice do tema-->
 
-
-
-```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
-```
-
-## A orixe da música
+## Obxectivos do tema
 
 ```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```
 
-## A música durante a Prehistoria
+## A música na Prehistoria
 
 ```{r child=here::here('unidades-didacticas/unidade-01/prehistoria.md')}
 ```
 
-## A música nas primeiras civilizacións
+## As primeiras civilizacións
 
 ### Exipto
 
@@ -48,3 +43,4 @@ documentclass: book
 ## Actividades e audicións
 
 ## Resumo
+
