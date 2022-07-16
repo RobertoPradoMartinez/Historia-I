@@ -61,7 +61,7 @@ As etapas da música europea occidental, que consideraremos ao longo deste curso
 3. **Barroco**: as súas orixes deben situarse cara a 1580, aínda que o estilo faise visible a partir de 1600 aproximadamente. O seu final, confundido co nacemento do clasicismo, situaríase ao redor de 1720.
 4. **Clasicismo**: desde aproximadamente 1720, coa aparición dos primeiros trazos de estilo clásico, ata aproximadamente 1820.
 5. **Romanticismo**: desde 1820 (aproximadamente) ata o final do  XIX, con varias etapas diferenciadas.
-6. **Música contemporánea**: iníciase cara a 1890, coas obras de madurez de  Mahler,  Debussy e outros, aínda que o momento de cambio máis importante é cara a 1907 (aparición da  atonalidad). Ás veces a expresión «música contemporánea» utilízase só para a creada con posterioridade a 1945.
+6. **Música contemporánea**: iníciase cara a 1890, coas obras de madurez de  Mahler,  Debussy e outros, aínda que o momento de cambio máis importante é cara a 1907 (aparición da  atonalidade). Ás veces a expresión «música contemporánea» utilízase só para a creada con posterioridade a 1945.
 
 En moitos libros recentes de historia da música, establécese a división dos períodos posteriores ao Renacemento por séculos (XVII,  XVIII, XIX e XX) e así o faremos neste curso.
 
