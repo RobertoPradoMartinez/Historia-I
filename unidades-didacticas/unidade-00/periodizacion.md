@@ -12,11 +12,11 @@ A división habitual das etapas da historia, ten a súa orixe nos humanistas eur
 
 Adóitase situar o comezo da historia no momento da aparición da escritura, hai uns 6000 anos aproximadamente; o período anterior denomínase Prehistoria. Aínda que está constatada a existencia de actividade musical durante a prehistoria, descoñécese que música se facía entón, polo que adoita quedar á marxe da materia.
 
-Os períodos en que se divide a historia, en xeral son catro:
+Os catro períodos ou idades en que se divide a historia, son:
 
 1. **Idade Antiga**:
 (ata o século V d.c). Aínda que a notación musical naceu á vez que a escritura, a maior parte das culturas antigas non escribiron a súa música, e as escasas notacións que existen son practicamente descoñecidas, coa excepción importante da Grecia helenística (a partir do século IV  aC).  
-Para a historia da música occidental, o máis interesante desta época son as teorías gregas sobre a música, que influíron de forma importante na música europea medieval, renacentista e barroca, e mesmo despois.
+Para a historia da música occidental, o máis interesante desta época son as teorías gregas sobre a música, que influíron de forma importante na música europea medieval, renacentista e barroca.
 
 2. **Idade Media**:
 (séculos VI-XV). O seu comezo sitúase na disgregación dos territorios occidentais do Imperio Romano (naturalmente, esta é unha perspectiva  eurocéntrica). As comunicacións entre eses territorios redúcense, a inestabilidade é grande e os desenvolvementos culturais teñen que partir ás veces desde cero.  

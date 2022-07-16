@@ -56,7 +56,7 @@ O concepto de «música» recibe diferentes tratamentos e acepcións ao longo da
 
 A música[^def:mousike], na mitoloxía grega, era considerada unha *tekné* (técnica, habilidade, destreza, arte…) que engloba tanto a artistas como teóricos. Nos períodos heleno e helenístico, a música terá un papel central na sociedade civil e relixiosa da época, promovendo o entretemento e formando parte de razoamentos científico-filosóficos. Platón, (entre os séculos V-VI a.c) concibe a música como a "arte educativa por excelencia que se insire na alma e forma a virtude"; no século VI, Boecio percibe a música como a "habilidade de examinar [...] a diversidade de sons [...] por medio da razón e os sentidos". Santo Tomás no século XIII, considera a música como "a máis noble das ciencias humanas [...] que ocupa o primeiro lugar entre as artes liberais". Xa no século XVIII, Rousseau plantea a música como "a arte de combinar sons de xeito agradable ó oído". Pau Casals (s.XIX-XX), mantiña que "a música, esa marabillosa linguaxe universal, debería ser unha fonte de comunicación". 
 
-Como vemos, as percepcións sobre a música varian ao longo do tempo, a pesares de manter todas rasgos comúns. Non será ata os anos noventa do século XX, cando se establezan as primeiras definicións concretas e complexas sobre este concepto. Musicólogos, etnomusicólogos e investigadores coinciden en moitos aspectos sobre a música. Neste sentido, a profesora López Cobas afirma:
+Como vemos, as percepcións sobre <<a música>> varian ao longo do tempo, a pesares de manter todas rasgos comúns. Non será ata os anos noventa do século XX, cando se establezan as primeiras definicións concretas e complexas sobre este concepto. Musicólogos, etnomusicólogos e investigadores coinciden en moitos aspectos sobre a música. Neste sentido, a profesora López Cobas afirma:
 
 >
 As definicións e conceptos sobre música eran difusos e dependían, en grande medida, da época, o lugar e sobre todo, dos diferentes puntos de vista. Durante a Idade Media os trobadores e músicos ambulantes non eran considerados músicos coma hoxe en día, senón filósofos, capaces de manexar os conceptos teóricos de harmonía. [...]  
@@ -120,11 +120,11 @@ A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, é a manifest
 As diferentes perspectivas sobre a música, introducen un concepto fundamental: a «temporalidade». Para que a música exista, debe desenvolverse ao longo do tempo. Podemos afirmar, que renace cada vez que se interpreta e vive un proceso de reactivación constante, como arte dinámica que é.   
 
 A «memoria auditiva» xoga igualmente un papel fundamental na percepción da música. Como oíntes, se non retemos na memoria algúns dos compoñentes fundamentais da música, (ritmo, melodía ou timbre, ...) difícilmente a poderemos apreciar ben e captar o significado.
-<!--
+
 ```{r banda-caricatura-1, echo=FALSE, fig.align='center', fig.pos='ht',  fig.cap="A música é un feito social e cultural. - (fonte:pellicer.fremm.org)", fig.scap="A música é un feito social e cultural", out.width="100%"}
 knitr::include_graphics('figures/ud-00/banda-caricatura.jpg')
 ```
--->
+
 
 <!---DESCARTADO POLO MOMENTO:
 Música
@@ -217,7 +217,7 @@ Para estudar a actividade musical centrarémonos nas tres fases do proceso: trat
 
 ### Música de tadición oral e notación musical {-}
 
-A posibilidade de estudar históricamente a música, parte da existencia dunha tradición oral e dunha transmisión dela ao longo do tempo. En case todas as culturas e tempos, a música transmítese por medio da escoita e repetición: é o que se coñece como **transmisión oral**(propio da idade da memoria). Existe tamén, a posibilidade de transmitir e almacenar a música con varios métodos de escritura musical, dando lugar a **transmisión escrita** (idade de notación).
+A posibilidade de estudar históricamente a música, parte da existencia dunha tradición oral e dunha transmisión dela ao longo do tempo. En case todas as culturas e tempos, a música transmítese por medio da escoita e repetición: é o que se coñece como **transmisión oral** (propio da idade da memoria). Existe tamén, a posibilidade de transmitir e almacenar a música con varios métodos de escritura musical, dando lugar a **transmisión escrita** (idade de notación).
 
 ### Música culta e música popular {-}
 
