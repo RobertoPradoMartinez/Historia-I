@@ -8,7 +8,6 @@ fig:notacion-cadrada-exemplo2
 fig:Puer-natus-est
 fig:Puer-natus-comentado
 orixes-da-música-occidental
-obxectivos-do-tema
 as-fontes-de-información-histórica
 fontes-para-o-estudo-da-música-na-prehistoria-e-antigüidade
 a-música-na-prehistoria
@@ -17,10 +16,7 @@ exipto
 mesopotamia
 o-antigo-oriente
 o-pobo-hebreo
-actividades-e-audicións
-resumo-1
 a-música-en-grecia-e-roma
-obxectivos-do-tema-1
 a-música-na-sociedade-e-culturas-grega
 a-música-como-ideal-educativo
 o-sistema-musical
@@ -31,7 +27,6 @@ a-escola-pitagórica
 o-pensamento-platónico-e-aristotélico
 a-música-instrumental
 organoloxía.-cítara-e-aulos
-actividades-e-audicións-1
 resumo-do-tema
 conceptos-sobre-a-monodia-medieval
 os-sistemas-modais
@@ -60,7 +55,7 @@ expansións-do-canto-gregoriano
 tropos
 secuencias
 o-drama-litúrxico
-actividades-e-audicións-2
+actividades-e-audicións-3
 aspectos-sobre-a-notación-cadrada
 a-escrita-e-grafía
 transcrición-a-notación-actual

@@ -19,6 +19,8 @@ documentclass: book
 
 # Aproximación á Historia da Música {-}
 
+## Obxectivos do tema {-}
+
 ```{=tex}
 \adjustmtc
 \markboth{Aproximación á Historia da Música}{}
@@ -308,3 +310,8 @@ https://digalego.xunta.gal/es/termo/44501/m%C3%BAsica "definición de música da
 
 <!--- Fin de notas a pié de página --->
 
+
+
+## Actividades e audicións {-}
+
+## Resumo {-}

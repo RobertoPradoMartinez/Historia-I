@@ -20,7 +20,7 @@ documentclass: book
 
 \minitoc <!-- índice do tema-->
 
-## Obxectivos do tema
+## Obxectivos do tema {-}
 
 ```{r child=here::here('unidades-didacticas/unidade-00/fontes-musicais.md')}
 ```
@@ -40,7 +40,7 @@ documentclass: book
 
 ### O pobo Hebreo
 
-## Actividades e audicións
+## Actividades e audicións {-}
 
-## Resumo
+## Resumo {-}
 

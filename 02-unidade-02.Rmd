@@ -16,7 +16,7 @@ documentclass: book
 
 \minitoc <!-- índice do tema-->
 
-## Obxectivos do tema
+## Obxectivos do tema {-}
 
 * Comprender que a música é parte da historia do home.
 * Coñecer o contexto histórico-cultural e o significado da música na sociedade grecorromana.
@@ -46,8 +46,8 @@ documentclass: book
 
 ### Organoloxía. Cítara e aulos
 
-## Actividades e audicións
-
+## Actividades e audicións {-}
 ## Resumo do tema
 
 
+{-}
