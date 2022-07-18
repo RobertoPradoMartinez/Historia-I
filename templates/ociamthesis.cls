@@ -16,13 +16,14 @@
 %-------------------------- initial code -----------------------
 
 % JEM: Defaults to one-side, but passing 'twoside' should set everything up for that
-\LoadClass[openright,12pt]{report}
+\LoadClass[openright,12pt]{report} % letra 12 pt
 
 \newif\ifmc@nobind
 \mc@nobindfalse
 
 \DeclareOption{nobind}{\mc@nobindtrue}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{report}}
+%\DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
 \ProcessOptions\relax
 
 \setlength{\parskip}{0pt plus 1pt}
@@ -233,7 +234,7 @@
 % on its own page.
 
 \newenvironment{acknowledgements}%
-{   \begin{alwayssingle}\chapter*{Acknowledgements}
+{   \begin{alwayssingle}\chapter*{Agradecementos}
     \thispagestyle{empty}
 	\pagestyle{empty}
 	\setlength{\baselineskip}{\frontmatterbaselineskip}
@@ -248,7 +249,7 @@
 %i.e. tabbed in at both sides, and on its own page.
 
 \renewenvironment{abstract}%
-{   \begin{alwayssingle}\chapter*{Abstract}
+{   \begin{alwayssingle}\chapter*{Prefacio á edición}
     \thispagestyle{empty}
     \pagestyle{empty}
    \setlength{\baselineskip}{\frontmatterbaselineskip}}

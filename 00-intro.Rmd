@@ -17,9 +17,7 @@ documentclass: book
 #bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
 ---
 
-# Aproximación á Historia da Música {-}
-
-## Obxectivos do tema {-}
+# A orixe da música {-}
 
 ```{=tex}
 \adjustmtc
@@ -310,8 +308,8 @@ https://digalego.xunta.gal/es/termo/44501/m%C3%BAsica "definición de música da
 
 <!--- Fin de notas a pié de página --->
 
-
-
-## Actividades e audicións {-}
-
+<!--
 ## Resumo {-}
+## Actividades e audicións {-}
+-->
+

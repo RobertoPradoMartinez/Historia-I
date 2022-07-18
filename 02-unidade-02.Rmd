@@ -16,27 +16,27 @@ documentclass: book
 
 \minitoc <!-- índice do tema-->
 
-## Obxectivos do tema {-}
-
-* Comprender que a música é parte da historia do home.
-* Coñecer o contexto histórico-cultural e o significado da música na sociedade grecorromana.
-* Saber comentar as características dos instrumentos e da música desta época, a través da audición ou da partitura.
-* Entender os conceptos derivados da teoría musical.
-* Entender a importancia das fontes literarias e iconográficas para poder extraer conclusións respecto ao papel da música na antiga Grecia e Roma.
-
 ## A música na sociedade e culturas grega
 
+
+<!--
+```{r child=here::here('unidades-didacticas/unidade-01/organoloxia-GRECIA.md')}
+```
+-->
 <!--### As fontes de información-->
 
 ### A música como ideal educativo
 
 ### O sistema musical
 
-#### Notas, intervalos, xéneros e sistemas de escalas
+#### Notas
+#### Intervalos
+#### Xéneros
+#### Sistemas de escalas
 
 #### Notación musical
 
-### O pensamento musical
+### Pensamento musical grego
 
 #### A escola pitagórica
 
@@ -44,10 +44,16 @@ documentclass: book
 
 ### A música instrumental
 
-### Organoloxía. Cítara e aulos
+### Organoloxía
 
+### O legado de Grecia
+
+## A música na antiga Roma
+### Teoría musical
+### Organoloxía
+## A música dos Iberos
+### Contexto histórico
+### Fontes de información
+## Resumo {-}
 ## Actividades e audicións {-}
-## Resumo do tema
 
-
-{-}
