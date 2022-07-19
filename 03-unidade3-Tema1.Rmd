@@ -1,0 +1,30 @@
+---
+output:
+  #bookdown::html_document2: default
+  #bookdown::word_document2: default
+  bookdown::pdf_document2:
+    template: templates/brief_template.tex
+    citation_package: biblatex
+documentclass: book
+#bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
+---
+
+
+<!-- 
+TODO:
+- Cambiar o título desta unidade
+- Engadir os contidos que faltan
+
+# A monodia relixiosa medieval -->
+
+# A música cristiá primitiva
+\minitoc <!-- índice do tema-->
+
+## Orixe do canto litúrxico en Occidente
+### Influencia xudea
+### Canto sirio
+### A influencia de Bizancio
+### O canto copto
+### Canto armenio
+## A liturxia
+

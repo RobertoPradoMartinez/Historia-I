@@ -1,0 +1,51 @@
+---
+#########################################
+# options for knitting a single chapter #
+#########################################
+output:
+  bookdown::pdf_document2:
+    template: templates/brief_template.tex
+    citation_package: biblatex
+  bookdown::html_document2: default
+  bookdown::word_document2: default
+documentclass: book
+#bibliography: [bibliography/references.bib, bibliography/additional-references.bib]
+---
+
+<!-- GRECIA -->
+
+# A música en Grecia
+\minitoc <!-- índice do tema-->
+
+## A música na sociedade e culturas grega
+### A música como ideal educativo
+## Desenvolvemento histórico: períodos
+### Poesía épica
+### Poesía lírica
+### A traxedia
+### O helenismo
+<!--
+```{r child=here::here('unidades-didacticas/unidade-01/organoloxia-GRECIA.md')}
+```
+-->
+<!--### As fontes de información-->
+
+## Teoría musical
+### As Notas
+### Os Intervalos
+### Os *Genera*
+### O sistema musical
+### As escalas
+### Os *Tonoi*
+### Modulación: *ethos* e *pathos*
+## Pensamento musical
+### Influencias mitolóxicas
+### Homero
+### Pitágoras
+### Damón
+### Platón e Aristóteles
+### Aristoxeno
+## Organoloxía
+## O legado de Grecia
+## Resumo {-}
+## Actividades e audicións {-}
