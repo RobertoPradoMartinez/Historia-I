@@ -60,8 +60,8 @@
 %
 \begin{document}
 %
-% PORTADA: cargamos unha páxina externa
-% --------
+% PORTADA
+% =======
 %TODO: Crear a portada
 \includepdf[pages=-]{images/Portada}
 \pagenumbering{roman}
@@ -74,11 +74,11 @@
 %\parindent=0mm % Sen sangría
 \setlength{\parskip}{2pt plus 1pt} % con sangría
 %
-% Estilo para segunda páxina de portada
-% -------------------------------------
+% SEGUNDA PORTADA / PORTADA INTERIOR
+% ==================================
 \pagestyle{empty} % limpamos a páxina
 \input{../templates/portada-2.tex}
-
+%
 % ---------------------------------------------------
 \clearpage % limpamos a páxina
 % TODO: Crear a páxina de copyright
@@ -121,13 +121,12 @@ Límite de responsabilidade e exención de garantía: O autor ou autores poñen todo
 O libro e tódolos materiais complementarios, forman parte dun proxecto de divulgación electrónica libre.}\\
   
   
-% Índice xeral
---------------
-
+% --- Índice xeral ---
+%
 \tableofcontents
 
 % Prólogo á edición 
-% -----------------
+% =================
 % TODO: Importar o prologo desde un aquivo de texto
 \begin{prologo}
 \thispagestyle{empty}
@@ -143,10 +142,6 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 \pagestyle{fancy} % Habilitar encabezados
 \pagenumbering{arabic} % numeración arábiga
 \setcounter{page}{1} % contador de páxina
-% 
-% 
-%% -------------------- ESTRUTURA DOS TEMAS ------------------------- %%
-%
 % 
 % Capítulo 1: Título do Capítulo - Tema
 % =====================================

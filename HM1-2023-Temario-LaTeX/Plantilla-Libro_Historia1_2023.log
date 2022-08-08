@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  8 AUG 2022 18:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  8 AUG 2022 19:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2246,11 +2246,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--122
 
 ]
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 127.
+(Font)              scaled to size 24.88pt on input line 126.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/sc' will be
-(Font)              scaled to size 24.88pt on input line 127.
+(Font)              scaled to size 24.88pt on input line 126.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/sc' will be
-(Font)              scaled to size 24.88pt on input line 127.
+(Font)              scaled to size 24.88pt on input line 126.
 
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2301,140 +2301,140 @@ Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 133.
+(hyperref)                removing `\begingroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 133.
+(hyperref)                removing `\<let>-command' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 133.
+(hyperref)                removing `\calc@A' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@Askip' on input line 133.
+(hyperref)                removing `\calc@Askip' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 133.
+(hyperref)                removing `\<let>-command' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 133.
+(hyperref)                removing `\calc@B' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@Bskip' on input line 133.
+(hyperref)                removing `\calc@Bskip' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 133.
+(hyperref)                removing `\begingroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\aftergroup' on input line 133.
+(hyperref)                removing `\aftergroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 133.
+(hyperref)                removing `\calc@B' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 133.
+(hyperref)                removing `\calc@A' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 133.
+(hyperref)                removing `\begingroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\aftergroup' on input line 133.
+(hyperref)                removing `\aftergroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 133.
+(hyperref)                removing `\calc@B' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 133.
+(hyperref)                removing `\calc@A' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 133.
+(hyperref)                removing `\afterassignment' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 133.
+(hyperref)                removing `\<def>-command' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@next' on input line 133.
+(hyperref)                removing `\calc@next' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@next' on input line 133.
+(hyperref)                removing `\calc@next' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 133.
+(hyperref)                removing `\calc@A' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\global' on input line 133.
+(hyperref)                removing `\global' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 133.
+(hyperref)                removing `\calc@A' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 133.
+(hyperref)                removing `\calc@B' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 133.
+(hyperref)                removing `\endgroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\skip@' on input line 133.
+(hyperref)                removing `\skip@' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 133.
+(hyperref)                removing `\calc@B' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\vskip' on input line 133.
+(hyperref)                removing `\vskip' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\skip@' on input line 133.
+(hyperref)                removing `\skip@' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 133.
+(hyperref)                removing `\endgroup' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 133.
+(hyperref)                removing `\hfill' on input line 132.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 133.
+(hyperref)                removing `\@ifnextchar' on input line 132.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 138.
+(Font)              scaled to size 10.95pt on input line 137.
 [7
 
 ] [8
@@ -2442,331 +2442,332 @@ LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
 ]
 Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
-(Font)              scaled to size 103.70003pt on input line 153.
+(Font)              scaled to size 103.70003pt on input line 148.
 (../unidades-didacticas/unidade-00/Tema-01.tex
 <../figures/ud-00/music-idea.png, id=313, 834.11626pt x 611.28375pt>
 File: ../figures/ud-00/music-idea.png Graphic file (type png)
 <use ../figures/ud-00/music-idea.png>
 Package pdftex.def Info: ../figures/ud-00/music-idea.png  used on input line 4.
 
-(pdftex.def)             Requested size: 320.09349pt x 234.58478pt.
+(pdftex.def)             Requested size: 384.10959pt x 281.50174pt.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 14.
+(Font)              scaled to size 20.74pt on input line 24.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 14.
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
+(Font)              scaled to size 20.74pt on input line 24.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.30 U
-      nha primeira aproximación ao concepto de música\footnote{ [1
+l.28 
+      [1
 
  <../figures/ud-00/music-idea.png>]
+(../unidades-didacticas/unidade-00/perspectivas-musica.tex
+LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 4.
+LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 4.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 31.
+(Font)              scaled to size 7.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 31.
+(Font)              scaled to size 9.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 37.
+(Font)              scaled to size 10.95pt on input line 13.
+)
 <../figures/ud-00/arps.jpg, id=319, 602.25pt x 401.5pt>
 File: ../figures/ud-00/arps.jpg Graphic file (type jpg)
 <use ../figures/ud-00/arps.jpg>
-Package pdftex.def Info: ../figures/ud-00/arps.jpg  used on input line 44.
+Package pdftex.def Info: ../figures/ud-00/arps.jpg  used on input line 45.
 (pdftex.def)             Requested size: 187.55481pt x 125.03346pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 45.
+(caption)                particular \caption on input line 46.
 See the caption package documentation for explanation.
 
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 45.
+(Font)              scaled to size 10.0pt on input line 46.
 <../figures/ud-00/platon.jpg, id=320, 355.3275pt x 501.875pt>
 File: ../figures/ud-00/platon.jpg Graphic file (type jpg)
 <use ../figures/ud-00/platon.jpg>
-Package pdftex.def Info: ../figures/ud-00/platon.jpg  used on input line 53.
+Package pdftex.def Info: ../figures/ud-00/platon.jpg  used on input line 54.
 (pdftex.def)             Requested size: 187.55481pt x 264.9127pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 54.
+(caption)                particular \caption on input line 55.
 See the caption package documentation for explanation.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 83.
+(multicol)                Footnotes on page 2 might be wrong on input line 71.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 83.
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
+(Font)              scaled to size 10.79993pt on input line 71.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
 [2 <../figures/ud-00/arps.jpg> <../figures/ud-00/platon.jpg>]
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 98.
+(Font)              scaled to size 10.0pt on input line 99.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/it' in size <10> not av
 ailable
 (Font)              Font shape `T1/LibertinusSans-TLF/b/sl' tried instead on in
-put line 98.
+put line 99.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/sl' will be
-(Font)              scaled to size 10.0pt on input line 98.
+(Font)              scaled to size 10.0pt on input line 99.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 <images/nodoejemplo.pdf, id=336, 68.3219pt x 25.71114pt>
 File: images/nodoejemplo.pdf Graphic file (type pdf)
 <use images/nodoejemplo.pdf>
-Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 111.
+Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 112.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
-<images/nodoejercicio.pdf, id=337, 68.3219pt x 25.71114pt>
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
+LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 126.
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
+[3 <./images/nodoejemplo.pdf>]
+<images/nodoejercicio.pdf, id=374, 68.3219pt x 25.71114pt>
 File: images/nodoejercicio.pdf Graphic file (type pdf)
 <use images/nodoejercicio.pdf>
-Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 128.
+Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 129.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
-LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 137.
-LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 137.
 )
-LaTeX Info: Redefining \. on input line 160.
-LaTeX Info: Redefining \% on input line 160.
-LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
-LaTeX Info: Redefining \. on input line 160.
-LaTeX Info: Redefining \% on input line 160.
- [3 <./images/nodoejemplo.pdf> <./images/nodoejercicio.pdf
-
-pdfTeX warning: pdflatex (file ./images/nodoejercicio.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
->] [4
-
-]
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+ [4 <./images/nodoejercicio.pdf>]
 Cap\'{\i }tulo 2.
 (../unidades-didacticas/unidade-00/xeneros.tex
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [5]
+ [5
+
+]
 Overfull \hbox (2.40002pt too wide) in paragraph at lines 52--56
 []\T1/LibertinusSerif-TLF/m/n/10.95 Tamén exis-ten xé-ne-ros mix-tos en-tre o v
 o-cal e o ins-tru-men-tal: por exem-plo, a mú-si-ca sinfónico-
  []
 
 )
-LaTeX Info: Redefining \. on input line 175.
-LaTeX Info: Redefining \% on input line 175.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
  [6]
 Cap\'{\i }tulo 3.
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
+LaTeX Info: Redefining \. on input line 179.
+LaTeX Info: Redefining \% on input line 179.
 [7
 
 ] [8
 
 ]
 Cap\'{\i }tulo 4.
-LaTeX Info: Redefining \. on input line 191.
-LaTeX Info: Redefining \% on input line 191.
+LaTeX Info: Redefining \. on input line 186.
+LaTeX Info: Redefining \% on input line 186.
 [9] [10
 
 ]
 Cap\'{\i }tulo 5.
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
 [11] [12
 
 ]
 Cap\'{\i }tulo 6.
-LaTeX Info: Redefining \. on input line 203.
-LaTeX Info: Redefining \% on input line 203.
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
 [13] [14
 
 ]
 Cap\'{\i }tulo 7.
-LaTeX Info: Redefining \. on input line 209.
-LaTeX Info: Redefining \% on input line 209.
+LaTeX Info: Redefining \. on input line 204.
+LaTeX Info: Redefining \% on input line 204.
 [15] [16
 
 ]
 Cap\'{\i }tulo 8.
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
+LaTeX Info: Redefining \. on input line 211.
+LaTeX Info: Redefining \% on input line 211.
 [17] [18
 
 ]
 Cap\'{\i }tulo 9.
-LaTeX Info: Redefining \. on input line 223.
-LaTeX Info: Redefining \% on input line 223.
+LaTeX Info: Redefining \. on input line 218.
+LaTeX Info: Redefining \% on input line 218.
 [19] [20
 
 ]
 Cap\'{\i }tulo 10.
-LaTeX Info: Redefining \. on input line 241.
-LaTeX Info: Redefining \% on input line 241.
+LaTeX Info: Redefining \. on input line 236.
+LaTeX Info: Redefining \% on input line 236.
 [21]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 243.
+(hyperref)                removing `\begingroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 243.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 243.
+(hyperref)                removing `\calc@A' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@Askip' on input line 243.
+(hyperref)                removing `\calc@Askip' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 243.
+(hyperref)                removing `\<let>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 243.
+(hyperref)                removing `\calc@B' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@Bskip' on input line 243.
+(hyperref)                removing `\calc@Bskip' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 243.
+(hyperref)                removing `\begingroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\aftergroup' on input line 243.
+(hyperref)                removing `\aftergroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 243.
+(hyperref)                removing `\calc@B' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 243.
+(hyperref)                removing `\calc@A' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\begingroup' on input line 243.
+(hyperref)                removing `\begingroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\aftergroup' on input line 243.
+(hyperref)                removing `\aftergroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 243.
+(hyperref)                removing `\calc@B' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 243.
+(hyperref)                removing `\calc@A' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\afterassignment' on input line 243.
+(hyperref)                removing `\afterassignment' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 243.
+(hyperref)                removing `\<def>-command' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@next' on input line 243.
+(hyperref)                removing `\calc@next' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@next' on input line 243.
+(hyperref)                removing `\calc@next' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 243.
+(hyperref)                removing `\calc@A' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\global' on input line 243.
+(hyperref)                removing `\global' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@A' on input line 243.
+(hyperref)                removing `\calc@A' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 243.
+(hyperref)                removing `\calc@B' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 243.
+(hyperref)                removing `\endgroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\skip@' on input line 243.
+(hyperref)                removing `\skip@' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\calc@B' on input line 243.
+(hyperref)                removing `\calc@B' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\vskip' on input line 243.
+(hyperref)                removing `\vskip' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\skip@' on input line 243.
+(hyperref)                removing `\skip@' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\endgroup' on input line 243.
+(hyperref)                removing `\endgroup' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 243.
+(hyperref)                removing `\@ifnextchar' on input line 238.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 243.
+(hyperref)                removing `\hfill' on input line 238.
 
 [22
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 
  []
 
 LaTeX Font Info:    Font shape `T1/LibertinusMono-TLF/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 252.
-LaTeX Info: Redefining \. on input line 274.
-LaTeX Info: Redefining \% on input line 274.
+(Font)              scaled to size 9.30756pt on input line 247.
+LaTeX Info: Redefining \. on input line 269.
+LaTeX Info: Redefining \% on input line 269.
 [23] (Plantilla-Libro_Historia1_2023.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 Package rerunfilecheck Info: File `Plantilla-Libro_Historia1_2023.out' has not 
 changed.
-(rerunfilecheck)             Checksum: 17D6F9507F60D0586F9BBD403BB03686;3048.
+(rerunfilecheck)             Checksum: 143AD015DDBBBA2221C7AA66CCEEFF1C;3094.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 118 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 48125 strings out of 478351
- 976196 string characters out of 2836108
- 1709913 words of memory out of 3000000
- 65469 multiletter control sequences out of 15000+600000
+ 49119 strings out of 478351
+ 997479 string characters out of 2836108
+ 1705913 words of memory out of 3000000
+ 66459 multiletter control sequences out of 15000+600000
  686831 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,19n,125p,503b,2125s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 105i,18n,125p,503b,2057s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
 /base/8r.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/li
 bertinus-type1/lbts_mfadfl.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/
@@ -2796,10 +2797,10 @@ agk8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
 tic/uhvr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 times/utmr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on Plantilla-Libro_Historia1_2023.pdf (32 pages, 1424024 bytes).
+Output written on Plantilla-Libro_Historia1_2023.pdf (32 pages, 1429737 bytes).
 
 PDF statistics:
- 594 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
+ 596 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
  364 words of extra memory for PDF output out of 10000 (max. 10000000)
 
