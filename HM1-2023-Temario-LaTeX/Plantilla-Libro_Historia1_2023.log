@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  8 AUG 2022 19:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  8 AUG 2022 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2454,95 +2454,124 @@ LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
 (Font)              scaled to size 20.74pt on input line 24.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
 (Font)              scaled to size 20.74pt on input line 24.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.28 
+l.34 
       [1
 
  <../figures/ud-00/music-idea.png>]
 (../unidades-didacticas/unidade-00/perspectivas-musica.tex
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 5.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 4.
+(Font)              scaled to size 10.95pt on input line 5.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 7.
+(Font)              scaled to size 7.0pt on input line 10.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 7.
+(Font)              scaled to size 9.0pt on input line 10.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
 (Font)              scaled to size 10.95pt on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--22
+[]\T1/LibertinusSerif-TLF/m/n/10.95 Pitágoras, no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+[]\T1/LibertinusSerif-TLF/m/n/10.95 Richard Wag-ner,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+[]
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 27--31
+\T1/LibertinusSerif-TLF/m/it/10.95 Pois is-to non pro-vén se-nón da
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 27--31
+\T1/LibertinusSerif-TLF/m/it/10.95 can-do lle acon-te-ceu al-go ma-lo,
+ []
+
+LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 32.
 )
-<../figures/ud-00/arps.jpg, id=319, 602.25pt x 401.5pt>
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 49.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [2]
+<../figures/ud-00/arps.jpg, id=328, 602.25pt x 401.5pt>
 File: ../figures/ud-00/arps.jpg Graphic file (type jpg)
 <use ../figures/ud-00/arps.jpg>
-Package pdftex.def Info: ../figures/ud-00/arps.jpg  used on input line 45.
+Package pdftex.def Info: ../figures/ud-00/arps.jpg  used on input line 51.
 (pdftex.def)             Requested size: 187.55481pt x 125.03346pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 46.
+(caption)                particular \caption on input line 52.
 See the caption package documentation for explanation.
 
-LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 46.
-<../figures/ud-00/platon.jpg, id=320, 355.3275pt x 501.875pt>
+<../figures/ud-00/platon.jpg, id=329, 355.3275pt x 501.875pt>
 File: ../figures/ud-00/platon.jpg Graphic file (type jpg)
 <use ../figures/ud-00/platon.jpg>
-Package pdftex.def Info: ../figures/ud-00/platon.jpg  used on input line 54.
+Package pdftex.def Info: ../figures/ud-00/platon.jpg  used on input line 60.
 (pdftex.def)             Requested size: 187.55481pt x 264.9127pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 55.
+(caption)                particular \caption on input line 61.
 See the caption package documentation for explanation.
 
 
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 71.
+Overfull \vbox (4.24448pt too high) has occurred while \output is active []
 
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 71.
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
-[2 <../figures/ud-00/arps.jpg> <../figures/ud-00/platon.jpg>]
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 97.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+
+[3 <../figures/ud-00/arps.jpg> <../figures/ud-00/platon.jpg>]
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 99.
+(Font)              scaled to size 10.0pt on input line 105.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/it' in size <10> not av
 ailable
 (Font)              Font shape `T1/LibertinusSans-TLF/b/sl' tried instead on in
-put line 99.
+put line 105.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/sl' will be
-(Font)              scaled to size 10.0pt on input line 99.
+(Font)              scaled to size 10.0pt on input line 105.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
-<images/nodoejemplo.pdf, id=336, 68.3219pt x 25.71114pt>
+<images/nodoejemplo.pdf, id=342, 68.3219pt x 25.71114pt>
 File: images/nodoejemplo.pdf Graphic file (type pdf)
 <use images/nodoejemplo.pdf>
-Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 112.
+Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 118.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
-LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 126.
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
-[3 <./images/nodoejemplo.pdf>]
-<images/nodoejercicio.pdf, id=374, 68.3219pt x 25.71114pt>
+<images/nodoejercicio.pdf, id=343, 68.3219pt x 25.71114pt>
 File: images/nodoejercicio.pdf Graphic file (type pdf)
 <use images/nodoejercicio.pdf>
-Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 129.
+Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 135.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
 )
 LaTeX Info: Redefining \. on input line 155.
 LaTeX Info: Redefining \% on input line 155.
- [4 <./images/nodoejercicio.pdf>]
+ [4 <./images/nodoejemplo.pdf> <./images/nodoejercicio.pdf
+
+pdfTeX warning: pdflatex (file ./images/nodoejercicio.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
 Cap\'{\i }tulo 2.
 (../unidades-didacticas/unidade-00/xeneros.tex
 LaTeX Info: Redefining \. on input line 51.
@@ -2761,13 +2790,13 @@ changed.
 ### simple group (level 1) entered at line 118 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 49119 strings out of 478351
- 997479 string characters out of 2836108
- 1705913 words of memory out of 3000000
- 66459 multiletter control sequences out of 15000+600000
+ 49122 strings out of 478351
+ 997530 string characters out of 2836108
+ 1703913 words of memory out of 3000000
+ 66462 multiletter control sequences out of 15000+600000
  686831 words of font info for 189 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,18n,125p,503b,2057s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 105i,18n,125p,551b,2053s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
 /base/8r.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/li
 bertinus-type1/lbts_mfadfl.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/
@@ -2797,10 +2826,10 @@ agk8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
 tic/uhvr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
 times/utmr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on Plantilla-Libro_Historia1_2023.pdf (32 pages, 1429737 bytes).
+Output written on Plantilla-Libro_Historia1_2023.pdf (32 pages, 1435244 bytes).
 
 PDF statistics:
- 596 PDF objects out of 1000 (max. 8388607)
+ 595 PDF objects out of 1000 (max. 8388607)
  69 named destinations out of 1000 (max. 500000)
  364 words of extra memory for PDF output out of 10000 (max. 10000000)
 
