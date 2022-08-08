@@ -62,7 +62,8 @@
 %
 % PORTADA: cargamos unha páxina externa
 % --------
-%\includepdf[pages=-]{images/Portada}
+%TODO: Crear a portada
+\includepdf[pages=-]{images/Portada}
 \pagenumbering{roman}
 %
 % Cor de páxina:
@@ -76,21 +77,8 @@
 % Estilo para segunda páxina de portada
 % -------------------------------------
 \pagestyle{empty} % limpamos a páxina
+\input{../templates/portada-2.tex}
 
-\titulo{% Autor (\fnte es un comando para un tipo de fuente especial)
-       \huge\bfseries\color{wcolornotas} Prado Martínez R.}{%
-        %pre-título
-        \color{verdeF}{\fontsize{60}{1} \selectfont Historia}\\
-        {\fontsize{50}{1} \selectfont da}
-        }{%
-        %Título principal
-         {\fontsize{80}{1} \selectfont Música}
-        }{%
-        %Adicional
-        \\ A evolución da música ata o século XVII}
-
-% 
-% Páxina para "dereitos reservados", ISBN, licenza creative commons, etc.
 % ---------------------------------------------------
 \clearpage % limpamos a páxina
 % TODO: Crear a páxina de copyright
@@ -159,12 +147,12 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 % 
 %% -------------------- ESTRUTURA DOS TEMAS ------------------------- %%
 %
-%
+% 
 % Capítulo 1: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{A orixe da música}
+% =====================================
+\chapter{Introducción}
 %
-\input{../capitulos/UDs/unidade-00/Tema-01.tex}
+\input{../unidades-didacticas/unidade-00/Tema-01.tex}
 %
 % Capítulo 2: Título do Capítulo - Tema
 % -------------------------------------
@@ -173,7 +161,7 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 
 Imos ver ...
 
-\input{../capitulos/UDs/unidade-00/xeneros.tex}
+\input{../unidades-didacticas/unidade-00/xeneros.tex}
 
 %\include{capitulos/exemplos/exemplo.txt}
 
@@ -186,7 +174,7 @@ Imos ver ...
 % \clearpage
 \chapter{Tema 3}
 
-\input{../capitulos/exemplos/exemplo.txt}
+%\input{../capitulos/exemplos/exemplo.txt}
 
 %%\input{EscrituraTextoNormal.tex}
 

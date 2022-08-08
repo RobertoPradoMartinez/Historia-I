@@ -1,0 +1,345 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  MODELO PARA MAQUETACIÓN DE APUNTAMENTOS DE CLASE EN LaTeX       %%
+%%  MATERIA: Historia da Música I                                   %%
+%%  CURSO: 4º                                                       %%
+%%  ANO ACADÉMICO: 2022/2023                                        %%
+%%  Versión: 1.0                                                    %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                  %%
+%% IMPORTANTE:                                                      %%
+%%                                                                  %%
+%% Require unha versión actualizada de Texlive ou Miktex - (2014)   %%
+%% Actualice a distribución antes de usar esta plantilla            %%
+%% Ou ben reinstala a dristribución LaTeX                           %%
+%% Require o paquete ``psboxit'' (en psboxit.sty)                   %%
+%% Realizado e compilado con: Kile - en Windows 11                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Este modelo necesita cargar:                                    %%
+%%  Archivo_Diseno_Libro_LaTeX.tex                                  %%
+%%                                                                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                  %%
+%   ENTORNOS DE TRABALLO:
+%   ---------   Definición de entornos   ---------
+%   Entornos a usar: Concepto, Audición, Exemplo, Exercicio, Texto
+%   
+%   Ver README.MD para saber máis.
+%
+%   ----------------------------------------------
+\documentclass[11pt,fleqn,x11names,table]{book}  
+%
+% Tamaño e marxes do documento
+% ----------------------------
+%
+\usepackage[text={15cm,25cm},centering,headsep=20pt,top=0.8in, bottom = 0.8in,letterpaper,showframe=false]{geometry} 
+%
+% Cargarmos o arquivo de configuración externo: paquetes e deseño
+% ---------------------------------------------------------------
+\input{Archivo_Diseno_Libro_LaTeX.tex}
+%
+%
+\definecolor{styrmitcrwcgray1}{rgb}{0.2,0.2,0.2}
+\definecolor{wcgray}{rgb}{0,0.1333,0.3333}
+\usetikzlibrary{arrows}
+%
+\usepackage{makeidx}
+\makeindex
+\usepackage{fourier} % Fonte de texto
+\usepackage{pdfpages} % Insertar  páginas .pdf
+\usepackage{lipsum}
+%
+%% ----------------- MAQUETACIÓN DO LIBRO ------------------- %%
+%
+\begin{document}
+%
+% PORTADA: cargamos unha páxina externa
+% --------
+\includepdf[pages=-]{images/Portada}
+\pagenumbering{roman}
+%
+%\pagecolor{grisamarillo}
+%
+\parindent=0mm % Sen sangría
+%
+% Estilo para segunda páxina de portada
+% -------------------------------------
+\pagestyle{empty} % limpamos a páxina
+
+\titulo{% Autor (\fnte es un comando para un tipo de fuente especial)
+       \huge\bfseries\color{wcolornotas} Prado Martínez R.}{%
+        %pre-título
+        \color{verdeF}Modelo para redacción de apuntes
+        }{%
+        %Título principal
+         {\fontsize{80}{1} \selectfont La\TeX{}}
+        }{%
+        %Adicional
+        Composición, Deseño Editorial, Gráficos,\\
+Inkscape, Tikz  e Presentacións Beamer
+        }
+
+% 
+% Páxina para "dereitos reservados", ISBN, licenza creative commons, etc.
+% ---------------------------------------------------
+\clearpage % limpamos a páxina
+
+\begin{copyrightpage}{% 
+   Revista digital Matemática Educación e Internet (www.tec-digital.itcr.ac.cr/revistamatematica/). 
+   Correo Electrónico: \url{wmora2@itcr.ac.cr}
+   Escuela de Matemática
+   Instituto Tecnológico de Costa Rica
+   Apdo. 159-7050, Cartago
+   Teléfono (506)25502225
+   Fax (506)25502493}%
+Mora Flores, Walter.
+\    Edición de Textos Científicos con \LaTeX. Composición, Gráficos, Inkscape y Presentaciones Beamer/Walter Mora F.
+\ Alexánder Borbón A. -- 3ra ed.
+\ -- Escuela de Matemática,Instituto Tecnológico de Costa Rica.  2010.
+\    xxx p.
+\ ISBN 978-9977-66-227-5
+\    1. TeX.  2. Composición tipográfica-automatizada 3. Tipos - símbolos matemáticos.\\     
+\end{copyrightpage}
+~\vfill
+%\thispagestyle{empty}
+
+\noindent 
+\parbox[s]{0.35\textwidth}{Licencia.}\parbox[c]{0.65\textwidth}{
+ \color{gray}
+ \fhv{9}{Edición dixital}\\
+ \fhvb{10}{Aproximación á Historia da Música}\\
+%  \fntg[pag][9]{%
+% TODO: Referencia á web do centro para descarga ou repositorio
+  %  \href{http://www.tec-digital.itcr.ac.cr/revistamatematica/}{http://www.tec-digital.itcr.ac.cr/revistamatematica/.}}
+ }\\\\ % 
+
+%\noindent {\color{colordominante} Photos by}: Viviana Loaiza. Parque Nacional Chirripó, Costa Rica.\\
+
+
+\includegraphics[scale=0.7]{images/logocc}
+\noindent  {{\fontsize{9}{1} \selectfont Este libro distribúese baixo unha licenza Creative Commons: Atribución-NoComercial-SinDerivadas CC BY-NC-ND (a licenza). Autorízase o seu uso segundo os dereitos que otorga a licenza. Para ver a licenza: \url{http://creativecommons.org/licenses/by-nc-nd/3.0/}.\\
+En particular, esta licenza permite a copia e distribución gratuita, pero non permite a venda nin modificación sen autorización deste material. \\
+Límite de responsabilidade e exención de garantía: O autor ou autores poñen todo o seu esforzo e bo facer na elaboración deste material. Esta edición, proporciónase ``tal cual''. Distribúese de xeito gratuito coa esperanza de que sexa útil.\\
+O libro e tódolos materiais complementarios, forman parte dun proxecto de divulgación electrónica libre.}\\
+  
+  
+% Índice xeral
+--------------
+
+\tableofcontents
+
+% Prólogo á edición 
+% -----------------
+% TODO: Importar o prologo desde un aquivo de texto
+\begin{prologo}
+\thispagestyle{empty}
+Espazo para redactar o prólogo á edición e unha breve presentación e/ou introducción.\\
+
+ ...\\
+    
+\textit{Viveiro, 2022.} \hfill{\sc R. Prado}
+\end{prologo}
+
+
+\cleardoublepage % limpamos a páxina
+\pagestyle{fancy} % Habilitar encabezados
+\pagenumbering{arabic} % numeración arábiga
+\setcounter{page}{1} % contador de páxina
+% 
+% 
+%% -------------------- ESTRUTURA DOS TEMAS ------------------------- %%
+%
+% TODO: Incluir os temas desde archivos externos
+%
+% Capítulo 1: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 1}
+\begin{multicols}{2}
+\lipsum
+%%\input{LaTeXPrimerosPasos.tex}
+%
+ \begin{caja}[Debes lembrar \ldots]
+ Este entorno, está pensado para crear pequenos recadros tipo ``RECUERDA'' típicos dos libros de texto.
+ \end{caja}
+%
+ \end{multicols}
+ 
+% Unha sección: Título da Sección
+% -------------------------------
+\section{Introducción}
+\begin{multicols}{2}
+\begin{concepto}[\textit{Que é a Música para tí}][cap1:musica]
+  Aquí definimos o noso concepto \ldots
+\end{concepto}
+
+\bigskip
+Segundo a definición \ref{cap1:musica}, a igualdad...\\
+
+\bigskip
+\begin{audicion}[(Título da audición)][cap1:audicion]
+ Podemos facer unha breve aproximación ou comentario da audición \ldots
+\end{audicion}
+
+\bigskip
+\begin{ejemplo}[Este sería o título do exemplo][cap1:exemplo]
+ Metemos aquí un entorno exemplo
+\end{ejemplo}
+
+\bigskip
+\begin{texto}[El perro caga de pié]
+\lipsum
+\end{texto}
+
+\end{multicols}
+
+\section{Ejercicios do tema}
+
+Esta sección, pode corresponder coa de exercicios.
+
+\begin{ejercicio}[Título do exercicio][cap1:exercio]
+ Aquí vai un ejercicio
+\end{ejercicio}
+
+\bigskip
+\begin{caja}[Título da caixa \ldots]
+ Aquí un entorno de Caixa \ldots
+\end{caja}
+
+\subsection{Un exemplo para táboas}
+ % \usepackage{array,tabularx}
+ % \usepackage[table, x11names]{xcolor}
+
+\newcolumntype{Y}{>{\raggedleft\arraybackslash}X} % Ver tabularx
+%
+\tcbset{enhanced,fonttitle=\bfseries\large,fontupper=\normalsize\sffamily,
+         colback=LightCyan1,colframe=DarkOrange4,colbacktitle=DarkOrange4,
+         coltitle=black,center title
+       }
+
+%%-Tabla - Estilo beamer
+\begin{tcolorbox}[tabularx={X||X||X},title= {\white Un exemplo para táboas}, beamer]
+  & $x_i$           & $y_i=f(x_i)$ \\\hline\hline
+A & $x_0=0$         & $0$           \\\hline
+B & $x_1=0.75$      &  $-0.0409838$ \\\hline
+C & $x_2=1.5$       &  $1.31799$  
+\end{tcolorbox}
+
+
+%
+% Capítulo 2: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 2}
+
+Imos ver ...
+
+\input{../capitulos/exemplos/exemplo2.md}
+
+%\include{capitulos/exemplos/exemplo.txt}
+
+%%\input{AccionesSesionLaTeX.tex}
+
+%
+% Capítulo 3: Título do Capítulo - Tema
+% -------------------------------------
+% \clearpage
+\chapter{Tema 3}
+
+\input{../capitulos/exemplos/exemplo.txt}
+
+%%\input{EscrituraTextoNormal.tex}
+
+%
+% Capítulo 4: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 4}\label{textomatematico}
+
+% \clearpage
+%%\input{TextoModoMatematico.tex}
+%
+% Capítulo 5: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 5}
+% \clearpage
+%%\input{Tablas.tex}
+%
+% Capítulo 6: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 6}
+% \clearpage
+%\input{aInsertarFiguras.tex}
+% 
+% Capítulo 7: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 7}
+% \clearpage
+%\input{edicionFiguras.tex}
+% 
+% Capítulo 8: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 8}
+% \clearpage
+%%\input{HacerBibliografia.tex}
+% 
+%
+% Capítulo 9: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 9}
+% \clearpage
+%%\input{DisenoEditorial.tex}
+% 
+%
+% Capítulo 10: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 10}\label{tema10}
+% \clearpage
+%%\input{cajas.tex}
+%
+% Capítulo: Título do Capítulo - Tema
+% -------------------------------------
+%\chapter{outro tema}
+% \clearpage
+%\input{PersonalizarElDocumento.tex}
+% 
+%
+%\chapter{Transparencias con  Beamer}
+% \clearpage
+% \input{Beamer.tex}
+% 
+% --------------
+% Bibliografía
+% --------------
+\clearpage
+\thispagestyle{empty}
+\addcontentsline{toc}{schapter}{\addvspace{30pt}\large\sc\bfseries Bibliografía \color{azulF}\hfill   }
+
+\begin{thebibliography}{AAAAAA}
+  \bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
+  
+  \bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}.
+  En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
+  
+
+
+\bibitem{} Joseph Wright. "From \verb+\newcommand+ to \verb+\NewDocumentCommand+
+with xparse".  \url{https://www.tug.org/TUGboat/tb31-3/tb99wright.pdf}.
+Consultada el 10 de Enero 2014.
+
+\end{thebibliography}
+% \clearpage
+%\input{Bibliografia}
+% 
+% ------------------
+% ANEXOS - APÉNDICES
+% ------------------
+%\input{apendiceAgregarPaquetesNuevos.tex}
+%\input{Habilitarshellescape.tex}
+% \input{ApendiceA.tex}%insalar una distribución y un editor
+% \input{softwareadicional}
+% \input{massoftwareadicional}
+% \input{ApendiceB.tex}
+% \input{IndiceComun.tex}
+% 
+% %%%%%%%%%%% ImprimirIndice
+%\printindex
+
+\end{document}
