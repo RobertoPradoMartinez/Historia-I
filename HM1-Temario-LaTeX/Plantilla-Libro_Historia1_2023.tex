@@ -1,0 +1,286 @@
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  MODELO PARA MAQUETACIÓN DE APUNTAMENTOS DE CLASE EN LaTeX       %%
+%%  MATERIA: Historia da Música I                                   %%
+%%  CURSO: 4º                                                       %%
+%%  ANO ACADÉMICO: 2022/2023                                        %%
+%%  Versión: 1.0                                                    %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                  %%
+%% IMPORTANTE:                                                      %%
+%%                                                                  %%
+%% Require unha versión actualizada de Texlive ou Miktex - (2014)   %%
+%% Actualice a distribución antes de usar esta plantilla            %%
+%% Ou ben reinstala a dristribución LaTeX                           %%
+%% Require o paquete ``psboxit'' (en psboxit.sty)                   %%
+%% Realizado e compilado con: Kile - en Windows 11                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%  Este modelo necesita cargar:                                    %%
+%%  Archivo_Diseno_Libro_LaTeX.tex                                  %%
+%%                                                                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                                                                  %%
+%   ENTORNOS DE TRABALLO:
+%   ---------   Definición de entornos   ---------
+%   Entornos a usar: Concepto, Audición, Exemplo, Exercicio, Texto, caja, etc.
+%   
+%   Ver README.MD para saber máis.
+%
+%   ---------   Tipo de documento   ---------
+\documentclass[11pt,fleqn,x11names,table]{book} % 
+%
+% Tamaño e marxes do documento
+% ----------------------------
+%
+\usepackage[text={15cm,25cm},centering,headsep=20pt,top=0.8in, bottom = 0.8in,letterpaper,showframe=false]{geometry} 
+%
+% Cargarmos o arquivo de configuración externo: paquetes e deseño
+% ---------------------------------------------------------------
+%\input{Archivo_Diseno_Libro_LaTeX-backup.tex} % orixinal
+\input{Archivo_Diseno_Libro_LaTeX.tex} % fallo nas seccións
+%
+%
+\definecolor{styrmitcrwcgray1}{rgb}{0.2,0.2,0.2}
+\definecolor{wcgray}{rgb}{0,0.1333,0.3333}
+\usetikzlibrary{arrows}
+%
+\usepackage{makeidx}
+\makeindex
+%\usepackage{fourier} % Fonte de texto
+\usepackage{pdfpages} % Insertar  páginas .pdf
+%\usepackage{lipsum}
+%
+% Tipografía - modificada:
+% ------------------------
+% Modificamos o tipo de letra por defecto a Libertine de Linux, porque é moito máis vistosa.
+%
+\usepackage{libertinus} % Fonte LIBERTINE Linux
+%
+%% ----------------- MAQUETACIÓN DO LIBRO ------------------- %%
+%
+\begin{document}
+%
+% PORTADA: cargamos unha páxina externa
+% --------
+%\includepdf[pages=-]{images/Portada}
+\pagenumbering{roman}
+%
+% Cor de páxina:
+% --------------
+%\pagecolor{grisamarillo}
+% Sangrías
+% --------
+%\parindent=0mm % Sen sangría
+\setlength{\parskip}{2pt plus 1pt} % con sangría
+%
+% Estilo para segunda páxina de portada
+% -------------------------------------
+\pagestyle{empty} % limpamos a páxina
+
+\titulo{% Autor (\fnte es un comando para un tipo de fuente especial)
+       \huge\bfseries\color{wcolornotas} Prado Martínez R.}{%
+        %pre-título
+        \color{verdeF}{\fontsize{60}{1} \selectfont Historia}\\
+        {\fontsize{50}{1} \selectfont da}
+        }{%
+        %Título principal
+         {\fontsize{80}{1} \selectfont Música}
+        }{%
+        %Adicional
+        \\ A evolución da música ata o século XVII}
+
+% 
+% Páxina para "dereitos reservados", ISBN, licenza creative commons, etc.
+% ---------------------------------------------------
+\clearpage % limpamos a páxina
+% TODO: Crear a páxina de copyright
+\begin{copyrightpage}{% 
+   Revista digital Matemática Educación e Internet (www.tec-digital.itcr.ac.cr/revistamatematica/). 
+   Correo Electrónico: \url{wmora2@itcr.ac.cr}
+   Escuela de Matemática
+   Instituto Tecnológico de Costa Rica
+   Apdo. 159-7050, Cartago
+   Teléfono (506)25502225
+   Fax (506)25502493}%
+Mora Flores, Walter.
+\    Edición de Textos Científicos con \LaTeX. Composición, Gráficos, Inkscape y Presentaciones Beamer/Walter Mora F.
+\ Alexánder Borbón A. -- 3ra ed.
+\ -- Escuela de Matemática,Instituto Tecnológico de Costa Rica.  2010.
+\    xxx p.
+\ ISBN 978-9977-66-227-5
+\    1. TeX.  2. Composición tipográfica-automatizada 3. Tipos - símbolos matemáticos.\\     
+\end{copyrightpage}
+~\vfill
+%\thispagestyle{empty}
+
+\noindent 
+\parbox[s]{0.35\textwidth}{Licencia.}\parbox[c]{0.65\textwidth}{
+ \color{gray}
+ \fhv{9}{Proxecto:}\\
+ \fhvb{10}{Achégate á Historia da Música}\\
+%  \fntg[pag][9]{%
+% TODO: Referencia á web do centro para descarga ou repositorio
+  %  \href{http://www.tec-digital.itcr.ac.cr/revistamatematica/}{http://www.tec-digital.itcr.ac.cr/revistamatematica/.}}
+ }\\\\ % 
+
+%\noindent {\color{colordominante} Photos by}: Viviana Loaiza. Parque Nacional Chirripó, Costa Rica.\\
+
+% TODO: Revisar a distribución do libro.
+\includegraphics[scale=0.7]{images/logocc}
+\noindent  {{\fontsize{9}{1} \selectfont Este libro distribúese baixo unha licenza Creative Commons: Atribución-NoComercial-SinDerivadas CC BY-NC-ND (a licenza). Autorízase o seu uso segundo os dereitos que otorga a licenza. Para ver a licenza: \url{http://creativecommons.org/licenses/by-nc-nd/3.0/}.\\
+En particular, esta licenza permite a copia e distribución gratuita, pero non permite a venda nin modificación sen autorización deste material. \\
+Límite de responsabilidade e exención de garantía: O autor ou autores poñen todo o seu esforzo e bo facer na elaboración deste material. Esta edición, proporciónase ``tal cual''. Distribúese de xeito gratuito coa esperanza de que sexa útil.\\
+O libro e tódolos materiais complementarios, forman parte dun proxecto de divulgación electrónica libre.}\\
+  
+  
+% Índice xeral
+--------------
+
+\tableofcontents
+
+% Prólogo á edición 
+% -----------------
+% TODO: Importar o prologo desde un aquivo de texto
+\begin{prologo}
+\thispagestyle{empty}
+Espazo para redactar o prólogo á edición e unha breve presentación e/ou introducción.\\
+
+ ...\\
+    
+\textit{Viveiro, 2022.} \hfill{\sc R. Prado}
+\end{prologo}
+
+
+\cleardoublepage % limpamos a páxina
+\pagestyle{fancy} % Habilitar encabezados
+\pagenumbering{arabic} % numeración arábiga
+\setcounter{page}{1} % contador de páxina
+% 
+% 
+%% -------------------- ESTRUTURA DOS TEMAS ------------------------- %%
+%
+%
+% Capítulo 1: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{A orixe da música}
+%
+\input{../capitulos/UDs/unidade-00/Tema-01.tex}
+%
+% Capítulo 2: Título do Capítulo - Tema
+% -------------------------------------
+% TODO: IncluIr o tema como externo
+\chapter{Tema 2}
+
+Imos ver ...
+
+\input{../capitulos/UDs/unidade-00/xeneros.tex}
+
+%\include{capitulos/exemplos/exemplo.txt}
+
+%%\input{AccionesSesionLaTeX.tex}
+
+%
+% Capítulo 3: Título do Capítulo - Tema
+% -------------------------------------
+% TODO: IncluIr o tema como externo
+% \clearpage
+\chapter{Tema 3}
+
+\input{../capitulos/exemplos/exemplo.txt}
+
+%%\input{EscrituraTextoNormal.tex}
+
+%
+% Capítulo 4: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 4}\label{textomatematico}
+
+% \clearpage
+%%\input{TextoModoMatematico.tex}
+%
+% Capítulo 5: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 5}
+% \clearpage
+%%\input{Tablas.tex}
+%
+% Capítulo 6: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 6}
+% \clearpage
+%\input{aInsertarFiguras.tex}
+% 
+% Capítulo 7: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 7}
+% \clearpage
+%\input{edicionFiguras.tex}
+% 
+% Capítulo 8: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 8}
+% \clearpage
+%%\input{HacerBibliografia.tex}
+% 
+%
+% Capítulo 9: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 9}
+% \clearpage
+%%\input{DisenoEditorial.tex}
+% 
+%
+% Capítulo 10: Título do Capítulo - Tema
+% -------------------------------------
+\chapter{Tema 10}\label{tema10}
+% \clearpage
+%%\input{cajas.tex}
+%
+% Capítulo: Título do Capítulo - Tema
+% -------------------------------------
+%\chapter{outro tema}
+% \clearpage
+%\input{PersonalizarElDocumento.tex}
+% 
+%
+%\chapter{Transparencias con  Beamer}
+% \clearpage
+% \input{Beamer.tex}
+% 
+% --------------
+% Bibliografía
+% --------------
+\clearpage
+\thispagestyle{empty}
+\addcontentsline{toc}{schapter}{\addvspace{30pt}\large\sc\bfseries Bibliografía \color{azulF}\hfill   }
+
+\begin{thebibliography}{AAAAAA}
+    
+    \bibitem[Grout 2021]{Grout} Grout, Donald J. "{\it Historia de La Musica Occidental 1}". Alianza. 2001.\\
+  
+  \bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
+  
+  \bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}.
+  En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
+  
+
+
+\end{thebibliography}
+% \clearpage
+%\input{Bibliografia}
+% 
+% ------------------
+% ANEXOS - APÉNDICES
+% ------------------
+%\input{apendiceAgregarPaquetesNuevos.tex}
+%\input{Habilitarshellescape.tex}
+% \input{ApendiceA.tex}%insalar una distribución y un editor
+% \input{softwareadicional}
+% \input{massoftwareadicional}
+% \input{ApendiceB.tex}
+% \input{IndiceComun.tex}
+% 
+% %%%%%%%%%%% ImprimirIndice
+%\printindex
+
+\end{document}
