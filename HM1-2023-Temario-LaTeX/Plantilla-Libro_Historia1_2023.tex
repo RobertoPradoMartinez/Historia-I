@@ -32,12 +32,23 @@
 % Tamaño e marxes do documento
 % ----------------------------
 %
-\usepackage[text={15cm,25cm},centering,headsep=20pt,top=0.8in, bottom = 0.8in,letterpaper,showframe=false]{geometry} 
+\usepackage[%text={15cm,25cm}
+            inner=4.5cm,            % marxe interior
+            outer=4.0cm,            % marxe exterior
+            centering,              % centrado
+            headsep=20pt,           % distancia encabezados
+            top=1.0in,              % marxe superior
+            bottom=1.5in,         % marxe inferior
+            marginparwidth=1.0in,   % ancho nota á marxe
+            marginparsep=1.50mm,      % separación nota
+            twoside=true,           % dúas caras
+            letterpaper,            % tamaño carta
+            showframe=false]{geometry} 
 %
 % Cargarmos o arquivo de configuración externo: paquetes e deseño
 % ---------------------------------------------------------------
 %\input{Archivo_Diseno_Libro_LaTeX-backup.tex} % orixinal
-\input{Archivo_Diseno_Libro_LaTeX.tex} % fallo nas seccións
+\input{Archivo_Diseno_Libro_LaTeX.tex} %
 %
 %
 \definecolor{styrmitcrwcgray1}{rgb}{0.2,0.2,0.2}
