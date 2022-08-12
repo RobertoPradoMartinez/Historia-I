@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  11 AUG 2022 19:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.14)  12 AUG 2022 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1889,6 +1889,13 @@ Package csquotes Info: ... found 'babel' package.
  (Plantilla-Libro_Historia1_2023.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `Plantilla-Libro_Historia1_2023.aux'.
 
@@ -1897,8 +1904,7 @@ LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 77.
 LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
  77.
-
-(C:\Users\Roberto\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
+ (C:\Users\Roberto\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 77.
@@ -1916,7 +1922,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -2036,7 +2041,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 \c@mv@tabular=\count474
 \c@mv@boldtabular=\count475
-<images/Portada.pdf, id=117, 419.79819pt x 651.76004pt>
+<images/Portada.pdf, id=129, 419.79819pt x 651.76004pt>
 File: images/Portada.pdf Graphic file (type pdf)
 <use images/Portada.pdf>
 Package pdftex.def Info: images/Portada.pdf  used on input line 82.
@@ -2045,7 +2050,7 @@ File: images/Portada.pdf Graphic file (type pdf)
 <use images/Portada.pdf>
 Package pdftex.def Info: images/Portada.pdf  used on input line 82.
 (pdftex.def)             Requested size: 419.79715pt x 651.75844pt.
-<images/Portada.pdf, id=120, page=1, 419.79819pt x 651.76004pt>
+<images/Portada.pdf, id=132, page=1, 419.79819pt x 651.76004pt>
 File: images/Portada.pdf Graphic file (type pdf)
 <use images/Portada.pdf, page 1>
 Package pdftex.def Info: images/Portada.pdf , page1 used on input line 82.
@@ -2105,7 +2110,7 @@ LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/n' will be
 (Font)              scaled to size 80.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/m/it' will be
 (Font)              scaled to size 14.4pt on input line 12.
-<images/logo.pdf, id=216, 929.4725pt x 1001.7425pt>
+<images/logo.pdf, id=228, 929.4725pt x 1001.7425pt>
 File: images/logo.pdf Graphic file (type pdf)
 <use images/logo.pdf>
 Package pdftex.def Info: images/logo.pdf  used on input line 12.
@@ -2246,7 +2251,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--129
 
  []
 
-<images/logocc.png, id=236, 88.33pt x 31.11626pt>
+<images/logocc.png, id=248, 88.33pt x 31.11626pt>
 File: images/logocc.png Graphic file (type png)
 <use images/logocc.png>
 Package pdftex.def Info: images/logocc.png  used on input line 133.
@@ -2303,11 +2308,8 @@ Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-
-Underfull \vbox (badness 1400) has occurred while \output is active []
-
 LaTeX Font Info:    Trying to load font information for T1+LibertinusSans-TLF o
-n input line 20.
+n input line 24.
 
 (C:\Users\Roberto\AppData\Local\Programs\MiKTeX\tex/latex/libertinus-type1\t1li
 bertinussans-tlf.fd
@@ -2315,9 +2317,9 @@ File: T1LibertinusSans-TLF.fd 2020/08/22 (autoinst) Font definitions for T1/Lib
 ertinusSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 35.0pt on input line 20.
+(Font)              scaled to size 35.0pt on input line 24.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 35.0pt on input line 20.
+(Font)              scaled to size 35.0pt on input line 24.
  [5]
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -2475,7 +2477,7 @@ Cap\'{\i }tulo 1.
 LaTeX Font Info:    Font shape `T1/LibertinusSerif-TLF/b/n' will be
 (Font)              scaled to size 103.70003pt on input line 164.
 (../unidades-didacticas/unidade-00/Tema-01.tex
-<../figures/ud-00/music-idea.png, id=312, 834.11626pt x 611.28375pt>
+<../figures/ud-00/music-idea.png, id=330, 834.11626pt x 611.28375pt>
 File: ../figures/ud-00/music-idea.png Graphic file (type png)
 <use ../figures/ud-00/music-idea.png>
 Package pdftex.def Info: ../figures/ud-00/music-idea.png  used on input line 4.
@@ -2614,109 +2616,159 @@ LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
 LaTeX Info: Redefining \. on input line 102.
 LaTeX Info: Redefining \% on input line 102.
  [3]) (../unidades-didacticas/unidade-00/fontes-informacion.tex
+<../figures/ud-00/foto-fuente.jpg, id=353, 602.25pt x 301.125pt>
+File: ../figures/ud-00/foto-fuente.jpg Graphic file (type jpg)
+<use ../figures/ud-00/foto-fuente.jpg>
+Package pdftex.def Info: ../figures/ud-00/foto-fuente.jpg  used on input line 1
+2.
+(pdftex.def)             Requested size: 348.0033pt x 174.00934pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 13.
+See the caption package documentation for explanation.
+
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 8.
+(Font)              scaled to size 10.0pt on input line 17.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 8.
-
-
-LaTeX Warning: Reference `desc.fontes' on page 4 undefined on input line 26.
-
-LaTeX Info: Redefining \. on input line 43.
-LaTeX Info: Redefining \% on input line 43.
-[4])
+(Font)              scaled to size 10.0pt on input line 17.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/it' in size <10> not av
 ailable
 (Font)              Font shape `T1/LibertinusSans-TLF/b/sl' tried instead on in
-put line 61.
+put line 23.
 LaTeX Font Info:    Font shape `T1/LibertinusSans-TLF/b/sl' will be
-(Font)              scaled to size 10.0pt on input line 61.
+(Font)              scaled to size 10.0pt on input line 23.
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [4 <../figures/ud-00/foto-fuente.jpg>]
+
+LaTeX Warning: Reference `desc.fontes' on page 5 undefined on input line 42.
+
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+[5]) (../unidades-didacticas/unidade-00/periodizacion.tex
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|[] [] \T1/LibertinusSerif-TLF/m/n/9 ar-qui-tec-tu-ra,
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 33--37
+[] []
+ []
+
+
+Overfull \hbox (386.67296pt too wide) detected at line 46
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 37--48
+[] []
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 51--51
+[]|[] [] \T1/LibertinusSerif-TLF/m/n/9 Non con-fun-dir
+ []
+
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 72.
+LaTeX Info: Redefining \% on input line 72.
+[7]) (../unidades-didacticas/unidade-00/teorias-orixe.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
-<images/nodoejemplo.pdf, id=346, 68.3219pt x 25.71114pt>
+<images/nodoejemplo.pdf, id=388, 68.3219pt x 25.71114pt>
 File: images/nodoejemplo.pdf Graphic file (type pdf)
 <use images/nodoejemplo.pdf>
-Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 74.
+Package pdftex.def Info: images/nodoejemplo.pdf  used on input line 77.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
-
-Overfull \vbox (38.50589pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
-
-[5 <./images/nodoejemplo.pdf>]
-<images/nodoejercicio.pdf, id=381, 68.3219pt x 25.71114pt>
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+[8]
+<images/nodoejercicio.pdf, id=395, 68.3219pt x 25.71114pt>
 File: images/nodoejercicio.pdf Graphic file (type pdf)
 <use images/nodoejercicio.pdf>
-Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 91.
+Package pdftex.def Info: images/nodoejercicio.pdf  used on input line 94.
 (pdftex.def)             Requested size: 68.32173pt x 25.71106pt.
 )
 LaTeX Info: Redefining \. on input line 171.
 LaTeX Info: Redefining \% on input line 171.
- [6 <./images/nodoejercicio.pdf>]
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+ [9 <./images/nodoejemplo.pdf> <./images/nodoejercicio.pdf
+
+pdfTeX warning: pdflatex (file ./images/nodoejercicio.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>] [10
+
+]
 Cap\'{\i }tulo 2.
 (../unidades-didacticas/unidade-00/xeneros.tex
 LaTeX Info: Redefining \. on input line 51.
 LaTeX Info: Redefining \% on input line 51.
- [7
-
-])
+ [11])
 LaTeX Info: Redefining \. on input line 186.
 LaTeX Info: Redefining \% on input line 186.
- [8]
+ [12]
 Cap\'{\i }tulo 3.
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
-[9
+[13
 
-] [10
+] [14
 
 ]
 Cap\'{\i }tulo 4.
 LaTeX Info: Redefining \. on input line 202.
 LaTeX Info: Redefining \% on input line 202.
-[11] [12
+[15] [16
 
 ]
 Cap\'{\i }tulo 5.
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
-[13] [14
+[17] [18
 
 ]
 Cap\'{\i }tulo 6.
 LaTeX Info: Redefining \. on input line 214.
 LaTeX Info: Redefining \% on input line 214.
-[15] [16
+[19] [20
 
 ]
 Cap\'{\i }tulo 7.
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
-[17] [18
+[21] [22
 
 ]
 Cap\'{\i }tulo 8.
 LaTeX Info: Redefining \. on input line 227.
 LaTeX Info: Redefining \% on input line 227.
-[19] [20
+[23] [24
 
 ]
 Cap\'{\i }tulo 9.
 LaTeX Info: Redefining \. on input line 234.
 LaTeX Info: Redefining \% on input line 234.
-[21] [22
+[25] [26
 
 ]
 Cap\'{\i }tulo 10.
 LaTeX Info: Redefining \. on input line 252.
 LaTeX Info: Redefining \% on input line 252.
-[23]
+[27]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\begingroup' on input line 254.
@@ -2841,7 +2893,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 254.
 
-[24
+[28
 
 
 ]
@@ -2858,7 +2910,7 @@ LaTeX Font Info:    Font shape `T1/LibertinusMono-TLF/m/n' will be
 (Font)              scaled to size 9.30756pt on input line 263.
 LaTeX Info: Redefining \. on input line 285.
 LaTeX Info: Redefining \% on input line 285.
-[25] (Plantilla-Libro_Historia1_2023.aux
+[29] (Plantilla-Libro_Historia1_2023.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
@@ -2866,27 +2918,27 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `Plantilla-Libro_Historia1_2023.out' has not 
 changed.
-(rerunfilecheck)             Checksum: 143AD015DDBBBA2221C7AA66CCEEFF1C;3094.
+(rerunfilecheck)             Checksum: E39932E3D1964186B231EBFDC1C029A1;3751.
  )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 134 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 51656 strings out of 478351
- 1048785 string characters out of 2836108
- 1712983 words of memory out of 3000000
- 68974 multiletter control sequences out of 15000+600000
- 708945 words of font info for 215 fonts, out of 8000000 for 9000
+ 54536 strings out of 478351
+ 1110333 string characters out of 2836108
+ 1701983 words of memory out of 3000000
+ 71838 multiletter control sequences out of 15000+600000
+ 704247 words of font info for 208 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,18n,125p,986b,2281s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 105i,18n,125p,986b,2425s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips
-/base/8r.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/li
-bertinus-type1/lbts_mfadfl.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/
+/libertinus-type1/lbts_mfadfl.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKT
+eX/fonts/enc/dvips/base/8r.enc}{C:/Users/Roberto/AppData/Local/Programs/MiKTeX/
 fonts/enc/dvips/libertinus-type1/lbts_cb34qf.enc}{C:/Users/Roberto/AppData/Loca
 l/Programs/MiKTeX/fonts/enc/dvips/libertinus-type1/lbts_tll2u3.enc}{C:/Users/Ro
 berto/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/libertinus-type1/lbts_rlkts
@@ -2904,19 +2956,14 @@ fonts/type1/public/libertinus-type1/LibertinusSerif-Bold.pfb><C:/Users/Roberto/
 AppData/Local/Programs/MiKTeX/fonts/type1/public/libertinus-type1/LibertinusSer
 if-Italic.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/libertinus-type1/LibertinusSerif-Regular.pfb><C:/Users/Roberto/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Roberto/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/R
-oberto/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-<C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a
-.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/u
-agk8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
-tic/uhvr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/
-times/utmr8a.pfb><C:/Users/Roberto/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on Plantilla-Libro_Historia1_2023.pdf (34 pages, 1339642 bytes).
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Roberto/App
+Data/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/Robert
+o/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/R
+oberto/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Plantilla-Libro_Historia1_2023.pdf (38 pages, 1387193 bytes).
 
 PDF statistics:
- 603 PDF objects out of 1000 (max. 8388607)
- 71 named destinations out of 1000 (max. 500000)
- 354 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 629 PDF objects out of 1000 (max. 8388607)
+ 86 named destinations out of 1000 (max. 500000)
+ 371 words of extra memory for PDF output out of 10000 (max. 10000000)
 
