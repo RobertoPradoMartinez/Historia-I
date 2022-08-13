@@ -515,17 +515,18 @@ Edition)\string}\string{(Author)\string}\newline en el inicio del documento.\vru
 %
 % Numeración de las secciones -- en el margen
 % -------------------------------------------
-
+% tamaños de seccións e subseccións:
 \makeatletter
 \renewcommand{\@seccntformat}[1]{\llap{\textcolor{verdeF}{\csname the#1\endcsname}\hspace{1em}}}                    
 \renewcommand{\section}{\@startsection{section}{1}{\z@}
 {-4ex \@plus -1ex \@minus -.4ex}
 {1ex \@plus.2ex }
-{\color{azulF}\normalfont\huge\sffamily\bfseries}}
+{\color{azulF}\normalfont\huge\sffamily\bfseries}} % Roberto
+%{\color{azulF}\normalfont\huge\sffamily\bfseries}}
 \renewcommand{\subsection}{\@startsection {subsection}{2}{\z@}
 {-3ex \@plus -0.1ex \@minus -.4ex}
 {0.5ex \@plus.2ex }
-{\normalfont\sffamily\bfseries}}
+{\normalfont\Large\sffamily\bfseries}}
 \renewcommand{\subsubsection}{\@startsection {subsubsection}{3}{\z@}
 {-2ex \@plus -0.1ex \@minus -.2ex}
 {0.2ex \@plus.2ex }
