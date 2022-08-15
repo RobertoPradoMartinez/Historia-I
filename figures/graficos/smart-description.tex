@@ -1,0 +1,27 @@
+% A descriptive diagram of TikZ tasks
+% Author: Stefan Kottwitz
+% https://www.packtpub.com/hardware-and-creative/latex-cookbook
+\documentclass[border=10pt]{standalone} 
+%%%<
+\usepackage{verbatim}
+%%%>
+\begin{comment}
+:Title: A descriptive diagram of TikZ tasks
+:Tags: Diagrams;Smartdiagram;Cookbook
+:Author: Stefan Kottwitz
+:Slug: smart-description
+
+A diagram showing various TikZ drawing tasks, using the
+smartdiagram package.
+\end{comment}
+\usepackage{smartdiagram}
+\begin{document}
+\smartdiagram[descriptive diagram]{
+  {Style,{Define shapes, colors, shading,
+          and line styles for nodes and arrows}},
+  {Position, {Place nodes using a matrix,
+              relative or absolute positioning}},
+  {Relation, Insert edges or arrows
+             between selected nodes},
+  {Label, Add labels on edges or arrows}}
+\end{document}
