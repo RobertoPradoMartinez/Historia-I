@@ -1,0 +1,97 @@
+%
+% ARTE DINÁMICA VS. ARTE ESTÁTICA
+% -------------------------------
+Trátase dunha arte con un alto grao de abstracción, superior ao das demáis; é unha arte dinámica que se desenvolve no tempo e pervive con el e polo tanto é unha arte viva.
+
+% TODO: Crear esquema e incluir;
+\bigskip
+\begin{center}
+\begin{tikzpicture}[
+	scale=1,
+	start chain=1 going below, 
+	start chain=2 going right,
+	node distance=1mm,
+	desc/.style={
+		scale=1,
+		on chain=2,
+		rectangle,
+		rounded corners,
+		draw=black, 
+		very thick,
+		text centered,
+		text width=8cm,
+		minimum height=12mm,
+		fill=azulF
+		},
+	it/.style={
+		fill=grisamarillo
+	},
+	level/.style={
+		scale=1,
+		on chain=1,
+		minimum height=10mm,
+		text width=4cm,
+		text centered
+	},
+	every node/.style={font=\sffamily}
+]
+
+% Levels
+\node [level] (Level 5) {Artes estáticas};
+\node [level] (Level 4) {Artes dinámicas};
+%\node [level] (Level 3) {Level 3};
+%\node [level] (Level 2) {Level 2};
+%\node [level] (Level 1.5) { };
+%\node [level] (Level 1) {Level 1};
+%\node [level] (Level 0) {Level 0};
+
+% Descriptions
+\chainin (Level 5); % Start right of Level 5
+% IT levels
+\node [desc, it] (Archives) {Pintura, Escultura e Arquitectura};
+\node [desc, it, continue chain=going below] (ERP) {Poesía, Danza, Música e Cine};
+% ICS levels
+%\node [desc] (Operations) {Operations Management/Historians};
+%\node [desc] (Supervisory) {Supervisory Controls};
+%\node [desc, text width=3.5cm, xshift=2.25cm] (PLC) {PLC/RTU IP Communication};
+%\node [desc, text width=3.5cm, xshift=-4.5cm] (SIS) {Safety Instrumented Systems};
+%\node [desc, xshift=2.25cm] (IO) {I/O from Sensors};
+\end{tikzpicture}
+\end{center}
+\bigskip
+
+
+% --- Esquema artes estáticas vs. dinámicas
+%\bigskip
+%
+% \schema % Esquema artes estáticas 
+%  {
+%  \schemabox{Artes estáticas}
+%  }
+%  {
+%  \schemabox{Pintura \\ Escultura \\ Arquitectura}
+%  }
+%  
+%
+%\schema % Esquema artes estáticas 
+%  {
+%  \schemabox{Artes dinámicas}
+%  }
+%  {
+%  \schemabox{Poesía \\ Danza \\ Música \\ Cine}
+%  }
+%
+%\bigskip
+% ---
+
+A diferencia das artes estáticas, que ocupan un espazo físico, a música existe co devir do tempo. Para chegar a apreciala, é preciso ter certos coñecementos específicos complexos que permitan comprender plenamente a súa realidade científica.
+
+O xeito en que nos chega a <<obra de arte>> difire entre as artes estáticas e as dinámicas. A obra de arte estática, permanece no tempo ao igual que a dinámica; para que a obra de arte musical chegue a nós é preciso que sexa interpretada e a idea coa que se crea, revive con cada interpretación. 
+
+\begin{quote}
+    {\small
+    Entre a obra dun pintor ...
+    }
+\end{quote}
+
+

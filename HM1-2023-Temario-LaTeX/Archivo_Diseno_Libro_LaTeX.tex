@@ -60,7 +60,8 @@
 \usepackage{tikz,tkz-tab}   % Caixas para exemplos, teoremas, etc.
 %listings para código en color en tcbcolor
 \usetikzlibrary{matrix,arrows,
-positioning,shadows,shadings,backgrounds,calc, shapes, tikzmark}%
+positioning,shadows,shadings,backgrounds,calc,shapes,tikzmark, chains}%
+%\usetikzlibrary{chains}
 \usepackage{tcolorbox, empheq} 
  % Librerías tcolorbox
 \tcbuselibrary{skins,breakable,listings,theorems} 
@@ -98,16 +99,18 @@ captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
 \usepackage{sidenotes} % notas á marxe
 \usepackage[b]{esvect}
 \usepackage{rotating}
-%\usepackage{float}
+%\usepackage{float} % control de gráficos ==> da erro
 \usepackage{floatrow}
 \usepackage[shortlabels]{enumitem}
 \usepackage{subfigure}
-\usepackage{wrapfig}
+%\usepackage{wrapfig}
 \usepackage{floatflt}
 \usepackage{kantlipsum} %\kant[1-13]
 \usepackage{marvosym} % parecido emoticonos
-%\usepackage{schemata} % entornos gráficos con chaves
+\usepackage{schemata} % entornos gráficos con chaves
 \usepackage{smartdiagram} % diagramas con Tikz
+%\usepackage{wrapfig} % imaxes á beira --> DA ERRO
+%\usepackage[rflt]{floatflt} % texto rodeando imaxes --> DA ERRO
 %
 %   ---------   Notas á marxe       ----------
 %   
