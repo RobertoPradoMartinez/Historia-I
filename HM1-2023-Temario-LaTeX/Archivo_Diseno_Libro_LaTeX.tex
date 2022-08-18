@@ -28,7 +28,7 @@
 \usepackage[full]{textcomp}                        % Caracteres especiales como ' (recto)
 \usepackage{xcolor}                                % Color: X11names (en el documentclass)
 %\usepackage{subcaption} % figuras anidadas
-%\usepackage{wrapfig} % figuras en columnas
+\usepackage{wrapfig} % figuras en columnas
 
 %   ---------   CORES personalizadas   ---------   
 %
@@ -116,13 +116,13 @@ captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
 %   ---------   Notas á marxe       ----------
 %   
 \renewcommand{\sidenote}[1]{% \sidenote{<side note>}
-  \mbox{\textsuperscript{\arabic{sidenote}}}%
+  \mbox{\textsuperscript{\roman{sidenote}}}%
   \marginpar{
   \footnotesize
 %  \raggedright % alineación izquierda
   \strut
   \mbox{
-  \textsuperscript{\arabic{sidenote}}}
+  \textsuperscript{\roman{sidenote}}}
   \refstepcounter{sidenote}  
   #1}%
 }
