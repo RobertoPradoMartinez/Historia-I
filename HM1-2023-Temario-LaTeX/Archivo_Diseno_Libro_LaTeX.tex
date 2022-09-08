@@ -28,7 +28,7 @@
 \usepackage[full]{textcomp}                        % Caracteres especiales como ' (recto)
 \usepackage{xcolor}                                % Color: X11names (en el documentclass)
 %\usepackage{subcaption} % figuras anidadas
-%\usepackage{wrapfig} % figuras en columnas
+\usepackage{wrapfig} % figuras en columnas
 
 %   ---------   CORES personalizadas   ---------   
 %
@@ -54,13 +54,15 @@
 %
 %   ---------   Fin definición de cores    ---------
 %
+\usepackage{pdfpages} % para incluir pdfs
 \usepackage{psboxit}
 \usepackage{pstricks}
 \usepackage{xparse}
 \usepackage{tikz,tkz-tab}   % Caixas para exemplos, teoremas, etc.
 %listings para código en color en tcbcolor
 \usetikzlibrary{matrix,arrows,
-positioning,shadows,shadings,backgrounds,calc, shapes, tikzmark}%
+positioning,shadows,shadings,backgrounds,calc,shapes,tikzmark, chains}%
+%\usetikzlibrary{chains}
 \usepackage{tcolorbox, empheq} 
  % Librerías tcolorbox
 \tcbuselibrary{skins,breakable,listings,theorems} 
@@ -94,16 +96,37 @@ captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
 %\usepackage{pagecolor}
 \usepackage[textwidth=2cm]{todonotes} 
 \usepackage{booktabs}
-\usepackage{marginnote}
+\usepackage[fulladjust]{marginnote} % notas á marxe
+\usepackage{sidenotes} % notas á marxe
 \usepackage[b]{esvect}
 \usepackage{rotating}
-%\usepackage{float}
+%\usepackage{float} % control de gráficos ==> da erro
 \usepackage{floatrow}
 \usepackage[shortlabels]{enumitem}
 \usepackage{subfigure}
-\usepackage{wrapfig}
+%\usepackage{wrapfig}
 \usepackage{floatflt}
- \usepackage{kantlipsum} %\kant[1-13]
+\usepackage{kantlipsum} %\kant[1-13]
+\usepackage{marvosym} % parecido emoticonos
+\usepackage{schemata} % entornos gráficos con chaves
+\usepackage{smartdiagram} % diagramas con Tikz
+%\usepackage{wrapfig} % imaxes á beira --> DA ERRO
+%\usepackage[rflt]{floatflt} % texto rodeando imaxes --> DA ERRO
+%
+%   ---------   Notas á marxe       ----------
+%   
+\renewcommand{\sidenote}[1]{% \sidenote{<side note>}
+  \mbox{\textsuperscript{\roman{sidenote}}}%
+  \marginpar{
+  \footnotesize
+%  \raggedright % alineación izquierda
+  \strut
+  \mbox{
+  \textsuperscript{\roman{sidenote}}}
+  \refstepcounter{sidenote}  
+  #1}%
+}
+\setlength{\marginparwidth}{1.0in} % ancho da nota
 
 %   ---------   Personalización de textos    ---------
 %   Opción en Galego.-
@@ -498,17 +521,18 @@ Edition)\string}\string{(Author)\string}\newline en el inicio del documento.\vru
 %
 % Numeración de las secciones -- en el margen
 % -------------------------------------------
-
+% tamaños de seccións e subseccións:
 \makeatletter
 \renewcommand{\@seccntformat}[1]{\llap{\textcolor{verdeF}{\csname the#1\endcsname}\hspace{1em}}}                    
 \renewcommand{\section}{\@startsection{section}{1}{\z@}
 {-4ex \@plus -1ex \@minus -.4ex}
 {1ex \@plus.2ex }
-{\color{azulF}\normalfont\huge\sffamily\bfseries}}
+{\color{azulF}\normalfont\huge\sffamily\bfseries}} % Roberto
+%{\color{azulF}\normalfont\huge\sffamily\bfseries}}
 \renewcommand{\subsection}{\@startsection {subsection}{2}{\z@}
 {-3ex \@plus -0.1ex \@minus -.4ex}
 {0.5ex \@plus.2ex }
-{\normalfont\sffamily\bfseries}}
+{\normalfont\Large\sffamily\bfseries}}
 \renewcommand{\subsubsection}{\@startsection {subsubsection}{3}{\z@}
 {-2ex \@plus -0.1ex \@minus -.2ex}
 {0.2ex \@plus.2ex }
@@ -540,9 +564,14 @@ Edition)\string}\string{(Author)\string}\newline en el inicio del documento.\vru
 %   \begin{ejemplo}[de tal]
 %   \begin{ejemplo}[][ref]
 %
-%   TEXTO:   
+%   TEXTO: con recadro gris   
 %   \begin{texto}
 %   \begin{texto}[de tal]
+%
+%   TEXTO: lectura de fontes   
+%   \begin{texto}
+%   \begin{texto}[de tal]
+%
 %   
 %   EXERCICIO:
 %   \begin{ejercicio}  
@@ -925,7 +954,98 @@ overlay last={\draw[color=gray!2,line width=0.2pt] (frame.north west)
  #2}{\end{wwcaja}\smallskip }
 % CAJA de comentario
 
-% Fin mis entornos---------------------------------------------------------------
+%
+% ---- ENTORNO PARCHE --> TEXTOS
+% uso: 
+%       \begin{parche}[texto]
+%        ×
+%       \end{parche}
+%
+\usetikzlibrary{decorations.pathmorphing,calc}
+\pgfmathsetseed{1} % To have predictable results
+% Define a background layer, in which the parchment shape is drawn
+\pgfdeclarelayer{background}
+\pgfsetlayers{background,main}
+
+% define styles for the normal border and the torn border
+\tikzset{
+  normal border/.style={orange!30!black!10, decorate, 
+     decoration={random steps, segment length=2.5cm, amplitude=.7mm}},
+  torn border/.style={orange!30!black!5, decorate, 
+     decoration={random steps, segment length=.5cm, amplitude=1.7mm}}}
+
+% Macro to draw the shape behind the text, when it fits completly in the
+% page
+\def\parchmentframe#1{
+\tikz{
+  \node[inner sep=2em] (A) {#1};  % Draw the text of the node
+  \begin{pgfonlayer}{background}  % Draw the shape behind
+  \fill[normal border] 
+        (A.south east) -- (A.south west) -- 
+        (A.north west) -- (A.north east) -- cycle;
+  \end{pgfonlayer}}}
+
+% Macro to draw the shape, when the text will continue in next page
+\def\parchmentframetop#1{
+\tikz{
+  \node[inner sep=2em] (A) {#1};    % Draw the text of the node
+  \begin{pgfonlayer}{background}    
+  \fill[normal border]              % Draw the ``complete shape'' behind
+        (A.south east) -- (A.south west) -- 
+        (A.north west) -- (A.north east) -- cycle;
+  \fill[torn border]                % Add the torn lower border
+        ($(A.south east)-(0,.2)$) -- ($(A.south west)-(0,.2)$) -- 
+        ($(A.south west)+(0,.2)$) -- ($(A.south east)+(0,.2)$) -- cycle;
+  \end{pgfonlayer}}}
+
+% Macro to draw the shape, when the text continues from previous page
+\def\parchmentframebottom#1{
+\tikz{
+  \node[inner sep=2em] (A) {#1};   % Draw the text of the node
+  \begin{pgfonlayer}{background}   
+  \fill[normal border]             % Draw the ``complete shape'' behind
+        (A.south east) -- (A.south west) -- 
+        (A.north west) -- (A.north east) -- cycle;
+  \fill[torn border]               % Add the torn upper border
+        ($(A.north east)-(0,.2)$) -- ($(A.north west)-(0,.2)$) -- 
+        ($(A.north west)+(0,.2)$) -- ($(A.north east)+(0,.2)$) -- cycle;
+  \end{pgfonlayer}}}
+
+% Macro to draw the shape, when both the text continues from previous page
+% and it will continue in next page
+\def\parchmentframemiddle#1{
+\tikz{
+  \node[inner sep=2em] (A) {#1};   % Draw the text of the node
+  \begin{pgfonlayer}{background}   
+  \fill[normal border]             % Draw the ``complete shape'' behind
+        (A.south east) -- (A.south west) -- 
+        (A.north west) -- (A.north east) -- cycle;
+  \fill[torn border]               % Add the torn lower border
+        ($(A.south east)-(0,.2)$) -- ($(A.south west)-(0,.2)$) -- 
+        ($(A.south west)+(0,.2)$) -- ($(A.south east)+(0,.2)$) -- cycle;
+  \fill[torn border]               % Add the torn upper border
+        ($(A.north east)-(0,.2)$) -- ($(A.north west)-(0,.2)$) -- 
+        ($(A.north west)+(0,.2)$) -- ($(A.north east)+(0,.2)$) -- cycle;
+  \end{pgfonlayer}}}
+
+% Define the environment which puts the frame
+% In this case, the environment also accepts an argument with an optional
+% title (which defaults to ``Example'', which is typeset in a box overlaid
+% on the top border
+\newenvironment{parche}[1][Example]{%
+  \def\FrameCommand{\parchmentframe}%
+  \def\FirstFrameCommand{\parchmentframetop}%
+  \def\LastFrameCommand{\parchmentframebottom}%
+  \def\MidFrameCommand{\parchmentframemiddle}%
+  \vskip\baselineskip
+  \MakeFramed {\FrameRestore}
+  \noindent\tikz\node[inner sep=1ex, draw=black!20,fill=white, 
+          anchor=west, overlay] at (0em, 2em) {\sffamily#1};\par}%
+{\endMakeFramed}
+%
+% ---------------- fin entorno PARCHE ---
+
+%% Fin mis entornos---------------------------------------------------------------
 
 
 %-----------------------------------------------------------------------------
@@ -1217,6 +1337,8 @@ overlay last ={\draw[color=gray,line width=3pt] ([xshift=2pt] frame.north west)-
     \bigskip
 }
 %------------------- 
+
+
  
  
  

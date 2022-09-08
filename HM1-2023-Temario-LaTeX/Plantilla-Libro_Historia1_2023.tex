@@ -32,12 +32,23 @@
 % Tamaño e marxes do documento
 % ----------------------------
 %
-\usepackage[text={15cm,25cm},centering,headsep=20pt,top=0.8in, bottom = 0.8in,letterpaper,showframe=false]{geometry} 
+\usepackage[%text={15cm,25cm}
+            inner=4.0cm,            % marxe interior
+            outer=4.0cm,            % marxe exterior
+            centering,              % centrado
+            headsep=20pt,           % distancia encabezados
+            top=1.0in,              % marxe superior
+            bottom=1.0in,           % marxe inferior
+            marginparwidth=1.0in,   % ancho nota á marxe
+            marginparsep=2.5mm,     % separación nota
+            twoside=true,           % dúas caras
+            letterpaper,            % tamaño carta
+            showframe=false]{geometry} 
 %
 % Cargarmos o arquivo de configuración externo: paquetes e deseño
 % ---------------------------------------------------------------
 %\input{Archivo_Diseno_Libro_LaTeX-backup.tex} % orixinal
-\input{Archivo_Diseno_Libro_LaTeX.tex} % fallo nas seccións
+\input{Archivo_Diseno_Libro_LaTeX.tex} %
 %
 %
 \definecolor{styrmitcrwcgray1}{rgb}{0.2,0.2,0.2}
@@ -46,15 +57,20 @@
 %
 \usepackage{makeidx}
 \makeindex
-%\usepackage{fourier} % Fonte de texto
 \usepackage{pdfpages} % Insertar  páginas .pdf
 %\usepackage{lipsum}
 %
-% Tipografía - modificada:
-% ------------------------
-% Modificamos o tipo de letra por defecto a Libertine de Linux, porque é moito máis vistosa.
+% Tipografía:
+% -----------
+% Selecciona o que sexa
 %
+%\usepackage{bookman} %
+%\usepackage{fourier} % Fonte de texto
 \usepackage{libertinus} % Fonte LIBERTINE Linux
+%\usepackage{cochineal} % Editorial Akal
+%\usepackage[lf]{venturis} %
+%\usepackage{venturis} %
+\usepackage[T1]{fontenc}
 %
 %% ----------------- MAQUETACIÓN DO LIBRO ------------------- %%
 %
@@ -143,80 +159,99 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 \pagenumbering{arabic} % numeración arábiga
 \setcounter{page}{1} % contador de páxina
 % 
-% Capítulo 1: Título do Capítulo - Tema
+% Capítulo 1: Introducción - Prehistoria e Mundo antigo 
+% =====================================================
+
+\chapter{Introducción e conceptos previos} 
+\label{chap:intro-prehistoria}
+
+\input{../unidades-didacticas/unidade-00/Tema-01.tex}
+
+% Capítulo 2: A música en Grecia e roma
 % =====================================
 
-\chapter{Introducción}
-%
-\input{../unidades-didacticas/unidade-00/Tema-01.tex}
-%
-% Capítulo 2: Título do Capítulo - Tema
-% -------------------------------------
-% TODO: IncluIr o tema como externo
-\chapter{Tema 2}
-
-Imos ver ...
+\chapter{A música en Grecia e Roma}
+\label{chap:grecia-roma}
 
 \input{../unidades-didacticas/unidade-00/xeneros.tex}
 
-%\include{capitulos/exemplos/exemplo.txt}
+% Capítulo 3: A idade media. Monodia relixiosa
+% ============================================
 
-%%\input{AccionesSesionLaTeX.tex}
-
-%
-% Capítulo 3: Título do Capítulo - Tema
-% -------------------------------------
-% TODO: IncluIr o tema como externo
 % \clearpage
-\chapter{Tema 3}
+\chapter{Monodia relixiosa medieval}
+\label{chap:monodia-relixiosa}
 
 %\input{../capitulos/exemplos/exemplo.txt}
 
-%%\input{EscrituraTextoNormal.tex}
-
 %
-% Capítulo 4: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 4}\label{textomatematico}
+% Capítulo 4: A idade media: monodia profana medieval
+% ===================================================
+
+\chapter{A monodia profana medieval}
+\label{chap:monodia-profana}
 
 % \clearpage
 %%\input{TextoModoMatematico.tex}
+
+% ---------- Segundo trimestre ----------
 %
-% Capítulo 5: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 5}
+% Capítulo 5: Os inicios da polifonía: Notre Dame
+% ===============================================
+
+\chapter{Os inicios da polifonía}
+\label{chap:inicios-polifonia}
+
 % \clearpage
 %%\input{Tablas.tex}
 %
-% Capítulo 6: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 6}
+
+% Capítulo 6: Ars antiqua
+% =======================
+
+\chapter{A música da \emph{Ars antiqua}}
+\label{chap:ars-antiqua}
+
 % \clearpage
 %\input{aInsertarFiguras.tex}
 % 
-% Capítulo 7: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 7}
+% Capítulo 7: Ars nova: transición ao Renacemento
+% ================================================
+
+\chapter{A música da \emph{Ars nova}}
+\label{chap:ars-nova}
+
 % \clearpage
 %\input{edicionFiguras.tex}
 % 
-% Capítulo 8: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 8}
+% ---------- Terceiro trimestre ----------
+%
+% Capítulo 8: O século XV: O Renacemento
+% ======================================
+
+\chapter{A música no século {\scriptsize XV}}
+\label{chap:renacemento-XV}
+
 % \clearpage
 %%\input{HacerBibliografia.tex}
 % 
 %
-% Capítulo 9: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 9}
+% Capítulo 9: O século XVI: Renacemento II
+% ========================================
+
+\chapter{O século {\scriptsize XVI}}
+\label{chap:renacemento-XVI}
+
 % \clearpage
 %%\input{DisenoEditorial.tex}
 % 
 %
-% Capítulo 10: Título do Capítulo - Tema
-% -------------------------------------
-\chapter{Tema 10}\label{tema10}
+% Capítulo 10: O século XVII: Inicios do Barroco
+% ==============================================
+
+\chapter{Os inicios do Barroco}
+\label{chap:inicios-barroco}
+
 % \clearpage
 %%\input{cajas.tex}
 %
@@ -240,12 +275,11 @@ Imos ver ...
 
 \begin{thebibliography}{AAAAAA}
     
-    \bibitem[Grout 2021]{Grout} Grout, Donald J. "{\it Historia de La Musica Occidental 1}". Alianza. 2001.\\
+\bibitem{Grout} Grout, Donald J. "{\it Historia de La Musica Occidental 1}". Alianza. 2001.\\
   
-  \bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
+\bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
   
-  \bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}.
-  En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
+\bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}. En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
   
 
 

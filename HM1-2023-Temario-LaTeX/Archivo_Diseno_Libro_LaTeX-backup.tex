@@ -28,6 +28,7 @@
 \usepackage[full]{textcomp}                        % Caracteres especiales como ' (recto)
 \usepackage{xcolor}                                % Color: X11names (en el documentclass)
 %\usepackage{subcaption} % figuras anidadas
+%\usepackage{wrapfig} % figuras en columnas
 
 %   ---------   CORES personalizadas   ---------   
 %
@@ -93,7 +94,8 @@ captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
 %\usepackage{pagecolor}
 \usepackage[textwidth=2cm]{todonotes} 
 \usepackage{booktabs}
-\usepackage{marginnote}
+\usepackage{marginnote} % notas á marxe
+\usepackage{sidenotes} % notas á marxe
 \usepackage[b]{esvect}
 \usepackage{rotating}
 %\usepackage{float}
@@ -102,7 +104,24 @@ captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
 \usepackage{subfigure}
 \usepackage{wrapfig}
 \usepackage{floatflt}
- \usepackage{kantlipsum} %\kant[1-13]
+\usepackage{kantlipsum} %\kant[1-13]
+%
+%   ---------   Notas á marxe       ----------
+%   
+\renewcommand{\sidenote}[1]{% \sidenote{<side note>}
+  \mbox{\textsuperscript{\arabic{sidenote}}}%
+  \marginpar{
+  \footnotesize
+%  \raggedright % alineación izquierda
+  \strut
+  \mbox{
+  \textsuperscript{\arabic{sidenote}}}
+  \refstepcounter{sidenote}  
+  #1}%
+}
+\setlength{\marginparwidth}{1.0in} % ancho da nota
+% 
+%
 
 %   ---------   Personalización de textos    ---------
 %   Opción en Galego.-
@@ -578,6 +597,15 @@ Edition)\string}\string{(Author)\string}\newline en el inicio del documento.\vru
          rectangle,  top color=white, bottom color=white,
          text=azulF,inner sep=1mm,anchor=west,font=\small\bf\sffamily}      
 }
+
+%   Entorno: FIGURAS
+%   ----------------
+% Para incluir figuras en columnas
+%
+\newenvironment{Figura} % 
+  {\par\medskip\noindent\minipage{\linewidth}}
+  {\endminipage\par\medskip}
+%   
 %   Entorno: AUDICIÓNS
 %   ------------------
 %   Para usar este entorno:
@@ -1207,6 +1235,8 @@ overlay last ={\draw[color=gray,line width=3pt] ([xshift=2pt] frame.north west)-
     \bigskip
 }
 %------------------- 
+
+
  
  
  
