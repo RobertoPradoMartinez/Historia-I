@@ -1,4 +1,4 @@
-\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}
 \contentsline {schapter}{\begingroup \setlength \skip@ {30pt}\vskip \skip@ \endgroup \large \sc \bfseries Pr\'ologo \'a edici\'on \hfill \color {azulF} }{\es@scroman {vii}}{chapter*.2}%
 \contentsline {chapter}{\numberline {1}Introducci\'on e conceptos previos}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}A m\'usica: concepto e orixe}{2}{section.1.1}%
