@@ -10,6 +10,8 @@ Estes apuntes de Historia da Música están orientados para centros que imparten
 
 Os apuntes están redactados íntegramente en `markdown`empregando o IDE `RStudio` dacordo co modelo `oxthesis`.
 
+Unha edición recente para o curso 2022/2023 en `LaTeX`, atópase na carpeta `HM1-2023-Temario-LaTeX` na que se definen entrnos máis personalizados para impresión pdf. 
+
 Están estruturados seguindo como referencia básica a Programación didáctica de Historia da Música do CMUS de Viveiro, tendo en conta igualmente as diferentes programacións de Historia da Música dos CMUS de Ourense e Pontevedra.
 
 ## Estrutura principal

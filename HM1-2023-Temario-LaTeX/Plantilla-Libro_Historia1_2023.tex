@@ -76,11 +76,14 @@
 %
 \begin{document}
 %
-% PORTADA
+% TODO: PORTADA
 % =======
-%TODO: Crear a portada
-\includepdf[pages=-]{images/Portada}
-\pagenumbering{roman}
+% --- (Oculta ata rematar a edición do libro) ---
+%
+%\includepdf[pages=-]{images/Portada}
+%\pagenumbering{roman}
+%
+% --- Fin da portada ---
 %
 % Cor de páxina:
 % --------------
@@ -90,75 +93,91 @@
 %\parindent=0mm % Sen sangría
 \setlength{\parskip}{2pt plus 1pt} % con sangría
 %
-% SEGUNDA PORTADA / PORTADA INTERIOR
+% TODO: SEGUNDA PORTADA / PORTADA INTERIOR
 % ==================================
-\pagestyle{empty} % limpamos a páxina
-\input{../templates/portada-2.tex}
 %
-% ---------------------------------------------------
-\clearpage % limpamos a páxina
-% TODO: Crear a páxina de copyright
-\begin{copyrightpage}{% 
-   Revista digital Matemática Educación e Internet (www.tec-digital.itcr.ac.cr/revistamatematica/). 
-   Correo Electrónico: \url{wmora2@itcr.ac.cr}
-   Escuela de Matemática
-   Instituto Tecnológico de Costa Rica
-   Apdo. 159-7050, Cartago
-   Teléfono (506)25502225
-   Fax (506)25502493}%
-Mora Flores, Walter.
-\    Edición de Textos Científicos con \LaTeX. Composición, Gráficos, Inkscape y Presentaciones Beamer/Walter Mora F.
-\ Alexánder Borbón A. -- 3ra ed.
-\ -- Escuela de Matemática,Instituto Tecnológico de Costa Rica.  2010.
-\    xxx p.
-\ ISBN 978-9977-66-227-5
-\    1. TeX.  2. Composición tipográfica-automatizada 3. Tipos - símbolos matemáticos.\\     
-\end{copyrightpage}
-~\vfill
+% --- (Oculta ata rematar a edición do libro) ---
+%
+%\pagestyle{empty} % limpamos a páxina
+%\input{../templates/portada-2.tex}
+%
+% --- Fin segunda portada ---
+%\clearpage % limpamos a páxina
+%
+% TODO: COPYLEFT E DEREITOS DE AUTOR
+% ==================================
+% 
+% --- (Oculta ata rematar a edición do libro) ---
+%\begin{copyrightpage}{% 
+%   Revista digital Matemática Educación e Internet (www.tec-digital.itcr.ac.cr/revistamatematica/). 
+%   Correo Electrónico: \url{wmora2@itcr.ac.cr}
+%   Escuela de Matemática
+%   Instituto Tecnológico de Costa Rica
+%   Apdo. 159-7050, Cartago
+%   Teléfono (506)25502225
+%   Fax (506)25502493}%
+%Mora Flores, Walter.
+%\    Edición de Textos Científicos con \LaTeX. Composición, Gráficos, Inkscape y Presentaciones Beamer/Walter Mora F.
+%\ Alexánder Borbón A. -- 3ra ed.
+%\ -- Escuela de Matemática,Instituto Tecnológico de Costa Rica.  2010.
+%\    xxx p.
+%\ ISBN 978-9977-66-227-5
+%\    1. TeX.  2. Composición tipográfica-automatizada 3. Tipos - símbolos matemáticos.\\     
+%\end{copyrightpage}
+%~\vfill
 %\thispagestyle{empty}
-
-\noindent 
-\parbox[s]{0.35\textwidth}{Licencia.}\parbox[c]{0.65\textwidth}{
- \color{gray}
- \fhv{9}{Proxecto:}\\
- \fhvb{10}{Achégate á Historia da Música}\\
+%
+%\noindent 
+%\parbox[s]{0.35\textwidth}{Licencia.}\parbox[c]{0.65\textwidth}{
+% \color{gray}
+% \fhv{9}{Proxecto:}\\
+% \fhvb{10}{Achégate á Historia da Música}\\
 %  \fntg[pag][9]{%
 % TODO: Referencia á web do centro para descarga ou repositorio
   %  \href{http://www.tec-digital.itcr.ac.cr/revistamatematica/}{http://www.tec-digital.itcr.ac.cr/revistamatematica/.}}
- }\\\\ % 
+% }\\\\ % 
 
 %\noindent {\color{colordominante} Photos by}: Viviana Loaiza. Parque Nacional Chirripó, Costa Rica.\\
 
 % TODO: Revisar a distribución do libro.
-\includegraphics[scale=0.7]{images/logocc}
-\noindent  {{\fontsize{9}{1} \selectfont Este libro distribúese baixo unha licenza Creative Commons: Atribución-NoComercial-SinDerivadas CC BY-NC-ND (a licenza). Autorízase o seu uso segundo os dereitos que otorga a licenza. Para ver a licenza: \url{http://creativecommons.org/licenses/by-nc-nd/3.0/}.\\
-En particular, esta licenza permite a copia e distribución gratuita, pero non permite a venda nin modificación sen autorización deste material. \\
-Límite de responsabilidade e exención de garantía: O autor ou autores poñen todo o seu esforzo e bo facer na elaboración deste material. Esta edición, proporciónase ``tal cual''. Distribúese de xeito gratuito coa esperanza de que sexa útil.\\
-O libro e tódolos materiais complementarios, forman parte dun proxecto de divulgación electrónica libre.}\\
+%\includegraphics[scale=0.7]{images/logocc}
+%\noindent  {{\fontsize{9}{1} \selectfont Este libro distribúese baixo unha licenza Creative Commons: Atribución-NoComercial-SinDerivadas CC BY-NC-ND (a licenza). Autorízase o seu uso segundo os dereitos que otorga a licenza. Para ver a licenza: \url{http://creativecommons.org/licenses/by-nc-nd/3.0/}.\\
+%En particular, esta licenza permite a copia e distribución gratuita, pero non permite a venda nin modificación sen autorización deste material. \\
+%Límite de responsabilidade e exención de garantía: O autor ou autores poñen todo o seu esforzo e bo facer na elaboración deste material. Esta edición, proporciónase ``tal cual''. Distribúese de xeito gratuito coa esperanza de que sexa útil.\\
+%O libro e tódolos materiais complementarios, forman parte dun proxecto de divulgación electrónica libre.}\\
   
   
 % --- Índice xeral ---
 %
 \tableofcontents
 
-% Prólogo á edición 
+% TODO: Prólogo á edición 
 % =================
+%
+% --- (Oculta ata rematar a edición do libro) ---
 % TODO: Importar o prologo desde un aquivo de texto
-\begin{prologo}
-\thispagestyle{empty}
-Espazo para redactar o prólogo á edición e unha breve presentación e/ou introducción.\\
+%
+%\begin{prologo}
+%\thispagestyle{empty}
+%Espazo para redactar o prólogo á edición e unha breve presentación e/ou introducción.\\
 
- ...\\
+% ...\\
     
-\textit{Viveiro, 2022.} \hfill{\sc R. Prado}
-\end{prologo}
-
+%\textit{Viveiro, 2022.} \hfill{\sc R. Prado}
+%\end{prologo}
+%
+% --- Fin do prólogo ---
 
 \cleardoublepage % limpamos a páxina
 \pagestyle{fancy} % Habilitar encabezados
 \pagenumbering{arabic} % numeración arábiga
 \setcounter{page}{1} % contador de páxina
-% 
+%% --------------------------------------
+%% TODO: Descomentar os capítulos
+%% 
+%% Segundo se vaian completando os diferentes temas
+%% -------------------------------------- 
+%
 % Capítulo 1: Introducción - Prehistoria e Mundo antigo 
 % =====================================================
 
@@ -169,27 +188,27 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 
 % Capítulo 2: A música en Grecia e roma
 % =====================================
-
-\chapter{A música en Grecia e Roma}
-\label{chap:grecia-roma}
-
-\input{../unidades-didacticas/unidade-00/xeneros.tex}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{A música en Grecia e Roma}
+%\label{chap:grecia-roma}
+%
+%\input{../unidades-didacticas/unidade-00/xeneros.tex}
 
 % Capítulo 3: A idade media. Monodia relixiosa
 % ============================================
-
+% TODO: PENDIENTE DE ELABORACIÓN
 % \clearpage
-\chapter{Monodia relixiosa medieval}
-\label{chap:monodia-relixiosa}
+%\chapter{Monodia relixiosa medieval}
+%\label{chap:monodia-relixiosa}
 
 %\input{../capitulos/exemplos/exemplo.txt}
 
 %
 % Capítulo 4: A idade media: monodia profana medieval
 % ===================================================
-
-\chapter{A monodia profana medieval}
-\label{chap:monodia-profana}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{A monodia profana medieval}
+%\label{chap:monodia-profana}
 
 % \clearpage
 %%\input{TextoModoMatematico.tex}
@@ -198,9 +217,9 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 %
 % Capítulo 5: Os inicios da polifonía: Notre Dame
 % ===============================================
-
-\chapter{Os inicios da polifonía}
-\label{chap:inicios-polifonia}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{Os inicios da polifonía}
+%\label{chap:inicios-polifonia}
 
 % \clearpage
 %%\input{Tablas.tex}
@@ -208,18 +227,18 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 
 % Capítulo 6: Ars antiqua
 % =======================
-
-\chapter{A música da \emph{Ars antiqua}}
-\label{chap:ars-antiqua}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{A música da \emph{Ars antiqua}}
+%\label{chap:ars-antiqua}
 
 % \clearpage
 %\input{aInsertarFiguras.tex}
 % 
 % Capítulo 7: Ars nova: transición ao Renacemento
 % ================================================
-
-\chapter{A música da \emph{Ars nova}}
-\label{chap:ars-nova}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{A música da \emph{Ars nova}}
+%\label{chap:ars-nova}
 
 % \clearpage
 %\input{edicionFiguras.tex}
@@ -228,9 +247,9 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 %
 % Capítulo 8: O século XV: O Renacemento
 % ======================================
-
-\chapter{A música no século {\scriptsize XV}}
-\label{chap:renacemento-XV}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{A música no século {\scriptsize XV}}
+%\label{chap:renacemento-XV}
 
 % \clearpage
 %%\input{HacerBibliografia.tex}
@@ -238,9 +257,9 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 %
 % Capítulo 9: O século XVI: Renacemento II
 % ========================================
-
-\chapter{O século {\scriptsize XVI}}
-\label{chap:renacemento-XVI}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{O século {\scriptsize XVI}}
+%\label{chap:renacemento-XVI}
 
 % \clearpage
 %%\input{DisenoEditorial.tex}
@@ -248,9 +267,9 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 %
 % Capítulo 10: O século XVII: Inicios do Barroco
 % ==============================================
-
-\chapter{Os inicios do Barroco}
-\label{chap:inicios-barroco}
+% TODO: PENDIENTE DE ELABORACIÓN
+%\chapter{Os inicios do Barroco}
+%\label{chap:inicios-barroco}
 
 % \clearpage
 %%\input{cajas.tex}
@@ -269,21 +288,20 @@ Espazo para redactar o prólogo á edición e unha breve presentación e/ou introduc
 % --------------
 % Bibliografía
 % --------------
-\clearpage
-\thispagestyle{empty}
-\addcontentsline{toc}{schapter}{\addvspace{30pt}\large\sc\bfseries Bibliografía \color{azulF}\hfill   }
-
-\begin{thebibliography}{AAAAAA}
-    
-\bibitem{Grout} Grout, Donald J. "{\it Historia de La Musica Occidental 1}". Alianza. 2001.\\
+% TODO: PENDIENTE DE ELABORACIÓN
+%\clearpage
+%\thispagestyle{empty}
+%\addcontentsline{toc}{schapter}{\addvspace{30pt}\large\sc\bfseries Bibliografía \color{azulF}\hfill   }
+%
+%\begin{thebibliography}{AAAAAA}
+%    
+%\bibitem{Grout} Grout, Donald J. "{\it Historia de La Musica Occidental 1}". Alianza. 2001.\\
   
-\bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
+%\bibitem{abbot} S. Abbot. "{\it Understanding Analysis}". Springer. 2000.\\
   
-\bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}. En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
+%\bibitem{Andrew} Andrew Mertz y  William Slough. {\it "Beamer by Example"}. En \url{http://www.tug.org/pracjourn/2005-4/mertz/mertz.pdf}
   
-
-
-\end{thebibliography}
+%\end{thebibliography}
 % \clearpage
 %\input{Bibliografia}
 % 
