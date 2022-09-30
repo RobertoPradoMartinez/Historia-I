@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Introducci\'on e conceptos previos}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}A m\'usica: concepto e orixe}{2}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Reflexi\'ons e perspectivas}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Teor\IeC {\'\i }as sobre a orixe}{5}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}As fontes de informaci\'on}{7}{section.1.2}%
+\contentsline {subsubsection}{CLASIFICACI\'ON E TIPOS}{7}{section*.2}%
+\contentsline {section}{\numberline {1.3}Os per\IeC {\'\i }odos da historia}{9}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Os instrumentos musicais: organolox\IeC {\'\i }a}{12}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}A clasificaci\'on moderna}{13}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}O patrimonio musical primixenio}{14}{section.1.5}%
+\contentsline {section}{\numberline {1.6}A obra de arte musical}{15}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Como escoitar a m\'usica}{16}{subsection.1.6.1}%
+\contentsfinish 
