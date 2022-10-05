@@ -904,6 +904,71 @@ overlay last={%barra vertical
  #3}{\end{wwejercicio}\smallskip }
 %   fin entorno: EXERCICIO
 
+%
+%   Entorno: LEMBRA
+%   ----------------
+%   Para usar este entorno:
+%   \begin{lembra}  o \begin{lembra}[o título] o \begin{lembra}[o título][ref]
+\newcounter{tcblembra}[chapter] % con numeración
+\renewcommand{\thetcblembra}{}
+%\renewcommand{\thetcblembra}{\thechapter.\arabic{tcblembra}}
+\colorlet{colorfondoejemplo}{gray!5}
+%\definecolor{colorejemplo}{rgb}{.0,.0,.3} % definido en ejemplo
+% Ejercicio
+\newtcolorbox{wwlembra}[3][]{%
+arc=0mm,
+breakable,drop fuzzy shadow,
+enhanced,
+colback=grisamarillo,
+boxrule=0pt,
+top=8mm, %Separación vertical - inicia texto
+enlarge top by=\baselineskip/2+1mm,
+enlarge top at break by=0mm,pad at break=2mm,
+fontupper=\normalsize,
+step and label={tcblembra}{#3},
+overlay unbroken={%barra vertical
+\draw[color=verdep,line width=3pt] ([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west);                            
+% Caja de imagen Ejercicio
+\node[rectangle, 
+         text=black, 
+         inner sep=1mm,anchor=west,font=\small\sffamily] at ([xshift=-14.3pt,yshift=-4.1mm]frame.north west)%
+{\includegraphics{images/nodolembra}\raisebox{0.5cm}{}};
+% Caja numeración y descripción
+\node[rectangle, 
+ text=black, 
+ inner sep=1mm,
+ anchor=west,
+ font=\normalsize] at ([xshift=1.1cm,yshift=-2.9mm]frame.north west)%
+ {\fhvb{10}{\;\thetcbejer \;\;\;#2}}; }, % overlay
+overlay first  = {%
+%barra vertical
+\draw[color=verdep,line width=3pt] ([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west);                            
+% Caja de imagen Lembra
+\node[rectangle, 
+         text=black, 
+         inner sep=1mm,anchor=west,font=\small\sffamily] at ([xshift=-14.3pt,yshift=-4.1mm]frame.north west)%
+{\includegraphics{images/nodolembra}\raisebox{0.5cm}{}};
+% Caja numeración y descripción
+\node[rectangle, 
+ text=black, 
+ inner sep=1mm,
+ anchor=west,
+ font=\normalsize] at ([xshift=1.1cm,yshift=-2.9mm]frame.north west)%
+ {\fhvb{10}{\;\thetcblembra \;\;\;#2}};
+ },%overlay first    
+%Borde cambio de páginas
+overlay middle={%barra vertical
+\draw[color=verdep,line width=3pt] ([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west); },
+overlay last={%barra vertical
+\draw[color=verdep,line width=3pt] ([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west); }
+#1}
+%-
+\NewDocumentEnvironment{lembra}{O{} O{} O{}}{\smallskip\begin{wwlembra}{#1}{#2}%
+ #3}{\end{wwlembra}\smallskip }
+%
+%   fin entorno: LEMBRA
+%
+
 
 %
 %   Entorno: COMENTARIO
