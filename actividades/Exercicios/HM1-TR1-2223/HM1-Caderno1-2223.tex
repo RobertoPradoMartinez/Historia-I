@@ -1,0 +1,121 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Preámbulo de LaTeX para o caderno de exercicios %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Clase de documento:
+\documentclass[a4papper,12pt,notitlepage,spanish]{article}
+%
+% Cargamos configuración
+% ----------------------
+% Seleccionar o idioma:
+\input{../../Modelos/include/config-HM1ejercicios_GAL.tex} % Galego
+%\input{../../Modelos/include/config-HM1ejercicios_ES.tex} % Castelán
+% --------------------------------
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{wrapfig}
+
+% Directorio raíz de imaxes por defecto:
+% --------------------------------------
+% As imaxes son as mesmas que se usan no temario, polo que están nas carpetas de unidades correspondentes:
+% P.Ex: /ud-00/figura.png
+
+\graphicspath{ {../../../figures/} } %
+%
+% INICIO DO DOCUMENTO
+% ===================
+
+\begin{document}
+% --------------------------------------------------
+% Cargamos os exercicios desde o Banco de Exercicios
+% -------------------------------------------------- 
+% 
+\hideanswers % oculta respostas
+%
+% Carga aquí os exercicios que correspondan a incluir na folla:
+% -------------------------------------------------------------
+\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
+\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex} %
+\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex} %
+\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex} %
+%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex} %
+%\loadrandomproblems[loops]{2}{loops}% aleatorios
+% -------------------------------------------------------------
+%
+% TÍTULO A FOLLA DE EXERCICIOS:
+%
+\begin{center}
+\Large{
+1º Trimestre
+} \\
+\vspace*{0.5cm}
+%
+% DATOS DO ALUMNADO:
+% -----------------
+\vspace{1.10cm}
+	\begin{flushleft}
+	Nome e Apelidos: \hrulefill\\
+	%\vspace*{0.50cm}
+%
+% INSTRUCCIÓNS:
+% ------------
+%		\begin{center}
+%		\small{Instrucciones para realizar los ejercicios}\\		
+%		\end{center}
+%	\hrulefill \\
+	%\vspace*{0.25cm}
+%
+%\small{ % INSTRUCCIONES:
+%\texttt{Lee con atención y realiza con detenimiento, los siguientes ejercicios teniendo en cuenta lo que se indica en cada uno. \\
+%}} % fin instrucciones.
+%
+	\vspace*{0.25cm}		
+ 	\end{flushleft}
+\end{center}
+\vspace*{1.10cm}
+%
+
+% ------------------------------------------  
+% EXERCICIOS.
+% ------------------------------------------
+%
+\begin{multicols}{2} % a 2 columnas
+    \begin{enumerate}
+%\useproblem{input}
+    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \end{enumerate}
+\end{multicols}
+%
+% SOLUCIONS:
+% ----------
+% Ocultas polo momento. Insertar ao final do caderno
+%
+%\newpage
+%\begin{multicols}{2}
+%\showanswers
+%\begin{itemize}
+%\foreachdataset{\thisdataset}{%
+%\foreachproblem[\thisdataset]{\item[\ref{prob:\thisproblemlabel}]\thisproblem}
+%}
+%\end{itemize}
+%\end{multicols}
+
+\input{../../Cuestions/Tema0-Perspectivas.tex}
+\newpage
+%
+% EXERCICIO 2.- Música na antigüidade clásica
+%
+\input{../../Cuestions/Tema0-Xenero-formas.tex}
+\newpage
+%
+% EXERCICIO 3.- Teoría musical
+%
+%\input{Exercicio3-Teoria-musical.tex}
+%\newpage
+
+\end{document}
+%Fin de Hoja de ejercicios
+%

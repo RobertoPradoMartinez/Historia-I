@@ -83,6 +83,24 @@
 \usepackage{mathdesign}
 \usepackage{bbding} 
 % --
+% --
+%   ---------   Personalización de textos    ---------
+%   Opción en Galego.-
+\addto\captionsspanish{
+\renewcommand{\contentsname}{Índice} 
+\renewcommand{\listfigurename}{Índice de ilustracións} 
+\renewcommand{\listtablename}{Índice de táboas} 
+\renewcommand{\bibname}{Bibliografía} 
+\renewcommand{\indexname}{Indice alfabético} 
+\renewcommand{\figurename}{Ilustración} 
+\renewcommand{\tablename}{Táboa} 
+%\renewcommand{\appendixname}{Anexo} 
+%\renewcommand{\abstractname}{Resumo}
+%\renewcommand{\partname}{BLOQUE} % Cambio Parte BLOQUE
+%\renewcommand{\chaptername}{TEMA} % Cambio CAPÍTULO por TEMA en mayúsculas %
+}
+%   ---------   Fin personalización de textos   ---------
+
 % Tipograía:
 % ----------
 % Fuente HEURÍSTICA (cómoda de leer)
@@ -172,18 +190,18 @@
 	\vspace*{0.08cm}}
 % texto de encabezado derecha:
 \rhead{
-	\normalfont{curso: 2021/2022}
+	\normalfont{curso: 2022/2023}
 	\vspace*{0.08cm}}
 %
 % texto pié izquierdo:
 %\lfoot{
-	%\begin{center}
-		%\vspace*{0.20cm}
-		%\hrule
-		%\small{
-		%Conservatorio Profesional de Música de Viveiro - Avda. da mariña s/n - (27850) Viveiro - Lugo
-		%	}
-	%\end{center}
+%	\begin{center}
+%		\vspace*{0.20cm}
+%		\hrule
+%		\small{
+%		Conservatorio Profesional de Música de Viveiro - Avda. da mariña s/n - (27850) Viveiro - Lugo
+%			}
+%	\end{center}
 %}
 % texto pié centrado:
 \cfoot{
@@ -274,22 +292,38 @@ firstextra={%
 }
 \makeatother
 
-
-%%%%%%%%%
-
-%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%5 Definición modificada %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Modificado para traballar con banco de exercicios
+% Elimino as liñas do recadro de exercicios convencional
+%
 \mdfdefinestyle{theoremstyle}{%
-outerlinewidth=0.01em,linecolor=black,middlelinewidth=0.5pt,%
+outerlinewidth=0.01em,linecolor=white,middlelinewidth=0.5pt,%
 frametitlerule=true,roundcorner=2pt,%
 apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
 shade,left color=white, right color=blue!20}}},
-frametitlerulecolor=black,innertopmargin=1\baselineskip,%green!60,
+frametitlerulecolor=white,innertopmargin=1\baselineskip,%green!60,
 innerbottommargin=0.5\baselineskip,
 frametitlerulewidth=0.1pt,
 innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
 frametitleaboveskip=1pt,
 frametitlebelowskip=1pt
 }
+% --------------------------------------
+
+%%%%%%%%%%%%%%% Definición orixinal %%%%%%%%%%%%%%%%%%%%%%%%%
+%\mdfdefinestyle{theoremstyle}{%
+%outerlinewidth=0.01em,linecolor=black,middlelinewidth=0.5pt,%
+%frametitlerule=true,roundcorner=2pt,%
+%apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
+%shade,left color=white, right color=blue!20}}},
+%frametitlerulecolor=black,innertopmargin=1\baselineskip,%green!60,
+%innerbottommargin=0.5\baselineskip,
+%frametitlerulewidth=0.1pt,
+%innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
+%frametitleaboveskip=1pt,
+%frametitlebelowskip=1pt
+%}
 \setlength{\parskip}{0mm}
 \setlength{\parindent}{10mm}
 %\mdtheorem[style=theoremstyle]{ejercicio}{\textbf{Ejercicio}} % Castelán
