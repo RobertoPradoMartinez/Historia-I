@@ -11,9 +11,11 @@
 \input{../../Modelos/include/config-HM1ejercicios_GAL.tex} % Galego
 %\input{../../Modelos/include/config-HM1ejercicios_ES.tex} % Castelán
 % --------------------------------
-\usepackage{graphicx}
-\usepackage{hyperref}
-\usepackage{wrapfig}
+\usepackage{graphicx} % gráficos
+\usepackage{hyperref} % enlaces
+\usepackage{wrapfig} % figuras con textos
+% \usepackage{chronology} % liñas de tempo
+
 
 % Directorio raíz de imaxes por defecto:
 % --------------------------------------
@@ -34,12 +36,8 @@
 %
 % Carga aquí os exercicios que correspondan a incluir na folla:
 % -------------------------------------------------------------
-\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
-\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex} %
-\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex} %
-\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex} %
-%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex} %
-%\loadrandomproblems[loops]{2}{loops}% aleatorios
+% Espazo para cargar os exercicios predefinidos para exame
+% ruta: actividades>cuestions
 % -------------------------------------------------------------
 %
 % TÍTULO A FOLLA DE EXERCICIOS:
@@ -78,30 +76,6 @@
 % ------------------------------------------  
 % EXERCICIOS.
 % ------------------------------------------
-%
-\begin{multicols}{2} % a 2 columnas
-    \begin{enumerate}
-%\useproblem{input}
-    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \end{enumerate}
-\end{multicols}
-%
-% SOLUCIONS:
-% ----------
-% Ocultas polo momento. Insertar ao final do caderno
-%
-%\newpage
-%\begin{multicols}{2}
-%\showanswers
-%\begin{itemize}
-%\foreachdataset{\thisdataset}{%
-%\foreachproblem[\thisdataset]{\item[\ref{prob:\thisproblemlabel}]\thisproblem}
-%}
-%\end{itemize}
-%\end{multicols}
 
 \input{../../Cuestions/Tema0-Perspectivas.tex}
 \newpage

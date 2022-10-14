@@ -297,33 +297,35 @@ firstextra={%
 % Modificado para traballar con banco de exercicios
 % Elimino as liñas do recadro de exercicios convencional
 %
-\mdfdefinestyle{theoremstyle}{%
-outerlinewidth=0.01em,linecolor=white,middlelinewidth=0.5pt,%
-frametitlerule=true,roundcorner=2pt,%
-apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
-shade,left color=white, right color=blue!20}}},
-frametitlerulecolor=white,innertopmargin=1\baselineskip,%green!60,
-innerbottommargin=0.5\baselineskip,
-frametitlerulewidth=0.1pt,
-innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
-frametitleaboveskip=1pt,
-frametitlebelowskip=1pt
-}
-% --------------------------------------
-
-%%%%%%%%%%%%%%% Definición orixinal %%%%%%%%%%%%%%%%%%%%%%%%%
 %\mdfdefinestyle{theoremstyle}{%
-%outerlinewidth=0.01em,linecolor=black,middlelinewidth=0.5pt,%
+%outerlinewidth=0.01em,linecolor=white,middlelinewidth=0.5pt,%
 %frametitlerule=true,roundcorner=2pt,%
 %apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
 %shade,left color=white, right color=blue!20}}},
-%frametitlerulecolor=black,innertopmargin=1\baselineskip,%green!60,
+%frametitlerulecolor=white,innertopmargin=1\baselineskip,%green!60,
 %innerbottommargin=0.5\baselineskip,
 %frametitlerulewidth=0.1pt,
 %innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
 %frametitleaboveskip=1pt,
 %frametitlebelowskip=1pt
 %}
+% --------------------------------------
+
+%%%%%%%%%%%%%%% Definición orixinal %%%%%%%%%%%%%%%%%%%%%%%%%
+%%       Maquetación con bordes para exercicios            %%
+%%
+\mdfdefinestyle{theoremstyle}{%
+outerlinewidth=0.01em,linecolor=black,middlelinewidth=0.5pt,%
+frametitlerule=true,roundcorner=2pt,%
+apptotikzsetting={\tikzset{mfframetitlebackground/.append style={%
+shade,left color=white, right color=blue!20}}},
+frametitlerulecolor=black,innertopmargin=1\baselineskip,%green!60,
+innerbottommargin=0.5\baselineskip,
+frametitlerulewidth=0.1pt,
+innertopmargin=0.7\topskip,skipabove={\dimexpr0.2\baselineskip+0.1\topskip\relax},
+frametitleaboveskip=1pt,
+frametitlebelowskip=1pt
+}
 \setlength{\parskip}{0mm}
 \setlength{\parindent}{10mm}
 %\mdtheorem[style=theoremstyle]{ejercicio}{\textbf{Ejercicio}} % Castelán
@@ -356,6 +358,37 @@ frametitlebelowskip=1pt
 }
 {\end{list}}
 %
+%
+% --------------- CRONOGRAMAS en LATEX: --------------- 
+\usepackage{chronology}
+
+\renewenvironment{chronology}[5][6]{%
+    \setcounter{step}{#1}%
+    \setcounter{yearstart}{#2}\setcounter{yearstop}{#3}
+    \setcounter{deltayears}{\theyearstop-\theyearstart}
+    \setlength{\unit}{#4}%
+    \setlength{\timelinewidth}{#5}%
+    \pgfmathsetcounter{stepstart}%
+    {\theyearstart+\thestep-mod(\theyearstart,\thestep)}%
+    \pgfmathsetcounter{stepstop}{\theyearstop-mod(\theyearstop,\thestep)}%
+    \addtocounter{step}{\thestepstart}%
+    \begin{lrbox}{\timelinebox}%
+    \begin{tikzpicture}[baseline={(current bounding box.north)}]%
+    \draw [|->] (0,0) -- (\thedeltayears*\unit+\unit, 0);%
+    \foreach \x in {1,...,\thedeltayears}%
+    \draw[xshift=\x*\unit] (0,-.1\unit) -- (0,.1\unit);
+   \addtocounter{deltayears}{1}%
+    \foreach \x in {\thestepstart,\thestep,...,\thestepstop}{%
+        \pgfmathsetlength\xstop{(\x-\theyearstart)*\unit}%
+        \draw[xshift=\xstop] (0,-.3\unit) -- (0,.3\unit);%
+        \node at (\xstop,0) [below=.2\unit] {\x};}%
+    }
+{%
+\end{tikzpicture}%
+\end{lrbox}%
+    \raisebox{2ex}{\resizebox{\timelinewidth}{!}{\usebox{\timelinebox}}}}%
+%
+% Fin do código
 %
 %% -- Fin del archivo de configuración  --
 %%
