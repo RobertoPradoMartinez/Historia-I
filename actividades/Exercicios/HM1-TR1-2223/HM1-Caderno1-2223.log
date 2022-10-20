@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.4)  14 OCT 2022 14:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.4)  19 OCT 2022 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1383,7 +1383,7 @@ LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (../../Cuestions/Tema0-Perspectivas.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 6.
-<../../../figures///ud-00/descartes.png, id=19, 560.0925pt x 501.875pt>
+<../../../figures///ud-00/descartes.png, id=15, 560.0925pt x 501.875pt>
 File: ../../../figures///ud-00/descartes.png Graphic file (type png)
 <use ../../../figures///ud-00/descartes.png>
 Package pdftex.def Info: ../../../figures///ud-00/descartes.png  used on input 
@@ -1395,7 +1395,7 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 27.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 29.
-<../../../figures///ud-00/wagner.png, id=21, 1497.595pt x 1927.2pt>
+<../../../figures///ud-00/wagner.png, id=17, 1497.595pt x 1927.2pt>
 File: ../../../figures///ud-00/wagner.png Graphic file (type png)
 <use ../../../figures///ud-00/wagner.png>
 Package pdftex.def Info: ../../../figures///ud-00/wagner.png  used on input lin
@@ -1469,25 +1469,26 @@ LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
 Package rerunfilecheck Info: File `HM1-Caderno1-2223.out' has not changed.
-(rerunfilecheck)             Checksum: 687AC9E51CED918D0D3D52123A8D70EA;168.
+(rerunfilecheck)             Checksum: 604CBB7025F83D7D38F02EA646121B9A;91.
  ) 
 Here is how much of TeX's memory you used:
- 39748 strings out of 479304
- 951543 string characters out of 5869779
- 1507917 words of memory out of 5000000
- 56153 multiletter control sequences out of 15000+600000
- 442594 words of font info for 58 fonts, out of 8000000 for 9000
+ 39754 strings out of 479304
+ 951575 string characters out of 5869779
+ 1510914 words of memory out of 5000000
+ 56152 multiletter control sequences out of 15000+600000
+ 443767 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,12n,129p,801b,1217s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,129p,801b,1211s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/shar
 e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb>
-Output written on HM1-Caderno1-2223.pdf (3 pages, 579953 bytes).
+ve/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on HM1-Caderno1-2223.pdf (3 pages, 587523 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 97 compressed objects within 1 object stream
- 51 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
