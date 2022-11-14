@@ -16,6 +16,10 @@ dC)}{Nicómaco de Gerasa, Enchiridion Harmonices (ss. I-II dC)}}\label{nicuxf3ma
 
  \begin{multicols}{2}
 
+\setlength{\columnsep}{2.0cm}
+\setlength{\columnseprule}{1pt}
+\def\columnseprulecolor{\color{black}}
+
 Un día {[}Pitágoras{]} saíu a pasear, perdido nas súas reflexións e nos pensamentos que os seus esquemas lle suxeriron, preguntándose se podería inventar unha axuda para o oído, segura e libre de erro, como a que posúen os sentidos da vista e o tacto, un no compás, a regra, ou mesmo, podemos dicir, a dioptra; o outro nas escalas ou a invención das medidas. Sucedeu que por unha coincidencia providencial pasou xunto ao taller dun ferreiro, e ouviu alí con bastante claridade como os martelos de ferro golpeaban o yunque e emitían confusamente intervalos que, coa excepción dun, eran consonancias perfectas. Recoñeceu entre aqueles sons as consonancias de diapason (oitava), \emph{diapente} (quinta) e \emph{diatessaron} (cuarta). En canto ao intervalo entre a cuarta e a quinta, observou que era en si mesmo disonante, pero polo demais complementario da maior destas dúas consonancias. Entusiasmado, entrou no taller coma se un deus estivese a axudalo nos seus plans, e despois de varios experimentos descubriu que era a diferenza de pesos a que provocaba as diferenzas de altura, e non o esforzo dos ferreiros, nin a forma dos martelos, nin o movemento do ferro traballado. Co maior coidado, determinou os pesos dos martelos e a súa forza impulsora, que atopou perfectamente idéntica; logo volveu á súa casa.
 
 Fixou un só cravo no ángulo formado por dúas paredes, para evitar
