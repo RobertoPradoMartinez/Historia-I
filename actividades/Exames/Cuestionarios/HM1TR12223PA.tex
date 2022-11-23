@@ -1,48 +1,14 @@
-%% ---------------
-%% MOI IMPORTANTE:
-%% ---------------
-%% Esta versión do modelo de probas, utiliza exercicios aleatorios.
-%% É importante non volver compilar despois de obter a versión definitiva.
-%% Revisar sempre a que as solucións coincidan coas cuestións da proba.
-%%
-%% Actulizado: 23/11/2022
-%%
-%% ===============
-%% PREÁMBULO LATEX
-%% ===============
+% --------------------------
+% MODELO CUESTIONARIOS EXAME
+% --------------------------
+% ACTUALIZADO: Novembro 2022
 %
-\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
-
-%\graphicspath{ {/home/user/images/} }
-\usepackage{graphicx}
-% Modelo exame:
-\input{../../Modelos/include/config-HM1examen_A_Parte1.tex}
-\setlength{\columnsep}{0.75cm} % separamos
-
-%%%%%%%%%%%%% COMEZA O DOCUMENTO %%%%%%%%%%%%%%%%%
-
-\begin{document}
-\hideanswers    % oculta respostas
+% TODO:Revisar as cuestións que cargamos
 %
-% Portada:
-% --------
-%\input{../../Modelos/include/config-HM1examen_A_Parte1_portada.tex}
-%\newpage 
-
-% Cabeceira:
+% CUESTIÓNS:
 % ----------
-\input{../../Modelos/include/config-HM1cabeceira1.tex}
-
-% Instruccións do exame:
-% ----------------------
-\input{../../Modelos/include/config-HM1instruccions.tex}
-
-% Parte (A ou B):
-% ---------------
-\input{../../Modelos/include/config-HM1cabeceira1-parte-A.tex}
-
-% Carga de tódalas preguntas:
-% ---------------------------
+% Carga todas
+% -----------
 %\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
 %\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
 %\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
@@ -50,8 +16,9 @@
 %\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
 %\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
 %
-% Carga aletoria de preguntas:
-% ----------------------------
+%
+% Carga aletoria
+% --------------
 %\loadrandomproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
 %\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
 %\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
@@ -60,20 +27,26 @@
 %\loadrandomproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
 %
 %
-% Carga selectiva de preguntas:
-% -----------------------------
+% Carga selectiva
+% ---------------
 %\loadselectedproblems[Tema1-EX]{T1EX-01,T1EX-02}{../../Cuestions/Tema1-Exipto.tex}
 \loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
 \loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
 \loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
 \loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
 %
-% Carga exclusica de preguntas:
-% -----------------------------
+%
+% Carga exluínte
+% --------------
 %\loadexceptproblems[Tema1-CO]{T1CO-01,T1CO-02,T1CO-03,T1CO-04}{../../Cuestions/Tema1-Compositores.tex}
-
-% ESTRUTURA DO EXAME NUMERADO CORRELATIVAMENTE:
-% ---------------------------------------------
+%
+%
+%
+% -------------------------------
+% Estrutura e numeración da proba
+% -------------------------------
+% Organiza aquí todas as cuestións
+%
 \begin{multicols}{2}
 	\begin{enumerate}[1.-]
     \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
@@ -85,5 +58,3 @@
     \end{enumerate}
 \end{multicols}
 %
-\end{document}
-% Fin de Hoja de ejercicios

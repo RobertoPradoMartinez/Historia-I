@@ -1,0 +1,78 @@
+%% ---------------
+%% MOI IMPORTANTE:
+%% ---------------
+%% En modelo con cuestións aleatorias, non volver compilar unha vez feito.
+%% De ser necesario, gardar o pdf inicial con outro nome porque o sobreescribe.
+%%
+%% Actulizado: 23/11/2022
+%%
+%% ===============
+%% PREÁMBULO LATEX
+%% ===============
+%
+\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
+%
+% Paquetes necesarios:
+% --------------------
+%\graphicspath{ {/home/user/images/} }
+\usepackage{graphicx}
+\setlength{\columnsep}{0.75cm} % separamos
+\usepackage[none]{hyphenat} % sen separación silábica
+%
+% Configuración e maquetación base:
+% ---------------------------------
+\input{../../Modelos/include/config-HM1examen_A_Parte1.tex}
+%
+%% =========
+%% DOCUMENTO
+%% =========
+%
+\begin{document}
+%
+% Encabezados e pes de páxina:
+% ----------------------------
+% Encabezados do ano académico actual
+\input{../../Modelos/include/config-HM1exame_A_Parte1-encabezados_gal.tex}
+%
+% Cabeceira
+% ---------
+% Centro, Materia, Curso, tipo de proba, Avaliación
+\input{../../Modelos/include/config-HM1cabeceira1.tex}
+%
+% Instruccións
+% ------------
+% Instruccións sobre como realizar a proba
+\input{../../Modelos/include/config-HM1instruccions.tex}
+%
+% Cabeceira Parte A
+% -----------------
+% Tipo de proba e Avaliación - Parte A
+\input{../../Modelos/include/config-HM1cabeceira1-parte-A.tex}
+%
+% ---------------------
+% CUESTIONARIO DE EXAME
+% ---------------------
+% 
+% Con/sen solucións:
+% ------------------
+%\hideanswers    % ocultar respostas
+\showanswers    % mostrar respostas
+%
+%\sloppy %xustificación de parágrafos
+%
+% Cuestionario
+% ------------
+% Importante: o cuestionario está en arquivo externo na mesma carpeta do exame.
+\input{../Cuestionarios/HM1TR12223PA.tex}
+%
+% Fin cuestionario de exame
+% ---
+%
+% Texto de fin de proba
+% ---------------------
+%\input{../../Modelos/include/config-HM1instruccions-fin.tex} % en exame
+%
+% --- Fin ---
+
+\end{document}
+% Fin de Hoja de ejercicios

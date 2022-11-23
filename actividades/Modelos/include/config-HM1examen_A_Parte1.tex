@@ -27,6 +27,7 @@
 \usepackage{fancyhdr}  % encabezado personalizado
 \usepackage{fancybox}  % entornos con cajas
 \usepackage{pdfpages}  % páginas pdf
+\usepackage{lastpage}  % numeración páxinas
 \usepackage{amssymb}   % completar líneas
 \usepackage{xcolor}  % color en exames
 %
@@ -54,8 +55,11 @@
 \newtcolorbox{datos-alumnado}[1]{colback=gray!10!white,colframe=gray!50!black,fonttitle=\bfseries, title=NOME E APELIDOS/CALIFICACIÓN:
 \vspace*{0.10cm}}
 
-% Cadro en gris para instruccións:
-\newtcolorbox{instruccions}[1]{colback=gray!2!white,colframe=gray!50!black,fonttitle=\bfseries, title=\centering{INSTRUCCIÓNS PARA REALIZAR A PROBA}
+% Cadro en marrón para instruccións:
+\definecolor{lila1}{RGB}{193,124,250} % lila
+\definecolor{cornflowerblue}{RGB}{100,149,237} % azul suave
+%
+\newtcolorbox{instruccions}[1]{colback=gray!2!white,colframe=gray!50!cornflowerblue,fonttitle=\bfseries, title=\centering{INSTRUCCIÓNS PARA REALIZAR A PROBA}
 \vspace*{0.10cm}}
 % Cuadro numerado para ejemplos
 \newtcolorbox[auto counter,number within=section]{example}[2][]
@@ -120,67 +124,7 @@
 %\usepackage[proportional]{libertine}
 % Fuente ROMANDE (estilo antiguo pero no muy cómoda)
 %\usepackage{romande} %
-% 
-% Encabezado y pié de página (textos)
-% -----------------------------------
-% Modelo 1:
-% ---------
-% texto de encabezado izquierda:
-%\lhead{\normalfont{Historia de la Música II}}
-% texto encabezado centro:
-%\chead{\textbf{Ejercicios}}
-% texto de encabezado derecha:
-%\rhead{\normalfont{curso: 2020/2021}}
-% texto pié izquierdo:
-%\lfoot{\small{\textit{}}}
-% texto pié centrado:
-%\cfoot{\textsc{Pág. \thepage }}
-% texto pié derecho
-%\rfoot{\textit{Pr. $\mathcal{A}$.Kaal}}
-% ----------
-% Modelo 2:
-% ---------
-% Encabezado y pié de página (textos)
-% -----------------------------------
-% texto de encabezado izquierda:
-%
-\lhead{
-	\hrule
-	\vspace*{0.20cm}
-	\normalfont{Historia da Música I}
-	\vspace*{0.10cm}
-	%\hrule
-}
-% texto encabezado centro:
-\chead{
-	\textbf{Cuestionario de Exame}
-	\vspace*{0.08cm}}
-% texto de encabezado derecha:
-\rhead{
-	\normalfont{curso: 2021/2022}
-	\vspace*{0.08cm}}
-%
-% texto pié izquierdo:
-%\lfoot{
-	%\begin{center}
-		%\vspace*{0.20cm}
-		%\hrule
-		%\small{
-		%Conservatorio Profesional de Música de Viveiro - Avda. da mariña s/n - (27850) Viveiro - Lugo
-		%	}
-	%\end{center}
-%}
-% texto pié centrado:
-\cfoot{
-	%\vspace*{0.30cm}
-	%\hrule
-	%\vspace*{0.90cm}
-	\small{- Páx. \thepage -  }\\
-	%\small{Conservatorio Profesional de Música de Viveiro}\\
-	%\small{avda. da Mariña s/n}
-}
 
-% --------
 %=====================Algo setup
 \algblock{If}{EndIf}
 \algcblock[If]{If}{ElsIf}{EndIf}
