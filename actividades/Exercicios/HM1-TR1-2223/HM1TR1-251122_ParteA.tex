@@ -1,0 +1,83 @@
+% --------------------------
+% MODELO CUESTIONARIOS EXAME
+% --------------------------
+% ACTUALIZADO: Novembro 2022
+%
+% TODO:Revisar as cuestións que cargamos
+%
+% CUESTIÓNS:
+% ----------
+% Carga todas
+% -----------
+%\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
+%\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
+%\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
+\loadallproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+%\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
+%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+%
+%
+% Carga aletoria
+% --------------
+%\loadrandomproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
+%\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
+%\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
+%\loadrandomproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+%\loadrandomproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
+%\loadrandomproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+%
+%
+% Carga selectiva
+% ---------------
+%\loadselectedproblems[Tema1-EX]{T1EX-01,T1EX-02}{../../Cuestions/Tema1-Exipto.tex}
+\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
+\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
+\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
+\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
+%
+%
+% Carga exluínte
+% --------------
+%\loadexceptproblems[Tema1-CO]{T1CO-01,T1CO-02,T1CO-03,T1CO-04}{../../Cuestions/Tema1-Compositores.tex}
+%
+%
+% Amosar ocultar solucións
+% ------------------------
+\hideanswers
+%\showanswers
+%
+% -------------------------------
+% Estrutura e numeración da proba
+% -------------------------------
+% Organiza aquí todas as cuestións
+%
+\begin{center}
+\section*{Cuestionario de repaso}\label{sec:cuestionario-1}
+\end{center}
+
+\begin{minipage}{0.85\linewidth}
+
+ Le con atención as seguintes cuestións e sinala con un círculo a opción correcta ou incorrecta, segundo proceda para cada unha.
+ Se queres coñecer a túa puntuación no cuestionario:\\
+ cada cuestión correcta suma 0.5 puntos,\\
+ cada cuestión incorrecta suma -0.25 puntos\\
+ cada cuestión non contestada suma 0 puntos \\
+%
+\par
+\hrulefill
+\end{minipage}
+
+\par
+\vspace*{1.0cm}
+
+\begin{multicols}{2}
+	\begin{enumerate}[1.-]
+    \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
+    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem} % Pensamento
+    \foreachproblem[Tema1-OR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Organoloxía
+    \foreachproblem[Tema1-RO]{\item\label{prob:\thisproblemlabel}\thisproblem} % Roma
+%    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
+    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
+    \end{enumerate}
+\end{multicols}
+%
