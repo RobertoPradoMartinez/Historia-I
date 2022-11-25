@@ -1,6 +1,6 @@
 [General]
 kile_livePreviewEnabled=false
-kile_livePreviewStatusUserSpecified=false
+kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-PDFLaTeX
 lastDocument=../HM1-TR1-2223/HM1-Caderno1-2223.tex
 
@@ -105,16 +105,16 @@ CursorColumn=13
 CursorLine=62
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"b0f329f0992ea8d89e03674eb05255ca2bdfaab7","ranges":[]}
+TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:../HM1-TR1-2223/HM1TR1-251122_ParteA.tex]
-CursorColumn=46
-CursorLine=63
+CursorColumn=0
+CursorLine=46
 Dynamic Word Wrap=true
 JumpList=
-TextFolding={"checksum":"c79595c9f504f25d06591a55fa190f2028284d25","ranges":[]}
-ViMarks=
+TextFolding=[]
+ViMarks=.,46,0,[,46,0,],46,0
 
 [view-settings,view=0,item:../HM1-TR1-2223/Probas.tex]
 CursorColumn=0
