@@ -91,15 +91,53 @@ O corpo vibrante é unha corda tensada, que por fluctuacións de corrente ao vib
 % EXERCICIO 07: Organoloxía - clasificación
 % -----------------------------------------
 
-Cal é o corpo vibrante e como se clasifican segundo se toquen os aerófonos?
+Cal é o corpo vibrante, e como se clasifican segundo se produce o son os aerófonos?
 
-O propio instrumento - directa ou indirectamente percutidos
+Unha columna de aire que vibra ben por interación humana ou mecánica (x)
+
+Unha columna de aire que vibra so por interación humana
+
+Unha columna de aire que vibra so por interación mecánica
+
+Ningunha é correcta
 
 
-% EXERCICIO 08: Organoloxía - clasificación
-% -----------------------------------------
+% EXERCICIO 08: Organoloxía - definición
+% --------------------------------------
 
-Cal é o corpo vibrante e como se clasifican segundo se toquen os idiófonos?
+O sistema moderno de clasifcación de instrumentos musicais, ten en conta o material co que se constrúen os instrumentos e tamén a forma en que producen o son. Clasifca os instrumentos en cinco grupos principais divididos á vez en subgrupos. A ciencia encargada do seu estudo, investigación e clasifcación é unha rama da musicoloxía: a etnomusicoloxía.
+
+Verdadeiro
+
+Falso (x)
+
+
+% EXERCICIO 09: Organoloxía - Sistema de clasificación
+% ----------------------------------------------------
+
+No sistema moderno de clasifcación de instrumentos musicais, o principio de
+división seguido é primeiramente o modo de producir o son segundo o corpo que causa as vibracións, e en segundo lugar o sistema de execución e construcción.
+
+Verdadeiro (x)
+
+Falso
+
+
+% EXERCICIO 10: Organoloxía - Patrimonio
+% --------------------------------------
+
+A difcultade de coñecer realmente a organoloxía empregada na prehistoria é debida á utilización de materiais perecedoiros na construcción dos instrumentos musicais, o que causou que se fosen degradando co paso do tempo. Malia todo, grazas aos restos conservados podemos saber que se empregaban instrumentos como as pedras de entrechoque, tambores feitos de troncos de árbores, trompas feitas de cornos de animáis, (...) e todos eles 
+
+forman parte do patrimonio musical primixenio e constitúen unha fonte de información iconográfica valiosísima
+
+forman parte do patrimonio musical primixenio mais non son fontes de información iconográficas (x)
+
+non forman parte do patrimonio musical primixenio pois non se conservan, malia seren fontes de información organolóxicas
+
+forman parte do patrimonio musical primixenio malia non seren fontes de información organolóxicas
+
+
+
 
 
 
