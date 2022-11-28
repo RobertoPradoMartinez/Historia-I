@@ -1,39 +1,89 @@
 % --------------------------
 % MODELO CUESTIONARIOS EXAME
 % --------------------------
-% ACTUALIZADO: Novembro 2022
+% ACTUALIZADO: 28 de Novembro 2022
 %
-% TODO:Revisar as cuestións que cargamos
+% TODO: É preciso ver máis sobre o paquete 'PROBSOLN'
+%
+% Axustes para cuestionarios aleatorios:
+% ======================================
+% Guión para non repetir cuestións de exercicios, etc.
+%
+% Indicamos ano académico:
+% -----------------------
+\SetStartYear{2018}
+\PSNrandseed{\GetStartYear} %
+%
+% Exclude problems that have been used this year or the previous
+% two academic years. (Creates a file called 'excluded.tex' to
+% store labels of used problems. Also creates a file called
+% \jobname.prb that stores labels of problems used in this
+% document, so they don't get excluded on subsequent runs.)
+%\ExcludePreviousFile[1]{excluded}
+%
+ % To clear the used problems file (\jobname.prb) of the labels
+ % generated in the previous run, comment the above and uncomment
+ % below:
+\ClearUsedFile{excluded}
+%
 %
 % CUESTIÓNS:
 % ----------
-% Carga todas
-% -----------
-%\loadallproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
-%\loadallproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
-%\loadallproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
-\loadallproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
-%\loadallproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
-%\loadallproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
-%
 %
 % Carga aletoria
 % --------------
-%\loadrandomproblems[Tema1-PE]{../../Cuestions/Tema1-Periodizacion.tex}
-%\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
-%\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
-%\loadrandomproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
-%\loadrandomproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
-%\loadrandomproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+\loadrandomproblems[Tema0-ESCOITA]{3}{
+../../Cuestions/Tema0-ESCOITA-Q.tex}
 %
+%\loadrandomproblems[Tema0-FONTES]{2}{
+%../../Cuestions/Tema0-FONTES-Q.tex}
+%
+%\loadrandomproblems[Tema0-ORGANOLOXIA]{2}{
+%../../Cuestions/Tema0-ORGANOLOXIA-Q.tex}
+%
+%\loadrandomproblems[Tema0-PERIODIZACION]{2}{
+%../../Cuestions/Tema0-PERIODIZACION-Q.tex}
+%
+%\loadrandomproblems[Tema1-PERSPECTIVAS]{2}{
+%../../Cuestions/Tema0-PERSPECTIVAS-Q.tex}
+%
+%\loadrandomproblems[Tema1-EXIPTO]{2}{
+%../../Cuestions/Tema1-EXIPTO-Q.tex}
+%
+%\loadrandomproblems[Tema1-GRECIA]{2}{
+%../../Cuestions/Tema1-GRECIA-Q.tex}
+%
+%\loadrandomproblems[Tema1-ORGANOLOXIA]{2}{
+%../../Cuestions/Tema1-ORGANOLOXIA-Q.tex}
+%
+%\loadrandomproblems[Tema1-PENSAMENTO]{2}{
+%../../Cuestions/Tema1-PENSAMENTO-Q.tex}
+%
+%\loadrandomproblems[Tema1-PERIODIZACION]{2}{
+%../../Cuestions/Tema1-PERIODIZACION-Q.tex }
+%
+%\loadrandomproblems[Tema1-ROMA]{2}{
+%../../Cuestions/Tema1-ROMA-Q.tex}
+%
+% Carga todas
+% -----------
+%\loadallproblems[Tema1-PE]{}
+%\loadallproblems[Tema1-PENS]{}
+%\loadallproblems[Tema1-GR]{}
+%\loadallproblems[Tema1-OR]{}
+%\loadallproblems[Tema1-EX]{}
+%\loadallproblems[Tema1-RO]{}
 %
 % Carga selectiva
 % ---------------
 %\loadselectedproblems[Tema1-EX]{T1EX-01,T1EX-02}{../../Cuestions/Tema1-Exipto.tex}
-\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{../../Cuestions/Tema1-Grecia.tex}
-\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{../../Cuestions/Tema1-Periodizacion.tex}
-\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{../../Cuestions/Tema1-Pensamento.tex}
-\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
+%\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{
+%../../Cuestions/Tema1-Grecia.tex}
+%\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{
+%../../Cuestions/Tema1-Periodizacion.tex}
+%\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{
+%../../Cuestions/Tema1-Pensamento.tex}
+%\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
 %
 %
 % Carga exluínte
@@ -49,12 +99,51 @@
 %
 \begin{multicols}{2}
 	\begin{enumerate}[1.-]
-    \foreachproblem[Tema1-GR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Grecia
-    \foreachproblem[Tema1-PENS]{\item\label{prob:\thisproblemlabel}\thisproblem} % Pensamento
-    \foreachproblem[Tema1-OR]{\item\label{prob:\thisproblemlabel}\thisproblem} % Organoloxía
-    \foreachproblem[Tema1-RO]{\item\label{prob:\thisproblemlabel}\thisproblem} % Roma
-%    \foreachproblem[Tema1-EX]{\item\label{prob:\thisproblemlabel}\thisproblem}
-    \foreachproblem[Tema1-PE]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
+    
+\foreachproblem[Tema0-ESCOITA]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
+%%    
+%\foreachproblem[Tema0-FONTES]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%%    
+%\foreachproblem[Tema0-ORGANOLOXIA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%    
+%\foreachproblem[Tema0-PERIODIZACION]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%
+%\foreachproblem[Tema0-PERSPECTIVAS]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%
+%\foreachproblem[Tema1-EXIPTO]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%%
+%\foreachproblem[Tema1-GRECIA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%%
+%\foreachproblem[Tema1-ORGANOLOXIA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%
+%\foreachproblem[Tema1-PENSAMENTO]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%
+%\foreachproblem[Tema1-PERIODIZACION]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%
+%\foreachproblem[Tema1-ROMA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem} 
+%
     \end{enumerate}
 \end{multicols}
 %

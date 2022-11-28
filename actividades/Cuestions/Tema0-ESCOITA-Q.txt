@@ -35,11 +35,11 @@ Os indicados na primeira opción.
 
 % Sol:
 % ----
-Un xénero musical, ven determinado entre outros factores polo uso que se fai da música, o contexto, o seu carácter, a función, etc. Debemos lembrar que En certas ocasións, fai referencia a formas musicais que alcanzaron unha gran importancia e desenvolvemento en determinadas épocas, como é o caso da ópera ou a sinfonía.
+Un xénero musical, ven determinado entre outros factores polo uso que se fai da música, o contexto, o seu carácter, a función, etc. Debemos lembrar que en certas ocasións, fai referencia a formas musicais que alcanzaron unha gran importancia e desenvolvemento en determinadas épocas, como é o caso da ópera ou a sinfonía.
 
-% ---------------------------------------------
-% EXERCICIO 03: 
-% ---------------------------------------------
+% --------------------------------
+% EXERCICIO 03: Concepto de timbre
+% --------------------------------
 Se nunha audición, analizamos os instrumentos que escoitamos nunha composición musical, en que aspecto estamos a fixar a nosa atención?
 
 Textura
@@ -54,9 +54,9 @@ Ritmo
 % ----
 Cando analizamos os instrumentos que escoitamos nunha composición estamos prestando atención ao timbre, factor este que nos permite identificar tanto a familia á que pertence como o propio instrumento.
 
-% ---------------------------------------------
-% EXERCICIO 04: 
-% ---------------------------------------------
+% ---------------------------------
+% EXERCICIO 04: Concepto de textura
+% ---------------------------------
 Cando ao realizar a escoita e comentario dunha audición tomamos nota de como se ensamblan as diferentes voces musicais (monodia, polifonía sinxela con bordón, melodía con acompañamento, contrapunto, etc.) estamos a analizar ...
 
 Timbres
@@ -71,9 +71,9 @@ Ningunha das anteriores (x)
 % ----
 En este caso, analizamos a textura da obra.
 
-% ---------------------------------------------
-% EXERCICIO 05: 
-% ---------------------------------------------
+% ---------------------------------
+% EXERCICIO 05: Concepto de textura
+% ---------------------------------
 Cando ao realizar a escoita e comentario dunha audición tomamos nota de como se ensamblan as diferentes voces musicais (monodia, polifonía sinxela con bordón, melodía con acompañamento, contrapunto, etc.) estamos a analizar ...
 
 A forma da obra
