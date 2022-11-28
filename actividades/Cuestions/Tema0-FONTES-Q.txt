@@ -24,10 +24,19 @@ Pintura, escultura e outras obras das artes visuais, proporcionan información s
 % ---------------------------------------------
 % EXERCICIO 02: Tipos de fontes de información
 % ---------------------------------------------
+Aínda que non é correcto supoñer que en condicións de vida iguais desenvólvense culturas musicais iguais, ás veces o coñecemento das músicas tradicionais actuais pode proporcionar detalles sobre técnicas de interpretación de instrumentos antigos ou sobre movementos de danza. Cal é a rama da Musicoloxía, que a partir do estudo da música de pobos e tribus non occidentais e de músicas de tradición oral actuais, axuda á comprensión da actividade musical antiga?
 
+Arqueoloxía
+
+Etnomusicoloxía (x)
+
+Iconografía
+
+Paleo-organoloxía
 
 % Sol:
 % ----
+A Etnomusicoloxía é a rama da Musicoloxía que se ocupa do estudo da música de tradición oral da actualidade así como da música de tribus e pobos non occidentais, que poden achegar coñecemento sobre a música, contextos e detalles sobre técnicas de interpretación de instrumentos antigos.
 
 % ----------------------------------------------
 % EXERCICIO 03: Principais fontes a ter en conta

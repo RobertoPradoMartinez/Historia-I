@@ -4,9 +4,8 @@
 % Tema 0.- INTRODUCIÓN: PERSPECTIVAS SOBRE A MÚSICA
 %
 % -----------------------------------------
-% EXERCICIO 01: Perspectivas sobre a música
+% EXERCICIO 01: Teorías orixe - Logoxénicas
 % -----------------------------------------
-
 Adóitase situar o comezo da historia no momento da aparición da escritura, hai uns
 seis mil anos aproximadamente. Desde a súa orixe, a música é un fenómeno moi complexo que está formado por diferentes parámetros e manifestacións que xorden na historia da humanidade de xeito progresivo. Dos resultados obtidos da análise dos datos das diversas fontes de información, baralláronse varias teorías sobre a orixe da música. Cal de estas teorías considera que a música xorde como un elemento de comunicación?
 
@@ -22,10 +21,9 @@ Ningunha das anteriores
 % ----
 As teorías logoxénicas, defenden que a música é un elemento e comunicación asociado á linguaxe. As quinéticas, defenden a idea de que o corpo é en si mesmo un instrumento musical, pois dispón de cordas vocais e instrumentos de percusión corporal; as máxico-relixiosas atribúen unha función máxica á música. Por outra banda, certos autores consideraban que os sons poden empregarse para localizarse na escuridade ou comunicarse a distancia como se fai hoxe en lugares de difícil acceso a causa da orografía do terreo; estas son as teorías fisiolóxico-comunicativas.
 
-% -----------------------------------------
-% EXERCICIO 02: Perspectivas sobre a música
-% -----------------------------------------
-
+% -----------------------------------------------
+% EXERCICIO 02: Teorías sobre música - Quinéticas
+% -----------------------------------------------
 Que teoría ou teorías defenden a idea de que o corpo é en si mesmo un instrumento musical, dado que dispón de cordas vocais e instrumentos de percusión corporal?
 
 As fisiolóxico-comunicativas
@@ -40,10 +38,9 @@ As quinéticas (x)
 % ----
 As quinéticas, defenden a idea de que o corpo é en si mesmo un instrumento musical, pois dispón de cordas vocais e instrumentos de percusión corporal, a diferenza das logoxénicas que consideran a música un elemento de comunicación asociado á linguaxe, ou as máxico-relixiosas que atribúen unha función máxica á música. Por outra banda, certos autores consideraban que os sons poden empregarse para localizarse na escuridade ou comunicarse a distancia como se fai hoxe en lugares de difícil acceso a causa da orografía do terreo; estas son as teorías fisiolóxico-comunicativas.
 
-% -----------------------------------------
-% EXERCICIO 03: Perspectivas sobre a música
-% -----------------------------------------
-
+% --------------------------------------------------------------
+% EXERCICIO 03: Teorías sobre música - Fisiolóxico-comunicativas
+% --------------------------------------------------------------
 As teorías fisiolóxico-comunicativas, defenden que ...
 
 Os sons poden empregarse para localizarse na escuriade e comunicarse na distancia. (x)
@@ -61,10 +58,25 @@ As quinéticas, defenden a idea de que o corpo é en si mesmo un instrumento mus
 % -----------------------------------------
 % EXERCICIO 04: Perspectivas sobre a música
 % -----------------------------------------
+Entre as moitas reflexións sobre a orixe da música, destacamos a seguinte:
+"A música é, ao mesmo tempo, unha arte e unha ciencia. Como arte, non é senón
+a manifestación do belo por medio dos sons; pero esta manifestación descansa
+nunha ciencia exacta, formada polo conxunto de leis que rexen a produción dos
+sons, ao mesmo tempo que as súas relacións de altura e duración."
+A quen atribúes este pensamento sobre a música?
 
+Riemann (século XIX) (x)
+
+Platón (séculos V-VI a.C)
+
+Wagner (século XIX)
+
+Santo Tomás (século XIII)
 
 % Sol:
 % ----
+Entre as refexións sobre a música que teremos en conta para comprender o seu
+signifcado, atopamos esta de Hugo Riemann no século XIX, que considera a música como ciencia e arte ao mesmo tempo.
 
 % -----------------------------------------
 % EXERCICIO 05: Perspectivas sobre a música
