@@ -77,11 +77,11 @@ open=false
 order=-1
 
 [item:../HM1-TR1-2223/HM1-Caderno1-2223.tex]
-open=true
+open=false
 order=0
 
 [item:../HM1-TR1-2223/HM1TR1-251122_ParteA.tex]
-open=true
+open=false
 order=1
 
 [item:../HM1-TR1-2223/Probas.tex]
@@ -105,7 +105,7 @@ CursorColumn=13
 CursorLine=62
 Dynamic Word Wrap=false
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"b0f329f0992ea8d89e03674eb05255ca2bdfaab7","ranges":[]}
 ViMarks=
 
 [view-settings,view=0,item:../HM1-TR1-2223/HM1TR1-251122_ParteA.tex]
@@ -113,7 +113,7 @@ CursorColumn=0
 CursorLine=46
 Dynamic Word Wrap=true
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"3b1192c76d7f4cdc13bb010af2b4181200be27f8","ranges":[]}
 ViMarks=.,46,0,[,46,0,],46,0
 
 [view-settings,view=0,item:../HM1-TR1-2223/Probas.tex]

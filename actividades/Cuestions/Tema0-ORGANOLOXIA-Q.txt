@@ -6,36 +6,43 @@
 % EXERCICIO 01: Definición de organoloxía
 % ---------------------------------------
 
-A rama da Musicoloxía encargada do estudo, investigación e clasificación dos instrumentos musicais coñécese co nome de
+A rama da Musicoloxía encargada do estudo, investigación e clasificación dos instrumentos musicais coñécese co nome de ...
 
 Organoloxía (x)
 
 Arqueoloxía
 
-Etnoloxía
+Etnomusicoloxía
 
 Iconografía
 
 
+% Solución:
+% ---------
+A Organoloxía é a rama da Musicoloxía encargada do estudo, investigación e clasificación dos instrumentos musicais.
+
 % EXERCICIO 02: Definición de organoloxía
 % ---------------------------------------
 
-A Organoloxía é  
+A Organoloxía é ...
 
 A rama da Historia da Música que clasifica os instrumentos musicais
 
-A rama da Etnomusicoloxía investiga sobre os intrumentos musicais prehistóricos
+A rama da Etnomusicoloxía que investiga sobre os intrumentos musicais prehistóricos
 
 A rama da Musicoloxía que investiga a iconografía prehistórica
 
-A rama da Musicoloxía, que investiga, estuda e clasifca os instrumentos musicais (x)
+A rama da Musicoloxía, que investiga, estuda e clasifica os instrumentos musicais (x)
 
+
+% Solución:
+% ---------
+A Organoloxía é a rama da Musicoloxía encargada do estudo, investigación e clasificación dos instrumentos musicais.
 
 % EXERCICIO 03: organoloxía - clasificación
 % -----------------------------------------
 
-A base para a investigación organolóxica dos instrumentos musicais, parte da cla-
-sifcación Hornbostel-Sachs, que se basea na forma en que os instrumentos emiten as vibracións que producen o son. Segundo esto, o sistema de clasificación moderno de instrumentos musicais ten en conta o material co que se constrúen os instrumentos e tamén a forma en que producen o son, e polo tanto podemos clasificar os instrumentos musicais en:
+A base para a investigación organolóxica dos instrumentos musicais, parte da clasifcación Hornbostel-Sachs, que se basea na forma en que os instrumentos emiten as vibracións que producen o son. Segundo esto, o sistema de clasificación moderno de instrumentos musicais ten en conta o material co que se constrúen os instrumentos e tamén a forma en que producen o son, e polo tanto podemos clasificar os instrumentos musicais en ...
 
 Corda, vento, percusión e outros 
 
@@ -45,13 +52,16 @@ Idiófonos, membranófonos, cordófonos, aerófonos, e electrófonos (x)
 
 Cordófonos, aerófonos, electrófonos e membranófonos
 
+% Solución:
+% ---------
+O sistema de clasificación moderno de instrumentos musicais, ten en conta o material co que se constrúen os instrumentos e tamén a forma en que producen o son, e polo tanto podemos clasificar os instrumentos musicais en idiófonos, membranófonos, cordófonos, 
 
 % EXERCICIO 04: Organoloxía - clasificación
 % -----------------------------------------
 
 Cal é o corpo vibrante dos idiófonos?
 
-O propio instrumento
+O propio instrumento (x)
 
 Un parche ou membrana tensada
 
@@ -59,6 +69,9 @@ Unha columna de aire
 
 A fluctuación da corrente eléctrica
 
+% Solución:
+% ---------
+O corpo vibrante dos Idiófonos é o propio instrumento.
 
 % EXERCICIO 05: Organoloxía - clasificación
 % -----------------------------------------
@@ -73,20 +86,26 @@ Un parche ou membrana tenso; clasifícanse en directamente ou indirectamente per
 
 O propio instrumento; clasifícanse en directa ou indirectamente percutidos
 
+% Solución:
+% ---------
+Os membranófonos producen o son pola vibración de un parche ou membrana tensado e a súa clasificación varía segundo se trate de percusión directa ou indirecta.
 
 % EXERCICIO 06: Organoloxía - clasificación
 % -----------------------------------------
 
 Cal é o corpo vibrante e como se clasifican segundo se toquen os cordófonos?
 
-O corpo vibrante é unha corda tensada, que pode ser de tripa animal, fibras vexetais, fibras sintéticas, filamentos metálicos, etc. Segundo como se toquen, diferenciamos entre percutidos, punteados, refregados, (...) (x)
+O corpo vibrante é unha corda tensada, que pode ser de tripa animal, fibras vexetais, fibras sintéticas, filamentos metálicos, etc. Segundo como se toquen, clasifícanse en percutidos, punteados, refregados, (...) (x)
 
-O corpo vibrante é o propio instrumento, que ao vibrar produce son. Segundo como se toquen, diferenciamos entre percutidos, punteados, refregados, (...)
+O corpo vibrante é o propio instrumento, que ao vibrar produce son. Segundo como se toquen, clasifícanse en percutidos, punteados, refregados, (...)
 
-O corpo vibrante é o propio instrumento, que ao vibrar produce son. Segundo como se toquen, diferenciamos entre directamente percutidos, punteados, refregados, (...)
+O corpo vibrante é o propio instrumento, que ao vibrar produce son. Segundo como se toquen, clasifícanse en directamente percutidos, punteados, refregados, (...)
 
-O corpo vibrante é unha corda tensada, que por fluctuacións de corrente ao vibrar produce son. Segundo como se toquen diferenciamos entre punteados, refregados, (...)
+O corpo vibrante é unha corda tensada, que por fluctuacións de corrente ao vibrar produce son. Segundo como se toquen clasifícanse en punteados, refregados, (...)
 
+% Solución:
+% ---------
+Segundo como se toquen, clasifícanse en cordófonos percutidos, punteados, refregados, (...). O corpo vibrante é unha corda tensada que vibra producindo o un determinado son segundo o material de que esté feita. 
 
 % EXERCICIO 07: Organoloxía - clasificación
 % -----------------------------------------
@@ -101,6 +120,9 @@ Unha columna de aire que vibra so por interación mecánica
 
 Ningunha é correcta
 
+% Solución:
+% ---------
+Os aerófonos clasifícanse segundo o son se produza por interación humana ou mecánica; como exemplos claros atopamos o órgano de tubos para o segundo caso e a frauta para o primeiro.
 
 % EXERCICIO 08: Organoloxía - definición
 % --------------------------------------
@@ -111,22 +133,27 @@ Verdadeiro
 
 Falso (x)
 
+% Solución:
+% ---------
+A Organoloxía é a rama da Musicoloxía encargada do estudo, investigación e clasificación dos instrumentos musicais.
 
 % EXERCICIO 09: Organoloxía - Sistema de clasificación
 % ----------------------------------------------------
 
-No sistema moderno de clasifcación de instrumentos musicais, o principio de
-división seguido é primeiramente o modo de producir o son segundo o corpo que causa as vibracións, e en segundo lugar o sistema de execución e construcción.
+No sistema moderno de clasifcación de instrumentos musicais, o principio de división seguido é primeiramente o modo de producir o son segundo o corpo que causa as vibracións, e en segundo lugar o sistema de execución e construcción.
 
 Verdadeiro (x)
 
 Falso
 
+% Solución:
+% ---------
+A clasificación moderna ten en conta o corpo vibrante e por conseguinte o modo de producir o son; en segundo lugar considera a forma en que se toquen seguido das propias características constructivas do instrumento.
 
 % EXERCICIO 10: Organoloxía - Patrimonio
 % --------------------------------------
 
-A difcultade de coñecer realmente a organoloxía empregada na prehistoria é debida á utilización de materiais perecedoiros na construcción dos instrumentos musicais, o que causou que se fosen degradando co paso do tempo. Malia todo, grazas aos restos conservados podemos saber que se empregaban instrumentos como as pedras de entrechoque, tambores feitos de troncos de árbores, trompas feitas de cornos de animáis, (...) e todos eles 
+A difcultade de coñecer realmente a organoloxía empregada na prehistoria é debida á utilización de materiais perecedoiros na construcción dos instrumentos musicais, o que causou que se fosen degradando co paso do tempo. Malia todo, grazas aos restos conservados podemos saber que se empregaban instrumentos como as pedras de entrechoque, tambores feitos de troncos de árbores, trompas feitas de cornos de animáis, etc. Todos eles ...
 
 forman parte do patrimonio musical primixenio e constitúen unha fonte de información iconográfica valiosísima
 
@@ -136,7 +163,9 @@ non forman parte do patrimonio musical primixenio pois non se conservan, malia s
 
 forman parte do patrimonio musical primixenio malia non seren fontes de información organolóxicas
 
-
+% Solución:
+% ---------
+Grazas ás achegas que nos proporcionan os restos de instrumentos conservados, atopados en xacementos arqueolóxicos, podemos saber que instrumentos se empregaban na prehistoria e as características organolóxicas dos mesmos, a pesares da súa degradación co paso do tempo.
 
 
 

@@ -1,8 +1,8 @@
 [General]
 kile_livePreviewEnabled=false
-kile_livePreviewStatusUserSpecified=false
+kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=Cuestionarios/HM1TR12223PA.tex
+lastDocument=HM1TR1/HM1-EXAME-PARTE1.tex
 
 [document-settings,item:../Cuestions/Tema0-ESCOITA-Q.txt]
 Bookmarks=
@@ -291,17 +291,17 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:Cuestionarios/HM1TR12223PA.tex]
-CursorColumn=18
-CursorLine=13
+CursorColumn=40
+CursorLine=40
 Dynamic Word Wrap=false
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"c9e9ea9d3989622b15426f0214ca995bd1610051","ranges":[]}
 ViMarks=.,13,17,[,13,17,],13,17
 
 [view-settings,view=0,item:HM1TR1/HM1-EXAME-PARTE1.tex]
-CursorColumn=3
-CursorLine=0
+CursorColumn=1
+CursorLine=58
 Dynamic Word Wrap=false
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"7ff91c1da66e03b744ea335d8473328a6259bb1f","ranges":[]}
 ViMarks=
