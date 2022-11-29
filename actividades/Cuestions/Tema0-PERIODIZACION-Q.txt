@@ -170,8 +170,9 @@ Música barroca
 % ----
 A grandes rasgos, sen ter en conta as diferentes etapas e a súa diferenciación estilística, a música comprendida entre o século XX e XXI coñécese como música contemporánea. Ben é certo, que dentro deste período atoparemos diferentes correntes estilísticas na música europea occidental.
 
-% EXERCICIO 10: 
-% ---------------------------------------
+% ----------------------------------------------
+% EXERCICIO 10: Periodización - Románico, Gótico
+% ----------------------------------------------
 
 Indica a opción correcta segundo a seguinte afirmación: "A arte Románica (séculos X-XII) e Gótica (séculos XII-XV), corresponden á Idade Media; o Neoclasicismo (século XVIII ata inicios do XIX) ..."
 

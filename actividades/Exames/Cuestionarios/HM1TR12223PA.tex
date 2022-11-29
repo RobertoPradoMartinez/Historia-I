@@ -29,6 +29,7 @@
 %
 % CUESTIÓNS:
 % ----------
+% No. total de preguntas = 20
 %
 % Carga aletoria
 % --------------
@@ -38,32 +39,32 @@
 \loadrandomproblems[Tema0-FONTES]{2}{
 ../../Cuestions/Tema0-FONTES-Q.tex}
 %
-\loadrandomproblems[Tema0-ORGANOLOXIA]{5}{
+\loadrandomproblems[Tema0-ORGANOLOXIA]{4}{
 ../../Cuestions/Tema0-ORGANOLOXIA-Q.tex}
 %
-%\loadrandomproblems[Tema0-PERIODIZACION]{2}{
-%../../Cuestions/Tema0-PERIODIZACION-Q.tex}
+\loadrandomproblems[Tema0-PERIODIZACION]{2}{
+../../Cuestions/Tema0-PERIODIZACION-Q.tex}
 %
-%\loadrandomproblems[Tema1-PERSPECTIVAS]{2}{
-%../../Cuestions/Tema0-PERSPECTIVAS-Q.tex}
+\loadrandomproblems[Tema0-PERSPECTIVAS]{2}{
+../../Cuestions/Tema0-PERSPECTIVAS-Q.tex}
 %
-%\loadrandomproblems[Tema1-EXIPTO]{2}{
-%../../Cuestions/Tema1-EXIPTO-Q.tex}
+\loadrandomproblems[Tema1-EXIPTO]{1}{
+../../Cuestions/Tema1-EXIPTO-Q.tex}
 %
-%\loadrandomproblems[Tema1-GRECIA]{2}{
-%../../Cuestions/Tema1-GRECIA-Q.tex}
+\loadrandomproblems[Tema1-GRECIA]{1}{
+../../Cuestions/Tema1-GRECIA-Q.tex}
 %
-%\loadrandomproblems[Tema1-ORGANOLOXIA]{2}{
-%../../Cuestions/Tema1-ORGANOLOXIA-Q.tex}
+\loadrandomproblems[Tema1-ORGANOLOXIA]{2}{
+../../Cuestions/Tema1-ORGANOLOXIA-Q.tex}
 %
-%\loadrandomproblems[Tema1-PENSAMENTO]{2}{
-%../../Cuestions/Tema1-PENSAMENTO-Q.tex}
+\loadrandomproblems[Tema1-PENSAMENTO]{1}{
+../../Cuestions/Tema1-PENSAMENTO-Q.tex}
 %
-%\loadrandomproblems[Tema1-PERIODIZACION]{2}{
-%../../Cuestions/Tema1-PERIODIZACION-Q.tex }
+\loadrandomproblems[Tema1-PERIODIZACION]{1}{
+../../Cuestions/Tema1-PERIODIZACION-Q.tex }
 %
-%\loadrandomproblems[Tema1-ROMA]{2}{
-%../../Cuestions/Tema1-ROMA-Q.tex}
+\loadrandomproblems[Tema1-ROMA]{1}{
+../../Cuestions/Tema1-ROMA-Q.tex}
 %
 % Carga todas
 % -----------
@@ -99,7 +100,7 @@
 %
 \begin{multicols}{2}
 	\begin{enumerate}[1.-]
-    
+{\small % Reducido texto para 4 páxinas (impresión a3)    
 \foreachproblem[Tema0-ESCOITA]{
 \item\label{prob:\thisproblemlabel}
 \thisproblem} 
@@ -112,38 +113,39 @@
 \item\label{prob:\thisproblemlabel}
 \thisproblem}
 %%    
-%\foreachproblem[Tema0-PERIODIZACION]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem}
+\foreachproblem[Tema0-PERIODIZACION]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem}
 %%
-%\foreachproblem[Tema0-PERSPECTIVAS]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem}
+\foreachproblem[Tema0-PERSPECTIVAS]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem}
 %%
-%\foreachproblem[Tema1-EXIPTO]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-EXIPTO]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %%
-%\foreachproblem[Tema1-GRECIA]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-GRECIA]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %%
-%\foreachproblem[Tema1-ORGANOLOXIA]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-ORGANOLOXIA]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %
-%\foreachproblem[Tema1-PENSAMENTO]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-PENSAMENTO]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %
-%\foreachproblem[Tema1-PERIODIZACION]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-PERIODIZACION]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %
-%\foreachproblem[Tema1-ROMA]{
-%\item\label{prob:\thisproblemlabel}
-%\thisproblem} 
+\foreachproblem[Tema1-ROMA]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
 %
+}
     \end{enumerate}
 \end{multicols}
 %

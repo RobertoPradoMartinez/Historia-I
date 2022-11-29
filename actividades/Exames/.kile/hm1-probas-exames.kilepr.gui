@@ -112,8 +112,26 @@ Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
 
-[document-settings,item:Cuestionarios/HM1TR12223PA.tex]
+[document-settings,item:../Modelos/include/config-HM1examen_A_Parte1.tex]
 Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:../Modelos/include/config-HM1examen_A_Parte2.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:Cuestionarios/HM1TR12223PA.tex]
+Bookmarks=33,96
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -158,6 +176,10 @@ order=-1
 open=false
 order=-1
 
+[item:../Cuestions/Tema1-Audicions.tex]
+open=false
+order=-1
+
 [item:../Cuestions/Tema1-EXIPTO-Q.tex]
 open=false
 order=-1
@@ -182,8 +204,28 @@ order=-1
 open=false
 order=-1
 
+[item:../Modelos/include/config-HM1cabeceira-audicions.tex]
+open=false
+order=-1
+
+[item:../Modelos/include/config-HM1cabeceira-parte-B.tex]
+open=false
+order=-1
+
+[item:../Modelos/include/config-HM1cabeceira1.tex]
+open=false
+order=-1
+
+[item:../Modelos/include/config-HM1examen_A_Parte1.tex]
+open=false
+order=-1
+
+[item:../Modelos/include/config-HM1examen_A_Parte2.tex]
+open=false
+order=-1
+
 [item:Cuestionarios/HM1TR12223PA.tex]
-open=true
+open=false
 order=1
 
 [item:HM1TR1/HM1-EXAME-PARTE1.tex]
@@ -290,18 +332,34 @@ JumpList=
 TextFolding=[]
 ViMarks=
 
-[view-settings,view=0,item:Cuestionarios/HM1TR12223PA.tex]
-CursorColumn=40
-CursorLine=40
+[view-settings,view=0,item:../Modelos/include/config-HM1examen_A_Parte1.tex]
+CursorColumn=0
+CursorLine=66
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"c9e9ea9d3989622b15426f0214ca995bd1610051","ranges":[]}
-ViMarks=.,13,17,[,13,17,],13,17
+TextFolding=[]
+ViMarks=.,57,14,[,57,11,],57,14
+
+[view-settings,view=0,item:../Modelos/include/config-HM1examen_A_Parte2.tex]
+CursorColumn=0
+CursorLine=87
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=.,85,68,[,86,0,],-1,-1
+
+[view-settings,view=0,item:Cuestionarios/HM1TR12223PA.tex]
+CursorColumn=42
+CursorLine=62
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=.,62,41,[,62,41,],62,41,a,33,0,b,96,0
 
 [view-settings,view=0,item:HM1TR1/HM1-EXAME-PARTE1.tex]
 CursorColumn=1
-CursorLine=58
+CursorLine=57
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"7ff91c1da66e03b744ea335d8473328a6259bb1f","ranges":[]}
-ViMarks=
+TextFolding=[]
+ViMarks=.,57,0,[,57,0,],57,0

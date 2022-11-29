@@ -72,12 +72,19 @@
 \newtcolorbox{datos-alumnado}[1]{colback=gray!10!white,colframe=gray!50!black,fonttitle=\bfseries, title=NOME E APELIDOS/CALIFICACIÓN:
 \vspace*{0.10cm}}
 
-% Cadro en gris para instruccións:
-\newtcolorbox{instruccions}[1]{colback=gray!2!white,colframe=gray!50!black,fonttitle=\bfseries, title=\centering{INSTRUCCIÓNS PARA REALIZAR A PROBA}
+
+% Cadro en azul para instruccións:
+\definecolor{lila1}{RGB}{193,124,250} % lila
+\definecolor{cornflowerblue}{RGB}{100,149,237} % azul suave
+%
+\newtcolorbox{instruccions}[1]{colback=gray!2!white,
+colframe=gray!50!cornflowerblue,fonttitle=\bfseries, 
+title=\centering{INSTRUCCIÓNS PARA REALIZAR A PROBA}
 \vspace*{0.10cm}}
 % Cuadro numerado para ejemplos
 \newtcolorbox[auto counter,number within=section]{example}[2][]
-{colback=green!5!white,colframe=green!75!black,fonttitle=\bfseries, title=Exemplo~\thetcbcounter: #2,#1}
+{colback=green!5!white,colframe=green!75!black,fonttitle=\bfseries, 
+title=Exemplo~\thetcbcounter: #2,#1}
 
 \usepackage[colorlinks, linkcolor=black]{hyperref}
 %
