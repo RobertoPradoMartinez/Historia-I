@@ -353,7 +353,7 @@ CursorColumn=42
 CursorLine=62
 Dynamic Word Wrap=false
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"2c229f9a07982602682eeae34eb1f0362474df28","ranges":[]}
 ViMarks=.,62,41,[,62,41,],62,41,a,33,0,b,96,0
 
 [view-settings,view=0,item:HM1TR1/HM1-EXAME-PARTE1.tex]
@@ -361,5 +361,5 @@ CursorColumn=1
 CursorLine=57
 Dynamic Word Wrap=false
 JumpList=
-TextFolding=[]
+TextFolding={"checksum":"119eec9192f633b16fc75b971e16e77189406726","ranges":[]}
 ViMarks=.,57,0,[,57,0,],57,0
