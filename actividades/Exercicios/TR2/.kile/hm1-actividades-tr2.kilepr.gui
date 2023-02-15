@@ -2,9 +2,18 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=HM1-Caderno2.tex
+lastDocument=Exercicio-Dies-irae.tex
 
 [document-settings,item:Exercicio-Dies-irae-comentario.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:Exercicio-Dies-irae.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -45,6 +54,10 @@ open=false
 order=-1
 
 [item:Exercicio-Dies-irae-comentario.tex]
+open=false
+order=2
+
+[item:Exercicio-Dies-irae.tex]
 open=true
 order=2
 
@@ -57,7 +70,7 @@ open=false
 order=-1
 
 [item:Exercicio-Puer-natus-comentario.tex]
-open=true
+open=false
 order=1
 
 [item:Exercicio-Simu-exame1.tex]
@@ -66,7 +79,7 @@ order=-1
 
 [item:Exercicio-Viderunt-omnes-comentario.tex]
 open=true
-order=3
+order=1
 
 [item:HM1-Caderno2.tex]
 open=true
@@ -84,6 +97,14 @@ JumpList=
 TextFolding=[]
 ViMarks=.,18,43,[,18,43,],18,43
 
+[view-settings,view=0,item:Exercicio-Dies-irae.tex]
+CursorColumn=39
+CursorLine=13
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38}]
+ViMarks=.,13,38,[,13,32,],13,38
+
 [view-settings,view=0,item:Exercicio-Puer-natus-comentario.tex]
 CursorColumn=1
 CursorLine=176
@@ -93,17 +114,17 @@ TextFolding=[]
 ViMarks=.,229,10,[,229,9,],229,10
 
 [view-settings,view=0,item:Exercicio-Viderunt-omnes-comentario.tex]
-CursorColumn=19
-CursorLine=39
+CursorColumn=140
+CursorLine=10
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1-Caderno2.tex]
-CursorColumn=1
-CursorLine=83
+CursorColumn=14
+CursorLine=119
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=.,93,0,[,93,0,],93,0
+ViMarks=.,119,13,[,119,12,],119,13
