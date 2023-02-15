@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=Exercicio-Puer-natus-comentario.tex
+lastDocument=HM1-Caderno2.tex
 
 [document-settings,item:Exercicio-Dies-irae-comentario.tex]
 Bookmarks=
@@ -14,6 +14,15 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:Exercicio-Puer-natus-comentario.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:Exercicio-Viderunt-omnes-comentario.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -55,6 +64,10 @@ order=1
 open=false
 order=-1
 
+[item:Exercicio-Viderunt-omnes-comentario.tex]
+open=true
+order=3
+
 [item:HM1-Caderno2.tex]
 open=true
 order=0
@@ -64,25 +77,33 @@ open=false
 order=-1
 
 [view-settings,view=0,item:Exercicio-Dies-irae-comentario.tex]
-CursorColumn=25
-CursorLine=21
-Dynamic Word Wrap=false
+CursorColumn=305
+CursorLine=8
+Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
-ViMarks=.,17,43,[,17,43,],17,43
+ViMarks=.,18,43,[,18,43,],18,43
 
 [view-settings,view=0,item:Exercicio-Puer-natus-comentario.tex]
-CursorColumn=11
-CursorLine=229
+CursorColumn=1
+CursorLine=176
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
 ViMarks=.,229,10,[,229,9,],229,10
 
+[view-settings,view=0,item:Exercicio-Viderunt-omnes-comentario.tex]
+CursorColumn=19
+CursorLine=39
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
 [view-settings,view=0,item:HM1-Caderno2.tex]
 CursorColumn=1
-CursorLine=106
+CursorLine=83
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=.,91,0,[,91,0,],91,0
+ViMarks=.,93,0,[,93,0,],93,0

@@ -1,5 +1,5 @@
 [General]
-kile_livePreviewEnabled=false
+kile_livePreviewEnabled=true
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
 lastDocument=
