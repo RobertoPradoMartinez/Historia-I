@@ -2,7 +2,16 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=Exercicio-Dies-irae.tex
+lastDocument=HM1-PEN-IM-Agustin-Hipona.latex
+
+[document-settings,item:Exercicio-A-chantar-comentario.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
 
 [document-settings,item:Exercicio-Dies-irae-comentario.tex]
 Bookmarks=
@@ -49,6 +58,24 @@ Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
 
+[document-settings,item:HM1-PEN-IM-Agustin-Hipona.latex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:HM1-PEN-Idade Media.latex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
 [item:Exercicio-A-chantar-comentario.tex]
 open=false
 order=-1
@@ -58,7 +85,7 @@ open=false
 order=2
 
 [item:Exercicio-Dies-irae.tex]
-open=true
+open=false
 order=2
 
 [item:Exercicio-Ficha-audicions.tex]
@@ -78,16 +105,32 @@ open=false
 order=-1
 
 [item:Exercicio-Viderunt-omnes-comentario.tex]
-open=true
+open=false
 order=1
 
 [item:HM1-Caderno2.tex]
 open=true
 order=0
 
+[item:HM1-PEN-IM-Agustin-Hipona.latex]
+open=true
+order=2
+
+[item:HM1-PEN-Idade Media.latex]
+open=true
+order=1
+
 [item:hm1-actividades-tr2.kilepr]
 open=false
 order=-1
+
+[view-settings,view=0,item:Exercicio-A-chantar-comentario.tex]
+CursorColumn=25
+CursorLine=18
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
 
 [view-settings,view=0,item:Exercicio-Dies-irae-comentario.tex]
 CursorColumn=305
@@ -98,11 +141,11 @@ TextFolding=[]
 ViMarks=.,18,43,[,18,43,],18,43
 
 [view-settings,view=0,item:Exercicio-Dies-irae.tex]
-CursorColumn=39
-CursorLine=13
+CursorColumn=26
+CursorLine=51
 Dynamic Word Wrap=true
 JumpList=
-TextFolding=[{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38},{"endColumn":0,"endLine":38,"flags":2,"startColumn":0,"startLine":38}]
+TextFolding=[]
 ViMarks=.,13,38,[,13,32,],13,38
 
 [view-settings,view=0,item:Exercicio-Puer-natus-comentario.tex]
@@ -122,9 +165,25 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1-Caderno2.tex]
-CursorColumn=14
-CursorLine=119
+CursorColumn=39
+CursorLine=94
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=.,119,13,[,119,12,],119,13
+ViMarks=.,122,13,[,122,12,],122,13
+
+[view-settings,view=0,item:HM1-PEN-IM-Agustin-Hipona.latex]
+CursorColumn=1
+CursorLine=27
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:HM1-PEN-Idade Media.latex]
+CursorColumn=1
+CursorLine=227
+Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
