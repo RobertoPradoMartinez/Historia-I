@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  17 FEB 2023 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  17 FEB 2023 15:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,14 +1273,6 @@ LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (./HM1-Caderno2.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
-
-
-LaTeX Warning: Label `pensadores-textos' multiply defined.
-
-
-LaTeX Warning: Label `agustuxedn-de-hipona-354-430--comentarios-aos-salmos' mul
-tiply defined.
-
 )
 \openout1 = `HM1-Caderno2.aux'.
 
@@ -1681,10 +1673,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-[11]) (./HM1-PEN-IM-Agustin-Hipona.latex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 12.0pt on input line 10.
-) (./HM1-PEN-IM-Agustin-Hipona.latex
+[11])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 23.43588pt, for example:
@@ -1693,46 +1682,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-[12])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.43588pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.43588pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
-
-[13] (./HM1-Caderno2.aux
+[12] (./HM1-Caderno2.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `HM1-Caderno2.out' has not changed.
 (rerunfilecheck)             Checksum: 331F4A28ABCC0E1A81FC5C63DCD0D21E;798.
  ) 
 Here is how much of TeX's memory you used:
- 45347 strings out of 478287
- 1067488 string characters out of 5849290
- 1567132 words of memory out of 5000000
- 62697 multiletter control sequences out of 15000+600000
- 560739 words of font info for 101 fonts, out of 8000000 for 9000
+ 45335 strings out of 478287
+ 1067123 string characters out of 5849290
+ 1566955 words of memory out of 5000000
+ 62694 multiletter control sequences out of 15000+600000
+ 555302 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,12n,131p,796b,1149s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{/us
-r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/shar
-e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/share/texl
-ive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/te
-xmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-di
-st/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on HM1-Caderno2.pdf (13 pages, 1563867 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/shar
+e/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texl
+ive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/share/texlive/te
+xmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
+Output written on HM1-Caderno2.pdf (12 pages, 1526265 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 65 named destinations out of 1000 (max. 500000)
+ 306 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 63 named destinations out of 1000 (max. 500000)
  84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
