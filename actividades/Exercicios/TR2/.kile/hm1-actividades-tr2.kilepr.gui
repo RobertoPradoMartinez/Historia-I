@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=HM1-PEN-IM-Agustin-Hipona.latex
+lastDocument=HM1-Caderno2.tex
 
 [document-settings,item:Exercicio-A-chantar-comentario.tex]
 Bookmarks=
@@ -70,11 +70,33 @@ Mode Set By User=false
 [document-settings,item:HM1-PEN-Idade Media.latex]
 Bookmarks=
 Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:HM1-Textos_Agustin-Hipona.tex]
+Bookmarks=
+Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
+
+[document-settings,item:HM1-Textos_Boecio-Tratado.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[item:../../../audicion-musical.tex]
+open=false
+order=-1
 
 [item:Exercicio-A-chantar-comentario.tex]
 open=false
@@ -113,12 +135,24 @@ open=true
 order=0
 
 [item:HM1-PEN-IM-Agustin-Hipona.latex]
-open=true
+open=false
 order=2
 
 [item:HM1-PEN-Idade Media.latex]
-open=true
+open=false
 order=1
+
+[item:HM1-Textos_Agustin-Hipona.tex]
+open=false
+order=1
+
+[item:HM1-Textos_Boecio-Tratado.tex]
+open=false
+order=-1
+
+[item:HM1-Textos_Idade-Media.tex]
+open=false
+order=-1
 
 [item:hm1-actividades-tr2.kilepr]
 open=false
@@ -142,7 +176,7 @@ ViMarks=.,18,43,[,18,43,],18,43
 
 [view-settings,view=0,item:Exercicio-Dies-irae.tex]
 CursorColumn=26
-CursorLine=51
+CursorLine=33
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
@@ -165,12 +199,12 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1-Caderno2.tex]
-CursorColumn=39
-CursorLine=94
+CursorColumn=30
+CursorLine=101
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=.,122,13,[,122,12,],122,13
+ViMarks=.,98,31,[,98,25,],98,31
 
 [view-settings,view=0,item:HM1-PEN-IM-Agustin-Hipona.latex]
 CursorColumn=1
@@ -181,9 +215,25 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1-PEN-Idade Media.latex]
-CursorColumn=1
-CursorLine=227
+CursorColumn=0
+CursorLine=0
 Dynamic Word Wrap=true
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:HM1-Textos_Agustin-Hipona.tex]
+CursorColumn=24
+CursorLine=57
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=.,65,15,[,65,15,],65,15
+
+[view-settings,view=0,item:HM1-Textos_Boecio-Tratado.tex]
+CursorColumn=14
+CursorLine=55
+Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
