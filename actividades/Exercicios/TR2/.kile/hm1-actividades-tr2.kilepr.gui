@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=Exercicio-Dies-irae.tex
+lastDocument=HM1-PEN-IM-Agustin-Hipona.latex
 
 [document-settings,item:Exercicio-A-chantar-comentario.tex]
 Bookmarks=
@@ -85,7 +85,7 @@ open=false
 order=2
 
 [item:Exercicio-Dies-irae.tex]
-open=true
+open=false
 order=2
 
 [item:Exercicio-Ficha-audicions.tex]
@@ -105,7 +105,7 @@ open=false
 order=-1
 
 [item:Exercicio-Viderunt-omnes-comentario.tex]
-open=true
+open=false
 order=1
 
 [item:HM1-Caderno2.tex]
@@ -113,11 +113,11 @@ open=true
 order=0
 
 [item:HM1-PEN-IM-Agustin-Hipona.latex]
-open=false
+open=true
 order=2
 
 [item:HM1-PEN-Idade Media.latex]
-open=false
+open=true
 order=1
 
 [item:hm1-actividades-tr2.kilepr]
