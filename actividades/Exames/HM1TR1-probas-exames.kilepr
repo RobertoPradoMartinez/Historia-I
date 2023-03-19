@@ -20,9 +20,9 @@ QuickBuild=
 
 [item:../Cuestions/Tema0-ESCOITA-Q.tex]
 archive=true
-encoding=
-highlight=
-mode=
+encoding=UTF-8
+highlight=LaTeX
+mode=LaTeX
 
 [item:../Cuestions/Tema0-ESCOITA-Q.txt]
 archive=true
@@ -62,9 +62,9 @@ mode=Normal
 
 [item:../Cuestions/Tema1-Audicions.tex]
 archive=true
-encoding=
-highlight=
-mode=
+encoding=UTF-8
+highlight=LaTeX
+mode=LaTeX
 
 [item:../Cuestions/Tema1-EXIPTO-Q.tex]
 archive=true
@@ -104,21 +104,21 @@ mode=LaTeX
 
 [item:../Modelos/include/config-HM1cabeceira-audicions.tex]
 archive=true
-encoding=
-highlight=
-mode=
+encoding=UTF-8
+highlight=LaTeX
+mode=LaTeX
 
 [item:../Modelos/include/config-HM1cabeceira-parte-B.tex]
 archive=true
-encoding=
-highlight=
-mode=
+encoding=UTF-8
+highlight=LaTeX
+mode=LaTeX
 
 [item:../Modelos/include/config-HM1cabeceira1.tex]
 archive=true
-encoding=
-highlight=
-mode=
+encoding=UTF-8
+highlight=LaTeX
+mode=LaTeX
 
 [item:../Modelos/include/config-HM1examen_A_Parte1.tex]
 archive=true
@@ -147,5 +147,5 @@ mode=LaTeX
 [item:hm1-probas-exames.kilepr]
 archive=true
 encoding=
-highlight=
-mode=
+highlight=None
+mode=Normal
