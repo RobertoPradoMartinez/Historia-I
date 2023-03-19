@@ -1,0 +1,155 @@
+% --------------------------
+% MODELO CUESTIONARIOS EXAME
+% --------------------------
+% ACTUALIZADO: 17 de Marzo 2023
+%
+% TODO: É preciso ver máis sobre o paquete 'PROBSOLN'
+%
+% Axustes para cuestionarios aleatorios:
+% ======================================
+% Guión para non repetir cuestións de exercicios, etc.
+%
+% Indicamos ano académico:
+% -----------------------
+\SetStartYear{2018}
+\PSNrandseed{\GetStartYear} %
+%
+% Exclude problems that have been used this year or the previous
+% two academic years. (Creates a file called 'excluded.tex' to
+% store labels of used problems. Also creates a file called
+% \jobname.prb that stores labels of problems used in this
+% document, so they don't get excluded on subsequent runs.)
+%\ExcludePreviousFile[1]{excluded}
+%
+ % To clear the used problems file (\jobname.prb) of the labels
+ % generated in the previous run, comment the above and uncomment
+ % below:
+%
+ % TODO: Revisar os arquivos excluídos
+\ClearUsedFile{excluded}
+%
+%
+% CUESTIÓNS:
+% ----------
+% No. total de preguntas = 20
+% TODO: REVISAR AS SOLUCIÓNS DO CUESTIONARIO
+%
+% Carga aletoria
+% --------------
+\loadrandomproblems[Tema3-PERIODIZACION]{4}{
+../../Cuestions/Tema3-Periodizacion-Q.tex}
+%
+\loadrandomproblems[Tema3-CANTO-CHA-EXPANSION]{3}{
+../../Cuestions/Tema3-Canto-gregoriano-expansion-Q.tex}
+%
+\loadrandomproblems[Tema3-NOTACION-MODAL]{5}{
+../../Cuestions/Tema3-Notacion-modal-Q.tex}
+%
+\loadrandomproblems[Tema3-CANTO-CHA]{8}{
+../../Cuestions/Tema3-Canto-gregoriano-Q.tex}
+%
+%\loadrandomproblems[Tema0-PERSPECTIVAS]{2}{
+%../../Cuestions/Tema0-PERSPECTIVAS-Q.tex}
+%
+%\loadrandomproblems[Tema1-EXIPTO]{1}{
+%../../Cuestions/Tema1-EXIPTO-Q.tex}
+%
+%\loadrandomproblems[Tema1-GRECIA]{1}{
+%../../Cuestions/Tema1-GRECIA-Q.tex}
+%
+%\loadrandomproblems[Tema1-ORGANOLOXIA]{2}{
+%../../Cuestions/Tema1-ORGANOLOXIA-Q.tex}
+%
+%\loadrandomproblems[Tema1-PENSAMENTO]{1}{
+%../../Cuestions/Tema1-PENSAMENTO-Q.tex}
+%
+%\loadrandomproblems[Tema1-PERIODIZACION]{1}{
+%../../Cuestions/Tema1-PERIODIZACION-Q.tex }
+%
+%\loadrandomproblems[Tema1-ROMA]{1}{
+%../../Cuestions/Tema1-ROMA-Q.tex}
+%
+% Carga todas
+% -----------
+%\loadallproblems
+%\loadallproblems[Tema1-PENS]{}
+%\loadallproblems[Tema1-GR]{}
+%\loadallproblems[Tema1-OR]{}
+%\loadallproblems[Tema1-EX]{}
+%\loadallproblems[Tema1-RO]{}
+%
+% Carga selectiva
+% ---------------
+%\loadselectedproblems[Tema1-EX]{T1EX-01,T1EX-02}{../../Cuestions/Tema1-Exipto.tex}
+%\loadselectedproblems[Tema1-GR]{T1GR-05,T1GR-07,T1GR-08,T1GR-02}{
+%../../Cuestions/Tema1-Grecia.tex}
+%\loadselectedproblems[Tema1-PE]{T1PE-05,T1PE-11,T1PE-12}{
+%../../Cuestions/Tema1-Periodizacion.tex}
+%\loadselectedproblems[Tema1-PENS]{T1PENS-03,T1PENS-04}{
+%../../Cuestions/Tema1-Pensamento.tex}
+%\loadselectedproblems[Tema1-RO]{T1RO-01}{../../Cuestions/Tema1-Roma.tex}
+%
+%
+% Carga exluínte
+% --------------
+%\loadexceptproblems[Tema1-CO]{T1CO-01,T1CO-02,T1CO-03,T1CO-04}{../../Cuestions/Tema1-Compositores.tex}
+%
+%
+%
+% -------------------------------
+% Estrutura e numeración da proba
+% -------------------------------
+% Organiza aquí todas as cuestións
+%
+\begin{multicols}{2}
+	\begin{enumerate}[1.-]
+{\small % Reducido texto para 4 páxinas (impresión a3)
+%%
+\foreachproblem[Tema3-PERIODIZACION]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem}
+%%
+\foreachproblem[Tema3-NOTACION-MODAL]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem}
+%%
+\foreachproblem[Tema3-CANTO-CHA-EXPANSION]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem}
+%%
+\foreachproblem[Tema3-CANTO-CHA]{
+\item\label{prob:\thisproblemlabel}
+\thisproblem} 
+%%
+%\foreachproblem[Tema0-PERSPECTIVAS]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%
+%\foreachproblem[Tema1-EXIPTO]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%
+%\foreachproblem[Tema1-GRECIA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%%
+%\foreachproblem[Tema1-ORGANOLOXIA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%
+%\foreachproblem[Tema1-PENSAMENTO]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%
+%\foreachproblem[Tema1-PERIODIZACION]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%
+%\foreachproblem[Tema1-ROMA]{
+%\item\label{prob:\thisproblemlabel}
+%\thisproblem}
+%
+}
+    \end{enumerate}
+\end{multicols}
+%

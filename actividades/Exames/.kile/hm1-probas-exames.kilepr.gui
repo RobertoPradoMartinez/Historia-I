@@ -361,5 +361,5 @@ CursorColumn=1
 CursorLine=57
 Dynamic Word Wrap=false
 JumpList=
-TextFolding={"checksum":"119eec9192f633b16fc75b971e16e77189406726","ranges":[]}
+TextFolding=[]
 ViMarks=.,57,0,[,57,0,],57,0
