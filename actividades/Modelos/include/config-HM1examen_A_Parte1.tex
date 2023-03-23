@@ -69,15 +69,24 @@
 %
 % SOLUCIÓNS AOS EXAMES:
 % ---------------------
-% Esto es lo importante. Ponemos la solución al margen.
+%% Esto es lo importante. Ponemos la solución al margen.
+%\NewEnviron{solutionnew}{%
+%%  \leavevmode\marginpar{\raggedright\footnotesize \textbf{Solución:}\\ \BODY}
+%%  \textbf{Solución:}\\ \BODY} % sol. con salto de liña
+%  \small{Solución:} \BODY} % sol. na mesma liña
+%  {}
+%\renewenvironment{solution}{\solutionnew}{\endsolutionnew}
+% ---
+% Solución resaltada en cor lima:
+% -------------------------------
+%Esto es lo importante. Ponemos la solución al margen.
 \NewEnviron{solutionnew}{%
 %  \leavevmode\marginpar{\raggedright\footnotesize \textbf{Solución:}\\ \BODY}
 %  \textbf{Solución:}\\ \BODY} % sol. con salto de liña
-  \small{Solución:} \BODY} % sol. na mesma liña
+  \small{\colorbox{lime}{Solución:} \BODY}} % sol. na mesma liña
   {}
 \renewenvironment{solution}{\solutionnew}{\endsolutionnew}
 % ---
-
 % --------
 % Lineas de encabezado y pié
 % --------------------------
