@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "d796c387f70787ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "06a846778c8af68a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c763ced13273ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb73f5d1694c7e86",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "30e5dd7fc04ca26f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ccfd15abc3bf7196",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f185817fdc2d141b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "476996e20cc9344b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "37000bee0a546897",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cb1f68b638e87100",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a314cc64ca6dbe1b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5feda04818b496fb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1c763ced13273ba",
+  "lastOpenFiles": [
+    "_Chuleta-RStudio.md",
+    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.md",
+    "unidades-didacticas/unidade-03/HM1-Exemplo transcripcion.md",
+    "figures/ud-03/Ex-Transcripción_1.png.md",
+    "unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md",
+    "actividades/Exames/HM1TR2/HM1TR2-EXAME-PARTE2.pdf",
+    "actividades/Exames/HM1-TR1-2021/HM1_Examen_A_parte1.pdf"
+  ]
+}
