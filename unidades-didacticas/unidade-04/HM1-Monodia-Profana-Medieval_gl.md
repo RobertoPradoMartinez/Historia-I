@@ -130,7 +130,7 @@ A maior parte destas danzas reciben o nome de **estampida** (en francés _est
 
 Algunhas das danzas do manuscrito italiano, como o _Lamento di Tristano_ ou a _Manfredina_ divídense en dúas partes, a primeira máis grave e lenta e a segunda máis rápida. Este costume continuará no Renacemento e desenvolverase posteriormente nas _suites_ barrocas.
 
-### O0rganoloxía medieval
+### Organoloxía medieval
 
 A iconografía e a literatura presentan multitude de instrumentos que se utilizaban na música medieval.
 
