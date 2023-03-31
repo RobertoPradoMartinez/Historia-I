@@ -1,22 +1,18 @@
-# Historia da música 4.º
+# Tema: Orixe e inicios da polifonía
 
 [Páxina principal](https://www.franciscocallejo.es/index.php)[Páxina da materia](https://www.franciscocallejo.es/hm4/index.php)[Temario](https://www.franciscocallejo.es/hm4/index.php?page=temario4.html)
+<!--31/03/23: Revisar o tema-->
+## Antecedentes da polifonía
 
-Material complementario
+### O *organun* primitivo: concepto, fontes e tipos
 
-## Orixes da polifonía
+A polifonía foi unha técnica de amplificación e recreación do repertorio gregoriano ao igual que os tropos. Se ben non podemos indicar cando se orixina, as primeiras noticias que temos proveñen dos teóricos do século IX, pero certo é que o uso da técnica proviña de tempo atrás. Entre os séculos IX  e XI numerosos tratados fan referencia a un concepto: o _organum_ (nome habitual da técnica polifónica), pero apenas se conservan libros de canto que o inclúan, motivo polo que se considera que se trataba dunha práctica de improvisación. Entre eses tratados atópanse _Musica enchiriadis_ (Manual de música) e _Scholia enchiriadis_ (Comentarios ao manual), os dous anónimos do século IX. Guido d’Arezzo estuda algunhas das características do _organum_ no seu _Micrologus_, c.a 1030.  
 
-### O _organum_ primitivo
+Entre os séculos XI e XII atopamos dous tratados de gran importancia, como son *De Musica* de John Cotton e *Ad organum faciendum* (Como facer pollifonía). Nestes tratados, diferéncianse varias técnicas de *organum*: 
+Enrte os séculos XI e XII, hai dous tratados importantes, o _De Musica_ de John Cotton e o anónimo _Ad organum faciendum_ (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de _organum_:
 
-A polifonía foi unha técnica de amplificación e recreación do repertorio gregoriano, do mesmo xeito que os tropos. A súa orixe non pode datarse con claridade: as primeiras noticias que temos dánnolas os teóricos do século IX, pero o uso da técnica viña de atrás. Entre os séculos IX e XI numerosos tratados fan referencia a o _organum_ (nome habitual da técnica polifónica), pero apenas se conservan libros de canto que o inclúan, o que fai pensar que se trataba dunha práctica de improvisación. Entre eses tratados atópanse _Musica enchiriadis_ (Manual de música) e _Scholia enchiriadis_ (Comentarios ao manual), anónimos, do século IX. Guido d’Arezzo estuda algunhas características de o _organum_ no seu _Micrologus_, de cara a 1030; no límite entre os séculos XI e XII hai dous tratados importantes, o _De Musica_ de John Cotton e o anónimo _Ad organum faciendum_ (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de _organum_:
-
-_Organum_ paralelo.
-
-É a forma máis antiga; consiste simplemente en que unha voz, chamada voz organal, dobra a melodía gregoriana a distancia de quinta ou cuarta, habitualmente inferior. Se algunha das voces, ou ambas as, dobrábanse á oitava, formábase o _organum_ composto.
-
-_Organum_ paralelo modificado.
-
-Similar ao anterior, pero finalizando (e xeralmente tamén comezando) ao unísono. Esto obrigaba a ter en conta o movemento oblicuo, directo e contrario, ademais do paralelo; tamén a considerar o uso das disonancias (terceiras e sextas) e a súa función, especialmente nas cadencias. Era a forma habitual a comezos de o XI.
+- _Organum_ paralelo. Trátase da forma de pollifonía máis antiga, que consiste simplemente en dobrar unha melodía de canto chá a distancia de quinta ou cuarta, isto é: unha voz, chamada voz organal (*vox organalis*) dobra a melodía gregoriana (*vox principalis*) a distancia de quinta ou cuarta, habitualmente inferior. No caso de que algunha das voces --ou ambas-- se dobrasen á oitava formábase o _organum_ composto.
+- _Organum_ paralelo modificado: similar ao anterior, pero finalizando (e xeralmente tamén comezando) ao unísono. Esto obrigaba a ter en conta o movemento oblicuo, directo e contrario, ademais do paralelo; tamén a considerar o uso das disonancias (terceiras e sextas) e a súa función, especialmente nas cadencias. Era a forma habitual a comezos de o XI.
 
 _Organum_ libre.
 
