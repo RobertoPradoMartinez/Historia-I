@@ -26,7 +26,7 @@ Dada a seguinte melodía, se queremos realizar a transcrición da mesma a notaci
 
 ### Análise {-}
 
-#### Modo y ámbito {-}
+#### Modo e ámbito {-}
 
 - A peza está dividida en dúas seccións separadas por unha dobre barra.
 - A **nota final** da peza é *re* (nas dúas seccións) polo que o modo correspondente é *prorrectus*
