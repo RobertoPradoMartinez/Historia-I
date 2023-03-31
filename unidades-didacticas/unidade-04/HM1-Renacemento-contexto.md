@@ -1,1 +1,0 @@
-## O Renacemento: contexto histórico
