@@ -176,11 +176,11 @@ open=false
 order=-1
 
 [item:Cuestionarios/HM1TR22223PA.tex]
-open=true
+open=false
 order=1
 
 [item:HM1TR2/HM1TR2-EXAME-PARTE1.tex]
-open=true
+open=false
 order=0
 
 [item:HM1TR2/HM1TR2-EXAME-PARTE2.tex]
