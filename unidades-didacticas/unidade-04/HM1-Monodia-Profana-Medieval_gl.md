@@ -2,6 +2,7 @@
 
 <!--IMPORTANTE: Revisar ortigrafía e gramática-->
 <!-- Reelaborar e resumir o tema-->
+<!-- Incluír en exercicios os textos-->
 
 [Páxina principal](https://www.franciscocallejo.es/index.php)[Páxina da materia](https://www.franciscocallejo.es/hm4/index.php)[Temario](https://www.franciscocallejo.es/hm4/index.php?page=temario4.html)
 
@@ -9,7 +10,7 @@
 
 ### O movemento trovadoresco
 
-O nacemento da canción profana en lingua vernácula (non en latín) asóciase normalmente co movemento trobadoresco, que floreceu no sur de Francia nos séculos XII e XIII. Nesta época, nas cortes aristocráticas de [Aquitania] e zonas próximas (incluídas Cataluña e o norte de Italia) difundiuse un tipo de canción que alcanzou un gran éxito como forma de lecer. Así, os nobres mantiñan nas súas cortes _trobadores_ que compoñían as cancións e _cantadores_ que as interpretaban; con frecuencia as dúas facetas realizábaas a mesma persoa, creándose así un grupo profesionalizado de músicos cortesáns; era tamén habitual que os propios nobres, tanto homes como mulleres, fosen trobadores, isto é, que compuxesen cancións, malia que a interpretación sempre estaba a cargo dos cantadores.
+O nacemento da canción profana en lingua vernácula (non en latín) asóciase normalmente co movemento trobadoresco, que floreceu no sur de Francia nos séculos XII e XIII. Nesta época, nas cortes aristocráticas de [Aquitania] e zonas próximas (incluídas Cataluña e o norte de Italia) difundiuse un tipo de canción que alcanzou un gran éxito como forma de lecer. Así, os nobres mantiñan nas súas cortes _trobadores_ que creaban as cancións e _cantadores_ que as interpretaban; con frecuencia as dúas facetas realizábaas a mesma persoa, creándose así un grupo profesionalizado de músicos cortesáns; era tamén habitual que os propios nobres, tanto homes como mulleres, fosen trobadores, isto é, que creasen cancións, malia que a interpretación sempre estaba a cargo dos cantadores.
 
 Os trobadores compoñían o texto e a música das súas cancións axustándose a unha serie de xéneros musicais, pero sempre procurando a orixinalidade na combinación de recursos poéticos e musicais. As súas cancións consérvanse en varios manuscritos, en xeral bastante tardíos (da segunda metade do século XIII). Coñecemos os nomes de máis de catrocentos trobadores e consérvanse os textos dunhas 2500 cancións; con todo, só coñecemos as melodías dunhas 250 cancións de aproximadamente corenta trobadores. Os textos están escritos en lingua occitana ou provenzal, coñecida entón como _langue d’oc_ para distinguila de a _langue d’oil_, o francés do norte. As cancións máis antigas corresponden a **Guilhem de Peitieu**, duque de Aquitania (máis coñecido como Guillermo IX de Aquitania), que viviu entre finais do século XI e comezos do XII.  
 
@@ -26,8 +27,9 @@ A forma é sempre a **canción estrófica**: o texto divídese en varias estrof
 A sección A engloba os dous primeiros versos e repítese nos dous seguintes, mentres o resto da estrofa constitúe a sección B. Este esquema soe ser o máis usado e aceptado, mais non é o único, pois o verdadeiro mérito do trobador ou da trobadora estaba en saber relacionar con orixinalidade a estrutura poética e musical.
 
 #### Características musicais
+<!--4ºB-->
 
-Entre as características que convén destacar das melodías trovadorescas,  atopamos as seguintes:
+Entre as características a destacar das melodías trobadorescas,  atopamos as seguintes:
 
 1. As melodías utilizan o mesmo sistema modal que as gregorianas, pero con algunhas diferenzas: 
 	- non existe unha nota tenor
@@ -39,7 +41,6 @@ Entre as características que convén destacar das melodías trovadorescas,  ato
 
 #### Xéneros de cancións
 <!--4ºB: 29/03/23--->
-
 No seu momento de esplendor, as cancións trovadorescas clasificábansesó: é a propia canción amorosa que constitúe a base ou o modelo de todas as demais. Forman o conxunto principal da canción trovadoresca.
 - *Alba*: é un subxénero de *cansó*. A temática será a dor dos amantes ao ter que separarse ao amencer para evitar que os sorprendan despois de pasar a noite xuntos. Os avisos do amencer (raios de sol, cantos de paxaros), que habitualmente son signos de alegría, convértense aquí en signos de tristeza.
 - *Pastorela*: está relacionada coa *cansó*, pero é de carácter narrativo e dramático máis que lírico. A temática habitual será o encontro dun cabaleiro cunha pastora no campo; o cabaleiro tratará de conquistar o seu amor, establecéndose así un diálogo entre ambos que dará lugar a dous finais ben diferentes: o primeiro, ben podería ser o rexeitamento do cabaleiro pola pastora, ou ben, o segundo, a aceptación da relación amorosa.
@@ -64,7 +65,7 @@ O primeiro troveiro do que se ten noticia foi **Chrétien de Troyes**, aínda q
 
 #### Xéneros
 
-Os troveiros da _langue d’oil_ cultivaron en xeral os mesmos xéneros de canción que os trobadores en _langue d’oc_. Entre eles, a _chanson_, equivalente á *cansó* ; a _chanson d’aube_ (alba), a _pastourelle_ (pastorela) ou o _jeu parti_, versión trovera da *tensó* . Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a canción narrativa e a canción de danza.
+Os troveiros da _langue d’oil_ cultivaron en xeral os mesmos xéneros de canción que os trobadores en _langue d’oc_. Entre eles, a _chanson_, equivalente á *cansó* ; a _chanson d’aube_ (alba), a _pastourelle_ (pastorela) ou o _jeu parti_, versión trovera da *tensó* . Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a aaaáaá narrativa e a canción de danza.
 
 ##### Cancións narrativas
 

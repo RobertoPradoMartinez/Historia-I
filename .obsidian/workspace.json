@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
+                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df63d750c7d2f76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ebbc4f123458ab8",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
+                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
+                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md"
+                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md"
               }
             }
           },
@@ -156,10 +170,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "75815454370803c0",
+  "active": "df63d750c7d2f76c",
   "lastOpenFiles": [
+    "unidades-didacticas/unidade-05/HM1-Renacemento_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_gl.md",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es (copia).txt",
+    "unidades-didacticas/unidade-05/Sin confirmar 613007.crdownload",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es (copia).md",
+    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
+    "unidades-didacticas/unidade-03/HM1-Canto gregoriano caracteristicas.md",
+    "unidades-didacticas/unidade-05",
+    "unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md",
+    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
+    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_es.md",
     "unidades-didacticas/unidade-03/HM1-Sistemas modais.md",
     "unidades-didacticas/unidade-03/HM1-Sistema modal medieval.md",
@@ -168,14 +194,9 @@
     "unidades-didacticas/unidade-03/HM1-Exemplo transcripcion.md",
     "figures/ud-03/Ex-Transcripción_1.png.md",
     "unidades-didacticas/unidade-03/HM1-Canto gregoriano repertorio.md",
-    "unidades-didacticas/unidade-03/HM1-Canto gregoriano caracteristicas.md",
-    "unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md",
-    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
     "unidades-didacticas/unidade-04/Sin confirmar 552902.crdownload",
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.md",
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.txt",
-    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
     "unidades-didacticas/unidade-04/Sin confirmar 789578.crdownload",
     "unidades-didacticas/unidade-04/HM1-Ars-antiqua-ars-nova.md",
     "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova.txt",
@@ -183,10 +204,6 @@
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval.md",
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval.txt",
     "unidades-didacticas/unidade-04/Sin confirmar 447692.crdownload",
-    "unidades-didacticas/unidade-04/Sin confirmar 640613.crdownload",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica.txt",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica.md",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
-    "unidades-didacticas/unidade-04/Sin confirmar 419584.crdownload"
+    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica.md"
   ]
 }
