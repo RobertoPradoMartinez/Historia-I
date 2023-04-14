@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "df63d750c7d2f76c",
+  "active": "75815454370803c0",
   "lastOpenFiles": [
     "unidades-didacticas/unidade-05/HM1-Renacemento_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",

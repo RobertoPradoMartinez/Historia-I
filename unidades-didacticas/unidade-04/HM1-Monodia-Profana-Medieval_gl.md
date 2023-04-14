@@ -8,7 +8,7 @@
 
 ## A monodia profana medieval
 
-### O movemento trovadoresco
+### O movemento trobadoresco
 
 O nacemento da canción profana en lingua vernácula (non en latín) asóciase normalmente co movemento trobadoresco, que floreceu no sur de Francia nos séculos XII e XIII. Nesta época, nas cortes aristocráticas de [Aquitania] e zonas próximas (incluídas Cataluña e o norte de Italia) difundiuse un tipo de canción que alcanzou un gran éxito como forma de lecer. Así, os nobres mantiñan nas súas cortes _trobadores_ que creaban as cancións e _cantadores_ que as interpretaban; con frecuencia as dúas facetas realizábaas a mesma persoa, creándose así un grupo profesionalizado de músicos cortesáns; era tamén habitual que os propios nobres, tanto homes como mulleres, fosen trobadores, isto é, que creasen cancións, malia que a interpretación sempre estaba a cargo dos cantadores.
 
@@ -18,7 +18,9 @@ O movemento trobadoresco desenvolveuse durante o medio século seguinte, alcanzo
 
 #### O amor cortés
 
-O tema principal das cancións trobadorescas é o _amor cortés_. Trátase dunha concepción moi ritualizada do amor: o trobador namórase dunha dama casada, habitualmente a esposa do seu señor, e mantén con ela unha relación semellante á relación feudal de vasalaxe. Esta relación evoluciona desde o rexeitamento inicial da dama ata a unión amorosa plena, pasando por unha serie de etapas. Ademais do trobador e a dama (ou trobadora e cabaleiro) adoita aparecer a figura do _gilós_ (celoso), esposo dela, así como os amigos dos namorados, encargados estes últimos de facilitar os encontros e, os _lauzengiers_ ou lisonjeros, que espían aos namorados e informan dos seus encontros ao esposo e, dese modo escalar postos na corte.  
+<!--Revisión: 14-04-23, Fonte: J.Jurado-->
+
+O tema principal das cancións trobadorescas é o _amor cortés_. Trátase dunha concepción moi ritualizada do amor, baseado no amor platónico que o trobador sente cara unha dama inalcanzable: namórase dunha dama casada, habitualmente a esposa do seu señor, e mantén con ela unha relación semellante á relación feudal de vasalaxe. Esta relación evoluciona desde o rexeitamento inicial da dama ata a unión amorosa plena, pasando por unha serie de etapas. Ademais do trobador e a dama (ou trobadora e cabaleiro) adoita aparecer a figura do _gilós_ (celoso), esposo dela, así como os amigos dos namorados, encargados estes últimos de facilitar os encontros e, os _lauzengiers_ ou "*lisonjeros*", que espían aos namorados e informan dos seus encontros ao esposo e, dese modo escalar postos na corte.  
 As cancións amorosas tratan desta forma o amor en todos os seus aspectos: o amor non correspondido, o amor feliz, o amor clandestino, etc.
 
 #### Forma musical
@@ -35,13 +37,14 @@ Entre as características a destacar das melodías trobadorescas,  atopamos as s
 	- non existe unha nota tenor
 	- o movemento melódico é máis libre
 2. O ámbito é diverso, e tanto pode abarcar desde unha cuarta ou unha quinta ata unha dobre oitava; o máis habitual é que cada sección da estrofa se organíce sobre un ámbito diferente, e o ámbito total ronde a oitava.
-3. O estilo de canto tende ao silábico, pero tamén hai melodías moi adornadas.
+3. O estilo de canto tende ao silábico, ás veces lixeiramente neumáticas (4, 5 notas por sílaba) sobre todo para enfatizar a rima e a cadencia.
 4. O ritmo era (probablemente) máis compasado e regular que no canto gregoriano.
-5. A interpretación acompañábase con instrumentos, (seguramente) en textura heterofónica.
+5. Son de textura monódica e a interpretación acompañábase con instrumentos, (seguramente) en textura heterofónica.
 
 #### Xéneros de cancións
 <!--4ºB: 29/03/23--->
-No seu momento de esplendor, as cancións trovadorescas clasificábansesó: é a propia canción amorosa que constitúe a base ou o modelo de todas as demais. Forman o conxunto principal da canción trovadoresca.
+No seu momento de esplendor, as cancións trobadorescas clasificábanse do seguinte xeito:
+- *Cansó*: é a propia canción amorosa que constitúe a base ou o modelo de todas as demais. Forman o conxunto principal da canción trobadoresca.
 - *Alba*: é un subxénero de *cansó*. A temática será a dor dos amantes ao ter que separarse ao amencer para evitar que os sorprendan despois de pasar a noite xuntos. Os avisos do amencer (raios de sol, cantos de paxaros), que habitualmente son signos de alegría, convértense aquí en signos de tristeza.
 - *Pastorela*: está relacionada coa *cansó*, pero é de carácter narrativo e dramático máis que lírico. A temática habitual será o encontro dun cabaleiro cunha pastora no campo; o cabaleiro tratará de conquistar o seu amor, establecéndose así un diálogo entre ambos que dará lugar a dous finais ben diferentes: o primeiro, ben podería ser o rexeitamento do cabaleiro pola pastora, ou ben, o segundo, a aceptación da relación amorosa.
 - *Sirventés*: de temática política, satírica ou moral, normalmente imitaba a estrutura métrica de unha _cansó_ utilizando o recurso da parodia. 
@@ -59,9 +62,9 @@ Retratos dalgúns trobadores do século XII en manuscritos do XIII
 
 ### Expansión do movemento trobadoresco: os trobeiros
 
-Medio século despois da aparición do movemento trovadoresco xorden movementos similares noutros lugares de Europa. No norte de Francia desenvolveuse o movemento dos troveiros (_trouvères_) cando se comeza a compoñer cancións de tipo trovadoresco sobre textos en francés, a chamada _langue d’oil_.
+Medio século despois da aparición do movemento trobadoresco xorden movementos similares noutros lugares de Europa. No norte de Francia desenvolveuse o movemento dos trobeiros (_trouvères_) cando se comeza a compoñer cancións de tipo trobadoresco sobre textos en francés, a chamada _langue d’oil_.
 
-O primeiro troveiro do que se ten noticia foi **Chrétien de Troyes**, aínda que non se conserva ningunha das súas cancións. Entre moitos outros, destaca moi especialmente **Thibaut de Champagne**, que foi rei de Navarra e promoveu o cultivo da canción troveira na súa corte de Pamplona. A etiqueta de «último troveiro» aplícaselle habitualmente a **Adam de la Halle**, que viviu a finais do século XIII e comezou a composición de cancións polifónicas.
+O primeiro trobeiro do que se ten noticia foi **Chrétien de Troyes**, aínda que non se conserva ningunha das súas cancións. Entre moitos outros, destaca moi especialmente **Thibaut de Champagne**, que foi rei de Navarra e promoveu o cultivo da canción troveira na súa corte de Pamplona. A etiqueta de «último troveiro» aplícaselle habitualmente a **Adam de la Halle**, que viviu a finais do século XIII e comezou a composición de cancións polifónicas.
 
 #### Xéneros
 
@@ -93,7 +96,7 @@ A bba A bba A …
 
 A finais do século XIII comezou a moda de compoñer _ballades_, _rondeaux_ e _virelais_ en forma polifónica; esto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias moi importantes: a separación de funcións entre poeta e músico, e a desaparición de o _amateurismo_ que fora a base da canción trobeira e troadoresca. Coa aparición da canción profana polifónica desaparece o movemento trobeiro.
 
-### Expansión do movemento trovadoresco: os _Minnesinger_
+### Expansión do movemento trobadoresco: os _Minnesinger_
 
 En Alemaña, a canción de tipo trobadoresco apareceu ao mesmo tempo que no norte de Francia e mantívose bastante máis tempo, en dúas etapas diferenciadas: a dos _Minnesinger_ e a dos _Meistersinger_.
 
