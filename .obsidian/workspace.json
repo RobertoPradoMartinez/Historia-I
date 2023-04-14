@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ebbc4f123458ab8",

@@ -68,6 +68,7 @@ O primeiro troveiro do que se ten noticia foi **Chrétien de Troyes**, aínda q
 Os troveiros da _langue d’oil_ cultivaron en xeral os mesmos xéneros de canción que os trobadores en _langue d’oc_. Entre eles, a _chanson_, equivalente á *cansó* ; a _chanson d’aube_ (alba), a _pastourelle_ (pastorela) ou o _jeu parti_, versión trovera da *tensó* . Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a aaaáaá narrativa e a canción de danza.
 
 ##### Cancións narrativas
+<!--4ºA: 13-4-23-->
 
 A composición de cancións narrativas deriva do antigo xénero de a _chanson de geste_ (cantar de *gesta*), cultivado en Francia desde o século X. Dentro deste grupo, destacan dous tipos principais:
 
@@ -78,6 +79,7 @@ A composición de cancións narrativas deriva do antigo xénero de a _chanson d
 	Formalmente, a _chanson de toile_ cantábase cunha fórmula melódica dun ou dous versos que se repetía constantemente, ás veces alternando cun retrouso (estribillo). Esta  forma relaciónase directamente coa _chanson de geste_.
 
 ##### As formas fixas
+<!--4ºA: 13-04-23-->
 
 As cancións derivadas da danza apareceron preto do final da época trobeira, na segunda metade do século XIII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da _chanson_, estas cancións tiñan sempre unha mesma estrutura, polo que se coñecen como _formes fixes_ (formas fixas).  
 Entre as formas fixas destacan tres:
