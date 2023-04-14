@@ -1,5 +1,7 @@
 [
   "txt-as-md-obsidian",
   "markdown-table-editor",
-  "obsidian-markdown-formatting-assistant-plugin"
+  "obsidian-markdown-formatting-assistant-plugin",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-image-caption"
 ]

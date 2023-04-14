@@ -1,8 +1,6 @@
-# Tema: A monodia profana medieval
+# A monodia profana medieval
 
-<!--IMPORTANTE: Revisar ortigrafía e gramática-->
-<!-- Reelaborar e resumir o tema-->
-<!-- Incluír en exercicios os textos-->
+<!--REVISADO: 14-Abril-2023-->
 
 [Páxina principal](https://www.franciscocallejo.es/index.php)[Páxina da materia](https://www.franciscocallejo.es/hm4/index.php)[Temario](https://www.franciscocallejo.es/hm4/index.php?page=temario4.html)
 
@@ -14,7 +12,13 @@ O nacemento da canción profana en lingua vernácula (non en latín) asóciase n
 
 Os trobadores compoñían o texto e a música das súas cancións axustándose a unha serie de xéneros musicais, pero sempre procurando a orixinalidade na combinación de recursos poéticos e musicais. As súas cancións consérvanse en varios manuscritos, en xeral bastante tardíos (da segunda metade do século XIII). Coñecemos os nomes de máis de catrocentos trobadores e consérvanse os textos dunhas 2500 cancións; con todo, só coñecemos as melodías dunhas 250 cancións de aproximadamente corenta trobadores. Os textos están escritos en lingua occitana ou provenzal, coñecida entón como _langue d’oc_ para distinguila de a _langue d’oil_, o francés do norte. As cancións máis antigas corresponden a **Guilhem de Peitieu**, duque de Aquitania (máis coñecido como Guillermo IX de Aquitania), que viviu entre finais do século XI e comezos do XII.  
 
-O movemento trobadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia para mediados deste último século.
+O movemento trobadoresco desenvolveuse durante o medio século seguinte, alcanzou o seu apoxeo na segunda metade do XII e comezos do XIII e comezou a súa decadencia cara mediados deste último século. Do século XIII son as Cantigas de Santa María[^nota:Cantigas], que forman un corpo de máis de 400 cancións reunidas en catro códices recompilados na corte de **Alfonso X o Sabio**, rei de Castela e León   (entre 1252 e 1284). Aínda que a tradición e os propios códices atribúen ao rei a autoría deste corpo musical (crese que puido compoñer algunhas), a maioría seguramente foi obra doutros autores. 
+
+[^nota:Cantigas]: Sorprende na época a unidade destas cantigas, tanto desde o punto de vista temático, como da súa estrutura musical así como da súa ordenación nos manuscritos. Todas elas están  dedicadas á  Virxe, diferenciándose as de "loor" ou "loubanza" e as que contan milagres realizados. As cancións están debidamente numeradas, acompañadas dunhas miniaturas que representan instrumentos, labores da época, vestimentas, etc. Aínda que son cancións dedicadas á Virxe, trátase de obras profanas similares na súa estrutura ás dos trobadores, cambiado o amor terreal por unha dama inalcanzable, polo amor relixioso á Virxe. Analizándoas desde un punto de vista musical, en xeral utilízase un ritmo métrico que pode ser transcrito á notación mensural actual. Formalmente, adoitan axustarse con variacións á estrutura do *virelai* francés. Melódicamente seguen un deseño en arco con procesos cadenciales claros, movéndose por graos conxuntos e saltos consonantes.
+
+<!--
+Audición de exemplo: Cantiga no. 100, *Santa María, strela do día*, - forma *virelai* (AbbaA).
+-->
 
 #### O amor cortés
 
@@ -53,7 +57,7 @@ No seu momento de esplendor, as cancións trobadorescas clasificábanse do segui
 
 Entre os trobadores destacados sinalar a [[Bernart de Ventadorn]], [[Marcabrú]], [[Jaufré Rudel]] ou [[Beatriz de Día]], a única trobadora da que conservamos unha melodía. Entre os trobadores cataláns —que compoñían os seus textos en lingua occitana— destacan [[Cerverí de Xirona]] e [[Guillem de Berguedà]]. Considérase o último trobador a [[Guiraut Riquier]], que traballou na corte de Alfonso X o Sabio.
 
-Os manuscritos que conservan os textos e melodías dos trobadores adoitan incluír breves relatos biográficos de cada un, máis ou menos novelados, que se coñecen como _vidas_, así como miniaturas con supostos retratos dos biografiados.
+Dentro das fontes de información, os manuscritos que conservan os textos e melodías dos trobadores adoitan incluír breves relatos biográficos de cada un, máis ou menos novelados, que se coñecen como _vidas_, así como miniaturas con supostos retratos dos biografiados.
 
 ![Retratos dalgúns trobadores do século XII en manuscritos
 do XIII](https://www.franciscocallejo.es/hm4/monodiaprofana/retratos-trovadores.png)
@@ -64,18 +68,23 @@ Retratos dalgúns trobadores do século XII en manuscritos do XIII
 
 Medio século despois da aparición do movemento trobadoresco xorden movementos similares noutros lugares de Europa. No norte de Francia desenvolveuse o movemento dos trobeiros (_trouvères_) cando se comeza a compoñer cancións de tipo trobadoresco sobre textos en francés, a chamada _langue d’oil_.
 
-O primeiro trobeiro do que se ten noticia foi **Chrétien de Troyes**, aínda que non se conserva ningunha das súas cancións. Entre moitos outros, destaca moi especialmente **Thibaut de Champagne**, que foi rei de Navarra e promoveu o cultivo da canción troveira na súa corte de Pamplona. A etiqueta de «último troveiro» aplícaselle habitualmente a **Adam de la Halle**, que viviu a finais do século XIII e comezou a composición de cancións polifónicas.
+O primeiro trobeiro do que se ten noticia foi **Chrétien de Troyes**, aínda que non se conserva ningunha das súas cancións. Entre moitos outros, destaca moi especialmente **Thibaut de Champagne**, que foi rei de Navarra e promoveu o cultivo da canción trobeira na súa corte de Pamplona. A etiqueta de «último trobeiro» aplícaselle habitualmente a **Adam de la Halle**, que viviu a finais do século XIII e comezou a composición de cancións polifónicas.
+
+O constante contacto entre as cortes aristocráticas de Francia e España, unido á importancia de Santiago de Compostela como centro de peregrinación, converten esta última en herdeira da lírica trobadoresca, que  adquire aquí unhas características propias.
+
+Do século XII datan as Cantigas de **Martín Códax**, trobero de Vigo que escribe en galaico-portugués. Pertencen á categoría de “cantigas de amigo” (a protagonista é unha muller que canta o seu amor por un home: o seu amigo). Só se conservan seis con música. A estrutura destas obras é sinxela tanto desde o punto de vista melódico como literario. Son cantigas con refrán nas que se utiliza a repetición de pequenas células melódicas recorrentes que pasan da estrofa ao refrán e novamente á seguinte estrofa, unindo musicalmente estas obras.
+
 
 #### Xéneros
 
-Os troveiros da _langue d’oil_ cultivaron en xeral os mesmos xéneros de canción que os trobadores en _langue d’oc_. Entre eles, a _chanson_, equivalente á *cansó* ; a _chanson d’aube_ (alba), a _pastourelle_ (pastorela) ou o _jeu parti_, versión trovera da *tensó* . Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a aaaáaá narrativa e a canción de danza.
+Os trobeiros da _langue d’oil_ cultivaron en xeral os mesmos xéneros de canción que os trobadores en _langue d’oc_. Entre eles, a _chanson_, equivalente á *cansó* ; a _chanson d’aube_ (alba), a _pastourelle_ (pastorela) ou o _jeu parti_, versión trovera da *tensó*. Ademais destes xéneros, cultivaron tamén dúas liñas diferentes de canción: a canción narrativa e a canción de danza.
 
 ##### Cancións narrativas
 <!--4ºA: 13-4-23-->
 
 A composición de cancións narrativas deriva do antigo xénero de a _chanson de geste_ (cantar de *gesta*), cultivado en Francia desde o século X. Dentro deste grupo, destacan dous tipos principais:
 
-- *Lai*: era unha forma culta e complexa de canción, de tradición anterior aos troveiros que continuaría ata finais do século XIV, moito despois da extinción do movemento trovero.  
+- *Lai*: era unha forma culta e complexa de canción, de tradición anterior aos trobeiros que continuaría ata finais do século XIV, moito despois da extinción do movemento trobeiro.  
 	Trátase de extensas cancións narrativas, divididas en estrofas de métrica e melodía diferentes; cada estrofa adoita estar dividida en dúas ou tres partes con esquema métrico similar que se cantaban por tanto coa mesma melodía, dando lugar a un esquema parecido ao que aparece nas secuencias da época ou nalgunhas cancións profanas en latín (AA BB CC, …). 
 
 - *Chanson de toile*: estas cancións presentaban sempre unha escena en que unha muller soa, tecendo, lendo ou paseando nun xardín, que se lamenta da ausencia do seu namorado —case sempre por estar na guerra—. O queixume da dama interrómpeo un mensaxeiro que adoita traer a noticia da morte do cabaleiro; ás veces o final é feliz, coa noticia do seu regreso ou mesmo coa aparición do propio namorado.
@@ -84,17 +93,16 @@ A composición de cancións narrativas deriva do antigo xénero de a _chanson d
 ##### As formas fixas
 <!--4ºA: 13-04-23-->
 
-As cancións derivadas da danza apareceron preto do final da época trobeira, na segunda metade do século XIII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da _chanson_, estas cancións tiñan sempre unha mesma estrutura, polo que se coñecen como _formes fixes_ (formas fixas).  
+As cancións derivadas da danza apareceron preto do final da época trobeira, na segunda metade do século XII. Trátase de cancións inspiradas en distintas danzas que conservaban o esquema rítmico e estrutural destas. A diferenza da _chanson_, estas cancións tiñan sempre unha mesma estrutura, polo que se coñecen como _formes fixes_ (formas fixas).  
 Entre as formas fixas destacan tres:
 
 - _Ballade_: constaba de dúas ou tres estrofas con forma _bar_ (AAB), de forma similar da _chanson_, coa diferenza de que o último verso de cada estrofa era sempre o mesmo, facendo a función de estribillo (retrouso).
 
-- _Rondeau_: constaba dunha estrofa e dun estribillo (retrouso) que se repetía antes e despois da estrofa. O retrouso dividíase en dúas frases musicais que se reutilizaban na estrofa en forma _bar_, co esquema ABaabAB. Ás veces intercalabase a primeira parte do retrouso dentro da estrofa, dando o resultado ABaAabAB.
+- _Rondeau_: constaba dunha estrofa e dun estribillo (retrouso) que se repetía antes e despois da estrofa. O retrouso dividíase en dúas frases musicais que se reutilizaban na estrofa en forma _bar_, co esquema ABaabAB; ás veces intercalabase a primeira parte do retrouso dentro da estrofa, dando o resultado ABaAabAB (onde A e B serían os versos do retrouso e as minúsculas serían os versos que riman cos do retrouso; estes últimos terían a mesma melodía e diferente texto). 
 
-- _Virelai_: é a forma máis tardía que constaba dun retrouso e varias estrofas que alternaban con el; a melodía do retrouso constituía a segunda sección de cada estrofa, que tiñan tamén forma _bar_. O esquema habitual dun virelai era 
-A bba A bba A …
+- _Virelai_: é a forma máis tardía que constaba dun retrouso e varias estrofas que alternaban con el; a melodía do retrouso constituía a segunda sección de cada estrofa, que tiñan tamén forma _bar_. O esquema habitual dun virelai era: AbbaA (A bba A bba A), comezando sempre co retrouso (A) ao que seguen texto e música diferentes, creando a estrofa (bb), repetindo a melodía do retrouso pero con diferente letra (a), finalizando co retrouso (A).
 
-A finais do século XIII comezou a moda de compoñer _ballades_, _rondeaux_ e _virelais_ en forma polifónica; esto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias moi importantes: a separación de funcións entre poeta e músico, e a desaparición de o _amateurismo_ que fora a base da canción trobeira e troadoresca. Coa aparición da canción profana polifónica desaparece o movemento trobeiro.
+A finais do século XIII comezou a moda de compoñer _ballades_, _rondeaux_ e _virelais_ en forma polifónica; esto conduciu a unha profesionalización dos autores de cancións, con dúas consecuencias moi importantes: a separación de funcións entre poeta e músico, e a desaparición de o "_amateurismo_" que fora a base da canción trobeira e troadoresca. Coa aparición da canción profana polifónica desaparece o movemento trobeiro.
 
 ### Expansión do movemento trobadoresco: os _Minnesinger_
 
@@ -102,9 +110,9 @@ En Alemaña, a canción de tipo trobadoresco apareceu ao mesmo tempo que no nort
 
 Na primeira etapa o tipo fundamental de canción denominábase _lied_ e correspondía a *cansó* trobadoresca ou a _chanson_ trobeira. O concepto de amor designábase co termo _Minne_, que correspondía ao occitano _fin amors_ ou ao francés _amour courtois_ (amor cortés); dese termo deriva o nome de _Minnesinger_ que se aplica aos trobadores alemáns. A canción era tamén estrófica e as estrofas tiñan forma AAB ou AABA.
 
-Entre os _Minnesinger_ destacan **Walther von der Vogelweide**, **Neidhart von Reuenthal**, **Frauenlob** («defensor da damas»), e **Tannhäuser** no que posteriormente se inspirou Wagner para crear a ópera titulada co seu nome.
+Entre os _Minnesinger_ destacan **Walther von der Vogelweide**, **Neidhart von Reuenthal**, **Frauenlob** («defensor da damas»), e **Tannhäuser** no que posteriormente se inspirou Wagner (s.XIX) para crear a ópera titulada co seu nome.
 
-Do mesmo xeito que o movemento trobeiro, o dos _Minnesinger_ extinguiuse a comezos do século XIV. A composición de cancións monódicas continuou con os _Meistersinger_ ou mestres cantores, habitantes das cidades (burgueses) que mantiñan talleres de creación de cancións semellantes aos talleres de pintura ou albañilería; os mestres cantores desenvolvían o seu oficio por encargo ou para presentación en concursos, ensinando o oficio a aprendices que máis tarde chegarían tamén a mestres. Esta actividade mantívose ata finais do século XVI, en pleno Renacemento; o mestre cantor máis famoso foi **Hans Sachs**, de Nuremberg, protagonista da ópera de Wagner _Die Meistersinger von Nürnberg_ (Os mestres cantores de Nuremberg). As cancións dos _Meistersinger_ eran formalmente similares ás de os _Minnesinger_, pero con temática diferente: en lugar do amor cortés, aparecían historias bíblicas e novelescas ou cuestións morais.
+Do mesmo xeito que o movemento trobeiro, o dos _Minnesinger_ extinguiuse a comezos do século XIV. A composición de cancións monódicas continuou con os _Meistersinger_ ou mestres cantores, habitantes das cidades (burgueses) que mantiñan talleres de creación de cancións semellantes aos talleres de pintura; os mestres cantores desenvolvían o seu oficio por encargo ou para presentación en concursos, ensinando o oficio a aprendices que máis tarde chegarían tamén a mestres. Esta actividade mantívose ata finais do século XVI, en pleno Renacemento; o mestre cantor máis famoso foi **Hans Sachs**, de Nuremberg, protagonista da ópera de Wagner _Die Meistersinger von Nürnberg_ (Os mestres cantores de Nuremberg). As cancións dos _Meistersinger_ eran formalmente similares ás de os _Minnesinger_, pero con temática diferente: en lugar do amor cortés, aparecían historias bíblicas e novelescas ou cuestións morais.
 
 ### A canción monódica latina
 
@@ -127,7 +135,7 @@ O segundo, de comezos do século XIII, coñecido como _Carmina Burana_ (Cantos
 A roda da fortuna no manuscrito _Carmina Burana_
 
 ### A música instrumental na Idade Media
-<!--TODO: Revisar - Estou aquí-->
+
 O uso de instrumentos musicais na Idade Media está constatado por numerosas fontes de información iconográficas (pinturas, miniaturas, esculturas) e tamén literarias. Con todo, é moi escasa a música que se conserva para uso instrumental. As razóns principais desta ausencia son diversas: unha delas é que amúsica instrumental transmítese exclusivamente de forma oral, dado que os xograres e _ministriles_ (intérpretes de instrumentos) descoñecían polo xeral a notación musical;  outra das razóns é que posiblemente, os instrumentistas realizasen versións adaptadas da música vogal e, igualmente non se escribían. Tampouco está claro cal podería ser o uso dos instrumentos na música vogal, especialmente nas cancións: tanto podían dobrar a voz, variándo a melodía e creando así unha [[textura heterofónica]], ou ben podían improvisar «[[interludios]]» entre estrofa e estrofa a partir da melodía destas.
 
 Consérvanse algunhas pezas puramente instrumentais, todas elas danzas. As fontes principais son dúas:  un manuscrito francés do século XIII que inclúe oito danzas e un italiano do XIV que inclúe quince. Hai algunhas pezas máis en manuscritos ingleses, pero o total non chega ás trinta pezas.
@@ -142,9 +150,7 @@ A iconografía e a literatura presentan multitude de instrumentos que se utiliza
 
 #### Cordófonos
 
-Entre os instrumentos de corda pulsada identificamos os de mastro (mástil), como o **laúde** e a **guitarra** e tamén sen mastro, como os diversos tipos de cítaras pulsadas ou percutidas, chamadas xenericamente **salterios**; e unha gran variedade de **arpas**.
-
-Os instrumentos máis habituais de corda fregada eran as *viellas*, antecedentes das violas e violíns; o **rabel**, de orixe árabe, empregado na península Ibérica e noutras zonas de Europa. Un importante instrumento de corda fregada era a **zanfona** (coñecida tamén como _organistrum_): o instrumento produce o son por medio dunha roda manexada con manivela que roza as cordas; en lugar de pisar directamente as cordas cos dedos, utilízase un teclado sinxelo.
+Entre os instrumentos de corda pulsada identificamos os de mastro (mástil), como o **laúde** e a **guitarra** e tamén sen mastro, como os diversos tipos de cítaras pulsadas ou percutidas, chamadas xenericamente **salterios**; e unha gran variedade de **arpas**.Os instrumentos máis habituais de corda fregada eran as *viellas*, antecedentes das violas e violíns; o **rabel**, de orixe árabe, empregado na península Ibérica e noutras zonas de Europa. Un importante instrumento de corda fregada era a **zanfona** (coñecida tamén como _organistrum_): o instrumento produce o son por medio dunha roda manexada con manivela que roza as cordas; en lugar de pisar directamente as cordas cos dedos, utilízase un teclado sinxelo.
 
 #### Aerófonos
 
@@ -170,4 +176,6 @@ Instrumentos musicais nas miniaturas dun dos códices das _Cantigas de Santa Ma
 Os contidos orixinais están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
 
 Fonte: Francisco Callejo Giménez, 2008-2022
+Tradución  e adaptación ao galego: Roberto Prado Martínez.
 [fcallejo.hm@cpmcristobaldemorales.es](mailto:fcallejo.hm@cpmcristobaldemorales.es)
+[historia1.cmusviveiro@gmail.com](mailto:historia1.cmusviveiro@gmail.com)

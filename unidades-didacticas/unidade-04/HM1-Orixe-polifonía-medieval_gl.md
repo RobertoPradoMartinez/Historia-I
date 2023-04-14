@@ -1,38 +1,45 @@
 # Tema: Orixe e inicios da polifonía
 
 [Páxina principal](https://www.franciscocallejo.es/index.php)[Páxina da materia](https://www.franciscocallejo.es/hm4/index.php)[Temario](https://www.franciscocallejo.es/hm4/index.php?page=temario4.html)
-<!--31/03/23: Revisar o tema-->
+
+<!--TODO: Revisar e adaptar-->
+<!--TODO: Pendiente incluír notas sobre organum florido e exemplos-->
+
 ## Antecedentes da polifonía
 
 ### O *organun* primitivo: concepto, fontes e tipos
 
-A polifonía foi unha técnica de amplificación e recreación do repertorio gregoriano ao igual que os tropos. Se ben non podemos indicar cando se orixina, as primeiras noticias que temos proveñen dos teóricos do século IX, pero certo é que o uso da técnica proviña de tempo atrás. Entre os séculos IX  e XI numerosos tratados fan referencia a un concepto: o _organum_ (nome habitual da técnica polifónica), pero apenas se conservan libros de canto que o inclúan, motivo polo que se considera que se trataba dunha práctica de improvisación. Entre eses tratados atópanse _Musica enchiriadis_ (Manual de música) e _Scholia enchiriadis_ (Comentarios ao manual), os dous anónimos do século IX. Guido d’Arezzo estuda algunhas das características do _organum_ no seu _Micrologus_, c.a 1030.  
+A polifonía foi unha técnica de amplificación e recreación do repertorio gregoriano[^nota:Polifonía] ao igual que os tropos. Se ben non podemos indicar cando se orixina, as primeiras noticias que temos proveñen dos teóricos do século IX, pero certo é que o uso da técnica proviña de tempo atrás. 
 
-Entre os séculos XI e XII atopamos dous tratados de gran importancia, como son *De Musica* de John Cotton e *Ad organum faciendum* (Como facer pollifonía). Nestes tratados, diferéncianse varias técnicas de *organum*: 
-Enrte os séculos XI e XII, hai dous tratados importantes, o _De Musica_ de John Cotton e o anónimo _Ad organum faciendum_ (Como facer polifonía). Nestes tratados diferéncianse varias técnicas de _organum_:
+Entre os séculos IX  e XI numerosos tratados fan referencia a un concepto: o _organum_[^def:Organum] (nome habitual da técnica polifónica), pero apenas se conservan libros de canto que o inclúan, motivo polo que se considera que se trataba dunha práctica de improvisación. Entre eses tratados atópanse _Musica enchiriadis_ (Manual de música) e _Scholia enchiriadis_ (Comentarios ao manual), os dous anónimos do século IX.  Guido d’Arezzo estuda algunhas das características do _organum_ no seu _Micrologus_ (Pequeno discurso), no século XI (c.a 1030).  
 
-- _Organum_ paralelo. Trátase da forma de pollifonía máis antiga, que consiste simplemente en dobrar unha melodía de canto chá a distancia de quinta ou cuarta, isto é: unha voz, chamada voz organal (*vox organalis*) dobra a melodía gregoriana (*vox principalis*) a distancia de quinta ou cuarta, habitualmente inferior. No caso de que algunha das voces --ou ambas-- se dobrasen á oitava formábase o _organum_ composto.
-- _Organum_ paralelo modificado: similar ao anterior, pero finalizando (e xeralmente tamén comezando) ao unísono. Esto obrigaba a ter en conta o movemento oblicuo, directo e contrario, ademais do paralelo; tamén a considerar o uso das disonancias (terceiras e sextas) e a súa función, especialmente nas cadencias. Era a forma habitual a comezos de o XI.
+[^nota:Polifonía]: O emprego da polifonía na música relixiosa xurdiu posiblemente para embelecer a monodia achegándolle esplendor e solemnidade, nun proceso similar ao que deu lugar á creación de tropos e secuencias.
 
-_Organum_ libre.
+[^def:Organum]: Podemos definilo como unha composición polifónica baseada nunha melodía de canto cha que se denomina *vox principalis* sobre a que se compoñen unha ou varias voces simultáneas que se chaman *vox organalis*.
 
-A voz organal non dobra a melodía orixinal, senón que avanza á vez que ela en distintos intervalos, con predominio de oitavas, quintas e cuartas, e con diversidade de movemento. Desenvólvese na segunda metade de o XI. Habitualmente chámaselle _discantus_, tanto á voz organal como á técnica en si mesma.
+Entre os séculos XI e XII atopamos dous tratados de gran importancia, como son *De Musica* de John Cotton e *Ad organum faciendum* (Como facer polifonía). Nestes tratados, diferéncianse varias técnicas de *organum*: 
 
-![Organum paralelo no Musica enchiriadis](https://www.franciscocallejo.es/hm4/polifonia/tupatris.png)
+1. *Organum paralelo*: Transcorre en movemento paralelo entre voces, diferenciando os seguintes tipos[^ref:Musica-Enchiriadis].
+	- _Organum_ simple. Trátase da forma de pollifonía máis antiga, que consiste simplemente en dobrar unha melodía de canto chá a distancia de quinta ou cuarta en movemento paralelo, isto é: unha voz, chamada voz organal (*vox organalis*) dobra a melodía gregoriana (*vox principalis*) a distancia de quinta ou cuarta, habitualmente inferior. No caso de que algunha das voces --ou ambas-- se dobrasen á oitava formábase o _organum_ composto. Exemplo: [*Non nobis Domine*](https://open.spotify.com/track/6OamWR37MbNJzXxpMAzdv5?si=16860f3e2d754a17 "Exemplo de organum paralelo - Fonte: Tonus Peregrinus") 
+	- _Organum_ paralelo modificado: similar ao anterior, pero finalizando (e xeralmente tamén comezando) ao unísono. Esto obrigaba a ter en conta o movemento oblicuo, directo e contrario, ademais do paralelo; tamén a considerar o uso das disonancias (terceiras e sextas) e a súa función, especialmente nas cadencias. Era a forma habitual a comezos de o XI. Exemplo: [*Rex caeli, Domine maris*](https://open.spotify.com/track/4ECk83RKZbYrHBXt60yDxr?si=f117fcc62ce9446a "Exemplo de organum paralelo modificado")
+	
+[^ref:Musica-Enchiriadis]: Este tipo de *organum paralelo* e o seu uso así como a relación entre voces, provén dos tratados *Musica enchiriadis* e *Scholia enchiriadis*.  
 
-_Organum_ paralelo en o _Musica enchiriadis_
+2. _Organum_ libre. A voz organal (*vox organalis*) non dobra a melodía orixinal (*vox principalis*), senón que avanza á vez que ela en distintos intervalos, con predominio de oitavas, quintas e cuartas, e con diversidade de movemento. Desenvólvese na segunda metade do s. XI. Habitualmente chámase _discantus_, tanto á voz organal como á técnica en si mesma.
 
-### A polifonía aquitana
+![Organum paralelo no Musica enchiriadis](https://www.franciscocallejo.es/hm4/polifonia/tupatris.png "Organum paralelo no tratado Musica enchiriadis")
 
-Durante o século XII desenvólvese unha importante escola polifónica en Aquitania (sur de Francia), con prolongacións cara ao sur, especialmente na península Ibérica. A polifonía aquitana utiliza dúas novas técnicas:
+_Organum_ paralelo no _Musica enchiriadis_
 
-_Organum_ melismático ou florido.
 
-A voz principal canta a melodía orixinal, alongando as notas, mentres a voz organal desenvolve melismas sobre ela. Fronte a o _organum_ primitivo, «nota contra nota», o florido utiliza a técnica de «nota contra melisma».
+### A polifonía aquitana 
 
-Discanto desenvolvido.
+Durante o século XII desenvólvese unha importante escola polifónica en Aquitania (sur de Francia). Trátase da escola de **Saint Martial de Limoges** que terá gran influencia no desenvolvemento da polifonía, especialmente na península Ibérica. A polifonía aquitana utiliza dúas novas técnicas:
 
-Similar ao discanto de o _organum_ libre, pero con maior liberdade en ambas as voces, presentando unha técnica de «neuma contra neuma» en lugar de «nota contra nota».
+1. _Organum melismático_ ou *florido*. 
+	A voz principal canta a melodía orixinal, alongando as notas, mentres a voz organal desenvolve melismas sobre ela. Fronte a o _organum_ primitivo, «nota contra nota», o florido utiliza a técnica de «nota contra melisma». Exemplo: [*Rex Salomon fecit templum*](https://open.spotify.com/track/7m9FKXFLVp7bsTYQk8SblG?si=8dc9de07103e4c4c "Exemplo de organum florido")
+
+2. *Discanto desarrollado*. Similar ao discanto do organum libre, pero con maior liberdade nas dúas voces, presentando unha técnica de «neuma contra neuma» ou «nota contra nota» (*discantus*). As voces móvense maioritatiamente por movemento contrario e as disonancias son menos frecuentes. Exemplo: [*Alleluia! Iustus ut palma florebit*](https://open.spotify.com/track/0nFzfD0oeQtLokVatrXMqj?si=b350097f56734002 "Exemplo de Discanto desarrollado.")
 
 As composicións polifónicas aquitanas non se realizan soamente sobre melodías gregorianas, senón tamén sobre melodías de composición recente. Un xénero importante é o _versus_, que consiste nunha composición completamente orixinal en todas as súas voces, habitualmente en estilo de discanto desenvolvido. O texto adoita estar en verso medido e en forma estrófica, como as cancións trovadorescas da mesma época e lugar, pero en latín.
 
