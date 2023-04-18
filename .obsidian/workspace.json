@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6ebbc4f123458ab8",
@@ -170,10 +171,10 @@
   },
   "active": "75815454370803c0",
   "lastOpenFiles": [
-    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
     "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_gl.md",
     "figures/ud-04/LAUD-ARABE-MEDIEVAL-MUSICA-ANTIGUA.jpg.crdownload",
