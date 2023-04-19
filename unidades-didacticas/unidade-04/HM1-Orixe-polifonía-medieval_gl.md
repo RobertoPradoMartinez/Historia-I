@@ -33,6 +33,7 @@ _Organum_ paralelo no _Musica enchiriadis_
 
 
 ### A polifonía aquitana 
+<!--4ºA-->
 
 Durante o século XII desenvólvese unha importante escola polifónica en Aquitania (sur de Francia). Trátase da escola de **Saint Martial de Limoges** que terá gran influencia no desenvolvemento da polifonía, especialmente na península Ibérica. A polifonía aquitana utiliza dúas novas técnicas:
 
