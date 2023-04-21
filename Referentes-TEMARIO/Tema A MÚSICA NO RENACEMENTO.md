@@ -1,153 +1,19 @@
-## A MÚSICA NO RENACEMENTO
+# A MÚSICA NO RENACEMENTO
 
 [Audicións](http://open.spotify.com/user/javierjuradoluque/playlist/6hkvm3DeOXNPNpkdOMWdzc)
 
 <!--TODO: REVISIÓN DE MAQUETACIÓN E TEXTOS-->
+<!--Ref: APUNTES DE JAVIER JURADO-->
 
-### CONTEXTO HISTÓRICO
+[[UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO]]
 
-O concepto de [Renacemento](http://es.wikipedia.org/wiki/Renacimiento) aparece para a historiografía da arte e da cultura en época tan distante como o século XIX. Este termo refírese á recuperación da cultura da [Antigüidade](http://es.wikipedia.org/wiki/Antig%C3%BCedad_cl%C3%A1sica) [clásica](http://es.wikipedia.org/wiki/Antig%C3%BCedad_cl%C3%A1sica) tras o longo período, supostamente escuro, que suporía a [Idade Media.](http://es.wikipedia.org/wiki/Edad_Media) Efectivamente, os séculos XV e XVI trouxeron grandes cambios, así como a formación dalgúns dos principios estruturais que estiveron operativos na cultura europea até as revolucións burguesas dos séculos XVIII e XIX. De feito, basta lembrar que a historiografía fai comezar no século XV unha nova [Idade Moderna.](http://es.wikipedia.org/wiki/Edad_Moderna) En contrapartida, cabe dicir que en non poucos aspectos a cultura do Renacemento supuxo unha elaboración de trazos que xa se presentaron na Idade Media.
+[[UD5.- Principais características da música renacentista]]
 
-Adoita situarse a orixe do Renacemento como fenómeno cultural e artístico nos primeiros anos do XV, nas cidades italianas do norte e en Roma, xunto coas de Flandes e Países Baixos e, por tanto, relacionado con áreas de forte desenvolvemento urbano e comercial. Desde estes focos iniciais, o Renacemento estenderíase a toda Europa paulatinamente. A cronoloxía clásica distingue entre [*quattrocento*](http://es.wikipedia.org/wiki/Quattrocento) e [*cinquecento*.](http://es.wikipedia.org/wiki/Cinquecento)
+[[UD5.- Técnicas compositivas]]
 
-Facendo unha síntese, podemos enunciar os trazos xerais da cultura do Renacemento:
+[[UD5.- Características musicais]]
 
--   Crecemento económico e demográfico: o Renacemento ve nacer os principios da economía capitalista (bancos, letras, crédito\...). Paralelamente, obsérvase un crecemento das cidades e das clases que lle son propias: a burguesía. O propio concepto moderno de Estado alcanza a súa formulación nas obras de [Maquiavelo.](http://es.wikipedia.org/wiki/Maquiavelo) A nivel social, a expansión das clases burguesas favoreceu a demanda dunha arte laica, en detrimento do protagonismo da arte relixioso que dominara o período anterior.
-
--   Desenvolvemento científico e tecnolóxico, ilustrado pola revolución [copernicana](http://es.wikipedia.org/wiki/Cop%C3%A9rnico) e a creatividade de personaxes como [Leonardo dá Vinci.](http://es.wikipedia.org/wiki/Leonardo_da_Vinci) sentan as bases do [método científico](http://es.wikipedia.org/wiki/M%C3%A9todo_cient%C3%ADfico) e experimental que se desenvolve con forza e que abre a porta á ciencia moderna e á sociedade tecnolóxica.
-
--   A nivel cultural pode falarse dun xiro fundamental coa invención da [imprenta](http://es.wikipedia.org/wiki/Imprenta) a mediados do XV e as posibilidades de expansión de ideas que iso supón. O vigor das universidades e a circulación de información favoreceron a expansión do [Humanismo.](http://es.wikipedia.org/wiki/Humanismo) O Humanismo comprende toda unha antropoloxía dentro da cal a persoa pasa a ocupar un lugar central como punto desde o que se observa e valora a realidade. O pensamento individual asume a responsabilidade de elaborar unha interpretación correcta do mundo mediante un medio crítico baseado na experimentación. O punto de vista crítico do Humanismo respecto diso dunha interpretación dogmática do mundo é, en boa parte, o desencadenamento da crise relixiosa e dos movementos protestantes do XVI.
-
--   A creación artística será un dos aspectos máis rechamantes do período. En primeiro lugar polo novo concepto de arte: o artista xa non é un artesán ao servizo da inspiración divina, senón un creador que aspira ao status de home de ciencia. Poucos períodos da Historia de Occidente coñeceron un ritmo de produción de obras de arte tan intenso en calidade e cantidade como este, porque posta ao servizo da exaltación do poder persoal (príncipes, papas\...) a creación artística convértese nun elemento de prestixio privilexiado, facendo do mecenado unha institución obrigada para calquera poderoso.
-
-As principais características da música renacentista son:
-
--   <u>Aspectos estéticos</u>: o músico do Renacemento desenvolveu un concepto de creación que era esencialmente novo. A obra musical é a expresión subxectiva do autor, realizada conforme a unhas regras racionais e codificadas. Con todo, dado que os músicos dos séculos XV e XVI non contaban con modelos antigos, pode dicirse que aquí a continuidade coas formas do XIV foi moito maior, de maneira que (como noutras ocasións ao longo da historia da música) non é posible falar de ruptura.
-
-
--   <u>Aspectos sociolóxicos</u>: a música recupera o lugar que, dentro da sociedade, desempeñaba para Platón: un aspecto fundamental na formación moral do cidadán e tamén un espazo expresivo que o Estado debe controlar moi de preto. Dado o seu valor pedagóxico, ocupa tamén un lugar principal como espazo para expandir determinadas ideoloxías, a través das súas formas e, especialmente, dos textos que a acompañan.
-
-Por outra banda, hai que destacar a revalorización da formación musical na alta sociedade.
-
-[Castiglione](http://es.wikipedia.org/wiki/Castiglione) en Il *Cortegiano* expresa así este ideal:
-
-> Tedes que saber que a min non me gusta o cortesán si non é aínda músico e si, ademais de entender e estar seguro de ler, non coñece varios instrumentos; pois si pensámolo ben, non se pode atopar ningún repouso ao traballo nin medicamento para almas enfermas que sexa máis honesto e meritorio no lecer que este e, sobre todo, na corte.
-
--   A nivel de relacións de mercado, no Renacemento reafírmase a figura do músico profesional, ao servizo da igrexa, unha corte ou unha corporación. Os músicos aproveitarán as mellores ofertas en razón da ampliación do abanico de posibles clientes, antes case exclusivamente eclesiástico. Ademais da seguridade que proporcionaba o sistema do mecenado, a posibilidade de publicar as súas obras proporciona unha maior diversificación de ingresos e un rápido coñecemento do autor. A especialización da música levará á separación entre intérprete e receptor, abrindo así o camiño ao concepto moderno de público.
-
--   A imprenta, que posibilitou a difusión da música impresa coa consecuente fixación de modelos tanto en obras como en estilos. A invención de [tipos móbiles](http://en.wikipedia.org/wiki/Sort_%28typesetting%29) e a súa adaptación á impresión musical con Petrucci e máis tarde con Attaingnant [,](http://es.wikipedia.org/wiki/Pierre_Attaignant) máis a adaptación ao sistema de gravación sobre ferro a finais do XVI, fixeron chegar as composicións aos máis recónditos lugares de Europa.
-
-### A MÚSICA RENACENTISTA
-
-#### Técnicas compositivas
-
-<!-- 4ºA: (7-IV-22)-->
-
-As técnicas de composición da época son:
-
-1. **Composición a través de [*cantus firmus*:](http://es.wikipedia.org/wiki/Cantus_firmus)** consiste en utilizar unha melodía preexistente como base dunha nova composición polifónica. O *cantus firmus* procede de música relixiosa ou profana, ou ben é de nova creación. O seu modo consérvase intacto ou se modifica e o seu ritmo ou estrutura de frase tamén pode variar. Aínda que as melodías preexistentes están presentes na maioría das primeiras composicións polifónicas xa na Idade Media, como vimos, o termo C.F. utilízase por convención para referirse tan só á música posterior, a partir do XV.
-
-Hai varios procedementos para a utilización do C.F.:
-
-- Paráfrasis: a voz superior é a que leva o C.F., elaborándoo libremente.
-- C.F. de tenor: podería estar no tenor ou moverse entre voces (*cantus firmus* migrante ou errante).
--   Parodia: cando se utiliza como C.F. unha obra polifónica, en todo ou en parte (cada voz da obra polifónica proporciona o C.F. para as voces da nova composición).
-
-2. **Contrapunto imitativo**: consiste en expor nunha voz un motivo (antecedente) que repite outra voz a unha distancia concreta (consecuente). Esta entrada pode producirse a altura variable ou ben manterse de forma estrita, estendéndose de igual ou similar maneira ás demais entradas. Ademais, o antecedente pode estar encuberto polos seguintes procedementos:
-
--   Espello ou *speculum* (inversión), convertendo os intervalos ascendentes en descendentes e viceversa.
-
--   Cangrexo ou movemento cancrizante (retrogradación), sendo o consecuente igual que o antecedente lido de dereita a esquerda.
-
--   Inversión retrogradada, xuntando ambos os procedementos anteriores.
-
--   Aumentación, a duración das notas do consecuente alárgase en relación ás do antecedente.
-
--   Diminución, cando se produce o efecto contrario.
-
-3. **Variación**: consiste en repetir un tema variándoo ou cambiándoo cada vez que aparece. É factible variar a melodía, o ritmo, a harmonía, etc. Empregouse de forma destacada na música instrumental. Neste caso, non adoita aparecer o tema de partida, senón directamente as variacións ou "diferenzas".
-
-4. **Textura homofónica**: todas as voces cantan en vertical e co mesmo ritmo e texto.
-
-#### 2.2 Características
-
-Podemos destacar as seguintes:
-
--   **Rítmicamente**, as obras tamén se simplifican, fuxindo das complexidades da Idade Media. A isorritmia utilízase unicamente en celebracións relixiosas solemnes e mantense só durante o século XV. Emprégase a **indicación de compás** ao comezo dunha partitura, aínda que **non se fai uso das liñas divisorias**. O sistema de medida mantén os conceptos de *tempus* e *prolatio* herdados desde o XIV, evolucionando ao longo do período. O tipo de **pulsación** preferido é o chamado *tactus*, sucesión de pulsos regulares de igual xerarquía. Ademais desta idea de pulsación interveñen outros enriquecementos rítmicos, especialmente no primeiro renacemento, con numerosas síncopas, hemiolias e outras irregularidades. Conforme avanza o período, o **ritmo armónico** cobra importancia, especialmente na Escola Romana.
-
--   As **melodías son fluídas e sinxelas**, estruturadas segundo a respiración natural, e menos artificiais que no Medioevo. Móvense maioritariamente de grao e por salto consonante, sendo o seu ámbito reducido. Utilizan pequenas células ou motivos que se reelaboran ao longo do discurso musical.
-
--   **Utilízanse os antigos modos**, ampliados a doce a metade de século grazas aos teóricos [Glareanus](http://es.wikipedia.org/wiki/Glareanus) e [Zarlino](http://es.wikipedia.org/wiki/Gioseffo_Zarlino) (ao considerar a existencia dun si bemol constante no lido daría lugar á aparición do jónico ou modo de do; o mesmo feito dará lugar á consideración dun eólico ou modo da diferenciado do dórico). Os compositores empregan cada vez con máis liberdade as notas alteradas (que non pertencen ao modo no que está escrita a obra) e vaise preparando o tránsito da vella arquitectura modal ao sistema bimodal moderno. As notas non escritas e que se elevan para dar lugar a sensibles dos modos dan lugar a un sistema de [*musica ficta*](http://es.wikipedia.org/wiki/M%C3%BAsica_ficta) (ficticia, xa que está fóra do ámbito creado por Guido d'Arezzo), que se basea nunhas regras estritas aínda que non do todo coñecidas por nós.
-
--   Ordénase e regula o emprego de **notas auxiliares á harmonía** (floreos, notas de paso, retardos, escapadas e *cambiatas*).
-
--   O ideal sonoro baséase nunha textura a catro ou máis voces mixtas de igual importancia, que presentan por igual os motivos musicais nunha **textura de contrapunto imitativo**. En canto ás voces, aumenta o seu ámbito en relación ao habitual da Idade Media. As utilizadas son *superius* ou *cantus*, *contratenor altus*, *tenor* e *contratenor bassus*.
-
--   É frecuente a utilización de **motivos recorrentes** (pequenas células ou ideas melódicas que se presentan unha e outra vez na obra, suxeitas a pequenas elaboracións).
-
--   A polifonía considérase verticalmente, polo que a concepción sucesiva das voces que se utilizaba na Idade Media substitúese por unha concepción simultánea, pasando do horizontal ao vertical.
-
--   Non hai unha música totalmente instrumental ou vocal; toda a música instrumental pódese cantar e viceversa. De igual forma, é factible dobrar ou non as voces con instrumentos, aínda que non existe especificidad instrumental aínda (calquera instrumento podería dobrar calquera voz, sempre que corresponda á súa tesitura).
-
--   No que se refire á relación texto-música, esta expresa os contidos do texto sen dificultar a súa comprensión. Nace o termino [*música reservata*](http://es.wikipedia.org/wiki/Musica_reservata) (termo quizais acuñado por Josquin deas Prez), para referirse a aquela música que trata de traducir o máis fielmente posible o sentido do texto. Aplicada ao xénero profano dará logo tardíamente aos madrigalismos.
-
--   As **formas** máis empregadas son:
-
-    1. Na música relixiosa:
-
-       - o **motete** (no significado de peza relixiosa paralitúrgica de composición libre),
-
-       - a **misa**, máis as **partes do oficio**. 
-
-         Abandónase a isorritmia e a politextualidad no motete.
-
-    2. Na música profana:
-
-       serán a*chanson*, *frottola*, villancico e o [madrigal](http://es.wikipedia.org/wiki/Madrigal_%28m%C3%BAsica%29); este terá unha estrutura similar ao motete pero máis avanzado rítmica e harmónicamente. Ademais, experimenta un enorme auxe a música instrumental, con multitude de xéneros, así como a música de danza.
-
--   Cada escola presenta unhas características en relación ao número de voces, cadencias empregadas, textura, modos, etc.
-
--   Utilízase **un mesmo estilo** para a música relixiosa e a profana.
-
--   Respecto da notación, non hai ningunha achega, senón unha **simplificación** da herdanza recibida. Prodúcese o baleirado das notas negras que conduce á "nota branca", baseada nos principios da nota mensural negra. Isto permite usar a nota negra cunha nova significación de diminución do valor dunha nota, o que posibilita a obtención de particularidades rítmicas como a formación de grupos irregulares, hemiolias e cambios de compás.
-
--   Existen dous <u>tipos de textura</u>:
-
-    -   **Polifónica**, contrapuntística ou imitativa: baseada na idea da imitación a intervalos armónicos regulares e na independencia rítmica das voces.
-
-    -   **Homofónica** (ou, con máis propiedade, homorrítmica): as voces marchan xuntas formando acordes; é a textura propia de xéneros como [*a chanson*,](http://es.wikipedia.org/wiki/Chanson) a [*frottola*](http://es.wikipedia.org/wiki/Frottola) ou a [panxoliña.](http://es.wikipedia.org/wiki/Villancico) É habitual que nestas composicións existan algúns fragmentos contrapuntísticos, dependendo do compositor de que se trate.
-
-Para ejemplificar isto, observaremos as dúas obras seguintes que son, en realidade, a mesma. Heinrich Isaak escribiu dúas versións de *Innsbruck, ich muss dich lassen* (Innsbruck, debo abandonarche), unha homofónica, coa melodía na voz superior, e outra polifónica (*Gross* *lei muss ich tragen*), partindo dun canon a dous entre as voces intermedias. Na [interpretación](http://open.spotify.com/track/6sFWmiPy6R5EeOC58TXO9Y) que escoitamos, ambas as posibilidades van seguidas, o que facilita a comprensión das diferenzas entre os dous tipos de textura empregados no Renacemento:
-
-![](media/image1.jpeg){width="6.774305555555555in" height="9.470138888888888in"}
-
-![](media/image2.jpeg){width="6.774305555555555in" height="8.370138888888889in"}
-
-#### **2.3 Periodización**
-
-<!-- 4ºA: (7-IV-22) -->
-
-Até entrado o século XVI prevalece un estilo internacional, relativamente uniforme e en gran medida ditado por compositores franceses e franco-flamencos. Pódense diferenciar 5 xeracións:
-
--   1ª (1400-1460): [Dunstable,](http://es.wikipedia.org/wiki/John_Dunstable) [Dufay](http://es.wikipedia.org/wiki/Guillaume_Dufay) e [Binchois.](http://es.wikipedia.org/wiki/Gilles_Binchois)
-
--   2ª (1450-1500): [Busnois](http://en.wikipedia.org/wiki/Busnois) e [Ockeghem.](http://es.wikipedia.org/wiki/Ockeghem)
-
--   3ª (1490-1520): Josquin [des Prés,](http://es.wikipedia.org/wiki/Josquin_des_Pr%C3%A9s) [Obrecht,](http://es.wikipedia.org/wiki/Jacob_Obrecht) [Isaak.](http://es.wikipedia.org/wiki/Heinrich_Isaac)
-
--   4ª (1520-1560): [Jannequin,](http://es.wikipedia.org/wiki/Cl%C3%A9ment_Janequin) [Willaert,](http://es.wikipedia.org/wiki/Adrian_Willaert) [Gombert,](http://es.wikipedia.org/wiki/Nicolas_Gombert) [Clemens non Papa.](http://es.wikipedia.org/wiki/Clemens_non_Papa)
-
--   5ª (1560-1600): [Lasso.](http://es.wikipedia.org/wiki/Orlando_di_Lasso)
-
-Ao redor de 1550 xorden e desenvólvense distintos **estilos nacionais**. Pódense distinguir:
-
--   Escola romana: [Palestrina.](http://es.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina)
-
--   Escola española: [Morais,](http://es.wikipedia.org/wiki/Crist%C3%B3bal_de_Morales) [Guerreiro,](http://es.wikipedia.org/wiki/Francisco_Guerrero) [Vitoria.](http://es.wikipedia.org/wiki/Tom%C3%A1s_Luis_de_Victoria)
-
--   Escola veneciana: [Andrea](http://es.wikipedia.org/wiki/Andrea_Gabrieli) e [Giovanni Gabrieli.](http://es.wikipedia.org/wiki/Giovanni_Gabrieli)
-
--   Escola inglesa: [Byrd,](http://es.wikipedia.org/wiki/William_Byrd) [Tallis,](http://es.wikipedia.org/wiki/Thomas_Tallis) [Morley.](http://es.wikipedia.org/wiki/Thomas_Morley)
+[[UD5.- Periodización]]
 
 ### As escolas compositivas
 

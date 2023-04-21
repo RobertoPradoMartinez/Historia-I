@@ -1,0 +1,13 @@
+### Principais características da música renacentista
+As principais características da música renacentista son:
+- <u>Aspectos estéticos</u>: o músico do Renacemento desenvolveu un concepto de creación que era esencialmente novo. A obra musical é a expresión subxectiva do autor, realizada conforme a unhas regras racionais e codificadas. Con todo, dado que os músicos dos séculos XV e XVI non contaban con modelos antigos, pode dicirse que aquí a continuidade coas formas do XIV foi moito maior, de maneira que (como noutras ocasións ao longo da historia da música) non é posible falar de ruptura.
+- <u>Aspectos sociolóxicos</u>: a música recupera o lugar que, dentro da sociedade, desempeñaba para Platón: un aspecto fundamental na formación moral do cidadán e tamén un espazo expresivo que o Estado debe controlar moi de preto. Dado o seu valor pedagóxico, ocupa tamén un lugar principal como espazo para expandir determinadas ideoloxías, a través das súas formas e, especialmente, dos textos que a acompañan.
+
+Por outra banda, hai que destacar a revalorización da formación musical na alta sociedade.
+
+[Castiglione](http://es.wikipedia.org/wiki/Castiglione) en Il *Cortegiano* expresa así este ideal:
+
+> Tedes que saber que a min non me gusta o cortesán si non é aínda músico e si, ademais de entender e estar seguro de ler, non coñece varios instrumentos; pois si pensámolo ben, non se pode atopar ningún repouso ao traballo nin medicamento para almas enfermas que sexa máis honesto e meritorio no lecer que este e, sobre todo, na corte.
+
+- A nivel de relacións de mercado, no Renacemento reafírmase a figura do músico profesional, ao servizo da igrexa, unha corte ou unha corporación. Os músicos aproveitarán as mellores ofertas en razón da ampliación do abanico de posibles clientes, antes case exclusivamente eclesiástico. Ademais da seguridade que proporcionaba o sistema do mecenado, a posibilidade de publicar as súas obras proporciona unha maior diversificación de ingresos e un rápido coñecemento do autor. A especialización da música levará á separación entre intérprete e receptor, abrindo así o camiño ao concepto moderno de público.
+- A imprenta, que posibilitou a difusión da música impresa coa consecuente fixación de modelos tanto en obras como en estilos. A invención de [tipos móbiles](http://en.wikipedia.org/wiki/Sort_%28typesetting%29) e a súa adaptación á impresión musical con Petrucci e máis tarde con Attaingnant [,](http://es.wikipedia.org/wiki/Pierre_Attaignant) máis a adaptación ao sistema de gravación sobre ferro a finais do XVI, fixeron chegar as composicións aos máis recónditos lugares de Europa.

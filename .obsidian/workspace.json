@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fa33674461aa7751",
+        "id": "729a8b5446979585",
         "type": "tabs",
         "children": [
           {
-            "id": "1513e7d7c2e244be",
+            "id": "09147b5d0f1b5920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Periodización.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Periodización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Periodización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Periodización.md"
+              }
             }
           },
           {
@@ -149,26 +157,39 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1513e7d7c2e244be",
+  "active": "09147b5d0f1b5920",
   "lastOpenFiles": [
-    "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
-    "Referentes-TEMARIO/CSMV_H1_T2.pdf",
-    "unidades-didacticas/unidade-05/HM1-Renacemento_gl.md",
-    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
+    "Referentes-TEMARIO/Tema A MÚSICA NO RENACEMENTO.md",
+    "unidades-didacticas/unidade-05/UD5.- Periodización.md",
+    "unidades-didacticas/unidade-05 1",
+    "unidaes-didacticas",
+    "unidades-didacticas/unidade-05/UD5.- Características musicais.md",
+    "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
+    "unidades-didacticas/unidade-05/UD5.- Técnicas compositivas.md",
+    "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
+    "unidades-didacticas/unidade-05/UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO.md",
+    "Referentes-TEMARIO/PaulaSF.jpg",
+    "2023-04-21.md",
+    "Untitled.canvas",
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
     "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_gl.md",
-    "actividades/Exercicios/HM1TR3-2122/HM1-Caderno3.synctex.gz",
-    "actividades/Exercicios/HM1TR3-2122/HM1-Caderno3.synctex(busy)",
-    "figures/ud-04/LAUD-ARABE-MEDIEVAL-MUSICA-ANTIGUA.jpg.crdownload",
+    "Referentes-TEMARIO/Transcripción.pdf",
+    "Referentes-TEMARIO/UD INSTRUMENTOS-IMP.pdf",
+    "Referentes-TEMARIO/unam.txt",
+    "Referentes-TEMARIO/text.txt",
+    "Referentes-TEMARIO/Intrumentos-MEC.pdf",
+    "Referentes-TEMARIO/LLEDÓ_HERNÁNDEZ_DAVID_TFG-ARQ 2020-2021.pdf",
+    "Referentes-TEMARIO/Historia-de-la-musica_REVISAME.pdf",
+    "Referentes-TEMARIO/H1_T5 copy.pdf",
+    "Referentes-TEMARIO/Grad-Viderunt-comentado.png",
+    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
+    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
     "Bernart de Ventadorn.md",
     "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
-    "unidades-didacticas/unidade-05/HM1-Renacemento_es (copia).txt",
-    "unidades-didacticas/unidade-05/Sin confirmar 613007.crdownload",
     "unidades-didacticas/unidade-05/HM1-Renacemento_es (copia).md",
     "unidades-didacticas/unidade-03/HM1-Canto gregoriano caracteristicas.md",
-    "unidades-didacticas/unidade-05",
     "unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_es.md",
     "unidades-didacticas/unidade-03/HM1-Sistemas modais.md",
@@ -176,14 +197,6 @@
     "unidades-didacticas/unidade-03/HM1-Notacion musical medieval.md",
     "unidades-didacticas/unidade-03/HM1-Expansion-gregoriano.md",
     "unidades-didacticas/unidade-03/HM1-Exemplo transcripcion.md",
-    "figures/ud-03/Ex-Transcripción_1.png.md",
-    "unidades-didacticas/unidade-03/HM1-Canto gregoriano repertorio.md",
-    "unidades-didacticas/unidade-04/Sin confirmar 552902.crdownload",
-    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.md",
-    "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.txt",
-    "unidades-didacticas/unidade-04/Sin confirmar 789578.crdownload",
-    "unidades-didacticas/unidade-04/HM1-Ars-antiqua-ars-nova.md",
-    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval.md",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica.md"
+    "figures/ud-03/Ex-Transcripción_1.png.md"
   ]
 }
