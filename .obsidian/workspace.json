@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8278917430d2b0cd",
+        "id": "fa33674461aa7751",
         "type": "tabs",
         "children": [
           {
-            "id": "75815454370803c0",
+            "id": "1513e7d7c2e244be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df63d750c7d2f76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +149,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "75815454370803c0",
+  "active": "1513e7d7c2e244be",
   "lastOpenFiles": [
     "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
+    "Referentes-TEMARIO/CSMV_H1_T2.pdf",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_gl.md",
     "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
-    "unidades-didacticas/unidade-05/HM1-Renacemento_gl.md",
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
     "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_gl.md",
@@ -201,7 +183,6 @@
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.txt",
     "unidades-didacticas/unidade-04/Sin confirmar 789578.crdownload",
     "unidades-didacticas/unidade-04/HM1-Ars-antiqua-ars-nova.md",
-    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova.txt",
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval.md",
     "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica.md"
   ]
