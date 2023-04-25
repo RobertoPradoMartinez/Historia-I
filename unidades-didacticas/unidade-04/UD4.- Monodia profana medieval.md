@@ -134,48 +134,5 @@ O segundo, de comezos do século XIII, coñecido como _Carmina Burana_ (Cantos
 
 A roda da fortuna no manuscrito _Carmina Burana_
 
-### A música instrumental na Idade Media
-
-O uso de instrumentos musicais na Idade Media está constatado por numerosas fontes de información iconográficas (pinturas, miniaturas, esculturas) e tamén literarias. Con todo, é moi escasa a música que se conserva para uso instrumental. As razóns principais desta ausencia son diversas: unha delas é que amúsica instrumental transmítese exclusivamente de forma oral, dado que os xograres e _ministriles_ (intérpretes de instrumentos) descoñecían polo xeral a notación musical;  outra das razóns é que posiblemente, os instrumentistas realizasen versións adaptadas da música vogal e, igualmente non se escribían. Tampouco está claro cal podería ser o uso dos instrumentos na música vogal, especialmente nas cancións: tanto podían dobrar a voz, variándo a melodía e creando así unha [[textura heterofónica]], ou ben podían improvisar «[[interludios]]» entre estrofa e estrofa a partir da melodía destas.
-
-Consérvanse algunhas pezas puramente instrumentais, todas elas danzas. As fontes principais son dúas:  un manuscrito francés do século XIII que inclúe oito danzas e un italiano do XIV que inclúe quince. Hai algunhas pezas máis en manuscritos ingleses, pero o total non chega ás trinta pezas.
-
-A maior parte destas danzas reciben o nome de **estampida** (en francés _estampie_, en italiano _istampitta_). Formalmente constan dunha serie de seccións que se repiten, en forma AA BB CC DD … ao estilo do _lai_ e da *secuentia*; estas repeticións alternan o final dando lugar a dous finais chamados aberto e pechado; o segundo remata na nota final do modo, o primeiro en calquera outra nota.
-
-Algunhas das danzas do manuscrito italiano, como o _Lamento di Tristano_ ou a _Manfredina_ divídense en dúas partes, a primeira máis grave e lenta e a segunda máis rápida. Este costume continuará no Renacemento e desenvolverase posteriormente nas _suites_ barrocas.
-
-### Organoloxía medieval
-
-A iconografía e a literatura presentan multitude de instrumentos que se utilizaban na música medieval.
-
-#### Cordófonos
-
-Entre os instrumentos de corda pulsada identificamos os de mastro (mástil), como o **laúde** e a **guitarra** e tamén sen mastro, como os diversos tipos de cítaras pulsadas ou percutidas, chamadas xenericamente **salterios**; e unha gran variedade de **arpas**.Os instrumentos máis habituais de corda fregada eran as *viellas*, antecedentes das violas e violíns; o **rabel**, de orixe árabe, empregado na península Ibérica e noutras zonas de Europa. Un importante instrumento de corda fregada era a **zanfona** (coñecida tamén como _organistrum_): o instrumento produce o son por medio dunha roda manexada con manivela que roza as cordas; en lugar de pisar directamente as cordas cos dedos, utilízase un teclado sinxelo.
-
-#### Aerófonos
-
-Entre os aerófonos de madeira había unha ampla variedade de **frautas**, tanto rectas como traveseras; utilizábanse tamén con frecuencia os aerófonos de lengüeta simple, como o **albogue**, ou dobre, como as **chirimías**. Moitos destes instrumentos construíanse en varios tamaños para poder así chegar a distintas tesituras.
-
-Os aerófonos de metal eran _naturais_, é dicir, non utilizaban ningún tipo de válvula, co que podían realizar soamente os harmónicos naturais do seu son base. Destacan varios tipos de **trompetas** (rectas) e **trompas** (curvas ou enroscadas).
-
-Forman parte dos aerófonos, os diversos tipos de **órganos**; os máis habituais eran os **portativos**, que se levaban normalmente colgados e podían utilizarse en desfiles; os **positivos**, máis grandes que os portativos, situábanse sobre unha mesa ou outro tipo de soporte.
-
-#### Membranófonos e idiófonos.
-
-Este tipo de instrumentos eran moi frecuentes na música medieval, especialmente nas danzas. Os membranófonos abarcaban varios tamaños, desde os **tambores** máis pequenos e portátiles ata os grandes **timbales**, que normalmente se transportaban a lombos de cabalos; clasificábanse en simples ou dobres, abertos ou pechados, e tiñan unha ou dúas membranas. Era habitual a interpretación por un mesmo músico dunha frauta e un tambor.
-
-Utilizábase tamén unha gran diversidade de idiófonos (**campás** e **campaíñas**, **sonajas**, **sistros**, etc.).
-
-![Instrumentos musicais nas miniaturas dun dos
-códices das Cantigas de Santa María.](https://www.franciscocallejo.es/hm4/monodiaprofana/instrumentos.png)
-
-Instrumentos musicais nas miniaturas dun dos códices das _Cantigas de Santa María_.
-
-[![Licenza de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
-
-Os contidos orixinais están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
-
-Fonte: Francisco Callejo Giménez, 2008-2022
-Tradución  e adaptación ao galego: Roberto Prado Martínez.
-[fcallejo.hm@cpmcristobaldemorales.es](mailto:fcallejo.hm@cpmcristobaldemorales.es)
-[historia1.cmusviveiro@gmail.com](mailto:historia1.cmusviveiro@gmail.com)
+[[UD4.- A música instrumental na Idade Media]]
+[[UD4.- Organoloxía medieval]]

@@ -1,4 +1,5 @@
 # A MÚSICA NO RENACEMENTO
+<!--Fonte de Referencia: Apuntamentos de J.Jurado  -->
 
 [Audicións](http://open.spotify.com/user/javierjuradoluque/playlist/6hkvm3DeOXNPNpkdOMWdzc)
 
@@ -13,7 +14,7 @@
 
 [[UD5.- Características musicais]]
 
-[[UD5.- Periodización]]
+[[UD5.- Xeracións e estilos]]
 
 ### As escolas compositivas
 

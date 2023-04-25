@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06a846778c8af68a",
+        "id": "713488889637a1f1",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c763ced13273ba",
+            "id": "dd5fb4aa45d35691",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -133,11 +125,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1c763ced13273ba",
+  "active": "dd5fb4aa45d35691",
   "lastOpenFiles": [
+    "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
+    "unidades-didacticas/unidade-05/UD5.- Características musicais.md",
+    "unidades-didacticas/unidade-05/UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO.md",
+    "media/file0.png.md",
+    "unidades-didacticas/pensamento-musical/Textos de la Edad Media.md",
+    "media",
+    "unidades-didacticas/pensamento-musical/Textos del Renacimiento.md",
+    "unidades-didacticas/pensamento-musical/El pensamiento musical en la Antigüedad clásica.md",
+    "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto_gl.md",
     "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Monodia-Profana-Medieval_gl.md",
     "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
     "_Chuleta-RStudio.md",
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.md",

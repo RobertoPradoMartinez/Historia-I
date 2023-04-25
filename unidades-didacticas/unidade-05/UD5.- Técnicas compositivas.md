@@ -1,6 +1,6 @@
 ## A MÚSICA RENACENTISTA
 
-### Técnicas compositivas
+### Técnicas compositivas da música do Renacemento
 
 <!-- 4ºA: (7-IV-22)-->
 
