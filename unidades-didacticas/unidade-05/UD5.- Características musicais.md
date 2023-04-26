@@ -1,5 +1,5 @@
 ### Características da música do Renacemento
-<!-- Entregado: 25/IV/2023-->
+<!-- Entregado: -->
 Dentro da música do período, cada escola mantén unhas características en relación ao número de voces, cadencias empregadas, textura, modos, (...) que a diferencia sobre as outras.
 
 #### Ritmo

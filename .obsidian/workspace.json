@@ -11,8 +11,12 @@
             "id": "3e83d6597e2713ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md"
+              }
             }
           },
           {
@@ -150,21 +158,27 @@
   },
   "active": "3e83d6597e2713ee",
   "lastOpenFiles": [
-    "unidades-didacticas/unidade-04/UD4.- A música instrumental na Idade Media.md",
-    "unidades-didacticas/unidade-04/UD4.- Monodia profana medieval.md",
-    "unidades-didacticas/unidade-04/UD4.- Organoloxía medieval.md",
-    "unidades-didacticas/unidade-04/UD4.- README.md",
-    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
     "unidades-didacticas/unidade-05/UD5.- Formas musicais do renacento.md",
     "unidades-didacticas/unidade-05/UD5.- Características musicais.md",
     "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
-    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
-    "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_gl.md",
-    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
     "unidades-didacticas/unidade-05/UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO.md",
-    "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
-    "unidades-didacticas/unidade-05/UD5.- Técnicas compositivas.md",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
+    "unidades-didacticas/unidade-04/UD4.- README.md",
+    "unidades-didacticas/unidade-04/UD4.- Organoloxía medieval.md",
+    "unidades-didacticas/unidade-04/UD4.- Monodia profana medieval.md",
+    "unidades-didacticas/unidade-04/UD4.- Ars Nova.md",
+    "unidades-didacticas/unidade-04/UD4.- Ars Antiqua.md",
+    "unidades-didacticas/unidade-04/UD4.- A polifonía medieval España.md",
+    "unidades-didacticas/unidade-04/UD4.- A notación musical.md",
+    "unidades-didacticas/unidade-04/UD4.- A música instrumental na Idade Media.md",
+    "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Orixe-polifonía-medieval_gl.md",
+    "unidades-didacticas/unidade-04/HM1-Monodia-medieval-Península-Ibérica_es.md",
+    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
+    "textura heterofónica.md",
     "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+    "unidades-didacticas/unidade-05/UD5.- Técnicas compositivas.md",
+    "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
     "actividades/Exercicios/HM1TR3-2122/HM1-Caderno3.pdf",
     "actividades/Exercicios/HM1TR3-2122/cabeceira-exercicios.txt",
     "Referentes-TEMARIO/CPMVH1T3_2223-A MÚSICA NO RENACEMENTO.md",
@@ -174,12 +188,6 @@
     "Referentes-TEMARIO/HM1-Polifonia idade media.md",
     "Referentes-TEMARIO/HM1-Monodia profana medieval.md",
     "Referentes-TEMARIO/HM1-Modelo-analise-gregoriano.gl.md",
-    "Referentes-TEMARIO/HM1-Idade-media.md",
-    "Referentes-TEMARIO/HM1-Exercicio-Transcripción.md",
-    "Referentes-TEMARIO/HM1-Ex-Analise-notacion-cadrada.md",
-    "Referentes-TEMARIO/HM1-Cantogregoriano.md",
-    "Referentes-TEMARIO/HM1-Audios monodia profana.md",
-    "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
     "unidades-didacticas/unidade-05 1",
     "unidaes-didacticas",
     "Untitled.canvas",

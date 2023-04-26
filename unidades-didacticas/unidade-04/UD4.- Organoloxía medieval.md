@@ -1,6 +1,13 @@
 ### Organoloxía medieval
 
-A iconografía e a literatura presentan multitude de instrumentos que se utilizaban na música medieval.
+As diferentes fontes de información iconográficas e literarias, presentan multitude de instrumentos que se utilizaban na música medieval. Así, dentro da organoloxía da época destacaremos instrumentos de corda como laúdes, guitarras, salterios, arpas; as *viellas*, o rabel e a zanfona (*organistrum*); frautas, albogues, chirimías, trompetas e trompas, dentro dos aerófonos e unha gran variedade de tambores, timbais, sistros e campaíñas (...) dentro dos de percusión.
+
+Entre as fontes conservadas, atopamos as miniaturas dos códices das *Cantigas de Santa María*
+
+![Instrumentos musicais nas miniaturas dun dos
+códices das Cantigas de Santa María.](https://www.franciscocallejo.es/hm4/monodiaprofana/instrumentos.png "Miniatura dun dos códices das Cantigas de Santa María")
+
+
 
 #### Cordófonos
 Entre os instrumentos de corda, diferenciaremos ente:
@@ -17,7 +24,7 @@ Entre os instrumentos de corda, diferenciaremos ente:
 [^def:Guitarra]: Instrumento de cordas parente do laúde, con trastes, con costelas curvas formando unha cintura na parte media do corpo e con tapa posterior plana ou lixeiramente curva. Instrumentos moi antigos de características similares pero polo xeral con corpo pequeno e mastro longo aparecen representados en esculturas e pinturas murais das culturas antigas de Asia Central, Mesopotamia e Exipto; instrumentos dese tipo aínda poden atoparse en moitas partes do mundo. Variantes con corpo ovalado ou con cintura tamén son frecuentes na iconografía medieval, pero non foi senón ata finais do século XV que apareceu un instrumento reconocible como un prototipo da guitarra moderna. As primeiras guitarras eran máis pequenas que a guitarra moderna e que a *vihuela* española contemporánea, pero similares nos outros aspectos. As partes superior e inferior da caixa acústica (os “ombreiros” e as “cadeiras”) tiñan aproximadamente as mesmas dimensións e a caixa era pouco profunda; contaba con catro cordas dobres de tripa afinadas en intervalos de cuarta, terceira e cuarta, un diapasón plano e clavijas proxectadas cara atrás da cabeza. Igual que o laúde, tiña trastes movibles de tripa atados ao redor do mastro, unha ponte, un cordal pegado á tapa superior e unha soa abertura redonda de son no centro da tapa superior, adornada cunha rosa decorativa. Estas rosas non se tallaban en celosía sobre a tapa superior como no laúde, senón que consistían en elaborados traballos de incrustación, formando un mosaico de deseños xeométricos mediante pequenísimas pezas de madeira pegadas á base. A guitarra de catro cordas era chamada *guiterne* en Francia e en Inglaterra coñecíase como *gittern*, aínda que non tiñan relación co instrumento medieval do mesmo nome que contaba con dúas aberturas de son en forma de *efe*.
 
 #### Aerófonos
-Entre os aerófonos, diferenciaremos:
+Entre os aerófonos, atopamos e diferenciamos:
 1. de madeira:
 	- **frautas**, tanto rectas como traveseras; 
 	- o **albogue** (de lengüeta simple)
@@ -30,24 +37,10 @@ Entre os aerófonos, diferenciaremos:
 Forman parte dos aerófonos, os diversos tipos de **órganos**; os máis habituais eran os **portativos**, que se levaban normalmente colgados e podían utilizarse en desfiles; os **positivos**, máis grandes que os portativos, situábanse sobre unha mesa ou outro tipo de soporte.
 
 #### Membranófonos e idiófonos.
-Este tipo de instrumentos eran moi frecuentes na música medieval, especialmente nas danzas. Clasificábanse en simples ou dobres, abertos ou pechados, e tiñan unha ou dúas membranas. Os membranófonos abarcaban varios tamaños: 
-- **tambores**: de menor tamaño e portátiles,
-- **timbales**: de maior tamaño, que normalmente se transportaban a lombos de cabalos;
+Este tipo de instrumentos eran moi frecuentes na música medieval, especialmente nas danzas.
+1. Os membranófonos, clasifícanse en simples ou dobres, abertos ou pechados, e tiñan unha ou dúas membranas, abarcando varios tamaños: 
+	- **tambores**: de menor tamaño e portátiles,
+	- **timbales**: de maior tamaño, que normalmente se transportaban a lombos de cabalos;
+2. Utilizábase tamén unha gran diversidade de idiófonos: **campás** e **campaíñas**, **sonajas**, **sistros**, (entre outros).
 
-Era habitual a interpretación por un mesmo músico dunha frauta e un tambor.
-
-Utilizábase tamén unha gran diversidade de idiófonos (**campás** e **campaíñas**, **sonajas**, **sistros**, etc.).
-
-![Instrumentos musicais nas miniaturas dun dos
-códices das Cantigas de Santa María.](https://www.franciscocallejo.es/hm4/monodiaprofana/instrumentos.png)
-
-Instrumentos musicais nas miniaturas dun dos códices das _Cantigas de Santa María_.
-
-[![Licenza de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
-
-Os contidos orixinais están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
-
-Fonte: Francisco Callejo Giménez, 2008-2022
-Tradución e adaptación: Roberto Prado Martínez, 2022-2023
-[fcallejo.hm@cpmcristobaldemorales.es](mailto:fcallejo.hm@cpmcristobaldemorales.es)
-[historia1.cmusviveiro@gmail.com](mailto:historia1.cmusviveiro@gmail.com)
+En moitas ocasións, era habitual que un mesmo músico (instrumentista) tocase á vez a frauta e o tambor; é o caso do coñecido tamborileiro que perdura ata os nosos días na cultura de Castela e León.

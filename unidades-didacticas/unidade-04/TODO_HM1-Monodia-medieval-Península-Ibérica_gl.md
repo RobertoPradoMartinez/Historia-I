@@ -63,10 +63,3 @@ Por outra banda, as miniaturas que aparecen nos manuscritos presentan unha gran 
 Unha das ilustracións de as _Cantigas de Santa María_.
 
 Alfonso X é tamén autor de varias cantigas de amor e de escarnio, aínda que non se conserva a melodía de ningunha delas. A canción monódica en galego-portugués mantense en Castela ata o século XV.
-
-[![Licenza de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
-
-Os contidos orixinais deste sitio web están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
-
-Francisco Callejo Giménez, 2008-2022  
-[fcallejo.hm@cpmcristobaldemorales.es](mailto:fcallejo.hm@cpmcristobaldemorales.es)

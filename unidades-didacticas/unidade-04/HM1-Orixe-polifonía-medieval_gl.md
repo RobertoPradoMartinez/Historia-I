@@ -71,10 +71,3 @@ As innovacións da escola de Notre Dáme, especialmente a adición de máis voce
 ![As diferentes combinacións da notación modal](https://www.franciscocallejo.es/hm4/polifonia/notacionmodal.png)
 
 As diferentes combinacións da notación modal
-
-[![Licenza de Creative Commons](https://i.creativecommons.org/l/by-nc-sa/2.5/es/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/2.5/es/)
-
-Os contidos orixinais deste sitio web están baixo unha [licenza de Creative Commons Recoñecemento-NoComercial-CompartirIgual 2.5 España](http://creativecommons.org/licenses/by-nc-sa/2.5/es/).
-
-Francisco Callejo Giménez, 2008-2022  
-[fcallejo.hm@cpmcristobaldemorales.es](mailto:fcallejo.hm@cpmcristobaldemorales.es)
