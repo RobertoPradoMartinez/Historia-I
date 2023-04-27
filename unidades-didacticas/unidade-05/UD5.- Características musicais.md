@@ -46,4 +46,4 @@ Utilízase **un mesmo estilo** para a música relixiosa e a profana.
 No que se refire á relación texto-música, esta expresa os contidos do texto sen dificultar a súa comprensión. 
 - Nace o termino [*música reservata*](http://es.wikipedia.org/wiki/Musica_reservata) (termo quizais acuñado por Josquin des Prez), para referirse a aquela música que trata de traducir o máis fielmente posible o sentido do texto. Aplicada ao xénero profano dará lugar aos madrigalismos.
 
-[[UD5.- Formas musicais do renacento]]
+[[UD5.- Formas musicais do Renacento]]

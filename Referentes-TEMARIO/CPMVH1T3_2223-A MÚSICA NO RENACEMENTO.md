@@ -6,7 +6,7 @@
 <!--TODO: REVISIÓN DE MAQUETACIÓN E TEXTOS-->
 <!--Ref: APUNTES DE JAVIER JURADO-->
 
-[[UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO]]
+[[UD5.- Contexto histórico - Renacemento]]
 
 [[UD5.- Principais características da música renacentista]]
 

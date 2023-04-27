@@ -17,5 +17,7 @@ As técnicas de composición da época son:
 	- Inversión retrogradada, xuntando ambos os procedementos anteriores.
 	- Aumentación, a duración das notas do consecuente alárgase en relación ás do antecedente.
 	- Diminución, cando se produce o efecto contrario.
+	
+	Exemplo: J. Des Prez [*Ave María gratia plena*](https://open.spotify.com/track/43YRmPuiymU3GFTffHo2Eu?si=bb1f7a13d7b94c57)
 3. **Variación**: consiste en repetir un tema variándoo ou cambiándoo cada vez que aparece. É factible variar a melodía, o ritmo, a harmonía, etc. Empregouse de forma destacada na música instrumental. Neste caso, non adoita aparecer o tema de partida, senón directamente as variacións ou "diferenzas".
 4. **Textura homofónica**: todas as voces cantan en vertical e co mesmo ritmo e texto.
