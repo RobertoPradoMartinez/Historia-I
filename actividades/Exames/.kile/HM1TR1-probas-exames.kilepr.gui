@@ -2,7 +2,7 @@
 kile_livePreviewEnabled=false
 kile_livePreviewStatusUserSpecified=false
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=
+lastDocument=HM1TR1/HM1-EXAME-PARTE1.tex
 
 [document-settings,item:../Cuestions/Tema0-ESCOITA-Q.tex]
 Bookmarks=
@@ -283,8 +283,8 @@ open=false
 order=-1
 
 [item:HM1TR1/HM1-EXAME-PARTE1.tex]
-open=false
-order=-1
+open=true
+order=0
 
 [item:hm1-probas-exames.kilepr]
 open=false

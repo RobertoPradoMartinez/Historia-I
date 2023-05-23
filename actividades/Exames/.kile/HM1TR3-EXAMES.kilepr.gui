@@ -1,8 +1,8 @@
 [General]
 kile_livePreviewEnabled=false
-kile_livePreviewStatusUserSpecified=false
+kile_livePreviewStatusUserSpecified=true
 kile_livePreviewTool=LivePreview-PDFLaTeX
-lastDocument=HM1TR2/HM1TR2-EXAME-PARTE1.tex
+lastDocument=HM1TR3/HM1TR3-EXAME-PARTE1.tex
 
 [document-settings,item:../Cuestions/Tema3-Audicions.tex]
 Bookmarks=
@@ -32,7 +32,7 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:../Cuestions/Tema3-Notacion-modal-Q.tex]
-Bookmarks=55
+Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -41,7 +41,25 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:../Cuestions/Tema3-Periodizacion-Q.tex]
-Bookmarks=6,35
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:../Cuestions/Tema5-Audicions-texto.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:../Cuestions/Tema5-Audicions.tex]
+Bookmarks=39,92
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -77,6 +95,15 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:../Modelos/include/config-HM1cabeceira2.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:../Modelos/include/config-HM1cabeceira3.tex]
 Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
@@ -175,6 +202,15 @@ Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
 
+[document-settings,item:Cuestionarios/HM1TR32223PA.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
 [document-settings,item:HM1TR2/HM1TR2-EXAME-PARTE1.tex]
 Bookmarks=
 Encoding=UTF-8
@@ -193,9 +229,36 @@ Indentation Mode=normal
 Mode=LaTeX
 Mode Set By User=false
 
+[document-settings,item:HM1TR3/HM1TR3-EXAME-PARTE1.tex]
+Bookmarks=32,28,9
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:HM1TR3/HM1TR3-EXAME-PARTE2.tex]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=LaTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=LaTeX
+Mode Set By User=false
+
+[document-settings,item:hm1tr2-probas-exames.kilepr]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+
 [item:../Cuestions/Tema3-Audicions.tex]
-open=false
-order=1
+open=true
+order=2
 
 [item:../Cuestions/Tema3-Canto-gregoriano-Q.tex]
 open=false
@@ -210,6 +273,74 @@ open=false
 order=-1
 
 [item:../Cuestions/Tema3-Periodizacion-Q.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-contexto1.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-contexto2.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-escola-romana.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-escolas.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-tecnicas.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema4-Renacemento-valoracion-musica.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Audicions-texto.tex]
+open=false
+order=3
+
+[item:../Cuestions/Tema5-Audicions.tex]
+open=false
+order=2
+
+[item:../Cuestions/Tema5-Renacemento-alemania.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-eng.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-es.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-flandes.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-francia.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-periodiza.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-periodizacion.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-roma.tex]
+open=false
+order=-1
+
+[item:../Cuestions/Tema5-Renacemento-tecnicas-compositivas.tex]
 open=false
 order=-1
 
@@ -228,6 +359,14 @@ order=-1
 [item:../Modelos/include/config-HM1cabeceira2.tex]
 open=false
 order=-1
+
+[item:../Modelos/include/config-HM1cabeceira3-parte-A.tex]
+open=false
+order=-1
+
+[item:../Modelos/include/config-HM1cabeceira3.tex]
+open=false
+order=4
 
 [item:../Modelos/include/config-HM1exame_A_Parte1-encabezados_gal.tex]
 open=false
@@ -266,8 +405,12 @@ open=false
 order=-1
 
 [item:Cuestionarios/HM1TR22223PA.tex]
+open=true
+order=3
+
+[item:Cuestionarios/HM1TR32223PA.tex]
 open=false
-order=1
+order=-1
 
 [item:HM1TR2/HM1TR2-EXAME-PARTE1.tex]
 open=true
@@ -277,49 +420,73 @@ order=0
 open=true
 order=1
 
+[item:HM1TR3/HM1TR3-EXAME-PARTE1.tex]
+open=true
+order=0
+
+[item:HM1TR3/HM1TR3-EXAME-PARTE2.tex]
+open=false
+order=1
+
 [item:hm1tr2-probas-exames.kilepr]
 open=false
 order=-1
 
 [view-settings,view=0,item:../Cuestions/Tema3-Audicions.tex]
-CursorColumn=35
-CursorLine=36
-Dynamic Word Wrap=true
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:../Cuestions/Tema3-Canto-gregoriano-Q.tex]
 CursorColumn=0
-CursorLine=205
-Dynamic Word Wrap=true
+CursorLine=0
+Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:../Cuestions/Tema3-Canto-gregoriano-expansion-Q.tex]
-CursorColumn=25
-CursorLine=48
-Dynamic Word Wrap=true
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:../Cuestions/Tema3-Notacion-modal-Q.tex]
 CursorColumn=0
-CursorLine=9
-Dynamic Word Wrap=true
+CursorLine=0
+Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
-ViMarks=a,55,0
+ViMarks=
 
 [view-settings,view=0,item:../Cuestions/Tema3-Periodizacion-Q.tex]
-CursorColumn=5
-CursorLine=119
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:../Cuestions/Tema5-Audicions-texto.tex]
+CursorColumn=78
+CursorLine=48
 Dynamic Word Wrap=true
 JumpList=
 TextFolding=[]
-ViMarks=a,6,0,b,35,0
+ViMarks=
+
+[view-settings,view=0,item:../Cuestions/Tema5-Audicions.tex]
+CursorColumn=15
+CursorLine=129
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[{"endColumn":16,"endLine":120,"flags":2,"startColumn":6,"startLine":35},{"endColumn":18,"endLine":51,"flags":2,"startColumn":3,"startLine":41},{"endColumn":16,"endLine":67,"flags":2,"startColumn":3,"startLine":59},{"endColumn":27,"endLine":87,"flags":2,"startColumn":3,"startLine":73},{"endColumn":38,"endLine":102,"flags":2,"startColumn":3,"startLine":94},{"endColumn":33,"endLine":119,"flags":2,"startColumn":3,"startLine":111}]
+ViMarks=a,92,0,b,39,0
 
 [view-settings,view=0,item:../Modelos/include/config-HM1cabeceira-audicions.tex]
 CursorColumn=0
@@ -346,8 +513,16 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:../Modelos/include/config-HM1cabeceira2.tex]
-CursorColumn=12
-CursorLine=24
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:../Modelos/include/config-HM1cabeceira3.tex]
+CursorColumn=1
+CursorLine=23
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
@@ -379,7 +554,7 @@ ViMarks=
 
 [view-settings,view=0,item:../Modelos/include/config-HM1examen_A_Parte1.tex]
 CursorColumn=0
-CursorLine=0
+CursorLine=132
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
@@ -426,24 +601,56 @@ TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:Cuestionarios/HM1TR22223PA.tex]
-CursorColumn=13
-CursorLine=113
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:Cuestionarios/HM1TR32223PA.tex]
+CursorColumn=1
+CursorLine=87
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1TR2/HM1TR2-EXAME-PARTE1.tex]
-CursorColumn=70
-CursorLine=39
+CursorColumn=20
+CursorLine=55
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]
 ViMarks=
 
 [view-settings,view=0,item:HM1TR2/HM1TR2-EXAME-PARTE2.tex]
-CursorColumn=15
-CursorLine=60
+CursorColumn=0
+CursorLine=0
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:HM1TR3/HM1TR3-EXAME-PARTE1.tex]
+CursorColumn=0
+CursorLine=20
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=.,20,0,[,20,0,],20,0,a,9,0,b,28,0,c,32,0
+
+[view-settings,view=0,item:HM1TR3/HM1TR3-EXAME-PARTE2.tex]
+CursorColumn=25
+CursorLine=58
+Dynamic Word Wrap=false
+JumpList=
+TextFolding=[]
+ViMarks=
+
+[view-settings,view=0,item:hm1tr2-probas-exames.kilepr]
+CursorColumn=0
+CursorLine=0
 Dynamic Word Wrap=false
 JumpList=
 TextFolding=[]

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  12 MAY 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  12 MAY 2023 11:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**HM1TR2-EXAME-PARTE2.tex
-(./HM1TR2-EXAME-PARTE2.tex
+**HM1-EXAME-PARTE1.tex
+(./HM1-EXAME-PARTE1.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -23,14 +23,39 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(../../Modelos/include/config-HM1examen_A_Parte2.tex
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+)
+(../../Modelos/include/config-HM1examen_A_Parte1.tex
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
@@ -40,14 +65,14 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@cnth=\count193
 \Gm@cntv=\count194
 \c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
 
 
@@ -62,8 +87,8 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count196
-\U@D=\dimen147
-\l@unhyphenated=\language87
+\U@D=\dimen149
+\l@unhyphenated=\language88
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -87,21 +112,21 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@tracingmulticols=\count199
 \mult@box=\box50
-\multicol@leftmargin=\dimen148
+\multicol@leftmargin=\dimen150
 \c@unbalance=\count266
 \c@collectmore=\count267
 \doublecol@number=\count268
 \multicoltolerance=\count269
 \multicolpretolerance=\count270
-\full@width=\dimen149
-\page@free=\dimen150
-\premulticols=\dimen151
-\postmulticols=\dimen152
+\full@width=\dimen151
+\page@free=\dimen152
+\premulticols=\dimen153
+\postmulticols=\dimen154
 \multicolsep=\skip49
 \multicolbaselineskip=\skip50
 \partial@page=\box51
 \last@line=\box52
-\maxbalancingoverflow=\dimen153
+\maxbalancingoverflow=\dimen155
 \mult@rightbox=\box53
 \mult@grightbox=\box54
 \mult@firstbox=\box55
@@ -145,9 +170,9 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \c@minrows=\count271
 \c@columnbadness=\count272
 \c@finalcolumnbadness=\count273
-\last@try=\dimen154
-\multicolovershoot=\dimen155
-\multicolundershoot=\dimen156
+\last@try=\dimen156
+\multicolovershoot=\dimen157
+\multicolundershoot=\dimen158
 \mult@nat@firstbox=\box93
 \colbreak@box=\box94
 \mc@col@check@num=\count274
@@ -170,7 +195,7 @@ Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
 \@fancybox=\box95
-\shadowsize=\dimen157
+\shadowsize=\dimen159
 \@Sbox=\box96
 \do@VerbBox=\toks22
 \the@fancyput=\toks23
@@ -188,8 +213,8 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count275
 \calc@Bcount=\count276
-\calc@Adimen=\dimen158
-\calc@Bdimen=\dimen159
+\calc@Adimen=\dimen160
+\calc@Bdimen=\dimen161
 \calc@Askip=\skip60
 \calc@Bskip=\skip61
 LaTeX Info: Redefining \setlength on input line 80.
@@ -199,8 +224,8 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen160
-\ESO@tempdimb=\dimen161
+\ESO@tempdima=\dimen162
+\ESO@tempdimb=\dimen163
 
 (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
@@ -209,10 +234,6 @@ Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
 Package xcolor Info: Model `RGB' extended on input line 1368.
@@ -223,23 +244,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-)
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
-)
 \AM@pagewidth=\dimen164
 \AM@pageheight=\dimen165
 \AM@fboxrule=\dimen166
@@ -254,6 +258,9 @@ File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
 \AM@toc@title=\toks27
 \c@AM@survey=\count280
 \AM@templatesizebox=\box98
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -1287,40 +1294,62 @@ LaTeX Info: Redefining \oldstylenums on input line 232.
 \c@numListCounter=\count397
 )
 LaTeX Font Info:    Trying to load font information for T1+LinuxLibertineT-TLF 
-on input line 34.
+on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxLibertineT-TLF.fd
 File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Li
 nuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 34.
+(Font)              scaled to size 12.0pt on input line 30.
 
-(./HM1TR2-EXAME-PARTE2.aux
+(./HM1-EXAME-PARTE1.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-\openout1 = `HM1TR2-EXAME-PARTE2.aux'.
+\openout1 = `HM1-EXAME-PARTE1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count398
+\scratchdimen=\dimen312
+\scratchbox=\box152
+\nofMPsegments=\count399
+\nofMParguments=\count400
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen313
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
+\everyMPtoPDFconversion=\toks61
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1345,7 +1374,7 @@ LaTeX Font Info:    ... okay on input line 34.
 * \footskip=30.0pt
 * \marginparwidth=44.0pt
 * \marginparsep=10.0pt
-* \columnsep=35.56593pt
+* \columnsep=21.33955pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
@@ -1356,30 +1385,8 @@ LaTeX Font Info:    ... okay on input line 34.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count398
-\scratchdimen=\dimen312
-\scratchbox=\box152
-\nofMPsegments=\count399
-\nofMParguments=\count400
-\everyMPshowfont=\toks60
-\MPscratchCnt=\count401
-\MPscratchDim=\dimen313
-\MPnumerator=\count402
-\makeMPintoPDFobject=\count403
-\everyMPtoPDFconversion=\toks61
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
 (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
 
@@ -1388,8 +1395,11 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 30.
 \c@lstlisting=\count404
-Package hyperref Info: Link coloring ON on input line 34.
+Package hyperref Info: Link coloring ON on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1402,20 +1412,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count405
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
-(./HM1TR2-EXAME-PARTE2.out) (./HM1TR2-EXAME-PARTE2.out)
+(./HM1-EXAME-PARTE1.out) (./HM1-EXAME-PARTE1.out)
 \@outlinefile=\write8
-\openout8 = `HM1TR2-EXAME-PARTE2.out'.
+\openout8 = `HM1-EXAME-PARTE1.out'.
 
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 34.
+ on input line 30.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
@@ -1424,12 +1434,13 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 34.
+or `spanish'. on input line 30.
 \c@mv@tabular=\count406
 \c@mv@boldtabular=\count407
 
 (/usr/share/texlive/texmf-dist/tex/latex/elements/elements_names_spanish.def)
-(../../Modelos/include/config-HM1cabeceira2.tex
+(../../Modelos/include/config-HM1exame_A_Parte1-encabezados_gal.tex)
+(../../Modelos/include/config-HM1cabeceira1.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 7.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
@@ -1444,113 +1455,128 @@ LinuxLibertineT-TLF.
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 14.4pt on input line 11.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
-2.
+0.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-22.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-22.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-22.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 22.
+(Font)              scaled to size 12.50409pt on input line 20.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 22.
+(Font)              scaled to size 9.37807pt on input line 20.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 22.
+(Font)              scaled to size 7.29405pt on input line 20.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 22.
+(Font)              scaled to size 12.50409pt on input line 20.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 22.
+(Font)              scaled to size 9.37807pt on input line 20.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 22.
+(Font)              scaled to size 7.29405pt on input line 20.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-22.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ))
-(../../Modelos/include/config-HM1cabeceira-parte-B.tex)
-(../../Modelos/include/config-HM1cabeceira-audicions.tex
+(../../Modelos/include/config-HM1instruccions.tex
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 7.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 9
-.
+(Font)              scaled to size 12.0pt on input line 10.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-))
-(../../Cuestions/Tema3-Audicions.tex
-
-! Package probsoln Error: Problem `Audicion-01' is already defined for data bas
-e `default'.
-
-See the probsoln package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.158 \end{defproblem}
-                      
-Problem labels must be unique for each data base
-
 )
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 56.
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 56.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 56.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 56.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 56.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 56.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 56.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 56.
+Underfull \hbox (badness 10000) in paragraph at lines 54--62
 
-Overfull \hbox (0.68008pt too wide) in paragraph at lines 56--56
-[][] 
- []
-
-
-Overfull \hbox (9.38303pt too wide) in paragraph at lines 56--56
-[][] 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.68008pt too wide) in paragraph at lines 62--62
-[][] 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+(../../Modelos/include/config-HM1cabeceira1-parte-A.tex)
+(../Cuestionarios/HM1TR12223PA.tex
+Package probsoln Info: Random Seed = 2018 on input line 15.
+Package probsoln Info: Excluded problem file `excluded' found on input line 27.
+
+ (./excluded.tex)
+Package probsoln Info: Current problems file `HM1-EXAME-PARTE1.prb' found on in
+put line 27.
+ (./HM1-EXAME-PARTE1.prb)
+\openout5 = `excluded.tex'.
+
+\openout6 = `HM1-EXAME-PARTE1.prb'.
+
+
+(../../Cuestions/Tema0-ESCOITA-Q.tex) (../../Cuestions/Tema0-ESCOITA-Q.tex)
+(../../Cuestions/Tema0-FONTES-Q.tex) (../../Cuestions/Tema0-FONTES-Q.tex)
+(../../Cuestions/Tema0-ORGANOLOXIA-Q.tex)
+(../../Cuestions/Tema0-ORGANOLOXIA-Q.tex)
+(../../Cuestions/Tema0-PERIODIZACION-Q.tex)
+(../../Cuestions/Tema0-PERIODIZACION-Q.tex)
+(../../Cuestions/Tema0-PERSPECTIVAS-Q.tex)
+(../../Cuestions/Tema0-PERSPECTIVAS-Q.tex) (../../Cuestions/Tema1-EXIPTO-Q.tex)
+(../../Cuestions/Tema1-EXIPTO-Q.tex) (../../Cuestions/Tema1-GRECIA-Q.tex)
+(../../Cuestions/Tema1-GRECIA-Q.tex) (../../Cuestions/Tema1-ORGANOLOXIA-Q.tex)
+(../../Cuestions/Tema1-ORGANOLOXIA-Q.tex)
+(../../Cuestions/Tema1-PENSAMENTO-Q.tex)
+(../../Cuestions/Tema1-PENSAMENTO-Q.tex)
+(../../Cuestions/Tema1-PERIODIZACION-Q.tex)
+(../../Cuestions/Tema1-PERIODIZACION-Q.tex) (../../Cuestions/Tema1-ROMA-Q.tex)
+(../../Cuestions/Tema1-ROMA-Q.tex)
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 103.
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T1/LinuxLibertineT-TLF/m/n/10.95 Cando ana-li-za-mos os ins-tru-men-tos que
  []
 
 
-Overfull \hbox (9.38303pt too wide) in paragraph at lines 62--62
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+\T1/LinuxLibertineT-TLF/m/n/10.95 es-coi-ta-mos nunha com-po-si-ción es-ta-mos
  []
 
-(../../Modelos/include/config-HM1instruccions-fin-ParteB.tex
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
-)
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 Un con-xun-to de tra-zos mu-si-cais que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\T1/LinuxLibertineT-TLF/m/n/10.95 (...) que ofre-cen in-for-ma-ción re-le-van-t
+e e
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 110--110
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 Aínda que non é co-rrec-to su-po-ñer que en
+
+ []
+
+
+Underfull \hbox (badness 8000) in paragraph at lines 110--110
+\T1/LinuxLibertineT-TLF/m/n/10.95 de-ta-lles so-bre téc-ni-cas de in-ter-pre-ta
+-ción de
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 23.43588pt, for example:
@@ -1559,35 +1585,189 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-[2] (./HM1TR2-EXAME-PARTE2.aux
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 forman par-te do pa-tri-mo-nio mu-si-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/LinuxLibertineT-TLF/m/n/10.95 pri-mi-xe-nio e cons-ti-túen unha fon-te de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 forman par-te do pa-tri-mo-nio mu-si-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 forman par-te do pa-tri-mo-nio mu-si-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/LinuxLibertineT-TLF/m/n/10.95 pri-mi-xe-nio ma-lia non se-ren fon-tes de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 No sis-te-ma mo-derno de cla-sif-ca-ción de
+
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 114--114
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 A ra-ma da Mu-si-co-lo-xía que in-ves-ti-ga
+ a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\T1/LinuxLibertineT-TLF/m/n/10.95 do es-tu-do, in-ves-ti-ga-ción e cla-si-fi-ca
+-ción dos
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coa dis-gre-ga-ción dos te-rri-to-ri
+os
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coa dis-gre-ga-ción dos te-rri-to-ri
+os
+ []
+
+
+Underfull \hbox (badness 7344) in paragraph at lines 118--118
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coin-ci-din-do coa dis-gre-ga-ción d
+os
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\T1/LinuxLibertineT-TLF/m/n/10.95 moi-tas ca-rac-te-rís-ti-cas, des-ta-ca-re-mo
+s no ei-do
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\T1/LinuxLibertineT-TLF/m/n/10.95 é un ele-men-to e co-mu-ni-ca-ción aso-cia-do
+ á
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\T1/LinuxLibertineT-TLF/m/n/10.95 de per-cu-sión cor-po-ral; as máxico-relixios
+as
+ []
+
+
+Underfull \hbox (badness 6575) in paragraph at lines 122--126
+\T1/LinuxLibertineT-TLF/m/n/10.95 dis-pón de cor-das vo-cais e ins-tru-men-tos 
+de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
+\T1/LinuxLibertineT-TLF/m/n/10.95 que con-si-de-ran a mú-si-ca un ele-men-to de
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
+\T1/LinuxLibertineT-TLF/m/n/10.95 co-mu-ni-ca-ción aso-cia-do á lin-gua-xe, ou 
+as
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 122--126
+\T1/LinuxLibertineT-TLF/m/n/10.95 máxico-relixiosas que atri-búen unha fun-ción
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[4]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 138.
+
+Underfull \hbox (badness 7925) in paragraph at lines 142--142
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 Musicólogos e his-to-ria-do-res, afir-man q
+ue o
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 146--146
+[]\T1/LinuxLibertineT-TLF/m/n/10.95 Falso, os ro-ma-nos non ti-ve-ron in-fluen-
+cia
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[5]) 
+AED: lastpage setting LastPage
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.43588pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.43588pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
+
+[6] (./HM1-EXAME-PARTE1.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package rerunfilecheck Info: File `HM1TR2-EXAME-PARTE2.out' has not changed.
+Package rerunfilecheck Info: File `HM1-EXAME-PARTE1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 47427 strings out of 478287
- 1108339 string characters out of 5849290
- 1521938 words of memory out of 5000000
- 64795 multiletter control sequences out of 15000+600000
- 524229 words of font info for 93 fonts, out of 8000000 for 9000
+ 47643 strings out of 478287
+ 1112273 string characters out of 5849290
+ 1525806 words of memory out of 5000000
+ 64876 multiletter control sequences out of 15000+600000
+ 511593 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,12n,107p,795b,1120s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/share/texmf/fonts/
+ 91i,12n,107p,858b,776s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/us
+r/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/
 enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvi
 ps/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/lib
 ertine/lbtn_naooyc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine
 /lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/libertine/Li
 nLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/Lin
 LibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libertine/Lin
-LibertineTI.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on HM1TR2-EXAME-PARTE2.pdf (2 pages, 259802 bytes).
+LibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on HM1-EXAME-PARTE1.pdf (6 pages, 299281 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 39 named destinations out of 1000 (max. 500000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 195 compressed objects within 2 object streams
+ 105 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

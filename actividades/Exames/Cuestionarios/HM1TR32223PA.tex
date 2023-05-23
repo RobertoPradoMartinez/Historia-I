@@ -1,0 +1,91 @@
+% --------------------------
+% MODELO CUESTIONARIOS EXAME
+% --------------------------
+% ACTUALIZADO: 17 de Marzo 2023
+%
+% TODO: É preciso ver máis sobre o paquete 'PROBSOLN'
+%
+% Axustes para cuestionarios aleatorios:
+% ======================================
+% Guión para non repetir cuestións de exercicios, etc.
+%
+% Indicamos ano académico:
+% -----------------------
+\SetStartYear{2018}
+\PSNrandseed{\GetStartYear} %
+%
+% Exclude problems that have been used this year or the previous
+% two academic years. (Creates a file called 'excluded.tex' to
+% store labels of used problems. Also creates a file called
+% \jobname.prb that stores labels of problems used in this
+% document, so they don't get excluded on subsequent runs.)
+%\ExcludePreviousFile[1]{excluded}
+%
+ % To clear the used problems file (\jobname.prb) of the labels
+ % generated in the previous run, comment the above and uncomment
+ % below:
+%
+ % TODO: Revisar os arquivos excluídos
+\ClearUsedFile{excluded}
+%
+%
+% CUESTIÓNS:
+% ----------
+% No. total de preguntas = 20
+% TODO: REVISAR AS SOLUCIÓNS DO CUESTIONARIO
+%
+
+% Carga de tódalas preguntas:
+% ---------------------------
+%\loadallproblems[Tema4-ARS-NOVA]{../../Cuestions/Tema4-Ars-nova-periodizacion.tex}
+%\loadallproblems[Tema5-RENA-PER]{../../Cuestions/Tema5-Renacemento-periodiza.tex}
+%
+% Carga aletoria de preguntas:
+% ----------------------------
+%\loadrandomproblems[Tema3-TROBA]{../../Cuestions/Tema3-Monodia-Profana.tex}
+%\loadrandomproblems[Tema1-PENS]{../../Cuestions/Tema1-Pensamento.tex}
+%\loadrandomproblems[Tema1-GR]{../../Cuestions/Tema1-Grecia.tex}
+%\loadrandomproblems[Tema1-OR]{../../Cuestions/Tema1-Organoloxia.tex}
+%\loadrandomproblems[Tema1-EX]{../../Cuestions/Tema1-Exipto.tex}
+%\loadrandomproblems[Tema1-RO]{../../Cuestions/Tema1-Roma.tex}
+%
+%
+% Carga selectiva de preguntas:
+% -----------------------------
+\loadselectedproblems[Tema4-ARS-NOVA]{T4ARS-NOVA-01,T4ARS-NOVA-02}{../../Cuestions/Tema4-Ars-nova-periodizacion.tex}
+\loadselectedproblems[Tema5-RENA-PER]{T5RENA-PER-01,T5RENA-PER-02}{../../Cuestions/Tema5-Renacemento-periodiza.tex}
+\loadselectedproblems[Tema5-RENA-TEC]{T5RENA-TECNICAS-01,T5RENA-TECNICAS-02}{../../Cuestions/Tema5-Renacemento-tecnicas-compositivas.tex}
+\loadselectedproblems[Tema5-RENA-FLANDES]{T5RENA-FLANDES-01,T5RENA-FLANDES-02}{../../Cuestions/Tema5-Renacemento-flandes.tex}
+\loadselectedproblems[Tema5-RENA-ROMA]{T5RENA-ROMA-01,T5RENA-ROMA-02}{../../Cuestions/Tema5-Renacemento-roma.tex}
+\loadselectedproblems[Tema5-RENA-ES]{T5RENA-ES-01,T5RENA-ES-02}{../../Cuestions/Tema5-Renacemento-es.tex}
+\loadselectedproblems[Tema5-RENA-ENG]{T5RENA-ENG-01,T5RENA-ENG-02}{../../Cuestions/Tema5-Renacemento-eng.tex}
+\loadselectedproblems[Tema5-RENA-FRA]{T5RENA-FRA-01,T5RENA-FRA-02}{../../Cuestions/Tema5-Renacemento-francia.tex}
+\loadselectedproblems[Tema5-RENA-DE]{T5RENA-DE-01,T5RENA-DE-02}{../../Cuestions/Tema5-Renacemento-alemania.tex}
+\loadselectedproblems[Tema4-IM-AU]{T4IM-AU-01,T4IM-AU-02}{../../Cuestions/Tema4-IdadeMedia-audicions.tex}
+%
+% Carga exclusica de preguntas:
+% -----------------------------
+%\loadexceptproblems[Tema1-CO]{T1CO-01,T1CO-02,T1CO-03,T1CO-04}{../../Cuestions/Tema1-Compositores.tex}
+%
+% -------------------------------
+% Estrutura e numeración da proba
+% -------------------------------
+% Organiza aquí todas as cuestións
+%
+\begin{multicols}{2}
+	\begin{enumerate}[1.-]
+%{\small % Reducido texto para 4 páxinas (impresión a3)
+    \foreachproblem[Tema4-ARS-NOVA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Ars nova
+    \foreachproblem[Tema5-RENA-PER]{\item\label{prob:\thisproblemlabel}\thisproblem} % Periodización
+    \foreachproblem[Tema5-RENA-TEC]{\item\label{prob:\thisproblemlabel}\thisproblem} % Técnicas
+    \foreachproblem[Tema5-RENA-FLANDES]{\item\label{prob:\thisproblemlabel}\thisproblem} % Escolas
+    \foreachproblem[Tema5-RENA-ROMA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Escolas
+    \foreachproblem[Tema5-RENA-ES]{\item\label{prob:\thisproblemlabel}\thisproblem} % España
+    \foreachproblem[Tema5-RENA-ENG]{\item\label{prob:\thisproblemlabel}\thisproblem} % Inglaterra
+    \foreachproblem[Tema5-RENA-FRA]{\item\label{prob:\thisproblemlabel}\thisproblem} % Francia
+    \foreachproblem[Tema5-RENA-DE]{\item\label{prob:\thisproblemlabel}\thisproblem}% Alemaña
+    \foreachproblem[Tema4-IM-AU]{\item\label{prob:\thisproblemlabel}\thisproblem} % Audicións
+%}
+    \end{enumerate}
+\end{multicols}
+%

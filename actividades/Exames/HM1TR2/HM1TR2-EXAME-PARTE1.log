@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  22 MAR 2023 11:45
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  23 MAR 2023 17:22
->>>>>>> Stashed changes
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  12 MAY 2023 11:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1539,94 +1535,10 @@ Package probsoln Info: Current problems file `HM1TR2-EXAME-PARTE1.prb' found on
 (../../Cuestions/Tema3-Canto-gregoriano-Q.tex)
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.95pt on input line 106.
-<<<<<<< Updated upstream
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coa dis-gre-ga-ción dos te-rri-to-ri
-os
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coa dis-gre-ga-ción dos te-rri-to-ri
-os
- []
-
-
-Underfull \hbox (badness 7344) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coin-ci-din-do coa dis-gre-ga-ción d
-os
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-\T1/LinuxLibertineT-TLF/m/n/10.95 moi-tas ca-rac-te-rís-ti-cas, des-ta-ca-re-mo
-s no ei-do
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 A que nos re-fe-ri-mos can-do fa-la-mos de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-\T1/LinuxLibertineT-TLF/m/n/10.95 XVIII), épo-ca na que ta-mén apa-re-ce o
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 110--110
-\T1/LinuxLibertineT-TLF/m/n/10.95 que ten a súa ori-xe nos hu-ma-nis-tas do
- []
-
-
-Underfull \hbox (badness 7256) in paragraph at lines 110--110
-\T1/LinuxLibertineT-TLF/m/n/10.95 que ten a súa ori-xe coa ilus-tra-ción no
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 a úl-ti-ma eta-pa do Me-die-vo. Es-ten-deu-
-se
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.43588pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.43588pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 a úl-ti-ma eta-pa do Me-die-vo. Es-ten-deu-
-se
- []
-
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 114.
-
-Underfull \hbox (badness 7151) in paragraph at lines 118--118
-[]\T1/LinuxLibertineT-TLF/m/n/10.95 engadir tex-to a unha pa-sa-xe dun can-to
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.43588pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.43588pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
-=======
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 110.
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
->>>>>>> Stashed changes
 \T1/LinuxLibertineT-TLF/m/n/10.95 pre-do-mi-nar so-bre os ou-tros e, po-lo tan-
 to,
  []
@@ -1639,8 +1551,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
-<<<<<<< Updated upstream
-=======
 [2]
 Underfull \hbox (badness 10000) in paragraph at lines 118--118
 []\T1/LinuxLibertineT-TLF/m/n/10.95 comeza coa dis-gre-ga-ción dos te-rri-to-ri
@@ -1718,7 +1628,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.43588pt}.
 
->>>>>>> Stashed changes
 [4]) 
 AED: lastpage setting LastPage
 
@@ -1739,11 +1648,7 @@ Package rerunfilecheck Info: File `HM1TR2-EXAME-PARTE1.out' has not changed.
 Here is how much of TeX's memory you used:
  47563 strings out of 478287
  1110322 string characters out of 5849290
-<<<<<<< Updated upstream
- 1525179 words of memory out of 5000000
-=======
- 1522595 words of memory out of 5000000
->>>>>>> Stashed changes
+ 1523669 words of memory out of 5000000
  64830 multiletter control sequences out of 15000+600000
  511593 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1760,11 +1665,7 @@ LibertineTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-<<<<<<< Updated upstream
-Output written on HM1TR2-EXAME-PARTE1.pdf (5 pages, 292647 bytes).
-=======
-Output written on HM1TR2-EXAME-PARTE1.pdf (5 pages, 292296 bytes).
->>>>>>> Stashed changes
+Output written on HM1TR2-EXAME-PARTE1.pdf (5 pages, 292743 bytes).
 PDF statistics:
  214 PDF objects out of 1000 (max. 8388607)
  188 compressed objects within 2 object streams

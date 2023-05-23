@@ -1,0 +1,89 @@
+%% ---------------
+%% MOI IMPORTANTE:
+%% ---------------
+%% En modelo con cuestións aleatorias, non volver compilar unha vez feito.
+%% De ser necesario, gardar o pdf inicial con outro nome porque o sobreescribe.
+%%
+%% Actulizado: 12/05/2023
+%%
+%% ===============
+%% PREÁMBULO LATEX
+%% ===============
+%
+\documentclass[letterpaper,12pt,notitlepage,spanish]{article}
+%
+% Paquetes necesarios:
+% --------------------
+%\graphicspath{ {/home/user/images/} }
+\usepackage{graphicx}
+\setlength{\columnsep}{0.75cm} % separamos
+\usepackage[none]{hyphenat} % sen separación silábica
+\usepackage{wrapfig}
+\graphicspath{ {../../../figures/} }
+%
+% Configuración e maquetación base:
+% ---------------------------------
+\input{../../Modelos/include/config-HM1examen_A_Parte1.tex}
+%
+%% =========
+%% DOCUMENTO
+%% =========
+\begin{document}
+%%
+% Encabezados e pes de páxina:
+% ----------------------------
+% Encabezados do ano académico actual
+\input{../../Modelos/include/config-HM1exame_A_Parte1-encabezados_gal.tex}
+%
+% Cabeceira
+% ---------
+% Centro, Materia, Curso, tipo de proba, Avaliación (Descomentar a que proceda)
+%
+%\input{../../Modelos/include/config-HM1cabeceira1.tex} % 1a Avaliación
+%\input{../../Modelos/include/config-HM1cabeceira2.tex} % 2a Avaliación
+\input{../../Modelos/include/config-HM1cabeceira3.tex} % 3a Avaliación
+%
+% Instruccións
+% ------------
+% Instruccións sobre como realizar a proba
+\input{../../Modelos/include/config-HM1instruccions.tex}
+%
+% Cabeceira Parte A
+% -----------------
+% Tipo de proba e Avaliación - Parte A (descomentar a que proceda)
+%
+%\input{../../Modelos/include/config-HM1cabeceira1-parte-A.tex} % 1a Avaliación
+%\input{../../Modelos/include/config-HM1cabeceira2-parte-A.tex} % 2a Avaliación
+\input{../../Modelos/include/config-HM1cabeceira3-parte-A.tex} % 3a Avaliación
+%
+% ---------------------
+% CUESTIONARIO DE EXAME
+% ---------------------
+%
+% Con/sen solucións:
+% ------------------
+%\hideanswers    % ocultar respostas
+\showanswers    % mostrar respostas
+%
+%\sloppy %xustificación de parágrafos
+%
+% Cuestionario
+% ------------
+% Importante: o cuestionario está en arquivo externo na carpeta cuestionarios da carpeta do exame.
+%
+%\input{../Cuestionarios/HM1TR12223PA.tex} % Cuestionario 1º trimestre
+%\input{../Cuestionarios/HM1TR22223PA.tex} % Cuestionario 2º trimestre
+\input{../Cuestionarios/HM1TR32223PA.tex} % Cuestionario 3º trimestre
+%
+%
+% Fin cuestionario de exame
+% ---
+%
+% Texto de fin de proba
+% ---------------------
+%\input{../../Modelos/include/config-HM1instruccions-fin.tex} % texto fin de exame
+%
+% --- Fin ---
+%
+\end{document}
+%
