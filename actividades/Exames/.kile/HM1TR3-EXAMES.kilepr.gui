@@ -59,7 +59,7 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:../Cuestions/Tema5-Audicions.tex]
-Bookmarks=39,92
+Bookmarks=
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false
@@ -230,7 +230,7 @@ Mode=LaTeX
 Mode Set By User=false
 
 [document-settings,item:HM1TR3/HM1TR3-EXAME-PARTE1.tex]
-Bookmarks=32,28,9
+Bookmarks=9,28,32
 Encoding=UTF-8
 Highlighting=LaTeX
 Highlighting Set By User=false

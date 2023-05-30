@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[206] biber:340> INFO - === mar may 23, 2023, 19:43:49
+[954] Biber.pm:418> INFO - Reading 'main.bcf'
+[1108] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[1180] Biber.pm:4383> INFO - Processing section 0
+[1217] Biber.pm:4574> INFO - Looking for bibtex file 'report-template.bib' for section 0
+[1392] Utils.pm:398> ERROR - Cannot find 'report-template.bib'!
+[1393] Biber.pm:135> INFO - ERRORS: 1

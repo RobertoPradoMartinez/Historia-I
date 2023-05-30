@@ -1,0 +1,10 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {spanish}{}\relax
+\etoc@startlocaltoc {1}
+\etoc@startlocaltoc {2}
+\contentsline {section}{\numberline {1}Introdución}{1}{section.1}%
+\contentsline {mtocsection}{\numberline {1}Introdución}{1}{section.1}%
+\contentsline {section}{\numberline {2}Procurar información}{2}{section.2}%
+\contentsline {mtocsection}{\numberline {2}Procurar información}{2}{section.2}%
+\contentsline {section}{\numberline {A}Apéndices e outros}{2}{appendix.Alph1}%
+\contentsline {mtocsection}{\numberline {A}Apéndices e outros}{2}{appendix.Alph1}%
