@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "main": {
     "id": "88b265dd4ba22602",
@@ -206,4 +207,214 @@
     "Referentes-TEMARIO/LLEDÓ_HERNÁNDEZ_DAVID_TFG-ARQ 2020-2021.pdf",
     "Referentes-TEMARIO/Grad-Viderunt-comentado.png"
   ]
+=======
+{
+  "main": {
+    "id": "88b265dd4ba22602",
+    "type": "split",
+    "children": [
+      {
+        "id": "11d6ab0073fd9190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f83bf0abad3a30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "906aa0c60fa24f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "318cbb7931c789de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7315088c9d38b8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "031d44fc72aba6f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77d91c948e9afa3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "798f36b66942c862",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ebbc4f123458ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b9064ba0a1d059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "650c388b67cc8c3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c12358270f20ef66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b011ccbcd13eb5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b27258b6378c9ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md"
+              }
+            }
+          },
+          {
+            "id": "d717130ba364e6ce",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "6f83bf0abad3a30d",
+  "lastOpenFiles": [
+    "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
+    "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+    "unidades-didacticas/unidade-05/UD5.- Técnicas compositivas.md",
+    "unidades-didacticas/unidade-05/UD5.- Características musicais.md",
+    "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
+    "unidades-didacticas/unidade-04/UD4.- Monodia profana medieval.md",
+    "unidades-didacticas/unidade-04/UD4.- A polifonía medieval España.md",
+    "unidades-didacticas/unidade-04/UD4.- A notación musical.md",
+    "unidades-didacticas/unidade-04/UD4.- Ars Antiqua.md",
+    "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_gl.md",
+    "unidades-didacticas/unidade-05/UD5.- Formas musicais do renacento.md",
+    "unidades-didacticas/unidade-04/TODO_HM1-Monodia-medieval-Península-Ibérica_es.md",
+    "unidades-didacticas/unidade-04/Hm1-ARs-antiqua-ars-nova_gl.md",
+    "unidades-didacticas/unidade-05/UD5.- Contexto histórico - Renacemento.md",
+    "unidades-didacticas/unidade-04/UD4.- A música instrumental na Idade Media.md",
+    "[.md",
+    "unidades-didacticas/unidade-05/UD5.- Formas musicais do Renacento.md",
+    "unidades-didacticas/unidade-05/UD5.- ÍNDICE.md",
+    "unidades-didacticas/unidade-04/UD4.- Organoloxía medieval.md",
+    "unidades-didacticas/unidade-04/UD4.- ÍNDICE.md",
+    "unidades-didacticas/unidade-04/UD4.- Polifonía medieval.md",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
+    "unidades-didacticas/unidade-04/UD4.- Ars Nova.md",
+    "textura heterofónica.md",
+    "actividades/Exercicios/HM1TR3-2122/HM1-Caderno3.pdf",
+    "actividades/Exercicios/HM1TR3-2122/cabeceira-exercicios.txt",
+    "Referentes-TEMARIO/CPMVH1T3_2223-A MÚSICA NO RENACEMENTO.md",
+    "Referentes-TEMARIO/Ref-Analise-monodia-profana.md",
+    "Referentes-TEMARIO/PaulaSF.jpg",
+    "Referentes-TEMARIO/Intrumentos-MEC.pdf",
+    "unidades-didacticas/unidade-05 1",
+    "unidaes-didacticas",
+    "Untitled.canvas",
+    "Referentes-TEMARIO/Transcripción.pdf",
+    "Referentes-TEMARIO/UD INSTRUMENTOS-IMP.pdf",
+    "Referentes-TEMARIO/unam.txt",
+    "Referentes-TEMARIO/text.txt",
+    "Referentes-TEMARIO/LLEDÓ_HERNÁNDEZ_DAVID_TFG-ARQ 2020-2021.pdf",
+    "Referentes-TEMARIO/Grad-Viderunt-comentado.png"
+  ]
+>>>>>>> Stashed changes
 }
