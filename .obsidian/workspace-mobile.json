@@ -11,8 +11,10 @@
             "id": "dd5fb4aa45d35691",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "HM1-Modelo-kaobook/book-sample.pdf"
+              }
             }
           }
         ]
@@ -67,6 +69,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "7e95e54f11a4e297",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -81,6 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "HM1-Modelo-kaobook/book-sample.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "HM1-Modelo-kaobook/book-sample.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,11 +119,21 @@
         "type": "leaf",
         "state": {
           "type": "outline",
+          "state": {
+            "file": "HM1-Modelo-kaobook/book-sample.pdf"
+          }
+        }
+      },
+      {
+        "id": "5b42cfbb08d5a3a2",
+        "type": "leaf",
+        "state": {
+          "type": "side-panel-control-view",
           "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -127,8 +149,27 @@
   },
   "active": "dd5fb4aa45d35691",
   "lastOpenFiles": [
-    "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
+    "Referentes-TEMARIO/PA2324-Renacimiento.md",
+    "HM1-Modelo-kaobook/book-sample.pdf",
+    "HM1-Modelo-kaobook/main.pdf",
+    "HM1-2023-Temario-LaTeX/Plantilla-Libro_Historia1_2023.pdf",
+    "notes/Untitled.md",
+    "Untitled.canvas",
+    "Referentes-TEMARIO/UD INSTRUMENTOS-IMP.pdf",
+    "Referentes-TEMARIO/CPMVH1T3_2223-A MÚSICA NO RENACEMENTO.md",
+    "Referentes-TEMARIO/cuadro1.svg",
+    "Referentes-TEMARIO/Bloque 2. A música e a danza da antigüidade e idade media. 2020 (pdf.io).pdf",
+    "Referentes-TEMARIO/Bloque 2.txt",
+    "Referentes-TEMARIO/Apuntes de historia T6.txt",
+    "unidades-didacticas/unidade-05/UD5.- Xeracións e estilos.md",
+    "unidades-didacticas/unidade-05/UD5.- Técnicas compositivas.md",
+    "unidades-didacticas/unidade-05/UD5.- Principais características da música renacentista.md",
+    "unidades-didacticas/unidade-05/UD5.- ÍNDICE.md",
+    "unidades-didacticas/unidade-05/UD5.- Formas musicais do renacento.md",
     "unidades-didacticas/unidade-05/UD5.- Características musicais.md",
+    "unidades-didacticas/unidade-05/UD5.- Contexto histórico - Renacemento.md",
+    "unidades-didacticas/unidade-05/Revisar-HM1-Renacemento_gl.md",
+    "unidades-didacticas/unidade-05/HM1-Renacemento_es.md",
     "unidades-didacticas/unidade-05/UD5.- CONTEXTO HISTÓRICO DO RENACEMENTO.md",
     "media/file0.png.md",
     "unidades-didacticas/pensamento-musical/Textos de la Edad Media.md",
@@ -143,7 +184,6 @@
     "unidades-didacticas/unidade-04/HM1-Renacemento-contexto.md",
     "unidades-didacticas/unidade-03/HM1-Exemplo transcripcion.md",
     "figures/ud-03/Ex-Transcripción_1.png.md",
-    "unidades-didacticas/unidade-03/HM1-Analise Puer natus est nobis.md",
     "actividades/Exames/HM1TR2/HM1TR2-EXAME-PARTE2.pdf",
     "actividades/Exames/HM1-TR1-2021/HM1_Examen_A_parte1.pdf"
   ]
