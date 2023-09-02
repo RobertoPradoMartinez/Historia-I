@@ -96,13 +96,13 @@
 \newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
 \newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
 \newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
 \newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
 \newcommand{\BuiltInTok}[1]{#1}
 \newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
 \newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
 \newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
 \newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
 \newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
 \newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
@@ -110,7 +110,7 @@
 \newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
 \newcommand{\ExtensionTok}[1]{#1}
 \newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
 \newcommand{\ImportTok}[1]{#1}
 \newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
@@ -119,7 +119,7 @@
 \newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
 \newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
 \newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
 \newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
 \newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
 \newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
@@ -562,14 +562,15 @@ Para comprender esta actividade ---como proceso creativo--- veremos un exemplo, 
 No anterior exemplo, relacionamos as diferentes fases do proceso (produción, difusión e consumo) coas súas equivalentes actividades (composición, interpretación e audición) tal que, producimos unha obra cando compoñemos unha sinxela melodía; interpretándoa comeza a difusión e finalmente, por medio dos concertos (audición) fomentamos o seu consumo.
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule()
+\toprule\noalign{}
 FASE & ACTIVIDADE \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Produción & Composición \\
 Difusión & Interpretación \\
 Consumo & Audición \\
-\bottomrule()
 \end{longtable}
 
 Para estudar a actividade musical centrarémonos nas tres fases do proceso: trataremos a produción, faremos referencia aos intérpretes, técnicas (\ldots) e, sobre todo veremos os contextos de escoita nos que se desenvolveron, empregando como medio a audición activa de diferentes obras.
@@ -645,10 +646,12 @@ Os catro períodos ou idades en que se divide a historia, son:
 A historia dos feitos culturais (entre eles a música) segue unha periodización creada principalmente para a Historia da arte (arquitectura, escultura e pintura sobre todo). Esta periodización, non é do todo válida para a música. Se nos situamos no comezo da música europea escrita (cara ao século X) as etapas serían as seguintes:
 
 \begin{longtable}[]{@{}ll@{}}
-\toprule()
+\toprule\noalign{}
 Período ou etapa & Cronoloxía \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Románico & X- XII aprox. \\
 Gótico & XII- XV \\
 Renacemento & XV- XVI \\
@@ -656,7 +659,6 @@ Barroco & XVII- XVIII \\
 Neoclasicismo & XVIII e comezo do XIX \\
 Romanticismo & final do XVIII e parte do XIX \\
 Positivismo e Realismo & final do XIX \\
-\bottomrule()
 \end{longtable}
 
 Destas etapas, as dúas primeiras sitúanse na Idade Media, as tres seguintes na Idade Moderna e as últimas na Contemporánea; o século XX (e o que levamos do XXI) non presentan unha periodización estable debido á súa proximidade no tempo, que impide consideralos con suficiente obxectividade.
@@ -1234,12 +1236,12 @@ Then in \textbf{paper\_to\_include/} create a \href{https://bookdown.org/yihui/r
 
 \begin{Shaded}
 \begin{Highlighting}[]
-\KeywordTok{function}\NormalTok{ Header}\OperatorTok{(}\NormalTok{el}\OperatorTok{)}
-  \ControlFlowTok{if} \OperatorTok{(}\NormalTok{el}\OperatorTok{.}\NormalTok{level }\OperatorTok{\textless{}=} \DecValTok{1}\OperatorTok{)} \ControlFlowTok{then}
+\KeywordTok{function}\NormalTok{ Header}\OperatorTok{(}\VariableTok{el}\OperatorTok{)}
+  \ControlFlowTok{if} \OperatorTok{(}\VariableTok{el}\OperatorTok{.}\VariableTok{level} \OperatorTok{\textless{}=} \DecValTok{1}\OperatorTok{)} \ControlFlowTok{then}
     \FunctionTok{error}\OperatorTok{(}\StringTok{"I don\textquotesingle{}t know how to decrease the level of h1"}\OperatorTok{)}
   \ControlFlowTok{end}
-\NormalTok{  el}\OperatorTok{.}\NormalTok{level }\OperatorTok{=}\NormalTok{ el}\OperatorTok{.}\NormalTok{level }\OperatorTok{{-}} \DecValTok{1}
-  \ControlFlowTok{return}\NormalTok{ el}
+  \VariableTok{el}\OperatorTok{.}\VariableTok{level} \OperatorTok{=} \VariableTok{el}\OperatorTok{.}\VariableTok{level} \OperatorTok{{-}} \DecValTok{1}
+  \ControlFlowTok{return} \VariableTok{el}
 \KeywordTok{end}
 \end{Highlighting}
 \end{Shaded}

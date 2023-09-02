@@ -7,7 +7,7 @@
   <title>7 Troubleshooting | Historia I Apuntes e materiais didácticos</title>
   <meta name="description" content="Historia I<br />
 Apuntes e materiais didácticos</p>" />
-  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
 
   <meta property="og:title" content="7 Troubleshooting | Historia I Apuntes e materiais didácticos" />
   <meta property="og:type" content="book" />
@@ -43,9 +43,8 @@ div.abstract{
   width: 90%;
 }
 </style>
-<script src="libs/header-attrs-2.11/header-attrs.js"></script>
-<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<script src="libs/header-attrs-2.24/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -61,8 +60,10 @@ div.abstract{
 
 
 
-<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
-<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
 
 
 <style type="text/css">
@@ -349,11 +350,11 @@ Apuntes e materiais didácticos</p></a>
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="troubleshooting" class="section level1" number="7">
-<h1><span class="header-section-number">7</span> Troubleshooting</h1>
+<div id="troubleshooting" class="section level1 hasAnchor" number="7">
+<h1><span class="header-section-number">7</span> Troubleshooting<a href="troubleshooting.html#troubleshooting" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p>This chapter describes common errors you may run into, and how to fix them.</p>
-<div id="error-failed-to-build-the-bibliography-via-biber" class="section level2" number="7.1">
-<h2><span class="header-section-number">7.1</span> Error: Failed to build the bibliography via biber</h2>
+<div id="error-failed-to-build-the-bibliography-via-biber" class="section level2 hasAnchor" number="7.1">
+<h2><span class="header-section-number">7.1</span> Error: Failed to build the bibliography via biber<a href="troubleshooting.html#error-failed-to-build-the-bibliography-via-biber" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>This can happen if you’ve had a failed build, perhaps in relation to RStudio shutting down abruptly.</p>
 <p>Try doing this:</p>
 <ol style="list-style-type: decimal">
@@ -366,9 +367,9 @@ To do this, go to <strong>index.Rmd</strong> and</p>
 <li>set <code>use-biblatex: false</code> and <code>use-natbib: true</code></li>
 <li>set <code>citation_package: natbib</code> under</li>
 </ol>
-<div class="sourceCode" id="cb21"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb21-1"><a href="troubleshooting.html#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="fu">output</span><span class="kw">:</span></span>
-<span id="cb21-2"><a href="troubleshooting.html#cb21-2" aria-hidden="true" tabindex="-1"></a><span class="at">  bookdown:</span><span class="fu">:pdf_book</span><span class="kw">:</span></span>
-<span id="cb21-3"><a href="troubleshooting.html#cb21-3" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">citation_package</span><span class="kw">:</span><span class="at"> natbib</span></span></code></pre></div>
+<div class="sourceCode" id="cb21"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb21-1"><a href="troubleshooting.html#cb21-1" tabindex="-1"></a><span class="fu">output</span><span class="kw">:</span></span>
+<span id="cb21-2"><a href="troubleshooting.html#cb21-2" tabindex="-1"></a><span class="at">  bookdown:</span><span class="fu">:pdf_book</span><span class="kw">:</span></span>
+<span id="cb21-3"><a href="troubleshooting.html#cb21-3" tabindex="-1"></a><span class="at">    </span><span class="fu">citation_package</span><span class="kw">:</span><span class="at"> natbib</span></span></code></pre></div>
 
 </div>
 </div>
@@ -382,6 +383,7 @@ To do this, go to <strong>index.Rmd</strong> and</p>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -421,10 +423,6 @@ gitbook.start({
 "text": null
 },
 "download": ["_main.pdf"],
-"search": {
-"engine": "fuse",
-"options": null
-},
 "toc": {
 "collapse": "subsection"
 }
