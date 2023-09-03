@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "HM1-Apuntes"
+  author: "RPM"
+  date: "9/3/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+toc: true
+number-sections: true
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
