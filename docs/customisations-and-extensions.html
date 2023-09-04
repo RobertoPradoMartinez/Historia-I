@@ -1,153 +1,422 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="" xml:lang="">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>6 Customisations and extensions | Historia da música I Apuntamentos e actividades</title>
-<meta name="author" content="Conservatorio de Viveiro">
-<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.2"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.24/header-attrs.js"></script><script src="libs/jquery-3.5.1/jquery-3.5.1.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="libs/bootstrap-5.2.2/bootstrap.min.css" rel="stylesheet">
-<script src="libs/bootstrap-5.2.2/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.5.1/transition.js"></script><script src="libs/bs3compat-0.5.1/tabs.js"></script><script src="libs/bs3compat-0.5.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
-<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/mark.js@8.11.1/dist/mark.min.js"></script><!-- CSS --><link rel="stylesheet" href="templates/bs4_style.css">
-<link rel="stylesheet" href="templates/corrections.css">
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>6 Customisations and extensions | Historia da música I Apuntamentos e actividades</title>
+  <meta name="description" content="Historia da música I<br />
+Apuntamentos e actividades</p>" />
+  <meta name="generator" content="bookdown 0.22 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="6 Customisations and extensions | Historia da música I Apuntamentos e actividades" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="6 Customisations and extensions | Historia da música I Apuntamentos e actividades" />
+  
+  
+  
+
+<meta name="author" content="Conservatorio de Viveiro" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="audicións.html"/>
+<link rel="next" href="troubleshooting.html"/>
+<style type="text/css">
+p.abstract{
+  text-align: center;
+  font-weight: bold;
+}
+div.abstract{
+  margin: auto;
+  width: 90%;
+}
+</style>
+<script src="libs/header-attrs-2.24/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+<style type="text/css">
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+<style type="text/css">
+/* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+<link rel="stylesheet" href="templates/style.css" type="text/css" />
 </head>
-<body data-spy="scroll" data-target="#toc">
 
-<div class="container-fluid">
-<div class="row">
-  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+<body>
 
-    <div class="d-flex align-items-start justify-content-between">
-      <h1>
-        <a href="index.html" title=""><p>Historia da música I<br>
-Apuntamentos e actividades</p></a>
-      </h1>
-      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
-    </div>
 
-    <div id="main-nav" class="collapse-lg">
-      <form role="search">
-        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
-</form>
 
-      <nav aria-label="Table of contents"><h2>Table of contents</h2>
-        <ul class="book-toc list-unstyled">
-<li><a class="" href="index.html">Benvida</a></li>
-<li><a class="" href="a-orixe-da-m%C3%BAsica.html">A orixe da música</a></li>
-<li><a class="" href="a-m%C3%BAsica-na-prehistoria-e-mundo-antigo.html"><span class="header-section-number">1</span> A música na prehistoria e mundo antigo</a></li>
-<li><a class="" href="a-m%C3%BAsica-en-grecia.html"><span class="header-section-number">2</span> A música en Grecia</a></li>
-<li><a class="" href="a-m%C3%BAsica-en-roma.html"><span class="header-section-number">3</span> A música en Roma</a></li>
-<li><a class="" href="a-m%C3%BAsica-dos-iberos.html"><span class="header-section-number">4</span> A música dos Iberos</a></li>
-<li><a class="" href="a-m%C3%BAsica-cristi%C3%A1-primitiva.html"><span class="header-section-number">5</span> A música cristiá primitiva</a></li>
-<li><a class="" href="audici%C3%B3ns.html">Audicións</a></li>
-<li><a class="active" href="customisations-and-extensions.html"><span class="header-section-number">6</span> Customisations and extensions</a></li>
-<li><a class="" href="troubleshooting.html"><span class="header-section-number">7</span> Troubleshooting</a></li>
-<li><a class="" href="unidade-7.html"><span class="header-section-number">8</span> Unidade 7</a></li>
-<li><a class="" href="unidade-8.html"><span class="header-section-number">9</span> Unidade 8</a></li>
-<li><a class="" href="unidade-9.html"><span class="header-section-number">10</span> Unidade 9</a></li>
-<li><a class="" href="unidade-10.html"><span class="header-section-number">11</span> Unidade 10</a></li>
-<li class="book-part">Appendix</li>
-<li><a class="" href="the-first-appendix.html"><span class="header-section-number">A</span> The First Appendix</a></li>
-<li><a class="" href="the-second-appendix-for-fun.html"><span class="header-section-number">B</span> The Second Appendix, for Fun</a></li>
-<li><a class="" href="references.html">References</a></li>
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="index.html#benvida" id="toc-benvida">Benvida</a>
+<ul>
+<li><a href="index.html#resumo" id="toc-resumo">Resumo</a></li>
+<li><a href="index.html#agradecementos" id="toc-agradecementos">Agradecementos</a></li>
+</ul></li>
+<li><a href="a-orixe-da-música.html#a-orixe-da-música" id="toc-a-orixe-da-música">A orixe da música</a>
+<ul>
+<li><a href="a-orixe-da-música.html#definicións-e-conceptos-previos" id="toc-definicións-e-conceptos-previos">Definicións e conceptos previos</a>
+<ul>
+<li><a href="a-orixe-da-música.html#a-música-como-linguaxe-universal" id="toc-a-música-como-linguaxe-universal">A música como linguaxe universal</a></li>
+<li><a href="a-orixe-da-música.html#a-creación-artístico-musical" id="toc-a-creación-artístico-musical">A creación artístico-musical</a></li>
+<li><a href="a-orixe-da-música.html#perspectivas-e-significado-da-música" id="toc-perspectivas-e-significado-da-música">Perspectivas e significado da «música»</a></li>
+<li><a href="a-orixe-da-música.html#temporalidade-e-memoria-auditiva" id="toc-temporalidade-e-memoria-auditiva">Temporalidade e memoria auditiva</a></li>
+<li><a href="a-orixe-da-música.html#relación-entre-historia-e-música" id="toc-relación-entre-historia-e-música">Relación entre historia e música</a></li>
+</ul></li>
+<li><a href="a-orixe-da-música.html#obxectivos-e-problemática-da-materia" id="toc-obxectivos-e-problemática-da-materia">Obxectivos e problemática da materia</a>
+<ul>
+<li><a href="a-orixe-da-música.html#a-actividade-musical-e-o-produto-musical" id="toc-a-actividade-musical-e-o-produto-musical">A actividade musical e o produto musical</a></li>
+<li><a href="a-orixe-da-música.html#música-de-tadición-oral-e-notación-musical" id="toc-música-de-tadición-oral-e-notación-musical">Música de tadición oral e notación musical</a></li>
+<li><a href="a-orixe-da-música.html#música-culta-e-música-popular" id="toc-música-culta-e-música-popular">Música culta e música popular</a></li>
+<li><a href="a-orixe-da-música.html#o-enfoque-eurocéntrico" id="toc-o-enfoque-eurocéntrico">O enfoque eurocéntrico</a></li>
+<li><a href="a-orixe-da-música.html#canon-e-repertorio-musical" id="toc-canon-e-repertorio-musical">Canon e repertorio musical</a></li>
+</ul></li>
+<li><a href="a-orixe-da-música.html#a-periodización-na-historia-da-música" id="toc-a-periodización-na-historia-da-música">A periodización na Historia da música</a>
+<ul>
+<li><a href="a-orixe-da-música.html#períodos-da-historia" id="toc-períodos-da-historia">Períodos da historia</a></li>
+<li><a href="a-orixe-da-música.html#períodos-da-historia-cultural" id="toc-períodos-da-historia-cultural">Períodos da historia cultural</a></li>
+<li><a href="a-orixe-da-música.html#períodos-da-historia-da-música" id="toc-períodos-da-historia-da-música">Períodos da historia da música</a></li>
+</ul></li>
+</ul></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#a-música-na-prehistoria-e-mundo-antigo" id="toc-a-música-na-prehistoria-e-mundo-antigo"><span class="toc-section-number">1</span> A música na prehistoria e mundo antigo</a>
+<ul>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#as-fontes-de-información-histórica" id="toc-as-fontes-de-información-histórica"><span class="toc-section-number">1.1</span> As fontes de información histórica</a>
+<ul>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#fontes-para-o-estudo-da-música-na-prehistoria-e-antigüidade" id="toc-fontes-para-o-estudo-da-música-na-prehistoria-e-antigüidade"><span class="toc-section-number">1.1.1</span> Fontes para o estudo da Música na Prehistoria e Antigüidade</a></li>
+</ul></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#a-música-na-prehistoria" id="toc-a-música-na-prehistoria"><span class="toc-section-number">1.2</span> A música na Prehistoria</a></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#as-primeiras-civilizacións" id="toc-as-primeiras-civilizacións"><span class="toc-section-number">1.3</span> As primeiras civilizacións</a>
+<ul>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#exipto" id="toc-exipto"><span class="toc-section-number">1.3.1</span> Exipto</a></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#mesopotamia" id="toc-mesopotamia"><span class="toc-section-number">1.3.2</span> Mesopotamia</a></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#o-antigo-oriente" id="toc-o-antigo-oriente"><span class="toc-section-number">1.3.3</span> O antigo Oriente</a></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#o-pobo-hebreo" id="toc-o-pobo-hebreo"><span class="toc-section-number">1.3.4</span> O pobo Hebreo</a></li>
+</ul></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#resumo-1" id="toc-resumo-1">Resumo</a></li>
+<li><a href="a-música-na-prehistoria-e-mundo-antigo.html#actividades-e-audicións" id="toc-actividades-e-audicións">Actividades e audicións</a></li>
+</ul></li>
+<li><a href="a-música-en-grecia.html#a-música-en-grecia" id="toc-a-música-en-grecia"><span class="toc-section-number">2</span> A música en Grecia</a>
+<ul>
+<li><a href="a-música-en-grecia.html#a-música-na-sociedade-e-culturas-grega" id="toc-a-música-na-sociedade-e-culturas-grega"><span class="toc-section-number">2.1</span> A música na sociedade e culturas grega</a>
+<ul>
+<li><a href="a-música-en-grecia.html#a-música-como-ideal-educativo" id="toc-a-música-como-ideal-educativo"><span class="toc-section-number">2.1.1</span> A música como ideal educativo</a></li>
+</ul></li>
+<li><a href="a-música-en-grecia.html#desenvolvemento-histórico-períodos" id="toc-desenvolvemento-histórico-períodos"><span class="toc-section-number">2.2</span> Desenvolvemento histórico: períodos</a>
+<ul>
+<li><a href="a-música-en-grecia.html#poesía-épica" id="toc-poesía-épica"><span class="toc-section-number">2.2.1</span> Poesía épica</a></li>
+<li><a href="a-música-en-grecia.html#poesía-lírica" id="toc-poesía-lírica"><span class="toc-section-number">2.2.2</span> Poesía lírica</a></li>
+<li><a href="a-música-en-grecia.html#a-traxedia" id="toc-a-traxedia"><span class="toc-section-number">2.2.3</span> A traxedia</a></li>
+<li><a href="a-música-en-grecia.html#o-helenismo" id="toc-o-helenismo"><span class="toc-section-number">2.2.4</span> O helenismo</a></li>
+</ul></li>
+<li><a href="a-música-en-grecia.html#teoría-musical" id="toc-teoría-musical"><span class="toc-section-number">2.3</span> Teoría musical</a>
+<ul>
+<li><a href="a-música-en-grecia.html#as-notas" id="toc-as-notas"><span class="toc-section-number">2.3.1</span> As Notas</a></li>
+<li><a href="a-música-en-grecia.html#os-intervalos" id="toc-os-intervalos"><span class="toc-section-number">2.3.2</span> Os Intervalos</a></li>
+<li><a href="a-música-en-grecia.html#os-genera" id="toc-os-genera"><span class="toc-section-number">2.3.3</span> Os <em>Genera</em></a></li>
+<li><a href="a-música-en-grecia.html#o-sistema-musical" id="toc-o-sistema-musical"><span class="toc-section-number">2.3.4</span> O sistema musical</a></li>
+<li><a href="a-música-en-grecia.html#as-escalas" id="toc-as-escalas"><span class="toc-section-number">2.3.5</span> As escalas</a></li>
+<li><a href="a-música-en-grecia.html#os-tonoi" id="toc-os-tonoi"><span class="toc-section-number">2.3.6</span> Os <em>Tonoi</em></a></li>
+<li><a href="a-música-en-grecia.html#modulación-ethos-e-pathos" id="toc-modulación-ethos-e-pathos"><span class="toc-section-number">2.3.7</span> Modulación: <em>ethos</em> e <em>pathos</em></a></li>
+</ul></li>
+<li><a href="a-música-en-grecia.html#pensamento-musical" id="toc-pensamento-musical"><span class="toc-section-number">2.4</span> Pensamento musical</a>
+<ul>
+<li><a href="a-música-en-grecia.html#influencias-mitolóxicas" id="toc-influencias-mitolóxicas"><span class="toc-section-number">2.4.1</span> Influencias mitolóxicas</a></li>
+<li><a href="a-música-en-grecia.html#homero" id="toc-homero"><span class="toc-section-number">2.4.2</span> Homero</a></li>
+<li><a href="a-música-en-grecia.html#pitágoras" id="toc-pitágoras"><span class="toc-section-number">2.4.3</span> Pitágoras</a></li>
+<li><a href="a-música-en-grecia.html#damón" id="toc-damón"><span class="toc-section-number">2.4.4</span> Damón</a></li>
+<li><a href="a-música-en-grecia.html#platón-e-aristóteles" id="toc-platón-e-aristóteles"><span class="toc-section-number">2.4.5</span> Platón e Aristóteles</a></li>
+<li><a href="a-música-en-grecia.html#aristoxeno" id="toc-aristoxeno"><span class="toc-section-number">2.4.6</span> Aristoxeno</a></li>
+</ul></li>
+<li><a href="a-música-en-grecia.html#organoloxía" id="toc-organoloxía"><span class="toc-section-number">2.5</span> Organoloxía</a></li>
+<li><a href="a-música-en-grecia.html#o-legado-de-grecia" id="toc-o-legado-de-grecia"><span class="toc-section-number">2.6</span> O legado de Grecia</a></li>
+<li><a href="a-música-en-grecia.html#resumo-2" id="toc-resumo-2">Resumo</a></li>
+<li><a href="a-música-en-grecia.html#actividades-e-audicións-1" id="toc-actividades-e-audicións-1">Actividades e audicións</a></li>
+</ul></li>
+<li><a href="a-música-en-roma.html#a-música-en-roma" id="toc-a-música-en-roma"><span class="toc-section-number">3</span> A música en Roma</a>
+<ul>
+<li><a href="a-música-en-roma.html#contexto-histórico" id="toc-contexto-histórico"><span class="toc-section-number">3.1</span> Contexto histórico</a></li>
+<li><a href="a-música-en-roma.html#teoría-musical-1" id="toc-teoría-musical-1"><span class="toc-section-number">3.2</span> Teoría musical</a></li>
+<li><a href="a-música-en-roma.html#organoloxía-1" id="toc-organoloxía-1"><span class="toc-section-number">3.3</span> Organoloxía</a></li>
+<li><a href="a-música-en-roma.html#resumo-3" id="toc-resumo-3">Resumo</a></li>
+<li><a href="a-música-en-roma.html#actividades-e-audicións-2" id="toc-actividades-e-audicións-2">Actividades e audicións</a></li>
+</ul></li>
+<li><a href="a-música-dos-iberos.html#a-música-dos-iberos" id="toc-a-música-dos-iberos"><span class="toc-section-number">4</span> A música dos Iberos</a>
+<ul>
+<li><a href="a-música-dos-iberos.html#contexto-histórico-1" id="toc-contexto-histórico-1"><span class="toc-section-number">4.1</span> Contexto histórico</a></li>
+<li><a href="a-música-dos-iberos.html#resumo-4" id="toc-resumo-4">Resumo</a></li>
+<li><a href="a-música-dos-iberos.html#actividades-e-audicións-3" id="toc-actividades-e-audicións-3">Actividades e audicións</a></li>
+</ul></li>
+<li><a href="a-música-cristiá-primitiva.html#a-música-cristiá-primitiva" id="toc-a-música-cristiá-primitiva"><span class="toc-section-number">5</span> A música cristiá primitiva</a>
+<ul>
+<li><a href="a-música-cristiá-primitiva.html#orixe-do-canto-litúrxico-en-occidente" id="toc-orixe-do-canto-litúrxico-en-occidente"><span class="toc-section-number">5.1</span> Orixe do canto litúrxico en Occidente</a>
+<ul>
+<li><a href="a-música-cristiá-primitiva.html#influencia-xudea" id="toc-influencia-xudea"><span class="toc-section-number">5.1.1</span> Influencia xudea</a></li>
+<li><a href="a-música-cristiá-primitiva.html#canto-sirio" id="toc-canto-sirio"><span class="toc-section-number">5.1.2</span> Canto sirio</a></li>
+<li><a href="a-música-cristiá-primitiva.html#a-influencia-de-bizancio" id="toc-a-influencia-de-bizancio"><span class="toc-section-number">5.1.3</span> A influencia de Bizancio</a></li>
+<li><a href="a-música-cristiá-primitiva.html#o-canto-copto" id="toc-o-canto-copto"><span class="toc-section-number">5.1.4</span> O canto copto</a></li>
+<li><a href="a-música-cristiá-primitiva.html#canto-armenio" id="toc-canto-armenio"><span class="toc-section-number">5.1.5</span> Canto armenio</a></li>
+</ul></li>
+<li><a href="a-música-cristiá-primitiva.html#a-liturxia" id="toc-a-liturxia"><span class="toc-section-number">5.2</span> A liturxia</a></li>
+</ul></li>
+<li><a href="audicións.html#audicións" id="toc-audicións">Audicións</a>
+<ul>
+<li><a href="audicións.html#audición-no.1-a-chantar" id="toc-audición-no.1-a-chantar">Audición no.1 A Chantar</a></li>
+</ul></li>
+<li><a href="customisations-and-extensions.html#customisations-and-extensions" id="toc-customisations-and-extensions"><span class="toc-section-number">6</span> Customisations and extensions</a>
+<ul>
+<li><a href="customisations-and-extensions.html#front-matter" id="toc-front-matter"><span class="toc-section-number">6.1</span> Front matter</a>
+<ul>
+<li><a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-figures-pdf" id="toc-shorten-captions-shown-in-the-list-of-figures-pdf"><span class="toc-section-number">6.1.1</span> Shorten captions shown in the list of figures (PDF)</a></li>
+<li><a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-tables-pdf" id="toc-shorten-captions-shown-in-the-list-of-tables-pdf"><span class="toc-section-number">6.1.2</span> Shorten captions shown in the list of tables (PDF)</a></li>
+</ul></li>
+<li><a href="customisations-and-extensions.html#shorten-running-header-pdf" id="toc-shorten-running-header-pdf"><span class="toc-section-number">6.2</span> Shorten running header (PDF)</a></li>
+<li><a href="customisations-and-extensions.html#unnumbered-chapters" id="toc-unnumbered-chapters"><span class="toc-section-number">6.3</span> Unnumbered chapters</a></li>
+<li><a href="customisations-and-extensions.html#beginning-chapters-with-quotes-pdf" id="toc-beginning-chapters-with-quotes-pdf"><span class="toc-section-number">6.4</span> Beginning chapters with quotes (PDF)</a></li>
+<li><a href="customisations-and-extensions.html#highlighting-corrections-html-pdf" id="toc-highlighting-corrections-html-pdf"><span class="toc-section-number">6.5</span> Highlighting corrections (HTML &amp; PDF)</a>
+<ul>
+<li><a href="customisations-and-extensions.html#short-inline-corrections" id="toc-short-inline-corrections"><span class="toc-section-number">6.5.1</span> Short, inline corrections</a></li>
+<li><a href="customisations-and-extensions.html#blocks-of-added-or-changed-material" id="toc-blocks-of-added-or-changed-material"><span class="toc-section-number">6.5.2</span> Blocks of added or changed material</a></li>
+<li><a href="customisations-and-extensions.html#stopping-corrections-from-being-highlighted" id="toc-stopping-corrections-from-being-highlighted"><span class="toc-section-number">6.5.3</span> Stopping corrections from being highlighted</a></li>
+</ul></li>
+<li><a href="customisations-and-extensions.html#apply-custom-font-color-and-highlighting-to-text-html-pdf" id="toc-apply-custom-font-color-and-highlighting-to-text-html-pdf"><span class="toc-section-number">6.6</span> Apply custom font color and highlighting to text (HTML &amp; PDF)</a></li>
+<li><a href="customisations-and-extensions.html#embed-pdf" id="toc-embed-pdf"><span class="toc-section-number">6.7</span> Including another paper in your thesis - embed a PDF document</a></li>
+<li><a href="customisations-and-extensions.html#embed-rmd" id="toc-embed-rmd"><span class="toc-section-number">6.8</span> Including another paper in your thesis - R Markdown child document</a>
+<ul>
+<li><a href="customisations-and-extensions.html#an-example-paper-in-another-folder" id="toc-an-example-paper-in-another-folder"><span class="toc-section-number">6.8.1</span> An example paper in another folder</a></li>
+<li><a href="customisations-and-extensions.html#step-1-include-paper-as-a-child-document" id="toc-step-1-include-paper-as-a-child-document"><span class="toc-section-number">6.8.2</span> Step 1: Include paper as a child document</a></li>
+<li><a href="customisations-and-extensions.html#step-2-make-file-paths-compatible" id="toc-step-2-make-file-paths-compatible"><span class="toc-section-number">6.8.3</span> Step 2: Make file paths compatible</a></li>
+<li><a href="customisations-and-extensions.html#step-3-make-sure-header-levels-are-correct" id="toc-step-3-make-sure-header-levels-are-correct"><span class="toc-section-number">6.8.4</span> Step 3: Make sure header levels are correct</a></li>
+<li><a href="customisations-and-extensions.html#step-4.-make-sure-figure-widths-are-correct" id="toc-step-4.-make-sure-figure-widths-are-correct"><span class="toc-section-number">6.8.5</span> Step 4. Make sure figure widths are correct</a></li>
+</ul></li>
+<li><a href="customisations-and-extensions.html#customizing-referencing" id="toc-customizing-referencing"><span class="toc-section-number">6.9</span> Customizing referencing</a>
+<ul>
+<li><a href="customisations-and-extensions.html#using-a-.csl-file-with-pandoc-instead-of-biblatex" id="toc-using-a-.csl-file-with-pandoc-instead-of-biblatex"><span class="toc-section-number">6.9.1</span> Using a .csl file with pandoc instead of biblatex</a></li>
+<li><a href="customisations-and-extensions.html#biblatex-custom" id="toc-biblatex-custom"><span class="toc-section-number">6.9.2</span> Customizing biblatex and adding chapter bibliographies</a></li>
+</ul></li>
+<li><a href="customisations-and-extensions.html#customizing-the-page-headers-and-footers-pdf" id="toc-customizing-the-page-headers-and-footers-pdf"><span class="toc-section-number">6.10</span> Customizing the page headers and footers (PDF)</a></li>
+<li><a href="customisations-and-extensions.html#diving-in-to-the-oxthesis-latex-template-pdf" id="toc-diving-in-to-the-oxthesis-latex-template-pdf"><span class="toc-section-number">6.11</span> Diving in to the OxThesis LaTeX template (PDF)</a></li>
+<li><a href="customisations-and-extensions.html#customising-to-a-different-university" id="toc-customising-to-a-different-university"><span class="toc-section-number">6.12</span> Customising to a different university</a>
+<ul>
+<li><a href="customisations-and-extensions.html#the-minimal-route" id="toc-the-minimal-route"><span class="toc-section-number">6.12.1</span> The minimal route</a></li>
+<li><a href="customisations-and-extensions.html#replacing-the-entire-title-page-with-your-required-content" id="toc-replacing-the-entire-title-page-with-your-required-content"><span class="toc-section-number">6.12.2</span> Replacing the entire title page with your required content</a></li>
+</ul></li>
+</ul></li>
+<li><a href="troubleshooting.html#troubleshooting" id="toc-troubleshooting"><span class="toc-section-number">7</span> Troubleshooting</a>
+<ul>
+<li><a href="troubleshooting.html#error-failed-to-build-the-bibliography-via-biber" id="toc-error-failed-to-build-the-bibliography-via-biber"><span class="toc-section-number">7.1</span> Error: Failed to build the bibliography via biber</a></li>
+</ul></li>
+<li><a href="unidade-7.html#unidade-7" id="toc-unidade-7"><span class="toc-section-number">8</span> Unidade 7</a></li>
+<li><a href="unidade-8.html#unidade-8" id="toc-unidade-8"><span class="toc-section-number">9</span> Unidade 8</a></li>
+<li><a href="unidade-9.html#unidade-9" id="toc-unidade-9"><span class="toc-section-number">10</span> Unidade 9</a></li>
+<li><a href="unidade-10.html#unidade-10" id="toc-unidade-10"><span class="toc-section-number">11</span> Unidade 10</a></li>
+<li><a href="#appendix-appendix" id="toc-appendix-appendix">(APPENDIX) Appendix</a></li>
+<li><a href="the-first-appendix.html#the-first-appendix" id="toc-the-first-appendix"><span class="toc-section-number">12</span> The First Appendix</a></li>
+<li><a href="the-second-appendix-for-fun.html#the-second-appendix-for-fun" id="toc-the-second-appendix-for-fun"><span class="toc-section-number">13</span> The Second Appendix, for Fun</a></li>
+<li><a href="references.html#references" id="toc-references">References</a></li>
 </ul>
 
-        <div class="book-extra">
-          <p><a id="book-repo" href="https://github.com/ulyngs/oxforddown">View book source <i class="fab fa-github"></i></a></p>
-        </div>
       </nav>
-</div>
-  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="customisations-and-extensions" class="section level1" number="6">
-<h1>
-<span class="header-section-number">6</span> Customisations and extensions<a class="anchor" aria-label="anchor" href="#customisations-and-extensions"><i class="fas fa-link"></i></a>
-</h1>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./"><p>Historia da música I<br />
+Apuntamentos e actividades</p></a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="customisations-and-extensions" class="section level1 hasAnchor" number="6">
+<h1><span class="header-section-number">6</span> Customisations and extensions<a href="customisations-and-extensions.html#customisations-and-extensions" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <p><!-- this will include a mini table of contents--></p>
 <!-- LaTeX normally does not indent the first line after a heading - however, it does so after the mini table of contents. You can manually tell it not to with \noindent -->
 <p>This chapter describes a number of additional tips and tricks as well as possible customizations to the <code>oxforddown</code> thesis.</p>
-<div id="front-matter" class="section level2" number="6.1">
-<h2>
-<span class="header-section-number">6.1</span> Front matter<a class="anchor" aria-label="anchor" href="#front-matter"><i class="fas fa-link"></i></a>
-</h2>
-<div id="shorten-captions-shown-in-the-list-of-figures-pdf" class="section level3" number="6.1.1">
-<h3>
-<span class="header-section-number">6.1.1</span> Shorten captions shown in the list of figures (PDF)<a class="anchor" aria-label="anchor" href="#shorten-captions-shown-in-the-list-of-figures-pdf"><i class="fas fa-link"></i></a>
-</h3>
+<div id="front-matter" class="section level2 hasAnchor" number="6.1">
+<h2><span class="header-section-number">6.1</span> Front matter<a href="customisations-and-extensions.html#front-matter" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="shorten-captions-shown-in-the-list-of-figures-pdf" class="section level3 hasAnchor" number="6.1.1">
+<h3><span class="header-section-number">6.1.1</span> Shorten captions shown in the list of figures (PDF)<a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-figures-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>You might want your list of figures (which follows the table of contents) to have shorter (or just different) figure descriptions than the actual figure captions.</p>
 <p>Do this using the chunk option <code>fig.scap</code> (‘short caption’), for example <code>{r captain-image, fig.cap="A very long and descriptive (and potentially boring) caption that doesn't fit in the list of figures, but helps the reader understand what the figure communicates.", fig.scap="A concise description for the list of figures"</code></p>
 </div>
-<div id="shorten-captions-shown-in-the-list-of-tables-pdf" class="section level3" number="6.1.2">
-<h3>
-<span class="header-section-number">6.1.2</span> Shorten captions shown in the list of tables (PDF)<a class="anchor" aria-label="anchor" href="#shorten-captions-shown-in-the-list-of-tables-pdf"><i class="fas fa-link"></i></a>
-</h3>
+<div id="shorten-captions-shown-in-the-list-of-tables-pdf" class="section level3 hasAnchor" number="6.1.2">
+<h3><span class="header-section-number">6.1.2</span> Shorten captions shown in the list of tables (PDF)<a href="customisations-and-extensions.html#shorten-captions-shown-in-the-list-of-tables-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>You might want your list of tables (which follows the list of figures in your thesis front matter) to have shorter (or just different) table descriptions than the actual table captions.</p>
-<p>If you are using <code><a href="https://rdrr.io/pkg/knitr/man/kable.html">knitr::kable</a></code> to generate a table, you can do this with the argument <code>caption.short</code>, e.g.:</p>
-<div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/kable.html">kable</a></span><span class="op">(</span><span class="va">mtcars</span>,</span>
-<span>              caption <span class="op">=</span> <span class="st">"A very long and descriptive (and potentially</span></span>
-<span><span class="st">              boring) caption that doesn't fit in the list of figures,</span></span>
-<span><span class="st">              but helps the reader understand what the figure </span></span>
-<span><span class="st">              communicates."</span>,</span>
-<span>              caption.short <span class="op">=</span> <span class="st">"A concise description for the list of tables"</span><span class="op">)</span></span></code></pre></div>
+<p>If you are using <code>knitr::kable</code> to generate a table, you can do this with the argument <code>caption.short</code>, e.g.:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="customisations-and-extensions.html#cb1-1" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(mtcars,</span>
+<span id="cb1-2"><a href="customisations-and-extensions.html#cb1-2" tabindex="-1"></a>              <span class="at">caption =</span> <span class="st">&quot;A very long and descriptive (and potentially</span></span>
+<span id="cb1-3"><a href="customisations-and-extensions.html#cb1-3" tabindex="-1"></a><span class="st">              boring) caption that doesn&#39;t fit in the list of figures,</span></span>
+<span id="cb1-4"><a href="customisations-and-extensions.html#cb1-4" tabindex="-1"></a><span class="st">              but helps the reader understand what the figure </span></span>
+<span id="cb1-5"><a href="customisations-and-extensions.html#cb1-5" tabindex="-1"></a><span class="st">              communicates.&quot;</span>,</span>
+<span id="cb1-6"><a href="customisations-and-extensions.html#cb1-6" tabindex="-1"></a>              <span class="at">caption.short =</span> <span class="st">&quot;A concise description for the list of tables&quot;</span>)</span></code></pre></div>
 </div>
 </div>
-<div id="shorten-running-header-pdf" class="section level2" number="6.2">
-<h2>
-<span class="header-section-number">6.2</span> Shorten running header (PDF)<a class="anchor" aria-label="anchor" href="#shorten-running-header-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="shorten-running-header-pdf" class="section level2 hasAnchor" number="6.2">
+<h2><span class="header-section-number">6.2</span> Shorten running header (PDF)<a href="customisations-and-extensions.html#shorten-running-header-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>You might want a chapter’s running header (i.e. the header showing the title of the current chapter at the top of page) to be shorter (or just different) to the actual chapter title.</p>
 <p>Do this by adding the latex command <code>\chaptermark{My shorter version}</code> after your chapter title.</p>
 <p>For example, chapter <a href="#cites-and-refs"><strong>??</strong></a>‘s running header is simply ’Cites and cross-refs’, because it begins like this:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb2-1"><a href="customisations-and-extensions.html#cb2-1" tabindex="-1"></a><span class="fu"># Citations, cross-references, and collaboration {#cites-and-refs} </span></span>
 <span id="cb2-2"><a href="customisations-and-extensions.html#cb2-2" tabindex="-1"></a>\chaptermark{Cites and cross-refs}</span></code></pre></div>
 </div>
-<div id="unnumbered-chapters" class="section level2" number="6.3">
-<h2>
-<span class="header-section-number">6.3</span> Unnumbered chapters<a class="anchor" aria-label="anchor" href="#unnumbered-chapters"><i class="fas fa-link"></i></a>
-</h2>
+<div id="unnumbered-chapters" class="section level2 hasAnchor" number="6.3">
+<h2><span class="header-section-number">6.3</span> Unnumbered chapters<a href="customisations-and-extensions.html#unnumbered-chapters" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>To make chapters unnumbered (normally only relevant to the Introduction and/or the Conclusion), follow the chapter header with <code>{-}</code>, e.g. <code># Introduction {-}</code>.</p>
 <p>When you do this, you must also follow the heading with these two latex commands:</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb3-1"><a href="customisations-and-extensions.html#cb3-1" tabindex="-1"></a><span class="fu">\adjustmtc</span></span>
 <span id="cb3-2"><a href="customisations-and-extensions.html#cb3-2" tabindex="-1"></a><span class="fu">\markboth</span>{The Name of Your Unnumbered Chapter}{}</span></code></pre></div>
 <p>Otherwise the chapter’s mini table of contents and the running header will show the previous chapter.</p>
 </div>
-<div id="beginning-chapters-with-quotes-pdf" class="section level2" number="6.4">
-<h2>
-<span class="header-section-number">6.4</span> Beginning chapters with quotes (PDF)<a class="anchor" aria-label="anchor" href="#beginning-chapters-with-quotes-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="beginning-chapters-with-quotes-pdf" class="section level2 hasAnchor" number="6.4">
+<h2><span class="header-section-number">6.4</span> Beginning chapters with quotes (PDF)<a href="customisations-and-extensions.html#beginning-chapters-with-quotes-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>The OxThesis LaTeX template lets you inject some wittiness into your thesis by including a block of type <code>savequote</code> at the beginning of chapters.
 To do this, use the syntax <code>```{block type='savequote'}</code>.<a href="references.html#fn15" class="footnote-ref" id="fnref15"><sup>15</sup></a></p>
 <p>Add the reference for the quote with the chunk option <code>quote_author="my author name"</code>.
 You will also want to add the chunk option <code>include=knitr::is_latex_output()</code> so that quotes are only included in PDF output.</p>
 <p>It’s not possible to use markdown syntax inside chunk options, so if you want to e.g. italicise a book name in the reference use a <a href="https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references">‘text reference’</a>: Create a named piece of text with ‘(ref:label-name) My text’, then point to this in the chunk option with <code>quote_author='(ref:label-name)'</code>.</p>
 </div>
-<div id="highlighting-corrections-html-pdf" class="section level2" number="6.5">
-<h2>
-<span class="header-section-number">6.5</span> Highlighting corrections (HTML &amp; PDF)<a class="anchor" aria-label="anchor" href="#highlighting-corrections-html-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="highlighting-corrections-html-pdf" class="section level2 hasAnchor" number="6.5">
+<h2><span class="header-section-number">6.5</span> Highlighting corrections (HTML &amp; PDF)<a href="customisations-and-extensions.html#highlighting-corrections-html-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>For when it comes time to do corrections, you may want to highlight changes made when you submit a post-viva, corrected copy to your examiners so they can quickly verify you’ve completed the task.
 You can do so like this:</p>
-<div id="short-inline-corrections" class="section level3" number="6.5.1">
-<h3>
-<span class="header-section-number">6.5.1</span> Short, inline corrections<a class="anchor" aria-label="anchor" href="#short-inline-corrections"><i class="fas fa-link"></i></a>
-</h3>
+<div id="short-inline-corrections" class="section level3 hasAnchor" number="6.5.1">
+<h3><span class="header-section-number">6.5.1</span> Short, inline corrections<a href="customisations-and-extensions.html#short-inline-corrections" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Highlight <strong>short, inline corrections</strong> by doing <code>[like this]{.correction}</code> — the text between the square brackets will then <span class="correction">be highlighted in blue</span> in the output.</p>
 <p>Note that pandoc might get confused by citations and cross-references inside inline corrections.
-In particular, it might get confused by <code>"[what @Shea2014 said]{.correction}"</code> which becomes <span class="correction">what <span class="citation">Shea et al. (<a href="references.html#ref-Shea2014">2014</a>)</span> said</span>
+In particular, it might get confused by <code>"[what @Shea2014 said]{.correction}"</code> which becomes <span class="correction">what <span class="citation">Shea et al. (<a href="#ref-Shea2014">2014</a>)</span> said</span>
 In such cases, you can use LaTeX syntax directly.
 The correction highlighting uses the <a href="https://ctan.org/pkg/soul">soul</a> package, so you can do like this:</p>
 <ul>
-<li>If using biblatex for references, use <code>"\hl{what \textcite{Shea2014} said}</code>
-</li>
-<li>If using natbib for references, use <code>"\hl{what \cite{Shea2014} said}</code>
-</li>
+<li>If using biblatex for references, use <code>"\hl{what \textcite{Shea2014} said}</code></li>
+<li>If using natbib for references, use <code>"\hl{what \cite{Shea2014} said}</code></li>
 </ul>
 <p>Using raw LaTeX has the drawback of corrections then not showing up in HTML output at all, but you might only care about correction highlighting in the PDF for your examiners anyway!</p>
 </div>
-<div id="blocks-of-added-or-changed-material" class="section level3" number="6.5.2">
-<h3>
-<span class="header-section-number">6.5.2</span> Blocks of added or changed material<a class="anchor" aria-label="anchor" href="#blocks-of-added-or-changed-material"><i class="fas fa-link"></i></a>
-</h3>
+<div id="blocks-of-added-or-changed-material" class="section level3 hasAnchor" number="6.5.2">
+<h3><span class="header-section-number">6.5.2</span> Blocks of added or changed material<a href="customisations-and-extensions.html#blocks-of-added-or-changed-material" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Highlight entire <strong>blocks of added or changed material</strong> by putting them in a block of type <code>correction</code>, using the syntax <code>```{block type='correction'}</code>.<a href="references.html#fn16" class="footnote-ref" id="fnref16"><sup>16</sup></a>
 Like so:</p>
 <div class="correction">
@@ -160,77 +429,67 @@ same blue colour.
 </div>
 <p><em>Note that correction blocks cannot be included in word output.</em></p>
 </div>
-<div id="stopping-corrections-from-being-highlighted" class="section level3" number="6.5.3">
-<h3>
-<span class="header-section-number">6.5.3</span> Stopping corrections from being highlighted<a class="anchor" aria-label="anchor" href="#stopping-corrections-from-being-highlighted"><i class="fas fa-link"></i></a>
-</h3>
+<div id="stopping-corrections-from-being-highlighted" class="section level3 hasAnchor" number="6.5.3">
+<h3><span class="header-section-number">6.5.3</span> Stopping corrections from being highlighted<a href="customisations-and-extensions.html#stopping-corrections-from-being-highlighted" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>To turn off correction highlighting, go to the YAML header of <strong>index.Rmd</strong>, then:</p>
 <ul>
-<li>PDF output: set <code>corrections: false</code><br>
+<li>PDF output: set <code>corrections: false</code><br />
 </li>
-<li>HTML output: remove or comment out <code>- templates/corrections.css</code>
-</li>
+<li>HTML output: remove or comment out <code>- templates/corrections.css</code></li>
 </ul>
 </div>
 </div>
-<div id="apply-custom-font-color-and-highlighting-to-text-html-pdf" class="section level2" number="6.6">
-<h2>
-<span class="header-section-number">6.6</span> Apply custom font color and highlighting to text (HTML &amp; PDF)<a class="anchor" aria-label="anchor" href="#apply-custom-font-color-and-highlighting-to-text-html-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="apply-custom-font-color-and-highlighting-to-text-html-pdf" class="section level2 hasAnchor" number="6.6">
+<h2><span class="header-section-number">6.6</span> Apply custom font color and highlighting to text (HTML &amp; PDF)<a href="customisations-and-extensions.html#apply-custom-font-color-and-highlighting-to-text-html-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>The lua filter that adds the functionality to highlight corrections adds two more tricks:
 you can apply your own choice of colour to highlight text, or change the font color.
 The syntax is as follows:</p>
 <blockquote>
-<p>Here’s <code>[some text in pink highlighting]{highlight="pink"}</code><br>
-Becomes: Here’s <span style="background-color: pink;">some text in pink highlighting</span>.</p>
+<p>Here’s <code>[some text in pink highlighting]{highlight="pink"}</code><br />
+Becomes: Here’s <span highlight="pink">some text in pink highlighting</span>.</p>
 </blockquote>
 <blockquote>
-<p><code>[Here's some text with blue font]{color="blue"}</code><br>
-Becomes: <span style=" color: blue;">Here’s some text with blue font</span></p>
+<p><code>[Here's some text with blue font]{color="blue"}</code><br />
+Becomes: <span color="blue">Here’s some text with blue font</span></p>
 </blockquote>
 <blockquote>
-<p>Finally — never, ever actually do this – <code>[here's some text with black highlighting and yellow font]{highlight="black" color="yellow"}</code><br>
-Becomes: <span style="background-color: black; color: yellow;">here’s some text with black highlighting and yellow font</span></p>
+<p>Finally — never, ever actually do this – <code>[here's some text with black highlighting and yellow font]{highlight="black" color="yellow"}</code><br />
+Becomes: <span highlight="black" color="yellow">here’s some text with black highlighting and yellow font</span></p>
 </blockquote>
 <p>The file <strong>scripts_and_filters/colour_and_highlight.lua</strong> implements this, if you want to fiddle around with it.
 It works with both PDF and HTML output.</p>
 </div>
-<div id="embed-pdf" class="section level2" number="6.7">
-<h2>
-<span class="header-section-number">6.7</span> Including another paper in your thesis - embed a PDF document<a class="anchor" aria-label="anchor" href="#embed-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="embed-pdf" class="section level2 hasAnchor" number="6.7">
+<h2><span class="header-section-number">6.7</span> Including another paper in your thesis - embed a PDF document<a href="customisations-and-extensions.html#embed-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>You may want to embed existing PDF documents into the thesis, for example if your department allows a ‘portfolio’ style thesis and you need to include an existing typeset publication as a chapter.</p>
-<p>In gitbook output, you can simply use <code><a href="https://rdrr.io/pkg/knitr/man/include_graphics.html">knitr::include_graphics</a></code> and it should include a scrollable (and downloadable) PDF.
+<p>In gitbook output, you can simply use <code>knitr::include_graphics</code> and it should include a scrollable (and downloadable) PDF.
 You will probably want to set the chunk options <code>out.width='100%'</code> and <code>out.height='1000px'</code>:</p>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">knitr</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/include_graphics.html">include_graphics</a></span><span class="op">(</span><span class="st">"figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf"</span><span class="op">)</span></span></code></pre></div>
-<embed src="figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf" width="100%" height="1000px" type="application/pdf"></embed><p><br></p>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="customisations-and-extensions.html#cb4-1" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">&quot;figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf&quot;</span>)</span></code></pre></div>
+<embed src="figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf" width="100%" height="1000px" type="application/pdf" />
+<p><br></p>
 <p>In LaTeX output, however, this approach can cause odd behaviour.
 Therefore, when you build your thesis to PDF, split the PDF into an alphanumerically sorted sequence of <strong>single-page</strong> PDF files (you can do this automatically with the package <code>pdftools</code>). You can then use the appropriate LaTeX command to insert them, as shown below (for brevity, in the <code>oxforddown</code> PDF sample content we’re only including two pages).
 <em>Note that the chunk option <code>results='asis'</code> must be set.</em>
 You may also want to remove margins from the PDF files, which you can do with Adobe Acrobat (paid version) and likely other software.</p>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># install.packages(pdftools)</span></span>
-<span><span class="co"># split PDF into pages stored in figures/sample-content/pdf_embed_example/split/</span></span>
-<span><span class="co"># pdftools::pdf_split("figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf",</span></span>
-<span><span class="co">#        output = "figures/sample-content/pdf_embed_example/split/")</span></span>
-<span></span>
-<span><span class="co"># grab the pages</span></span>
-<span><span class="va">pages</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://rdrr.io/r/base/list.files.html">list.files</a></span><span class="op">(</span><span class="st">"figures/sample-content/pdf_embed_example/split"</span>, full.names <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span>
-<span></span>
-<span><span class="co"># set how wide you want the inserted PDFs to be: </span></span>
-<span><span class="co"># 1.0 is 100 per cent of the oxforddown PDF page width;</span></span>
-<span><span class="co"># you may want to make it a bit bigger</span></span>
-<span><span class="va">pdf_width</span> <span class="op">&lt;-</span> <span class="fl">1.2</span></span>
-<span></span>
-<span><span class="co"># for each PDF page, insert it nicely and</span></span>
-<span><span class="co"># end with a page break</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/base/cat.html">cat</a></span><span class="op">(</span><span class="fu">stringr</span><span class="fu">::</span><span class="fu"><a href="https://stringr.tidyverse.org/reference/str_c.html">str_c</a></span><span class="op">(</span><span class="st">"\\newpage \\begin{center} \\makebox[\\linewidth][c]{\\includegraphics[width="</span>, <span class="va">pdf_width</span>, <span class="st">"\\linewidth]{"</span>, <span class="va">pages</span>, <span class="st">"}} \\end{center}"</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb5-1"><a href="customisations-and-extensions.html#cb5-1" tabindex="-1"></a><span class="co"># install.packages(pdftools)</span></span>
+<span id="cb5-2"><a href="customisations-and-extensions.html#cb5-2" tabindex="-1"></a><span class="co"># split PDF into pages stored in figures/sample-content/pdf_embed_example/split/</span></span>
+<span id="cb5-3"><a href="customisations-and-extensions.html#cb5-3" tabindex="-1"></a><span class="co"># pdftools::pdf_split(&quot;figures/sample-content/pdf_embed_example/Lyngs2020_FB.pdf&quot;,</span></span>
+<span id="cb5-4"><a href="customisations-and-extensions.html#cb5-4" tabindex="-1"></a><span class="co">#        output = &quot;figures/sample-content/pdf_embed_example/split/&quot;)</span></span>
+<span id="cb5-5"><a href="customisations-and-extensions.html#cb5-5" tabindex="-1"></a></span>
+<span id="cb5-6"><a href="customisations-and-extensions.html#cb5-6" tabindex="-1"></a><span class="co"># grab the pages</span></span>
+<span id="cb5-7"><a href="customisations-and-extensions.html#cb5-7" tabindex="-1"></a>pages <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="st">&quot;figures/sample-content/pdf_embed_example/split&quot;</span>, <span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb5-8"><a href="customisations-and-extensions.html#cb5-8" tabindex="-1"></a></span>
+<span id="cb5-9"><a href="customisations-and-extensions.html#cb5-9" tabindex="-1"></a><span class="co"># set how wide you want the inserted PDFs to be: </span></span>
+<span id="cb5-10"><a href="customisations-and-extensions.html#cb5-10" tabindex="-1"></a><span class="co"># 1.0 is 100 per cent of the oxforddown PDF page width;</span></span>
+<span id="cb5-11"><a href="customisations-and-extensions.html#cb5-11" tabindex="-1"></a><span class="co"># you may want to make it a bit bigger</span></span>
+<span id="cb5-12"><a href="customisations-and-extensions.html#cb5-12" tabindex="-1"></a>pdf_width <span class="ot">&lt;-</span> <span class="fl">1.2</span></span>
+<span id="cb5-13"><a href="customisations-and-extensions.html#cb5-13" tabindex="-1"></a></span>
+<span id="cb5-14"><a href="customisations-and-extensions.html#cb5-14" tabindex="-1"></a><span class="co"># for each PDF page, insert it nicely and</span></span>
+<span id="cb5-15"><a href="customisations-and-extensions.html#cb5-15" tabindex="-1"></a><span class="co"># end with a page break</span></span>
+<span id="cb5-16"><a href="customisations-and-extensions.html#cb5-16" tabindex="-1"></a><span class="fu">cat</span>(stringr<span class="sc">::</span><span class="fu">str_c</span>(<span class="st">&quot;</span><span class="sc">\\</span><span class="st">newpage </span><span class="sc">\\</span><span class="st">begin{center} </span><span class="sc">\\</span><span class="st">makebox[</span><span class="sc">\\</span><span class="st">linewidth][c]{</span><span class="sc">\\</span><span class="st">includegraphics[width=&quot;</span>, pdf_width, <span class="st">&quot;</span><span class="sc">\\</span><span class="st">linewidth]{&quot;</span>, pages, <span class="st">&quot;}} </span><span class="sc">\\</span><span class="st">end{center}&quot;</span>))</span></code></pre></div>
 </div>
-<div id="embed-rmd" class="section level2" number="6.8">
-<h2>
-<span class="header-section-number">6.8</span> Including another paper in your thesis - R Markdown child document<a class="anchor" aria-label="anchor" href="#embed-rmd"><i class="fas fa-link"></i></a>
-</h2>
+<div id="embed-rmd" class="section level2 hasAnchor" number="6.8">
+<h2><span class="header-section-number">6.8</span> Including another paper in your thesis - R Markdown child document<a href="customisations-and-extensions.html#embed-rmd" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Sometimes you want to include another paper you are currently writing as a chapter in your thesis.
 Above <a href="customisations-and-extensions.html#embed-pdf">6.7</a>, we described the simplest way to do this: include the other paper as a pdf.
 However, in some cases you instead want to include the R Markdown source from this paper, and have it compiled within your thesis.
@@ -242,10 +501,8 @@ There are four main steps:</p>
 <li>Make header levels correct</li>
 <li>Make figure widths correct</li>
 </ol>
-<div id="an-example-paper-in-another-folder" class="section level3" number="6.8.1">
-<h3>
-<span class="header-section-number">6.8.1</span> An example paper in another folder<a class="anchor" aria-label="anchor" href="#an-example-paper-in-another-folder"><i class="fas fa-link"></i></a>
-</h3>
+<div id="an-example-paper-in-another-folder" class="section level3 hasAnchor" number="6.8.1">
+<h3><span class="header-section-number">6.8.1</span> An example paper in another folder<a href="customisations-and-extensions.html#an-example-paper-in-another-folder" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Take this simple example (files for this are in <a href="https://github.com/ulyngs/oxforddown-external-article">this GitHub repository</a>):</p>
 <div class="sourceCode" id="cb6"><pre class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb6-1"><a href="customisations-and-extensions.html#cb6-1" tabindex="-1"></a>|--paper_to_include</span>
 <span id="cb6-2"><a href="customisations-and-extensions.html#cb6-2" tabindex="-1"></a>|  |--my_paper.Rmd</span>
@@ -259,119 +516,102 @@ There are four main steps:</p>
 In the <strong>paper_to_include</strong> folder, the file <strong>my_paper.Rmd</strong> is where you write the paper.
 In <strong>my_paper.Rmd</strong>, you read in a CSV file found in the subfolder <strong>data/cats.csv</strong>, and also an image from the subfolder <strong>figures/cat.jpg</strong>.</p>
 </div>
-<div id="step-1-include-paper-as-a-child-document" class="section level3" number="6.8.2">
-<h3>
-<span class="header-section-number">6.8.2</span> Step 1: Include paper as a child document<a class="anchor" aria-label="anchor" href="#step-1-include-paper-as-a-child-document"><i class="fas fa-link"></i></a>
-</h3>
+<div id="step-1-include-paper-as-a-child-document" class="section level3 hasAnchor" number="6.8.2">
+<h3><span class="header-section-number">6.8.2</span> Step 1: Include paper as a child document<a href="customisations-and-extensions.html#step-1-include-paper-as-a-child-document" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>In your thesis folder, create an Rmd file for the chapter where you want to include another paper.
 Add one or more code chunks that include R Markdown files from that paper as child documents:</p>
 <div class="sourceCode" id="cb7"><pre class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb7-1"><a href="customisations-and-extensions.html#cb7-1" tabindex="-1"></a><span class="fu"># Including an external chapter </span></span>
 <span id="cb7-2"><a href="customisations-and-extensions.html#cb7-2" tabindex="-1"></a></span>
-<span id="cb7-3"><a href="customisations-and-extensions.html#cb7-3" tabindex="-1"></a><span class="in">```{r child = "../paper_to_include/my_paper.Rmd"}</span></span>
+<span id="cb7-3"><a href="customisations-and-extensions.html#cb7-3" tabindex="-1"></a><span class="in">```{r child = &quot;../paper_to_include/my_paper.Rmd&quot;}</span></span>
 <span id="cb7-4"><a href="customisations-and-extensions.html#cb7-4" tabindex="-1"></a><span class="in">```</span></span></code></pre></div>
 </div>
-<div id="step-2-make-file-paths-compatible" class="section level3" number="6.8.3">
-<h3>
-<span class="header-section-number">6.8.3</span> Step 2: Make file paths compatible<a class="anchor" aria-label="anchor" href="#step-2-make-file-paths-compatible"><i class="fas fa-link"></i></a>
-</h3>
+<div id="step-2-make-file-paths-compatible" class="section level3 hasAnchor" number="6.8.3">
+<h3><span class="header-section-number">6.8.3</span> Step 2: Make file paths compatible<a href="customisations-and-extensions.html#step-2-make-file-paths-compatible" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Use <a href="https://rmarkdown.rstudio.com/lesson-6.html">parameters</a> to adjust the file path of images based on values you set in the YAML header of an R Markdown file.
 In <strong>my_paper.Rmd</strong>, create a parameter called <code>other_path</code> and set it to an empty string:</p>
 <div class="sourceCode" id="cb8"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb8-1"><a href="customisations-and-extensions.html#cb8-1" tabindex="-1"></a><span class="pp">---</span></span>
-<span id="cb8-2"><a href="customisations-and-extensions.html#cb8-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"A fabulous article in a different folder"</span></span>
+<span id="cb8-2"><a href="customisations-and-extensions.html#cb8-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;A fabulous article in a different folder&quot;</span></span>
 <span id="cb8-3"><a href="customisations-and-extensions.html#cb8-3" tabindex="-1"></a><span class="fu">params</span><span class="kw">:</span></span>
-<span id="cb8-4"><a href="customisations-and-extensions.html#cb8-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb8-4"><a href="customisations-and-extensions.html#cb8-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;&quot;</span></span>
 <span id="cb8-5"><a href="customisations-and-extensions.html#cb8-5" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div>
 <p>In <strong>my_paper.Rmd</strong>, put this at the start of the filepath when you read in data or include images:</p>
-<div class="sourceCode" id="cb9"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org">tidyverse</a></span><span class="op">)</span></span>
-<span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://yihui.org/knitr/">knitr</a></span><span class="op">)</span></span>
-<span></span>
-<span><span class="va">cat_data</span> <span class="op">&lt;-</span> <span class="fu">read_csv</span><span class="op">(</span><span class="fu">str_c</span><span class="op">(</span><span class="va">params</span><span class="op">$</span><span class="va">other_path</span>, <span class="st">"data/cats.csv"</span><span class="op">)</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/pkg/knitr/man/include_graphics.html">include_graphics</a></span><span class="op">(</span><span class="fu">str_c</span><span class="op">(</span><span class="va">params</span><span class="op">$</span><span class="va">other_path</span>, <span class="st">"figures/cat.jpg"</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<div class="sourceCode" id="cb9"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb9-1"><a href="customisations-and-extensions.html#cb9-1" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span>
+<span id="cb9-2"><a href="customisations-and-extensions.html#cb9-2" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb9-3"><a href="customisations-and-extensions.html#cb9-3" tabindex="-1"></a></span>
+<span id="cb9-4"><a href="customisations-and-extensions.html#cb9-4" tabindex="-1"></a>cat_data <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="fu">str_c</span>(params<span class="sc">$</span>other_path, <span class="st">&quot;data/cats.csv&quot;</span>))</span>
+<span id="cb9-5"><a href="customisations-and-extensions.html#cb9-5" tabindex="-1"></a><span class="fu">include_graphics</span>(<span class="fu">str_c</span>(params<span class="sc">$</span>other_path, <span class="st">&quot;figures/cat.jpg&quot;</span>))</span></code></pre></div>
 <p>Finally, in your thesis folder’s <strong>index.Rmd</strong> file, also create the parameter <code>other_path</code>.
 But here, set it to where the <strong>paper_to_include/</strong> folder is relative to your thesis folder:</p>
 <div class="sourceCode" id="cb10"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb10-1"><a href="customisations-and-extensions.html#cb10-1" tabindex="-1"></a><span class="fu">params</span><span class="kw">:</span></span>
-<span id="cb10-2"><a href="customisations-and-extensions.html#cb10-2" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">"../paper_to_include/"</span></span></code></pre></div>
-<div id="note-on-html-output" class="section level4" number="6.8.3.1">
-<h4>
-<span class="header-section-number">6.8.3.1</span> Note on HTML output<a class="anchor" aria-label="anchor" href="#note-on-html-output"><i class="fas fa-link"></i></a>
-</h4>
+<span id="cb10-2"><a href="customisations-and-extensions.html#cb10-2" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;../paper_to_include/&quot;</span></span></code></pre></div>
+<div id="note-on-html-output" class="section level4 hasAnchor" number="6.8.3.1">
+<h4><span class="header-section-number">6.8.3.1</span> Note on HTML output<a href="customisations-and-extensions.html#note-on-html-output" class="anchor-section" aria-label="Anchor link to header"></a></h4>
 <p>Note that if you want to host an HTML version on your thesis online, you will need to include graphics in the content that you host online - the internet obviously won’t be able to see filepaths that are just referring to stuff in another folder on your computer!</p>
 </div>
 </div>
-<div id="step-3-make-sure-header-levels-are-correct" class="section level3" number="6.8.4">
-<h3>
-<span class="header-section-number">6.8.4</span> Step 3: Make sure header levels are correct<a class="anchor" aria-label="anchor" href="#step-3-make-sure-header-levels-are-correct"><i class="fas fa-link"></i></a>
-</h3>
+<div id="step-3-make-sure-header-levels-are-correct" class="section level3 hasAnchor" number="6.8.4">
+<h3><span class="header-section-number">6.8.4</span> Step 3: Make sure header levels are correct<a href="customisations-and-extensions.html#step-3-make-sure-header-levels-are-correct" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>Unless the paper you want to include is also written as a book, your header levels are probably going to be off.
 That is, the level 1 headers (# Some header) you use for main sections in the other paper turns into chaper titles when included in your thesis.</p>
 <p>To avoid this, first <em>increment all heading levels by one in <strong>paper_to_include/my_paper.Rmd</strong></em> (# Some header -&gt; ## Some header).
 Then in <strong>paper_to_include/</strong> create a <a href="https://bookdown.org/yihui/rmarkdown-cookbook/lua-filters.html#lua-filters">lua filter</a> that decrements header levels by one: Create a text file, save it as <strong>reduce_header_level.lua</strong>, and give it the content below.</p>
 <div class="sourceCode" id="cb11"><pre class="sourceCode lua"><code class="sourceCode lua"><span id="cb11-1"><a href="customisations-and-extensions.html#cb11-1" tabindex="-1"></a><span class="kw">function</span> Header<span class="op">(</span><span class="va">el</span><span class="op">)</span></span>
 <span id="cb11-2"><a href="customisations-and-extensions.html#cb11-2" tabindex="-1"></a>  <span class="cf">if</span> <span class="op">(</span><span class="va">el</span><span class="op">.</span><span class="va">level</span> <span class="op">&lt;=</span> <span class="dv">1</span><span class="op">)</span> <span class="cf">then</span></span>
-<span id="cb11-3"><a href="customisations-and-extensions.html#cb11-3" tabindex="-1"></a>    <span class="fu">error</span><span class="op">(</span><span class="st">"I don't know how to decrease the level of h1"</span><span class="op">)</span></span>
+<span id="cb11-3"><a href="customisations-and-extensions.html#cb11-3" tabindex="-1"></a>    <span class="fu">error</span><span class="op">(</span><span class="st">&quot;I don&#39;t know how to decrease the level of h1&quot;</span><span class="op">)</span></span>
 <span id="cb11-4"><a href="customisations-and-extensions.html#cb11-4" tabindex="-1"></a>  <span class="cf">end</span></span>
 <span id="cb11-5"><a href="customisations-and-extensions.html#cb11-5" tabindex="-1"></a>  <span class="va">el</span><span class="op">.</span><span class="va">level</span> <span class="op">=</span> <span class="va">el</span><span class="op">.</span><span class="va">level</span> <span class="op">-</span> <span class="dv">1</span></span>
 <span id="cb11-6"><a href="customisations-and-extensions.html#cb11-6" tabindex="-1"></a>  <span class="cf">return</span> <span class="va">el</span></span>
 <span id="cb11-7"><a href="customisations-and-extensions.html#cb11-7" tabindex="-1"></a><span class="kw">end</span></span></code></pre></div>
 <p>In the YAML header of <strong>paper_to_include/my_paper.Rmd</strong>, use this filter:</p>
 <div class="sourceCode" id="cb12"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb12-1"><a href="customisations-and-extensions.html#cb12-1" tabindex="-1"></a><span class="pp">---</span></span>
-<span id="cb12-2"><a href="customisations-and-extensions.html#cb12-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"A fabulous article in a different folder"</span></span>
+<span id="cb12-2"><a href="customisations-and-extensions.html#cb12-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;A fabulous article in a different folder&quot;</span></span>
 <span id="cb12-3"><a href="customisations-and-extensions.html#cb12-3" tabindex="-1"></a><span class="fu">params</span><span class="kw">:</span></span>
-<span id="cb12-4"><a href="customisations-and-extensions.html#cb12-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
+<span id="cb12-4"><a href="customisations-and-extensions.html#cb12-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;&quot;</span></span>
 <span id="cb12-5"><a href="customisations-and-extensions.html#cb12-5" tabindex="-1"></a><span class="fu">output</span><span class="kw">:</span></span>
 <span id="cb12-6"><a href="customisations-and-extensions.html#cb12-6" tabindex="-1"></a><span class="at">  </span><span class="fu">pdf_document</span><span class="kw">:</span><span class="at"> </span></span>
-<span id="cb12-7"><a href="customisations-and-extensions.html#cb12-7" tabindex="-1"></a><span class="at">    </span><span class="fu">pandoc_args</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="st">"--lua-filter=reduce_header_level.lua"</span><span class="kw">]</span></span>
+<span id="cb12-7"><a href="customisations-and-extensions.html#cb12-7" tabindex="-1"></a><span class="at">    </span><span class="fu">pandoc_args</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="st">&quot;--lua-filter=reduce_header_level.lua&quot;</span><span class="kw">]</span></span>
 <span id="cb12-8"><a href="customisations-and-extensions.html#cb12-8" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div>
 <p>Now, your header levels will be correct both when you knit the paper on its own and when its included in your thesis.</p>
 <p>NOTE: There might be no need to use a lua filter to shift heading - it seems you could simply use <code>pandoc_args: ["--shift-heading-level-by=-1"]</code> (see <a href="https://pandoc.org/MANUAL.html#reader-options" class="uri">https://pandoc.org/MANUAL.html#reader-options</a>)</p>
 </div>
-<div id="step-4.-make-sure-figure-widths-are-correct" class="section level3" number="6.8.5">
-<h3>
-<span class="header-section-number">6.8.5</span> Step 4. Make sure figure widths are correct<a class="anchor" aria-label="anchor" href="#step-4.-make-sure-figure-widths-are-correct"><i class="fas fa-link"></i></a>
-</h3>
+<div id="step-4.-make-sure-figure-widths-are-correct" class="section level3 hasAnchor" number="6.8.5">
+<h3><span class="header-section-number">6.8.5</span> Step 4. Make sure figure widths are correct<a href="customisations-and-extensions.html#step-4.-make-sure-figure-widths-are-correct" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>It might be that your figure widths when knitting your paper on its own, and when including it in your thesis, need to be different.
 You can again use parameters to set figure widths.</p>
 <p>Imagine you want figure width to be 80% of the page width when knitting your paper on its own, but 100% in your thesis.
 In <strong>paper_to_include/my_paper.Rmd</strong>, first add a parameter we could call <code>out_width</code> and set it to the string “80%”:</p>
 <div class="sourceCode" id="cb13"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb13-1"><a href="customisations-and-extensions.html#cb13-1" tabindex="-1"></a><span class="pp">---</span></span>
-<span id="cb13-2"><a href="customisations-and-extensions.html#cb13-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"A fabulous article in a different folder"</span></span>
+<span id="cb13-2"><a href="customisations-and-extensions.html#cb13-2" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;A fabulous article in a different folder&quot;</span></span>
 <span id="cb13-3"><a href="customisations-and-extensions.html#cb13-3" tabindex="-1"></a><span class="fu">params</span><span class="kw">:</span></span>
-<span id="cb13-4"><a href="customisations-and-extensions.html#cb13-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">""</span></span>
-<span id="cb13-5"><a href="customisations-and-extensions.html#cb13-5" tabindex="-1"></a><span class="at">  </span><span class="fu">out_width</span><span class="kw">:</span><span class="at"> </span><span class="st">"80%"</span></span>
+<span id="cb13-4"><a href="customisations-and-extensions.html#cb13-4" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;&quot;</span></span>
+<span id="cb13-5"><a href="customisations-and-extensions.html#cb13-5" tabindex="-1"></a><span class="at">  </span><span class="fu">out_width</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;80%&quot;</span></span>
 <span id="cb13-6"><a href="customisations-and-extensions.html#cb13-6" tabindex="-1"></a><span class="fu">output</span><span class="kw">:</span></span>
 <span id="cb13-7"><a href="customisations-and-extensions.html#cb13-7" tabindex="-1"></a><span class="at">  </span><span class="fu">pdf_document</span><span class="kw">:</span><span class="at"> </span></span>
-<span id="cb13-8"><a href="customisations-and-extensions.html#cb13-8" tabindex="-1"></a><span class="at">    </span><span class="fu">pandoc_args</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="st">"--lua-filter=reduce_header_level.lua"</span><span class="kw">]</span></span>
+<span id="cb13-8"><a href="customisations-and-extensions.html#cb13-8" tabindex="-1"></a><span class="at">    </span><span class="fu">pandoc_args</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="st">&quot;--lua-filter=reduce_header_level.lua&quot;</span><span class="kw">]</span></span>
 <span id="cb13-9"><a href="customisations-and-extensions.html#cb13-9" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div>
 <p>Then, make sure use that parameter to set the output width when you include figures in <strong>paper_to_include/my_paper.Rmd</strong>:</p>
-<div class="sourceCode" id="cb14"><pre class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb14-1"><a href="customisations-and-extensions.html#cb14-1" tabindex="-1"></a><span class="in">```{r, out.width=params$out_width, fig.cap="A very funny cat"}</span></span>
-<span id="cb14-2"><a href="customisations-and-extensions.html#cb14-2" tabindex="-1"></a><span class="in">include_graphics(str_c(params$other_path, "figures/cat.jpg"))</span></span>
+<div class="sourceCode" id="cb14"><pre class="sourceCode markdown"><code class="sourceCode markdown"><span id="cb14-1"><a href="customisations-and-extensions.html#cb14-1" tabindex="-1"></a><span class="in">```{r, out.width=params$out_width, fig.cap=&quot;A very funny cat&quot;}</span></span>
+<span id="cb14-2"><a href="customisations-and-extensions.html#cb14-2" tabindex="-1"></a><span class="in">include_graphics(str_c(params$other_path, &quot;figures/cat.jpg&quot;))</span></span>
 <span id="cb14-3"><a href="customisations-and-extensions.html#cb14-3" tabindex="-1"></a><span class="in">```</span></span></code></pre></div>
 <p>Finally, create the parameter <code>out_width</code> in your thesis’ <strong>index.Rmd</strong> file:</p>
 <div class="sourceCode" id="cb15"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb15-1"><a href="customisations-and-extensions.html#cb15-1" tabindex="-1"></a><span class="fu">params</span><span class="kw">:</span></span>
-<span id="cb15-2"><a href="customisations-and-extensions.html#cb15-2" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">"../paper_to_include/"</span></span>
-<span id="cb15-3"><a href="customisations-and-extensions.html#cb15-3" tabindex="-1"></a><span class="at">  </span><span class="fu">out_width</span><span class="kw">:</span><span class="at"> </span><span class="st">"80%"</span></span></code></pre></div>
+<span id="cb15-2"><a href="customisations-and-extensions.html#cb15-2" tabindex="-1"></a><span class="at">  </span><span class="fu">other_path</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;../paper_to_include/&quot;</span></span>
+<span id="cb15-3"><a href="customisations-and-extensions.html#cb15-3" tabindex="-1"></a><span class="at">  </span><span class="fu">out_width</span><span class="kw">:</span><span class="at"> </span><span class="st">&quot;80%&quot;</span></span></code></pre></div>
 <p>Now, the output width of your figure will be 80% when knitting your paper on its own, and 100% when knitting it as child document of your thesis.</p>
 </div>
 </div>
-<div id="customizing-referencing" class="section level2" number="6.9">
-<h2>
-<span class="header-section-number">6.9</span> Customizing referencing<a class="anchor" aria-label="anchor" href="#customizing-referencing"><i class="fas fa-link"></i></a>
-</h2>
-<div id="using-a-.csl-file-with-pandoc-instead-of-biblatex" class="section level3" number="6.9.1">
-<h3>
-<span class="header-section-number">6.9.1</span> Using a .csl file with pandoc instead of biblatex<a class="anchor" aria-label="anchor" href="#using-a-.csl-file-with-pandoc-instead-of-biblatex"><i class="fas fa-link"></i></a>
-</h3>
+<div id="customizing-referencing" class="section level2 hasAnchor" number="6.9">
+<h2><span class="header-section-number">6.9</span> Customizing referencing<a href="customisations-and-extensions.html#customizing-referencing" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="using-a-.csl-file-with-pandoc-instead-of-biblatex" class="section level3 hasAnchor" number="6.9.1">
+<h3><span class="header-section-number">6.9.1</span> Using a .csl file with pandoc instead of biblatex<a href="customisations-and-extensions.html#using-a-.csl-file-with-pandoc-instead-of-biblatex" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>The <code>oxforddown</code> package uses biblatex in LaTeX for referencing.
 It is also possible to use pandoc for referencing by providing a .csl file in the YAML header of <strong>index.Rmd</strong> (likely requiring commenting out the biblatex code in <strong>templates/template.tex</strong>).
 This may be helpful for those who have a .csl file describing the referencing format for a particular journal.
 However, note that this approach does not support chapter bibliographies (see Section <a href="customisations-and-extensions.html#biblatex-custom">6.9.2</a>).</p>
 <div class="sourceCode" id="cb16"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb16-1"><a href="customisations-and-extensions.html#cb16-1" tabindex="-1"></a><span class="fu">csl</span><span class="kw">:</span><span class="at"> ecology.csl</span></span></code></pre></div>
 </div>
-<div id="biblatex-custom" class="section level3" number="6.9.2">
-<h3>
-<span class="header-section-number">6.9.2</span> Customizing biblatex and adding chapter bibliographies<a class="anchor" aria-label="anchor" href="#biblatex-custom"><i class="fas fa-link"></i></a>
-</h3>
+<div id="biblatex-custom" class="section level3 hasAnchor" number="6.9.2">
+<h3><span class="header-section-number">6.9.2</span> Customizing biblatex and adding chapter bibliographies<a href="customisations-and-extensions.html#biblatex-custom" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>This section provides one example of customizing biblatex. Much of this code was combined from searches on Stack Exchange and other sources (e.g. <a href="https://tex.stackexchange.com/questions/10682/suppress-in-biblatex">here</a>).</p>
 <p>In <strong>templates/template.tex</strong>, one can replace the existing biblatex calls with the following to achieve referencing that looks like this:</p>
 <p>(Charmantier and Gienapp 2014)</p>
@@ -421,11 +661,11 @@ However, note that this approach does not support chapter bibliographies (see Se
 <span id="cb17-43"><a href="customisations-and-extensions.html#cb17-43" tabindex="-1"></a>    {<span class="fu">\MakeSentenceCase</span>{#1}}}</span>
 <span id="cb17-44"><a href="customisations-and-extensions.html#cb17-44" tabindex="-1"></a>    </span>
 <span id="cb17-45"><a href="customisations-and-extensions.html#cb17-45" tabindex="-1"></a><span class="co">% \renewbibmacro{in:}{}</span></span>
-<span id="cb17-46"><a href="customisations-and-extensions.html#cb17-46" tabindex="-1"></a><span class="co">% suppress "in" for articles</span></span>
+<span id="cb17-46"><a href="customisations-and-extensions.html#cb17-46" tabindex="-1"></a><span class="co">% suppress &quot;in&quot; for articles</span></span>
 <span id="cb17-47"><a href="customisations-and-extensions.html#cb17-47" tabindex="-1"></a><span class="co">% </span></span>
 <span id="cb17-48"><a href="customisations-and-extensions.html#cb17-48" tabindex="-1"></a><span class="fu">\renewbibmacro</span>{in:}{<span class="co">%</span></span>
 <span id="cb17-49"><a href="customisations-and-extensions.html#cb17-49" tabindex="-1"></a>  <span class="fu">\ifentrytype</span>{article}{}{<span class="fu">\printtext</span>{<span class="fu">\bibstring</span>{in}<span class="fu">\intitlepunct</span>}}}</span>
-<span id="cb17-50"><a href="customisations-and-extensions.html#cb17-50" tabindex="-1"></a><span class="co">%-- no "quotes" around titles of chapters/article titles</span></span>
+<span id="cb17-50"><a href="customisations-and-extensions.html#cb17-50" tabindex="-1"></a><span class="co">%-- no &quot;quotes&quot; around titles of chapters/article titles</span></span>
 <span id="cb17-51"><a href="customisations-and-extensions.html#cb17-51" tabindex="-1"></a><span class="fu">\DeclareFieldFormat</span>[article, inbook, incollection, inproceedings, misc, thesis, unpublished]</span>
 <span id="cb17-52"><a href="customisations-and-extensions.html#cb17-52" tabindex="-1"></a>{title}{#1}</span>
 <span id="cb17-53"><a href="customisations-and-extensions.html#cb17-53" tabindex="-1"></a><span class="co">%-- no punctuation after volume</span></span>
@@ -434,10 +674,10 @@ However, note that this approach does not support chapter bibliographies (see Se
 <span id="cb17-56"><a href="customisations-and-extensions.html#cb17-56" tabindex="-1"></a><span class="co">%-- puts number/issue between brackets</span></span>
 <span id="cb17-57"><a href="customisations-and-extensions.html#cb17-57" tabindex="-1"></a><span class="fu">\DeclareFieldFormat</span>[article, inbook, incollection, inproceedings, misc, thesis, unpublished]</span>
 <span id="cb17-58"><a href="customisations-and-extensions.html#cb17-58" tabindex="-1"></a>{number}{<span class="fu">\mkbibparens</span>{#1}} </span>
-<span id="cb17-59"><a href="customisations-and-extensions.html#cb17-59" tabindex="-1"></a><span class="co">%-- and then for articles directly the pages w/o any "pages" or "pp." </span></span>
+<span id="cb17-59"><a href="customisations-and-extensions.html#cb17-59" tabindex="-1"></a><span class="co">%-- and then for articles directly the pages w/o any &quot;pages&quot; or &quot;pp.&quot; </span></span>
 <span id="cb17-60"><a href="customisations-and-extensions.html#cb17-60" tabindex="-1"></a><span class="fu">\DeclareFieldFormat</span>[article]</span>
 <span id="cb17-61"><a href="customisations-and-extensions.html#cb17-61" tabindex="-1"></a>{pages}{#1}</span>
-<span id="cb17-62"><a href="customisations-and-extensions.html#cb17-62" tabindex="-1"></a><span class="co">%-- for some types replace "pages" by "p."</span></span>
+<span id="cb17-62"><a href="customisations-and-extensions.html#cb17-62" tabindex="-1"></a><span class="co">%-- for some types replace &quot;pages&quot; by &quot;p.&quot;</span></span>
 <span id="cb17-63"><a href="customisations-and-extensions.html#cb17-63" tabindex="-1"></a><span class="fu">\DeclareFieldFormat</span>[inproceedings, incollection, inbook]</span>
 <span id="cb17-64"><a href="customisations-and-extensions.html#cb17-64" tabindex="-1"></a>{pages}{p. #1}</span>
 <span id="cb17-65"><a href="customisations-and-extensions.html#cb17-65" tabindex="-1"></a><span class="co">%-- format 16(4):224--225 for articles</span></span>
@@ -450,120 +690,100 @@ However, note that this approach does not support chapter bibliographies (see Se
 <div class="sourceCode" id="cb18"><pre class="sourceCode latex"><code class="sourceCode latex"><span id="cb18-1"><a href="customisations-and-extensions.html#cb18-1" tabindex="-1"></a><span class="fu">\printbibliography</span>[segment=<span class="fu">\therefsection</span>,heading=subbibliography]</span></code></pre></div>
 </div>
 </div>
-<div id="customizing-the-page-headers-and-footers-pdf" class="section level2" number="6.10">
-<h2>
-<span class="header-section-number">6.10</span> Customizing the page headers and footers (PDF)<a class="anchor" aria-label="anchor" href="#customizing-the-page-headers-and-footers-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="customizing-the-page-headers-and-footers-pdf" class="section level2 hasAnchor" number="6.10">
+<h2><span class="header-section-number">6.10</span> Customizing the page headers and footers (PDF)<a href="customisations-and-extensions.html#customizing-the-page-headers-and-footers-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>This can now be done directly in <strong>index.Rmd</strong>’s YAML header.
 If you are a LaTeX expert and need further customisation that what’s currently provided, you can tweak the relevant sections of <strong>templates/template.tex</strong> - the relevant code is beneath the line that begins <code>\usepackage{fancyhdr}</code>.</p>
 </div>
-<div id="diving-in-to-the-oxthesis-latex-template-pdf" class="section level2" number="6.11">
-<h2>
-<span class="header-section-number">6.11</span> Diving in to the OxThesis LaTeX template (PDF)<a class="anchor" aria-label="anchor" href="#diving-in-to-the-oxthesis-latex-template-pdf"><i class="fas fa-link"></i></a>
-</h2>
+<div id="diving-in-to-the-oxthesis-latex-template-pdf" class="section level2 hasAnchor" number="6.11">
+<h2><span class="header-section-number">6.11</span> Diving in to the OxThesis LaTeX template (PDF)<a href="customisations-and-extensions.html#diving-in-to-the-oxthesis-latex-template-pdf" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>For LaTeX minded people, you can read through <strong>templates/template.tex</strong> to see which additional customisation options are available as well as <strong>templates/ociamthesis.cls</strong> which supplies the base class.
 For example, <strong>template.tex</strong> provides an option for master’s degree submissions, which changes identifying information to candidate number and includes a word count.
 At the time of writing, you must set this directly in <strong>template.tex</strong> rather than from the YAML header in <strong>index.Rmd</strong>.</p>
 </div>
-<div id="customising-to-a-different-university" class="section level2" number="6.12">
-<h2>
-<span class="header-section-number">6.12</span> Customising to a different university<a class="anchor" aria-label="anchor" href="#customising-to-a-different-university"><i class="fas fa-link"></i></a>
-</h2>
-<div id="the-minimal-route" class="section level3" number="6.12.1">
-<h3>
-<span class="header-section-number">6.12.1</span> The minimal route<a class="anchor" aria-label="anchor" href="#the-minimal-route"><i class="fas fa-link"></i></a>
-</h3>
+<div id="customising-to-a-different-university" class="section level2 hasAnchor" number="6.12">
+<h2><span class="header-section-number">6.12</span> Customising to a different university<a href="customisations-and-extensions.html#customising-to-a-different-university" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="the-minimal-route" class="section level3 hasAnchor" number="6.12.1">
+<h3><span class="header-section-number">6.12.1</span> The minimal route<a href="customisations-and-extensions.html#the-minimal-route" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>If the front matter in the OxThesis LaTeX template is suitable to your university, customising <code>oxforddown</code> to your needs could be as simple as putting the name of your institution and the path to your university’s logo in <strong>index.Rmd</strong>:</p>
 <div class="sourceCode" id="cb19"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb19-1"><a href="customisations-and-extensions.html#cb19-1" tabindex="-1"></a><span class="fu">university</span><span class="kw">:</span><span class="at"> University of You</span></span>
 <span id="cb19-2"><a href="customisations-and-extensions.html#cb19-2" tabindex="-1"></a><span class="fu">university-logo</span><span class="kw">:</span><span class="at"> figures/your-logo-here.pdf</span></span></code></pre></div>
 </div>
-<div id="replacing-the-entire-title-page-with-your-required-content" class="section level3" number="6.12.2">
-<h3>
-<span class="header-section-number">6.12.2</span> Replacing the entire title page with your required content<a class="anchor" aria-label="anchor" href="#replacing-the-entire-title-page-with-your-required-content"><i class="fas fa-link"></i></a>
-</h3>
+<div id="replacing-the-entire-title-page-with-your-required-content" class="section level3 hasAnchor" number="6.12.2">
+<h3><span class="header-section-number">6.12.2</span> Replacing the entire title page with your required content<a href="customisations-and-extensions.html#replacing-the-entire-title-page-with-your-required-content" class="anchor-section" aria-label="Anchor link to header"></a></h3>
 <p>If you have a <strong>.tex</strong> file with some required front matter from your university that you want to replace the OxThesis template’s title page altogether, you can provide a filepath to this file in <strong>index.Rmd</strong>.
 <code>oxforddown</code>’s sample content includes and example of this — if you use the YAML below, your front matter will look like this:</p>
 <div class="sourceCode" id="cb20"><pre class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb20-1"><a href="customisations-and-extensions.html#cb20-1" tabindex="-1"></a><span class="fu">alternative-title-page</span><span class="kw">:</span><span class="at"> front-and-back-matter/alt-title-page-example.tex</span></span></code></pre></div>
-<embed src="figures/sample-content/alt_frontmatter_example/alt-frontmatter-example.pdf" width="100%" height="1000px" type="application/pdf"></embed><p>
+<embed src="figures/sample-content/alt_frontmatter_example/alt-frontmatter-example.pdf" width="100%" height="1000px" type="application/pdf" />
+<p>
 </p>
 
 </div>
 </div>
 </div>
-  <div class="chapter-nav">
-<div class="prev"><a href="audici%C3%B3ns.html">Audicións</a></div>
-<div class="next"><a href="troubleshooting.html"><span class="header-section-number">7</span> Troubleshooting</a></div>
-</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
-    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
-      <ul class="nav navbar-nav">
-<li><a class="nav-link" href="#customisations-and-extensions"><span class="header-section-number">6</span> Customisations and extensions</a></li>
-<li>
-<a class="nav-link" href="#front-matter"><span class="header-section-number">6.1</span> Front matter</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#shorten-captions-shown-in-the-list-of-figures-pdf"><span class="header-section-number">6.1.1</span> Shorten captions shown in the list of figures (PDF)</a></li>
-<li><a class="nav-link" href="#shorten-captions-shown-in-the-list-of-tables-pdf"><span class="header-section-number">6.1.2</span> Shorten captions shown in the list of tables (PDF)</a></li>
-</ul>
-</li>
-<li><a class="nav-link" href="#shorten-running-header-pdf"><span class="header-section-number">6.2</span> Shorten running header (PDF)</a></li>
-<li><a class="nav-link" href="#unnumbered-chapters"><span class="header-section-number">6.3</span> Unnumbered chapters</a></li>
-<li><a class="nav-link" href="#beginning-chapters-with-quotes-pdf"><span class="header-section-number">6.4</span> Beginning chapters with quotes (PDF)</a></li>
-<li>
-<a class="nav-link" href="#highlighting-corrections-html-pdf"><span class="header-section-number">6.5</span> Highlighting corrections (HTML &amp; PDF)</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#short-inline-corrections"><span class="header-section-number">6.5.1</span> Short, inline corrections</a></li>
-<li><a class="nav-link" href="#blocks-of-added-or-changed-material"><span class="header-section-number">6.5.2</span> Blocks of added or changed material</a></li>
-<li><a class="nav-link" href="#stopping-corrections-from-being-highlighted"><span class="header-section-number">6.5.3</span> Stopping corrections from being highlighted</a></li>
-</ul>
-</li>
-<li><a class="nav-link" href="#apply-custom-font-color-and-highlighting-to-text-html-pdf"><span class="header-section-number">6.6</span> Apply custom font color and highlighting to text (HTML &amp; PDF)</a></li>
-<li><a class="nav-link" href="#embed-pdf"><span class="header-section-number">6.7</span> Including another paper in your thesis - embed a PDF document</a></li>
-<li>
-<a class="nav-link" href="#embed-rmd"><span class="header-section-number">6.8</span> Including another paper in your thesis - R Markdown child document</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#an-example-paper-in-another-folder"><span class="header-section-number">6.8.1</span> An example paper in another folder</a></li>
-<li><a class="nav-link" href="#step-1-include-paper-as-a-child-document"><span class="header-section-number">6.8.2</span> Step 1: Include paper as a child document</a></li>
-<li><a class="nav-link" href="#step-2-make-file-paths-compatible"><span class="header-section-number">6.8.3</span> Step 2: Make file paths compatible</a></li>
-<li><a class="nav-link" href="#step-3-make-sure-header-levels-are-correct"><span class="header-section-number">6.8.4</span> Step 3: Make sure header levels are correct</a></li>
-<li><a class="nav-link" href="#step-4.-make-sure-figure-widths-are-correct"><span class="header-section-number">6.8.5</span> Step 4. Make sure figure widths are correct</a></li>
-</ul>
-</li>
-<li>
-<a class="nav-link" href="#customizing-referencing"><span class="header-section-number">6.9</span> Customizing referencing</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#using-a-.csl-file-with-pandoc-instead-of-biblatex"><span class="header-section-number">6.9.1</span> Using a .csl file with pandoc instead of biblatex</a></li>
-<li><a class="nav-link" href="#biblatex-custom"><span class="header-section-number">6.9.2</span> Customizing biblatex and adding chapter bibliographies</a></li>
-</ul>
-</li>
-<li><a class="nav-link" href="#customizing-the-page-headers-and-footers-pdf"><span class="header-section-number">6.10</span> Customizing the page headers and footers (PDF)</a></li>
-<li><a class="nav-link" href="#diving-in-to-the-oxthesis-latex-template-pdf"><span class="header-section-number">6.11</span> Diving in to the OxThesis LaTeX template (PDF)</a></li>
-<li>
-<a class="nav-link" href="#customising-to-a-different-university"><span class="header-section-number">6.12</span> Customising to a different university</a><ul class="nav navbar-nav">
-<li><a class="nav-link" href="#the-minimal-route"><span class="header-section-number">6.12.1</span> The minimal route</a></li>
-<li><a class="nav-link" href="#replacing-the-entire-title-page-with-your-required-content"><span class="header-section-number">6.12.2</span> Replacing the entire title page with your required content</a></li>
-</ul>
-</li>
-</ul>
-
-      <div class="book-extra">
-        <ul class="list-unstyled">
-<li><a id="book-source" href="https://github.com/ulyngs/oxforddown/blob/master/05-unidade-05.Rmd">View source <i class="fab fa-github"></i></a></li>
-          <li><a id="book-edit" href="https://github.com/ulyngs/oxforddown/edit/master/05-unidade-05.Rmd">Edit this page <i class="fab fa-github"></i></a></li>
-        </ul>
+<h3>References</h3>
+<div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-Shea2014" class="csl-entry">
+Shea, Nicholas, Annika Boldt, Dan Bang, Nick Yeung, Cecilia Heyes, and Chris D Frith. 2014. <span>“<span class="nocase">Supra-personal cognitive control and metacognition</span>.”</span> <em>Trends in Cognitive Sciences</em> 18 (4): 186–93. <a href="https://doi.org/10.1016/j.tics.2014.01.006">https://doi.org/10.1016/j.tics.2014.01.006</a>.
 </div>
-    </nav>
 </div>
+            </section>
 
-</div>
-</div> <!-- .container -->
-
-<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
-
-  <div class="col-12 col-md-6 mt-3">
-    <p>"<strong><p>Historia da música I<br>
-Apuntamentos e actividades</p></strong>" was written by Conservatorio de Viveiro. </p>
+          </div>
+        </div>
+      </div>
+<a href="audicións.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="troubleshooting.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
   </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": false,
+"twitter": false,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"whatsapp": false,
+"all": false
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/robertopradomartinez/Historia-I/tree/master/05-unidade-05.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["_main.pdf"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
 
-  <div class="col-12 col-md-6 mt-3">
-    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
-  </div>
-
-</div></div>
-</footer>
 </body>
+
 </html>

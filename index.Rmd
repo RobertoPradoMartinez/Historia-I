@@ -7,7 +7,7 @@
 # The format options are: 'pdf', 'bs4', 'gitbook', 'word'
 # E.g. you can build both pdf and html with 'thesis_formats <- c("pdf", "bs4")'
 knit: (function(input, ...) {
-    thesis_formats <- c("bs4");
+    thesis_formats <- c("gitbook", "pdf");
     source("scripts_and_filters/knit-functions.R");
     knit_thesis(input, thesis_formats, ...)
   })
@@ -20,12 +20,12 @@ title: |
   Apuntamentos e actividades
 author: "Conservatorio de Viveiro"
 college: https://historia1.netlify.app
-university: Conservatorios Profesionais de Música
+university: Conservatorio Profesional de Música de Viveiro
 university-logo: templates/beltcrest.pdf
 university-logo-width: 5cm
-submitted-text: Apuntes e materiais didácticos
+submitted-text: Volume I
 degree: 4º Curso de Ensinanzas Profesionais de Música
-degreedate: 2021 - 2022
+degreedate: 2023 - 2024
 abstract: |
   `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
 acknowledgements: |
