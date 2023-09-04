@@ -16,15 +16,15 @@ knit: (function(input, ...) {
 ## thesis metadata ##
 #####################
 title: |
-  Historia I \
-  Apuntes e materiais didácticos
-author: "Roberto Prado Martínez"
-college: https://aulademusica.netlify.app
+  Historia da música I \
+  Apuntamentos e actividades
+author: "Conservatorio de Viveiro"
+college: https://historia1.netlify.app
 university: Conservatorios Profesionais de Música
 university-logo: templates/beltcrest.pdf
 university-logo-width: 5cm
 submitted-text: Apuntes e materiais didácticos
-degree: Ensinanzas Profesionais de Música
+degree: 4º Curso de Ensinanzas Profesionais de Música
 degreedate: 2021 - 2022
 abstract: |
   `r paste(readLines("front-and-back-matter/_abstract.Rmd"), collapse = '\n  ')`
